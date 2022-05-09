@@ -12,7 +12,7 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.03.37.png>)
 
-## Bridge $DOT
+## Bridge Tokens
 
 {% embed url="https://youtu.be/7BlQVdjq59k" %}
 
