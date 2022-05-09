@@ -30,6 +30,28 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.28.32.png>)
 
+## Mint aUSD
+
+**Step 1**: On the home page, select **Mint aUSD** either on the left menu or in the corresponding block. Hit **Create Vault** button or scroll down and select **Get Started**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.29.46.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.37.50.png>) ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.38.01.png>)
+
+**Step 2**: Select your desired collateral type and hit Next.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.45.45.png>)
+
+**Step 3**: Enter the amount you want to deposit and the amount of aUSD you would like to mint. Note that Acala sets a minimum amount of aUSD required to mint for each of the collateral type. Hit **Next**.
+
+![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.05\_PM.png)
+
+**Step 3**: Double check your transaction and click on **Confirm**. Then in SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.17\_PM.png)
+
+![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.29\_PM.png)
+
 ## Swap Tokens
 
 {% embed url="https://youtu.be/ivJ2KoiFgh8" %}
@@ -116,24 +138,6 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.36.21.png>)
 
-## Mint aUSD
 
-**Step 1**: On the home page, select **Mint aUSD** either on the left menu or in the corresponding block. Hit **Create Vault** button or scroll down and select **Get Started**.
-
-![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.29.46.png>)
-
-![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.37.50.png>) ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.38.01.png>)
-
-**Step 2**: Select your desired collateral type and hit Next.
-
-![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.45.45.png>)
-
-**Step 3**: Enter the amount you want to deposit and the amount of aUSD you would like to mint. Note that Acala sets a minimum amount of aUSD required to mint for each of the collateral type. Hit **Next**.
-
-![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.05\_PM.png)
-
-**Step 3**: Double check your transaction and click on **Confirm**. Then in SubWallet's pop-up window, key in your password and hit **Approve**.
-
-![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.17\_PM.png)
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.29\_PM.png)
