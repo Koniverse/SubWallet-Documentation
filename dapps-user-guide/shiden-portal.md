@@ -1,20 +1,12 @@
 # Shiden Portal
 
 {% hint style="info" %}
-For instructions on creating an **Shiden** account with SubWallet, please visit&#x20;
+For instructions on creating an **Shiden** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
-
-{% content-ref url="../user-guide/create-an-account.md" %}
-[create-an-account.md](../user-guide/create-an-account.md)
-{% endcontent-ref %}
 
 {% hint style="info" %}
-If you want to import your accounts from Metamask into SubWallet, go to
+If you want to import your accounts from Metamask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
-
-{% content-ref url="../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md" %}
-[import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md)
-{% endcontent-ref %}
 
 ## Connect SubWallet to Shiden Portal
 
