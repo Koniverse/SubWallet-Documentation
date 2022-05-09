@@ -32,4 +32,4 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ## Mint aUSD
 
-**Step 1**: On the home page, select **Mint aUSDn aUSDMint aUSDdge** either on the left menu or in the corresponding block.
+**Step 1**: On the home page, select **Mint aUSD** either on the left menu or in the corresponding block.
