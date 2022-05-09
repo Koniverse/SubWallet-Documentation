@@ -1,8 +1,12 @@
-# How to integrate SubWallet and other Dotsama Wallet to DApp
+---
+description: Or how to integrate SubWallet and other DotSama wallets into your DApps
+---
+
+# Integration Instructions
 
 ## Overview
 
-SubWallet, Polkadot{.js} and Talisman extension allow DApp to connect with them by public their interaction in object `injectedWeb3` of window browser.
+SubWallet, Polkadot{.js} and Talisman extensions allow DApp to connect with them by publicizing their interaction in object `injectedWeb3` of window browser.
 
 * SubWallet (public with properties `subwallet-js`)
 * Polkadot{.js} (public with properties `polkadot-js`)
@@ -10,7 +14,7 @@ SubWallet, Polkadot{.js} and Talisman extension allow DApp to connect with them 
 
 ![](../.gitbook/assets/SubConnect.png)
 
-You can open `injectedWeb3` object in chrome devtools
+You can open `injectedWeb3` object in Chrome devtools.
 
 ![](../.gitbook/assets/InjectWeb3DevTools.png)
 

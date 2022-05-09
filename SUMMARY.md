@@ -38,7 +38,7 @@
 
 * [Supported Network](integration/supported-network.md)
 * [DApp Integrations](integration/dapp-integrations.md)
-* [How to integrate SubWallet and other Dotsama Wallet to DApp](integration/how-to-integrate-subwallet-and-other-dotsama-wallet-to-dapp.md)
+* [Integration Instructions](integration/integration-instructions.md)
 
 ## Maintain
 
