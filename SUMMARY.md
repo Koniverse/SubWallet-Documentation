@@ -20,6 +20,7 @@
 ## DAPPS USER GUIDE
 
 * [Acala](dapps-user-guide/acala.md)
+* [Karura](dapps-user-guide/karura.md)
 * [Astar Portal](dapps-user-guide/astar-portal.md)
 * [Shiden Portal](dapps-user-guide/shiden-portal.md)
 * [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
