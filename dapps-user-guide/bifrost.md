@@ -18,6 +18,24 @@ Log into [Bifrost Portal](https://bifrost.app). The browser will automatically p
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 15.27.27 (1).png>)
 
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.53.57.png>)
+
+**Step 2**: Scroll down to select the project you want to contribute to. Hit **Contribute**. If you want to refer your friend and receive 50% additional bonus, click on the **share icon** next to each project to get the share link.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.59.33.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.00.36.png>)
+
+**Step 3**: Enter the amount of $DOT/$KSM you want to contribute and key in the referral address if available. Hit **Confirm**. Review your transaction and hit **Confirm** again.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.04.08.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.06.10.png>)
+
+**Step 4**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.09.20.png>)
+
 ## Swap Tokens
 
 **Step 1**: On the left menu column, choose **Swap**. Select the token you want to pay and receive respectively, then enter the amount in either box
