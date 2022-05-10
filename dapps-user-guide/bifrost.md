@@ -38,21 +38,93 @@ Log into [Bifrost Portal](https://bifrost.app). The browser will automatically p
 
 ## Manage Staking
 
-**Step 1**: On the left menu column, choose **vStaking**. Select the type you want to stake. Note that you need to connect your MetaMask wallet if you choose vETH staking.
+### vStaking&#x20;
+
+**Step 1**: On the left menu column, choose **vStaking**. Select **vKSM**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.26.47.png>)
 
-**Step 2**: Slide to choose the amount of $KSM you want to stake. If you don't have $KSM on Bifrost, you can choose to **Cross in** from the Relay Chain. Hit **Confirm**, review your transaction and hit **Confirm** again. In SubWallet's pop-up window, key in your password and hit **Approve**.
+**Step 2**: Slide to choose the amount of $KSM you want to stake. If you don't have enough $KSM on Bifrost, you can choose to **Cross in** from the Relay Chain. Note that the minimum amount required to mint is 1 KSM.&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.16.39.png>)
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.08.47.png>)
 
-![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.16.58.png>)
+Step 3: Hit **Mint**, then click on **Confirm**.
 
-![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.17.13.png>)
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.25.40.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.31.26.png>)
+
+**Step 4**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.42.29.png>)
+
+### Collateral Staking
+
+**Step 1**: On the left menu column, select **Collator**. Scroll down to see the list of collators and choose one that you wish to delegate to. Hit **Delegate**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.43.20.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.45.56.png>)
+
+**Step 2**: Enter the amount you want to delegate, then hit **Delegate**. Note that you must delegate at least 50 BNC. Review your transaction and select **Confirm**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.58.42.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.58.51.png>)
+
+**Step 3**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 16.01.25.png>)
+
+## Manage Liquidity
+
+### Add Liquidity
+
+**Step 1**: On the left menu column, choose **Farm**. If you haven't got any LP token, hover over the one you would like to get and hit **Get LP**. You will be taken to Zenlink Portal to add liquidity.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.51.16.png>)
+
+**Step 2**: Enter the amount of each token then hit **Supply**. Review your transaction, click on **Confirm**, and in SubWallet's pop-up window, key in your password and hit **Approve**. (Zenlink will ask you to agree to their terms and conditions if you haven't done so already. Repeat step 2 after hitting **Accept**.)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.02.33.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.02.44.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.03.03.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.03.52.png>)
+
+**Step 3**: Go back to Bifrost portal and hit **Deposit** under the LP that you have just got. Enter the amount you wish and click on **Deposit** again. Review your transaction and hit **Confirm**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.11.46.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.13.58.png>)
+
+**Step 4**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.14.42.png>)
+
+### Withdraw Liquidity
+
+**Step 1**: On the left menu column, choose **Farm**. Under the LP token that you have deposited, click on **Manage**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.29.46.png>)
+
+**Step 2**: Choose **Withdraw** on the toolbar. Enter the amount and hit **Withdraw**. Review your transaction and select **Confirm**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.31.33.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.32.42.png>)
+
+**Step 3**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 15.33.58.png>)
+
+## Bridge Tokens
 
 ## Swap Tokens
 
-**Step 1**: On the left menu column, choose **Swap**. Select the token you want to pay and receive respectively, then enter the amount in either box.
+**Step 1**: On the left menu clumn, choose **Swap**. Select the token you want to pay and receive respectively, then enter the amount in either box.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 11.57.30.png>)
 
