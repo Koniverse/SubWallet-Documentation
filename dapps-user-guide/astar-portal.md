@@ -78,4 +78,10 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.38.45.png>)
 
-Step 3: Choose the address f
+**Step 3**: Choose your desired address from the drop-down list and enter the amount you want to stake. Hit **Stake**.&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.39.41.png>)
+
+**Step 4**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.43.21.png>)
