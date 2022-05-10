@@ -1,5 +1,7 @@
 # Astar Portal
 
+## Connect SubWallet to Astar Portal
+
 {% hint style="info" %}
 For instructions on creating an **Astar** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")&#x20;
 {% endhint %}
@@ -7,8 +9,6 @@ For instructions on creating an **Astar** account with SubWallet, please visit [
 {% hint style="info" %}
 If you want to import your accounts from Metamask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
-
-## Connect SubWallet to Astar Portal
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PL3EsLs4OsfNVypShzCd2VveVEuim57i4N&v=945MTLqjKMY" %}
 

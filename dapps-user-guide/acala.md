@@ -1,10 +1,10 @@
 # Acala
 
+## Connect SubWallet to Acala Portal
+
 {% hint style="info" %}
 For instructions on creating an **Acala** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
-
-## Connect SubWallet to Acala Portal
 
 Log into [Acala Portal](https://apps.acala.network). The browser will automatically prompt you to choose wallets. Select **SubWallet**, then select the account(s) you want to connect and hit **Confirm**.
 
@@ -104,7 +104,7 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 15.37.59.png>)
 
-## Manage&#x20;
+## Manage Staking
 
 ### LP Staking
 

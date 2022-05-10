@@ -27,6 +27,7 @@
 * [Subsocial](dapps-user-guide/subsocial.md)
 * [Phala Network](dapps-user-guide/phala-network.md)
 * [Bifrost](dapps-user-guide/bifrost.md)
+* [KodaDot](dapps-user-guide/kodadot.md)
 
 ## Privacy & security
 

@@ -36,9 +36,23 @@ Log into [Bifrost Portal](https://bifrost.app). The browser will automatically p
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.09.20.png>)
 
+## Manage Staking
+
+**Step 1**: On the left menu column, choose **vStaking**. Select the type you want to stake. Note that you need to connect your MetaMask wallet if you choose vETH staking.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.26.47.png>)
+
+**Step 2**: Slide to choose the amount of $KSM you want to stake. If you don't have $KSM on Bifrost, you can choose to **Cross in** from the Relay Chain. Hit **Confirm**, review your transaction and hit **Confirm** again. In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.16.39.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.16.58.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.17.13.png>)
+
 ## Swap Tokens
 
-**Step 1**: On the left menu column, choose **Swap**. Select the token you want to pay and receive respectively, then enter the amount in either box
+**Step 1**: On the left menu column, choose **Swap**. Select the token you want to pay and receive respectively, then enter the amount in either box.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 11.57.30.png>)
 

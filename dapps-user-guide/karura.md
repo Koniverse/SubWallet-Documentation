@@ -1,10 +1,10 @@
 # Karura
 
+## Connect SubWallet to Karura Portal
+
 {% hint style="info" %}
 For instructions on creating an **Karura** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
-
-## Connect SubWallet to Karura Portal
 
 Log into [Karura Portal](https://apps.karura.network). The browser will automatically prompt you to choose wallets. Select **SubWallet**, then select the account(s) you want to connect and hit **Confirm**.
 
@@ -13,5 +13,5 @@ Log into [Karura Portal](https://apps.karura.network). The browser will automati
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.55.00.png>)
 
 {% hint style="info" %}
-For instructions on Bridge Tokens, Swap Tokens, Manage Liquidity, Stake to Earn and Mint aUSD, please visit: [acala.md](acala.md "mention")
+For instructions on Bridge Tokens, Swap Tokens, Manage Liquidity, Manage Staking and Mint aUSD, please visit: [acala.md](acala.md "mention")
 {% endhint %}
