@@ -104,7 +104,7 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 15.37.59.png>)
 
-## Stake to Earn
+## Manage&#x20;
 
 ### LP Staking
 
