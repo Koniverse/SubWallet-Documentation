@@ -67,3 +67,15 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 ![2.1](<../.gitbook/assets/Screen Shot 2022-04-22 at 15.53.26.png>)
 
 ![2.2](../.gitbook/assets/astar8.png)
+
+## Manage Staking
+
+**Step 1**: On Astar Portal, select **dApp Staking** on the left menu or scroll down and hit **Manage** next to Your Staking.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.26.41.png>)
+
+**Step 2**: Scroll down to select the DApp you want to stake. Note that you need at least 500 $ASTR to start staking. Hit **Stake**.&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-05-10 at 11.38.45.png>)
+
+Step 3: Choose the address f
