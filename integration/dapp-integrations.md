@@ -19,6 +19,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 9. [Phala Network  ](https://www.phala.network/en/)
 10. [Zenlink](https://zenlink.pro/en/)
 11. [Equilibrium](https://equilibrium.io) / [Genshiro](https://genshiro.equilibrium.io)
+12. [Subsocial](https://subsocial.network)
 
 ## Incoming Integration
 
@@ -33,9 +34,8 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 9. [Interlay](https://interlay.io) / [Kintsugi](https://kintsugi.interlay.io/bridge?tab=issue)
 10. [Parallel](https://parallel.fi)
 11. [Aleph Zero](https://alephzero.org)
-12. [Subsocial](https://subsocial.network)
-13. [Darwinia](https://darwinia.network)
-14. [Mangata](https://mangata.finance)
+12. [Darwinia](https://darwinia.network)
+13. [Mangata](https://mangata.finance)
 
 ## Have a Project? Contact Us!&#x20;
 

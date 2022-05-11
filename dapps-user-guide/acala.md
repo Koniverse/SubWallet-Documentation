@@ -141,3 +141,7 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.29\_PM.png)
+
+### Liquid Staking
+
+{% embed url="https://youtu.be/cABkLsLAh4I" %}

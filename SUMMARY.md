@@ -23,11 +23,11 @@
 * [Karura](dapps-user-guide/karura.md)
 * [Astar Portal](dapps-user-guide/astar-portal.md)
 * [Shiden Portal](dapps-user-guide/shiden-portal.md)
-* [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
-* [Subsocial](dapps-user-guide/subsocial.md)
-* [Phala Network](dapps-user-guide/phala-network.md)
+* [KodaDOT](dapps-user-guide/kodadot.md)
 * [Bifrost](dapps-user-guide/bifrost.md)
-* [KodaDot](dapps-user-guide/kodadot.md)
+* [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
+* [Phala Network](dapps-user-guide/phala-network.md)
+* [Subsocial](dapps-user-guide/subsocial.md)
 
 ## Privacy & security
 

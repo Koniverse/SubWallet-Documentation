@@ -1,4 +1,4 @@
-# KodaDot
+# KodaDOT
 
 ## Connect SubWallet to KodaDot App
 
@@ -13,4 +13,8 @@ Log into [KodaDot App](https://kodadot.xyz). The browser will automatically prom
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 13.46.57.png>)
 
 ## Mint an NFT
+
+### Classic
+
+
 
