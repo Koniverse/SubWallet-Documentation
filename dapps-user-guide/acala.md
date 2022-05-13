@@ -46,6 +46,10 @@ Log into [Acala Portal](https://apps.acala.network). The browser will automatica
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.05\_PM.png)
 
+{% hint style="info" %}
+**If you don't have enough of one token type to mint aUSD, you can always swap to other types. For example, in here, we swap from ACA to lcDOT to satisfy the minimum requirement for aUSD minted. Instructions for token swapping can be found here** [#swap-tokens](acala.md#swap-tokens "mention")****
+{% endhint %}
+
 **Step 3**: Double check your transaction and click on **Confirm**. Then in SubWallet's pop-up window, key in your password and hit **Approve**.
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-05-09\_at\_5.28.17\_PM.png)
