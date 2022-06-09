@@ -6,7 +6,7 @@
 For instructions on creating a **Bifrost** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention") page.
 {% endhint %}
 
-Log into [Bifrost Portal](https://bifrost.app). The browser will automatically prompt you to choose wallets. Select **SubWallet**, then select the account(s) you want to connect to Bifrost.
+Log into [Bifrost Portal](https://bifrost.app/). The browser will automatically prompt you to choose wallets. Select **SubWallet**, then select the account(s) you want to connect to Bifrost.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 11.16.50.png>)
 

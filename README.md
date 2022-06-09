@@ -12,7 +12,7 @@ description: >-
 
 Where to find what:&#x20;
 
-* To install the latest version of SubWallet, visit our [official website (open new window)](https://subwallet.app).
+* To install the latest version of SubWallet, visit our [official website (open new window)](https://subwallet.app/).
 * For up-to-the-minute news, follow our [Telegram](https://t.me/subwallet).
 * For help using SubWallet, jump into [Support Channel on Discord](https://discord.gg/EkFNgaBwpy).
 * To learn how to contribute to the **SubWallet** project, visit our community in [Discord](https://discord.gg/RFDpcG6xZ4).

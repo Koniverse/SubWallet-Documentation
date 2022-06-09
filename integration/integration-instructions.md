@@ -24,7 +24,7 @@ You can open `injectedWeb3` object in Chrome devtools.
 Please refer to our examples below:&#x20;
 
 * Github Repository: [**https://github.com/Koniverse/SubConnect**](https://github.com/Koniverse/SubConnect)****
-* Demo App: **** [**https://connect.subwallet.app/**](https://connect.subwallet.app)****
+* Demo App: **** [**https://connect.subwallet.app/**](https://connect.subwallet.app/)****
 * Demo Video: **** [**https://bit.ly/38QhmfI**](https://bit.ly/38QhmfI)****
 {% endhint %}
 

@@ -6,7 +6,7 @@ If the extension keeps on loading and does not show balances on all networks lik
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-20 at 11.56.48.png>)
 
-**Step 1**: Go to [brave://flags/](brave://flags) and type "websockets" on the Search bar. In the drop-down menu, select **Disabled**.&#x20;
+**Step 1**: Go to [brave://flags/](brave://flags/) and type "websockets" on the Search bar. In the drop-down menu, select **Disabled**.&#x20;
 
 ![1.1](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.01.28.png>) ![1.2](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.02.29.png>)
 

@@ -6,7 +6,7 @@
 For instructions on creating a **** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention") page.
 {% endhint %}
 
-Log into [Phala App](https://app.phala.network), then click on **Connect Wallet** on the top right corner. Choose **SubWallet** and select the account(s) you want to connect.&#x20;
+Log into [Phala App](https://app.phala.network/), then click on **Connect Wallet** on the top right corner. Choose **SubWallet** and select the account(s) you want to connect.&#x20;
 
 ![](../.gitbook/assets/phala1.png)
 
