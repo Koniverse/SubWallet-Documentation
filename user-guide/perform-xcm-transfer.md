@@ -1,5 +1,5 @@
 ---
-description: Unique on the Dotsama ecosystem.
+description: Unique to the Dotsama ecosystem.
 ---
 
 # Perform XCM Transfer
