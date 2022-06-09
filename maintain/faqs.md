@@ -16,14 +16,12 @@ If the extension keeps on loading and does not show balances on all networks lik
 
 ## Why do some of my nodes keep on showing nothing?
 
-This might result from a broken link to the nodes. Try restarting the SubWallet extension with the steps below:
+This might result from a broken link to the nodes. Follow these steps:&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.16.15.png>)
+**Step 1**: Reload the network using the **Reload** icon next to the network's account. If the network continues to load, move on to step 2.
 
-**Step 1**: Click on the **Puzzle Piece** icon on the right hand side of your browser toolbar, then hit **Manage Extensions**.&#x20;
+![](<../.gitbook/assets/Screen\_Shot\_2022-06-09\_at\_11.00.51 (3).png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 15.44.13.png>)
 
-![](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.18.58.png>)
+**Step 2:** Click on the **Edit** icon to edit the network endpoints. Under Provider URL, click on the drop-down menu and choose a different link. Hit **Save**, then hit **Done**.
 
-**Step 2**: In the SubWallet box, click on the **Sliding Button** to turn the extension off and then turn it on again. Your balance should show up now.
-
-![](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.20.31.png>) ![](<../.gitbook/assets/Screen Shot 2022-04-20 at 12.24.54.png>)
+![](<../.gitbook/assets/Screen Shot 2022-06-09 at 15.49.04.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 15.49.59.png>)
