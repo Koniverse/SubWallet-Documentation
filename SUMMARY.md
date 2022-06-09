@@ -13,6 +13,7 @@
   * [Import an Account using private key from MetaMask](user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md)
 * [Select Custom Networks](user-guide/select-custom-networks.md)
 * [Transfer and Receive Assets](user-guide/transfer-and-receive-assets.md)
+* [Perform XCM Transfer](user-guide/perform-xcm-transfer.md)
 * [Manage Crowdloans](user-guide/manage-crowdloans.md)
 * [Collect and Transfer NFTs](user-guide/collect-and-transfer-nfts.md)
 * [Export and Backup an Account](user-guide/export-and-backup-an-account.md)
