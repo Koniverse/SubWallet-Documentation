@@ -15,3 +15,8 @@ For instructions on creating a **Kintsugi** account with SubWallet, please visit
 ![](<../.gitbook/assets/Screen Shot 2022-06-14 at 17.00.16.png>)
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-14 at 16.58.49.png>)
+
+## Bridge $
+
+### Mint $kBTC
+
