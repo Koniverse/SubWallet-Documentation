@@ -6,7 +6,7 @@
 For instructions on creating an **Acala** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
 
-**Step 1**: Log into [Interlay Portal. ](https://app.interlay.io/) SubWallet extension automatically prompts you to connect. Choose the account(s) you want to use with Interlay and hit **Connect**.
+**Step 1**: Log into [Interlay Portal. ](https://app.interlay.io/)The SubWallet extension automatically prompts you to connect. Choose the account(s) you want to use with Interlay and hit **Connect**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.01.58.png>)
 
