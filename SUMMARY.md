@@ -30,6 +30,7 @@
 * [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
 * [Phala Network](dapps-user-guide/phala-network.md)
 * [Subsocial](dapps-user-guide/subsocial.md)
+* [Interlay](dapps-user-guide/interlay.md)
 
 ## Privacy & security
 
