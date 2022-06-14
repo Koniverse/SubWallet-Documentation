@@ -30,4 +30,12 @@ For instructions on creating an **Acala** account with SubWallet, please visit [
 
 ## Stake $INTR
 
-Step 1:&#x20;
+**Step 1**: On the left menu, select **Staking**. Enter the amount of $INTR you want to stake and the lock time. Information including Unlock Date, New vINTR Gained, Estimated APY and Estimated INTR Rewards will be automatically filled based on your input. Hit **Stake**.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.40.02.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.41.07.png>)
+
+**Step 2**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.48.56.png>)
