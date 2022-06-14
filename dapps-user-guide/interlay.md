@@ -15,3 +15,19 @@ For instructions on creating an **Acala** account with SubWallet, please visit [
 ![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.04.19.png>)
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.04.38.png>)
+
+## Transfer Tokens
+
+**Step 1**: On the left menu, select **Transfer**. From the drop-down list, choose either $DOT, $interBTC or $INTR, enter the amount you want to transfer and the recipient account. Hit **Transfer**.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.18.46.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.33.49.png>)
+
+**Step 2**: In SubWallet's pop-up window, key in your password and hit **Approve**.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 10.34.45.png>)
+
+## Stake $INTR
+
+Step 1:&#x20;
