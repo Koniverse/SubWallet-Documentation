@@ -31,6 +31,7 @@
 * [Phala Network](dapps-user-guide/phala-network.md)
 * [Subsocial](dapps-user-guide/subsocial.md)
 * [Interlay](dapps-user-guide/interlay.md)
+* [Kintsugi](dapps-user-guide/kintsugi.md)
 
 ## Privacy & security
 
