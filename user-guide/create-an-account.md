@@ -48,6 +48,12 @@ Click the round favicon icon at the top right of your wallet and hit **Create ne
 
 ![1.1](<../.gitbook/assets/Screen Shot 2022-05-03 at 15.30.11.png>) ![1.2](<../.gitbook/assets/Screen Shot 2022-05-03 at 15.31.05.png>)
 
-**Step 2**: Click on the **Copy** icon to copy the wallet address for  your selected network.&#x20;
+**Step 2**: Click on the **Copy** icon to copy the wallet address for your selected network.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-03 at 15.38.08.png>)
+
+{% hint style="info" %}
+To acquire EVM addresses, select your EVM account and click on the **Copy** icon to copy the wallet address for your preferred network.
+{% endhint %}
+
+![](<../.gitbook/assets/Screen Shot 2022-06-14 at 11.18.24.png>)
