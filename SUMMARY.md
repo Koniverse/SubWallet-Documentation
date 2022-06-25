@@ -15,7 +15,7 @@
 * [Transfer and Receive Assets](user-guide/transfer-and-receive-assets.md)
 * [Perform XCM Transfer](user-guide/perform-xcm-transfer.md)
 * [Collect and Transfer NFTs](user-guide/collect-and-transfer-nfts.md)
-* [Manage Crowdloans](user-guide/manage-crowdloans.md)
+* [Manage Crowdloan](user-guide/manage-crowdloan.md)
 * [Manage Staking](user-guide/manage-staking.md)
 * [Export and Backup an Account](user-guide/export-and-backup-an-account.md)
 * [Donate](user-guide/donate.md)
