@@ -15,3 +15,11 @@
 ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 14.01.00.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 14.01.20.png>)
 
 ## Unstake Tokens
+
+**Step 1**: On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Unstake** . This will allow you to unstake from a validator but still keep your funds locked.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-25 at 11.07.26.png>)
+
+**Step 2**: Enter the amount you want to unstake and hit **Next**. Key in your password then press **Confirm**. Your transaction is successful.
+
+![](<../.gitbook/assets/Screen Shot 2022-06-25 at 11.45.24.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-25 at 11.45.39.png>)
