@@ -16,7 +16,7 @@
 
 ## Unstake Tokens
 
-**Step 1**: On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Unstake** . This will allow you to unstake from a validator but still keep your funds locked.
+**Step 1**: On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Unstake**. This will allow you to unstake from a validator but still keep your funds locked.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-25 at 11.07.26.png>)
 
@@ -29,3 +29,13 @@ Depending on the network, your unstaked tokens can be withdrawn to your transfer
 {% endhint %}
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-25 at 15.27.12.png>)
+
+## Withdraw Tokens
+
+**Step 1**: Once the waiting time is over, you can withdraw your unstaked tokens. On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Withdraw**.
+
+![](<../.gitbook/assets/Screen Shot 2022-07-04 at 14.45.07.png>)
+
+**Step 2**: Double-check your information, key in the password and hit **Confirm**. Your transaction is successful.
+
+![](<../.gitbook/assets/Screen Shot 2022-07-04 at 14.45.37.png>)
