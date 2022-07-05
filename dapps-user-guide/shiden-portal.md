@@ -19,5 +19,5 @@ If you want to import your accounts from MetaMask into SubWallet, go to [import-
 ![](../.gitbook/assets/shiden1.png)
 
 {% hint style="info" %}
-For Instructions on SDN Transfer, EVM Deposit Withdrawal and Staking Management, please visit: [astar-portal.md](astar-portal.md "mention")
+For Instructions on SDN Transfer, EVM Deposit Withdrawal and Staking Management, please visit [astar-portal.md](astar-portal.md "mention")
 {% endhint %}

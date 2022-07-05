@@ -7,14 +7,14 @@ For instructions on creating **Moonbeam** EVM and Substrate accounts with SubWal
 {% endhint %}
 
 {% hint style="info" %}
-If you want to import your accounts from Metaask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
+If you want to import your accounts from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
 
-Log into [Moonbeam DApp](https://apps.moonbeam.network/moonbeam). Select **SubWallet**, then select the  account(s) you want to connect and hit **Connect**.
+**Step 1**: Log into [Moonbeam DApp](https://apps.moonbeam.network/moonbeam). Select **SubWallet**, then select the EVM account(s) you want to connect and hit **Connect**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-05 at 10.10.24.png>)
 
-After logging in, the DApp will automatically prompt you to connect your Substrate account. Select the account(s) you want to  and hit **Connect.**&#x20;
+**Step 2**: After logging in, the DApp will automatically prompt you to connect your Substrate account. Select the account(s) you want to connect and hit **Connect.**&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-05 at 10.14.09.png>)
 
