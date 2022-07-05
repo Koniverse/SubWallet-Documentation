@@ -7,7 +7,7 @@ For instructions on creating an **Shiden** account with SubWallet, please visit 
 {% endhint %}
 
 {% hint style="info" %}
-If you want to import your accounts from Metaask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
+If you want to import your accounts from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
 
 **Step 1**: Log into [Astar Portal](https://portal.astar.network/#/assets). The extension automatically opens a pop-up to allow you to connect to Astar Network. Choose as many accounts as you like then click **Connect**.
