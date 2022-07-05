@@ -22,7 +22,7 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 
 ![2.2](<../.gitbook/assets/Screen Shot 2022-04-22 at 14.35.30.png>)
 
-## Transfer $ASTR between Substrate Accounts
+## Transfer ASTR between Substrate Accounts
 
 {% embed url="https://www.youtube.com/watch?v=HB_1w8ax4Y8" %}
 
@@ -40,7 +40,7 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 
 ![3.2](../.gitbook/assets/astar4.png)
 
-## Transfer $ASTR between Substrate and EVM Accounts&#x20;
+## Transfer ASTR between Substrate and EVM Accounts&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=eWSNDilaMAs" %}
 

@@ -26,7 +26,7 @@ Log into [Bifrost Portal](https://bifrost.app/). The browser will automatically 
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.00.36.png>)
 
-**Step 3**: Enter the amount of $DOT/$KSM you want to contribute and key in the referral address if available. Hit **Confirm**. Review your transaction and hit **Confirm** again.
+**Step 3**: Enter the amount of DOT/KSM you want to contribute and key in the referral address if available. Hit **Confirm**. Review your transaction and hit **Confirm** again.
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.04.08.png>)
 
@@ -44,7 +44,7 @@ Log into [Bifrost Portal](https://bifrost.app/). The browser will automatically 
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 12.26.47.png>)
 
-**Step 2**: Slide to choose the amount of $KSM you want to stake. If you don't have enough $KSM on Bifrost, you can choose to **Cross in** from the Relay Chain. Note that the minimum amount required to mint is 1 KSM.&#x20;
+**Step 2**: Slide to choose the amount of KSM you want to stake. If you don't have enough KSM on Bifrost, you can choose to **Cross in** from the Relay Chain. Note that the minimum amount required to mint is 1 KSM.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-10 at 14.08.47.png>)
 
@@ -138,6 +138,6 @@ Step 3: Hit **Mint**, then click on **Confirm**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 15.09.23.png>)
 
-**Step 3**: You can check your balance on both Bifrost App and SubWallet Extension. In this case, the amount of $KSM on Bifrost is 0.0004.
+**Step 3**: You can check your balance on both Bifrost App and SubWallet Extension. In this case, the amount of KSM on Bifrost is 0.0004.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 15.11.19 (1).png>) ![](<../.gitbook/assets/Screen Shot 2022-04-27 at 15.11.54 (1).png>)

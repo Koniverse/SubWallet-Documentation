@@ -20,7 +20,7 @@ If you want to change your account, simply click on your current one (the same b
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-26 at 11.03.14.png>)
 
-## Transfer $PHA
+## Transfer PHA
 
 ### On Phala App
 
@@ -44,7 +44,7 @@ If you want to change your account, simply click on your current one (the same b
 
 ![2.1](<../.gitbook/assets/Screen Shot 2022-04-26 at 12.07.25.png>) ![2.2](<../.gitbook/assets/Screen Shot 2022-04-26 at 12.07.39 (1).png>) ![2.3](<../.gitbook/assets/Screen Shot 2022-04-26 at 12.12.57.png>)
 
-## Bridge $PHA
+## Bridge PHA
 
 **Step 1**: On the toolbar in Phala App, choose **SubBridge**. Select the network that you want to send from and to, as well as enter the amount and addresses of both the sender and recipient.&#x20;
 
@@ -62,9 +62,9 @@ If you want to change your account, simply click on your current one (the same b
 
 ![3.1](<../.gitbook/assets/Screen Shot 2022-04-26 at 12.41.00.png>) ![3.2](<../.gitbook/assets/Screen Shot 2022-04-26 at 12.46.04.png>)
 
-## Stake $PHA
+## Stake PHA
 
-### Delegate $PHA to a Stakepool&#x20;
+### Delegate PHA to a Stakepool&#x20;
 
 **Step 1**: On the toolbar in Phala App, select **Delegate**. Choose the stakepool you want to delegate $PHA and click on the ellipsis button. Hit **Delegate**.&#x20;
 
@@ -86,7 +86,7 @@ If you want to change your account, simply click on your current one (the same b
 
 ### Withdraw Your Delegation
 
-**Step 1**: On the **Delegate** tab, click on the ellipsis button next to the delegation you want to withdraw. Enter the amount or hit **Max** to withdraw all your delegated $PHA.
+**Step 1**: On the **Delegate** tab, click on the ellipsis button next to the delegation you want to withdraw. Enter the amount or hit **Max** to withdraw all your delegated PHA.
 
 ![1.1](<../.gitbook/assets/Screen Shot 2022-04-26 at 15.19.02.png>)
 

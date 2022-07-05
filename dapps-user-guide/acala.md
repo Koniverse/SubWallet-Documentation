@@ -20,7 +20,7 @@ Log into [Acala Portal](https://apps.acala.network/). The browser will automatic
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.17.32.png>)
 
-**Step 2**: Choose the origin chain and the destination chain from the drop-down list. You can switch back and forth using the **arrow button**. Enter the amount of $DOT you want to bridge and hit **Transfer**.
+**Step 2**: Choose the origin chain and the destination chain from the drop-down list. You can switch back and forth using the **arrow button**. Enter the amount of DOT you want to bridge and hit **Transfer**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 14.25.29.png>)
 
@@ -38,7 +38,7 @@ Log into [Acala Portal](https://apps.acala.network/). The browser will automatic
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.37.50.png>) ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.38.01.png>)
 
-**Step 2**: Select your desired collateral type and hit Next.
+**Step 2**: Select your desired collateral type and hit **Next.**
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-09 at 16.45.45.png>)
 

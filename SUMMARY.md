@@ -22,6 +22,7 @@
 
 ## DAPPS USER GUIDE
 
+* [Moonbeam](dapps-user-guide/moonbeam.md)
 * [Acala](dapps-user-guide/acala.md)
 * [Karura](dapps-user-guide/karura.md)
 * [Astar Portal](dapps-user-guide/astar-portal.md)
