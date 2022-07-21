@@ -3,7 +3,7 @@
 ## Connect SubWallet to Kintsugi Portal
 
 {% hint style="info" %}
-For instructions on creating a **Kintsugi** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention")
+For instructions on creating a **Kintsugi** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
 
 **Step 1**: Log into [Kintsugi Portal](https://kintsugi.interlay.io/). The SubWallet extension automatically prompts you to connect. Choose the account(s) you want to use with Kintsugi and hit **Connect**.

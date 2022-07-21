@@ -3,7 +3,7 @@
 ## Connect SubWallet to Astar Portal
 
 {% hint style="info" %}
-For instructions on creating an **Astar** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention")&#x20;
+For instructions on creating an **Astar** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")&#x20;
 {% endhint %}
 
 {% hint style="info" %}

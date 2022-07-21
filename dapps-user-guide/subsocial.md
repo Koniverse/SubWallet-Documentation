@@ -3,7 +3,7 @@
 ## Connect SubWallet to Subsocial App
 
 {% hint style="info" %}
-For instructions on creating a **Subsocial** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention") page.
+For instructions on creating a **Subsocial** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention") page.
 {% endhint %}
 
 Log into [Subsocial App](https://app.subsocial.network/). On the top right corner, hit **Sign in** and choose your desired account.

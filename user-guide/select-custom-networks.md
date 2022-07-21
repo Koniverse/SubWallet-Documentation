@@ -6,7 +6,7 @@ description: Rather than having to load hundreds of blockchains.
 
 ## In a newly installed SubWallet
 
-First **** [create-an-account](create-an-account/ "mention") or [import-and-restore-an-account](import-and-restore-an-account/ "mention"), then the Network Selection screen will pop up. Search or scroll down to select the network(s) that you need to use, then hit **Confirm**. You will see all your selected networks when pressing the drop-down menu on the top.
+First **** [create-an-account.md](create-an-account.md "mention") or [import-and-restore-an-account](import-and-restore-an-account/ "mention"), then the Network Selection screen will pop up. Search or scroll down to select the network(s) that you need to use, then hit **Confirm**. You will see all your selected networks when pressing the drop-down menu on the top.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 13.48.03.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 13.53.41 (1).png>)
 

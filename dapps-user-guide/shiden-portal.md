@@ -3,7 +3,7 @@
 ## Connect SubWallet to Shiden Portal
 
 {% hint style="info" %}
-For instructions on creating an **Shiden** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention")
+For instructions on creating an **Shiden** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
 
 {% hint style="info" %}

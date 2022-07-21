@@ -3,7 +3,7 @@
 ## Connect SubWallet to Interlay Portal
 
 {% hint style="info" %}
-For instructions on creating an **Interlay** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention")
+For instructions on creating an **Interlay** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
 
 **Step 1**: Log into [Interlay Portal. ](https://app.interlay.io/)The SubWallet extension automatically prompts you to connect. Choose the account(s) you want to use with Interlay and hit **Connect**.
