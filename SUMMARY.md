@@ -6,7 +6,9 @@
 
 * [Install SubWallet](user-guide/install-subwallet/README.md)
   * [Alpha Version](user-guide/install-subwallet/alpha-version.md)
-* [Create an Account](user-guide/create-an-account.md)
+* [Create an Account](user-guide/create-an-account/README.md)
+  * [Create a New Account (Wallet)](user-guide/create-an-account/create-a-new-account-wallet.md)
+  * [Create an Additional Account (Wallet)](user-guide/create-an-account/create-an-additional-account-wallet.md)
 * [Import and Restore an Account](user-guide/import-and-restore-an-account/README.md)
   * [Import an Account using mnemonic seed](user-guide/import-and-restore-an-account/import-an-account-using-mnemonic-seed.md)
   * [Restore an Account using JSON backup file](user-guide/import-and-restore-an-account/restore-an-account-using-json-backup-file.md)

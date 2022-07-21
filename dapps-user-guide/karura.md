@@ -3,7 +3,7 @@
 ## Connect SubWallet to Karura Portal
 
 {% hint style="info" %}
-For instructions on creating an **Karura** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
+For instructions on creating an **Karura** account with SubWallet, please visit [create-an-account](../user-guide/create-an-account/ "mention")
 {% endhint %}
 
 Log into [Karura Portal](https://apps.karura.network/). The browser will automatically prompt you to choose wallets. Select **SubWallet**, then select the account(s) you want to connect and hit **Confirm**.
