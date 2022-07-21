@@ -11,3 +11,7 @@ How to Create new account with SubWallet
 {% content-ref url="create-an-account/create-a-new-account-wallet.md" %}
 [create-a-new-account-wallet.md](create-an-account/create-a-new-account-wallet.md)
 {% endcontent-ref %}
+
+{% content-ref url="create-an-account/create-an-additional-account-wallet.md" %}
+[create-an-additional-account-wallet.md](create-an-account/create-an-additional-account-wallet.md)
+{% endcontent-ref %}
