@@ -19,6 +19,11 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 9. [Interlay](https://interlay.io/) / [Kintsugi](https://kintsugi.interlay.io/bridge?tab=issue)
 10. [Darwinia](https://darwinia.network/) / [Crab](https://crab.network/)
 11. [Moonbeam](https://moonbeam.network/) / [Moonriver](https://moonbeam.network/networks/moonriver/)
+12. [StellaSwap](https://stellaswap.com/)
+13. [Moonwell Apollo](https://moonwell.fi/apollo/MOVR) / [Moonwell Artemis](https://moonwell.fi/artemis/GLMR)
+14. [Sirius Finance](https://www.sirius.finance/)
+15. [Avault](https://www.avault.network/)
+16. [Athos Finance](https://athos.finance/)
 
 ## Incoming Integration
 
