@@ -36,6 +36,7 @@ description: >-
 21. [Ares Protocol - Decentralized Cross-Chain Oracle Platform](https://www.aresprotocol.io/)
 22. [Polkadex - The trading engine for Web3 and DeFi](https://www.polkadex.trade/)
 23. [Unique Network - Build Next Generation NFTs](https://unique.network/)
+24. [OriginTrail - The world's first Decentralized Knowledge Gap](https://origintrail.io/)
 
 ## Kusama&#x20;
 
@@ -67,6 +68,10 @@ description: >-
 26. [Turing Network - Secure and Trustless Automation Payments and finance infrastructure for the Web 3.0](https://oak.tech/)
 27. [Encointer - Money by the people, for the people](https://encointer.org/)
 28. [Litmus - We're building a Web3 identity hub on Kusama Kusama Logo](https://kusama-crowdloan.litentry.com/)
+29. [Dora Factory - The DAO infrastructure of the Kusama ecosystem](https://dorafactory.org/kusama/)
+30. [Bajuna Network - The Kusama parachain of Ajuna Network](https://ajuna.io/)
+31. [Listen - Listen more, Think more](https://listen.io/)
+32. [Kabocha - Playground of possibilities](https://www.kabocha.network/)
 
 ## Solochains
 
