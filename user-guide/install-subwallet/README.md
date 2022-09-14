@@ -1,5 +1,7 @@
 ---
-description: Browser extension is now available on Google Chrome, Brave, Firefox & MS Edge.
+description: >-
+  Browser extension of the ultimate Polkadot wallet is now available on Google
+  Chrome, Brave, Firefox & MS Edge.
 ---
 
 # Install SubWallet
@@ -14,13 +16,13 @@ description: Browser extension is now available on Google Chrome, Brave, Firefox
 
 ![2.1](<../../.gitbook/assets/Screen Shot 2022-04-13 at 10.43.15.png>) ![2.2](<../../.gitbook/assets/Screen Shot 2022-04-13 at 10.45.22.png>)
 
-**Step 3**: Click on the extension icon and pin SubWallet Extension. The same process applies to Brave and MS Edge.
+**Step 3**: Click on the extension icon and pin SubWallet Extension. The same process applies to Brave and MS Edge. You have successfully installed the ultimate Polkadot wallet extension!
 
 ![3.1](<../../.gitbook/assets/Screen Shot 2022-04-13 at 10.48.29.png>) ![3.2](<../../.gitbook/assets/Screen Shot 2022-04-13 at 10.52.37.png>)
 
 ## Firefox&#x20;
 
-**Step 1**: Visit the Firefox Browser Add-ons and click **Add to Firefox**: **** [https://mzl.la/3rQ0awW](https://t.co/KdO7HnaciJ).
+**Step 1**: Visit the Firefox Browser Add-ons and click **Add to Firefox**: **** [https://mzl.la/3AoAMmd](https://mzl.la/3AoAMmd)
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.30.png>)
 
@@ -28,6 +30,6 @@ description: Browser extension is now available on Google Chrome, Brave, Firefox
 
 ![2.1](<../../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.38 (1).png>) ![2.2](<../../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.50 (2).png>)
 
-**Step 3**: Your SubWallet is all set!
+**Step 3**: Your ultimate Polkadot wallet SubWallet is all set!
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.57.png>)
