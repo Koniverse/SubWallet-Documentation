@@ -1,5 +1,5 @@
 ---
-description: Rather than having to load hundreds of blockchains.
+description: Rather than having to load hundreds of blockchains on Polkadot.
 ---
 
 # Select Custom Networks

@@ -1,10 +1,14 @@
+---
+description: Additional Polkadot Native Wallets and/or Polkadot EVM Wallets.
+---
+
 # Create an Additional Account (Wallet)
 
 ## Create an Additional Account (Wallet)
 
 If you would like to create and manage multiple SubWallet accounts, you could do so simply by creating new accounts.
 
-Click the round favicon icon at the top right of your wallet and hit **Create new account**. Then repeat the above steps to create an additional Account.&#x20;
+Click the round favicon icon at the top right of your wallet and hit **Create new account**. Then repeat the steps in [create-an-account.md](../create-an-account.md "mention") to create an additional Polkadot Native Wallet and/or Polkadot EVM Wallet.
 
 ![1.1](<../../.gitbook/assets/additional account.png>) ![1.2](<../../.gitbook/assets/additional account 2.png>) ![1.3](<../../.gitbook/assets/additional account 3.png>)
 
@@ -20,7 +24,7 @@ Click the round favicon icon at the top right of your wallet and hit **Create ne
 
 ## Choose a Network
 
-**Step 1**: On SubWallet Extension, click on the drop-down list at the top. You can either scroll down the list to pick your desired network or type the network's name on the **Search** bar. Apart from the first four relay chains, all other networks are listed in alphabetical order.
+**Step 1**: On SubWallet Extension, click on the drop-down list at the top. You can either scroll down the list to pick your desired network or type the network's name on the **Search** bar. Apart from the first four relay chains Polkadot, Kusama, Westend Testnet and Rococo Testnet, all other networks are listed in alphabetical order.
 
 ![1.1](<../../.gitbook/assets/Screen Shot 2022-05-03 at 15.30.11.png>) ![1.2](<../../.gitbook/assets/Screen Shot 2022-05-03 at 15.31.05.png>)
 

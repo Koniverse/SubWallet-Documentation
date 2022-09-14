@@ -1,5 +1,5 @@
 ---
-description: And multiple ones, in just one wallet.
+description: And multiple ones, in just one Polkadot wallet.
 ---
 
 # Create an Account

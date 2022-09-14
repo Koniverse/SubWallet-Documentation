@@ -1,5 +1,5 @@
 ---
-description: Steps by step to install SubWallet Alpha version
+description: Step by step to install SubWallet Alpha version
 ---
 
 # Alpha Version
@@ -7,18 +7,18 @@ description: Steps by step to install SubWallet Alpha version
 ## **Download Alpha Version: Go to** [change-log.md](../../maintain/change-log.md "mention")****
 
 {% hint style="warning" %}
-**Warning:** This is an Alpha version, that has passed an Internal Security Audit but is still performing an Independent Security Audit. So please use it for testing purposes only.
+**Warning:** This is an Alpha version that has passed an Internal Security Audit but is still performing an Independent Security Audit. So please use it for testing purposes only.
 {% endhint %}
 
 ## **Google** Chrome
 
 {% embed url="https://www.youtube.com/watch?v=P-0p6iuvpss" %}
 
-**Step 1:** Go to **“Setting"** and open **“Extensions",** then turn on the **“Developer mode"**
+**Step 1:** Go to **Settings** and open **Extensions,** then turn on the **Developer mode**
 
 ![1.1](<../../.gitbook/assets/Screen Shot 2022-01-12 at 18.40.29.png>) ![1.2](<../../.gitbook/assets/Screen Shot 2022-01-12 at 11.30.29.png>)
 
-**Step 2:** Click the **“Load unpacked**" button on the top left corner then choose SubWallet and hit **“Select"**
+**Step 2:** Click the **Load unpacked** button on the top left corner then choose SubWallet and hit **Select**
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-12 at 18.42.07.png>)
 

@@ -1,26 +1,30 @@
+---
+description: Your Moonbeam wallet is here.
+---
+
 # Moonbeam
 
 ## Connect SubWallet to Moonbeam&#x20;
 
 {% hint style="info" %}
-For instructions on creating **Moonbeam** EVM and Substrate accounts with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
+For instructions on creating **Moonbeam** wallet including EVM and Substrate accounts with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
 {% endhint %}
 
 {% hint style="info" %}
-If you want to import your accounts from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
+If you want to import your Moonbeam wallets (accounts) from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
 
-**Step 1**: Log into [Moonbeam DApp](https://apps.moonbeam.network/moonbeam). Select **SubWallet**, then select the EVM account(s) you want to connect and hit **Connect**.
+**Step 1**: Log into [Moonbeam DApp](https://apps.moonbeam.network/moonbeam). Select **SubWallet**, then select the EVM account(s) (Polkadot EVM wallets) you want to connect and hit **Connect**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-05 at 10.10.24.png>)
 
-**Step 2**: After logging in, the DApp will automatically prompt you to connect your Substrate account. Select the account(s) you want to connect and hit **Connect.**&#x20;
+**Step 2**: After logging in, the DApp will automatically prompt you to connect your Substrate account (Polkadot native wallet). Select the account(s) you want to connect and hit **Connect.**&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-05 at 10.14.09.png>)
 
 ## **Stake GLMR**
 
-**Step 1:** On the  dashboard, scroll down to Staking and press **Manage delegations**.
+**Step 1:** On the Moonbeam dashboard, scroll down to Staking and press **Manage delegations**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-05 at 10.43.32.png>)
 
