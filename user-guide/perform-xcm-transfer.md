@@ -1,5 +1,5 @@
 ---
-description: Unique to the Dotsama ecosystem.
+description: Feature unique to the Polkadot and Kusama ecosystem.
 ---
 
 # Perform XCM Transfer
@@ -12,6 +12,6 @@ description: Unique to the Dotsama ecosystem.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 17.15.33.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 17.15.44.png>)
 
-**Step 3**: Check your transaction information carefully, then enter your password and hit **Confirm**. Your XCM transfer is completed. You can click on View Transaction to view the transaction on Subscan.
+**Step 3**: Check your transaction information carefully, then enter your password and hit **Confirm**. Your XCM transfer on Polkadot/ is completed. You can click on View Transaction to view the transaction on Subscan.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 17.17.54.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 17.19.11.png>)

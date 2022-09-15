@@ -1,10 +1,10 @@
 ---
-description: In a matter of minutes.
+description: In a matter of minutes within your Polkadot wallet.
 ---
 
 # Collect and Transfer NFTs
 
-## Collect
+## Collect on Singular
 
 {% embed url="https://youtu.be/jBfjcS4R33A" %}
 

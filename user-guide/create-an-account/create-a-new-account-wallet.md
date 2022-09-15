@@ -1,5 +1,5 @@
 ---
-description: Aka new Polkadot Native Wallets and/or Polkadot EVM Wallets.
+description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
 ---
 
 # Create a New Account (Wallet)

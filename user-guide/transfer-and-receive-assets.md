@@ -1,5 +1,5 @@
 ---
-description: Transactions within a few clicks.
+description: Transactions inside Polkadot ecosystem within a few clicks.
 ---
 
 # Transfer and Receive Assets
@@ -8,7 +8,7 @@ description: Transactions within a few clicks.
 
 {% embed url="https://www.youtube.com/watch?v=jA87Pdc2AYs" %}
 
-**Step 1:** Choose the chain that you want to send assets to and click the **Send** icon. Key in the recipient wallet address and the amount you want to send.&#x20;
+**Step 1:** Choose the chain that you want to send assets to and click the **Send** icon. Key in the recipient wallet address and the amount you want to send. Note that with this function, you can only perform single-chain transactions, e.g. from Polkadot wallet to Polkadot wallet or Moonbeam wallet to Moonbeam wallet.
 
 ![1.1](<../.gitbook/assets/Screen Shot 2022-01-12 at 09.41.00.jpg>) ![1.2](<../.gitbook/assets/Screen Shot 2022-01-12 at 09.41.16.jpg>)
 
@@ -31,5 +31,5 @@ description: Transactions within a few clicks.
 **Step 2**: Hit the copy button and share your wallet address with your sender.&#x20;
 
 {% hint style="danger" %}
-**WARNING:** DO NOT share your mnemonic seed (secret recovery phrase) or JSON backup file with anyone! SubWallet will never ask for your mnemonic seed (secret recovery phrase) or JSON  file, even in a customer support scenario. You can not change or edit your mnemonic seed (secret recovery phrase).
+**WARNING:** DO NOT share your mnemonic seed (secret recovery phrase) or JSON backup file with anyone! SubWallet will never ask for your mnemonic seed (secret recovery phrase) or JSON file, even in a customer support scenario. You can not change or edit your mnemonic seed (secret recovery phrase).
 {% endhint %}

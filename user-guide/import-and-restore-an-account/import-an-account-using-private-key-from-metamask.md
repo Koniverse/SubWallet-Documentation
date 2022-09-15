@@ -1,3 +1,7 @@
+---
+description: For Polkadot EVM wallet (EVM account) only.
+---
+
 # Import an Account using private key from MetaMask
 
 **Step 1**: Open MetaMask extension. Click on the **Options icon**, then **Account Details**, then hit **Export Private Key**. Enter your password and click on **Next**. Click on **Copy** to copy your **Private key** after it is revealed.
@@ -8,6 +12,6 @@
 
 ![1.1](../../.gitbook/assets/metamask.png) ![1.2](<../../.gitbook/assets/metamask 2.png>)
 
-**Step 2:** Insert your secret recovery phrase under private key, then enter a new password and click **Add the account with the supplied private key.**
+**Step 2:** Enter a new password and click **Add the account with the supplied private key.** You have successfully imported a Polkadot EVM wallet (EVM account)!
 
 ![](<../../.gitbook/assets/metamask 3.png>)
