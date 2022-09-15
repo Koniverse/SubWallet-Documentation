@@ -1,3 +1,7 @@
+---
+description: Stake for Polkadot, Kusama and other networks within one Polkadot wallet.
+---
+
 # Manage Staking
 
 ## **Stake Tokens**
@@ -6,7 +10,7 @@
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 13.40.55.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 13.41.10.png>)
 
-**Step 2**: Choose a validator or sort validators by **Lowest commission/Highest return**. Press **Start staking**.
+**Step 2**: Choose a validator/collator/ or sort validators by **Lowest commission/Highest return**. Press **Start staking**.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 14.00.16.png>) ![](<../.gitbook/assets/Screen Shot 2022-06-24 at 14.00.46.png>)
 
@@ -16,7 +20,7 @@
 
 ## Unstake Tokens
 
-**Step 1**: On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Unstake**. This will allow you to unstake from a validator but still keep your funds locked.
+**Step 1**: On your Staking screen, hit the **ellipsis icon** next to Staking balance. Choose **Unstake**. This will allow you to unstake from a validator/collator/ but still keep your funds locked.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-25 at 11.07.26.png>)
 

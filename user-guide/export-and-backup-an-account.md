@@ -1,5 +1,5 @@
 ---
-description: Remember to store it securely.
+description: Remember to store your Polkadot wallet securely.
 ---
 
 # Export and Backup an Account

@@ -28,7 +28,7 @@ description: In a matter of minutes within your Polkadot wallet.
 
 {% embed url="https://youtu.be/fzRbcnafV3M" %}
 
-**Step 1**: Open SubWallet extension and click on the **NFTs** tab. Choose the collection and then the NFT that you want to send. Click on the NFT and scroll down to hit the **Send** button.&#x20;
+**Step 1**: Open SubWallet extension and click on the **NFTs** tab. Pick the network from the top drop-down menu. Choose the collection and then the NFT that you want to send. Click on the NFT and scroll down to hit the **Send** button.&#x20;
 
 ![1.1](<../.gitbook/assets/transfer nft 1.png>) ![1.2](<../.gitbook/assets/transfer nft 2.png>) ![1.3](<../.gitbook/assets/transfer nft 3.png>)
 
@@ -40,6 +40,6 @@ description: In a matter of minutes within your Polkadot wallet.
 
 ![3.1](<../.gitbook/assets/transfer nft 5.png>) ![3.2](<../.gitbook/assets/Screen Shot 2022-04-14 at 11.44.52.png>)
 
-**Step 4**: Click on **View Transaction** to take a look at the transaction on SubScan. It is always a good idea to double-check with the recipient address whether or not the NFT is available in their wallet.
+**Step 4**: Click on **View Transaction** to take a look at the transaction on Subcan. It is always a good idea to double-check with the recipient address whether or not the NFT is available in their wallet.
 
 ![4.1](<../.gitbook/assets/Screen Shot 2022-04-14 at 11.45.14.png>) ![4.2](<../.gitbook/assets/transfer nft 6.png>)
