@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.subwallet.app/</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/install-subwallet</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/create-an-account</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/import-and-restore-an-account</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/select-custom-networks</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/transfer-and-receive-assets</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/perform-xcm-transfer</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/collect-and-transfer-nfts</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/manage-crowdloan</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/manage-staking</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/export-and-backup-an-account</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/donate</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/moonbeam</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/moonriver</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/acala</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/karura</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/astar-portal</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/shiden-portal</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/kodadot</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/bifrost</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/rmrk-singular-app</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/phala-network</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/subsocial</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/interlay</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/dapps-user-guide/kintsugi</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/privacy-and-security/basic-safety</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/privacy-and-security/security</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/privacy-and-security/protect-yourself-from-scam</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/privacy-and-security/privacy-policy</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/privacy-and-security/terms-of-service</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/integration/supported-network</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/integration/dapp-integrations</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/integration/integration-instructions</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/maintain/faqs</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/maintain/change-log</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/install-subwallet/alpha-version</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/create-an-account/create-a-new-account-wallet</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/create-an-account/create-an-additional-account-wallet</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/import-and-restore-an-account/import-an-account-using-mnemonic-seed</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/import-and-restore-an-account/restore-an-account-using-json-backup-file</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.subwallet.app/user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask</loc>
+  <lastmod>2022-09-15T03:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
