@@ -20,7 +20,6 @@
 * [Manage Crowdloan](user-guide/manage-crowdloan.md)
 * [Manage Staking](user-guide/manage-staking.md)
 * [Export and Backup an Account](user-guide/export-and-backup-an-account.md)
-* [Donate](user-guide/donate.md)
 
 ## DAPPS USER GUIDE
 
