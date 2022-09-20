@@ -4,6 +4,8 @@ description: Stake for Polkadot, Kusama and other networks within one Polkadot w
 
 # Manage Staking
 
+{% embed url="https://youtu.be/4UzPcnEHEH0" %}
+
 ## **Stake Tokens**
 
 **Step 1**: Open SubWallet extension and select **Staking**. Hit **Start staking** and choose your desired network.
