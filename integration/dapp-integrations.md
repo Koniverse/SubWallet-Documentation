@@ -42,4 +42,4 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 
 ## Have a Project? Contact Us!&#x20;
 
-If you have #Dei, #NFT or #DAO projects in the Dotsama ecosystem, shoot us a message on [Twitter](https://twitter.com/subwalletapp) and have SubWallet integrated in no time. You can take a look at our mini Web3 example for integrating all wallets into Dotsama on our [Github](https://github.com/Koniverse/SubConnect).
+If you have #Dei, #NFT or #DAO projects in the Polkadot and Kusama ecosystem, shoot us a message on [Twitter](https://twitter.com/subwalletapp) and have SubWallet integrated in no time. You can take a look at our mini Web3 example for integrating all wallets into Polkadot and Kusama on our [Github](https://github.com/Koniverse/SubConnect).
