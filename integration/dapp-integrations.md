@@ -24,7 +24,17 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 14. [Moonwell Apollo](https://moonwell.fi/apollo/MOVR) / [Moonwell Artemis](https://moonwell.fi/artemis/GLMR)
 15. [Sirius Finance](https://www.sirius.finance/)
 16. [Avault](https://www.avault.network/)
-17. [Athos Finance](https://athos.finance/)
+17. [ArthSwap](https://app.arthswap.org/#/swap)
+18. [Polkassembly](https://polkassembly.io/)
+19. [Subsquare](https://www.subsquare.io/)
+20. [Panorama Swap](https://panoramaswap.app/)
+21. [Zeitgeist](https://zeitgeist.pm/)
+22. [Taiga / Tapio](https://www.taigaprotocol.io/)
+23. [Robonomics](https://dapp.robonomics.network/#/)
+24. [GM Parachain](https://www.gmordie.com/)
+25. [Solarbeam](https://solarbeam.io/)
+26. [Beamswap](https://beamswap.io/)
+27. [Bit.Country](https://bit.country/)
 
 ## Incoming Integration
 
@@ -34,11 +44,10 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 4. [Dotmarketcap](https://dotmarketcap.com/)
 5. [Unique Network](https://unique.network/)
 6. [Subspace](https://subspace.network/)
-7. [Standard Protocol](https://standard.tech/)
-8. [Polkadex](https://www.polkadex.trade/)
-9. [Parallel](https://parallel.fi/)
-10. [Aleph Zero](https://alephzero.org/)
-11. [Mangata](https://mangata.finance/)
+7. [Polkadex](https://www.polkadex.trade/)
+8. [Parallel](https://parallel.fi/)
+9. [Aleph Zero](https://alephzero.org/)
+10. ...
 
 ## Have a Project? Contact Us!&#x20;
 
