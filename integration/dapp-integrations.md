@@ -36,19 +36,22 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 26. [Solarbeam](https://solarbeam.io/)
 27. [Beamswap](https://beamswap.io/)
 28. [Bit.Country](https://bit.country/)
+29. [Gear Technologies](https://www.gear-tech.io/)
+30. [Nodle Network](https://www.nodle.com/network)
+31. [Joystream](https://www.joystream.org/)
+32. [Panorama Swap](https://panoramaswap.app/)
 
 ## Incoming Integration
 
 1. [HydraDX](https://hydradx.io/) / [Basilisk](https://bsx.fi/)
-2. [Bit.Country](https://bit.country/)
-3. [KILT Protocol](https://www.kilt.io/)
-4. [Dotmarketcap](https://dotmarketcap.com/)
-5. [Unique Network](https://unique.network/)
-6. [Subspace](https://subspace.network/)
-7. [Polkadex](https://www.polkadex.trade/)
-8. [Parallel](https://parallel.fi/)
-9. [Aleph Zero](https://alephzero.org/)
-10. ...
+2. [KILT Protocol](https://www.kilt.io/)
+3. [Dotmarketcap](https://dotmarketcap.com/)
+4. [Unique Network](https://unique.network/)
+5. [Subspace](https://subspace.network/)
+6. [Polkadex](https://www.polkadex.trade/)
+7. [Parallel](https://parallel.fi/)
+8. [Aleph Zero](https://alephzero.org/)
+9. ...
 
 ## Have a Project? Contact Us!&#x20;
 
