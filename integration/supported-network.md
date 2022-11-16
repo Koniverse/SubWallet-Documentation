@@ -37,6 +37,7 @@ description: >-
 22. [Polkadex - The trading engine for Web3 and DeFi](https://www.polkadex.trade/)
 23. [Unique Network - Build Next Generation NFTs](https://unique.network/)
 24. [OriginTrail - The world's first Decentralized Knowledge Gap](https://origintrail.io/)
+25. [Integritee](https://integritee.network/)
 
 ## Kusama&#x20;
 
@@ -72,6 +73,12 @@ description: >-
 30. [Bajuna Network - The Kusama parachain of Ajuna Network](https://ajuna.io/)
 31. [Listen - Listen more, Think more](https://listen.io/)
 32. [Kabocha - Playground of possibilities](https://www.kabocha.network/)
+33. [Imbue Network - The future of crowdfunding on Polkadot](https://www.imbue.network/)
+34. [Amplitude](https://pendulumchain.org/amplitude)
+35. [GM Parachain](https://www.gmordie.com/)
+36. [Tanganika ](https://www.datahighway.com/)
+37. [Tinkernet - The Bleeding-Edge Layer-1 for the Creator Economy](https://invarch.network/tinkernet)
+38. [SNOW Network](https://icenetwork.io/snow/)
 
 ## Solochains
 
@@ -79,6 +86,8 @@ description: >-
 2. [Aleph Zero](https://alephzero.org/)
 3. [ChainX - Build the trust of Bitcoin on Layer2 Networks](https://chainx.org/)
 4. [Subsocial Solochain](https://subsocial.network/)
+5. [Subspace - Infrastructure for Web3](https://subspace.network/)
+6. [Ternoa - NFT-Centric Blockchain](https://www.ternoa.com/)
 
 ## Testnet
 
@@ -93,3 +102,8 @@ description: >-
 * Neumann Network (Oak Network)
 * Opal Network (Unique Network)
 * Bifrost Testnet
+* Gear Staging Tesnet
+* RMRK Devnet
+* KILT Spiritnet
+* Genshiro Testnet
+* Acala Mandala
