@@ -89,6 +89,13 @@ description: >-
 5. [Subspace - Infrastructure for Web3](https://subspace.network/)
 6. [Ternoa - NFT-Centric Blockchain](https://www.ternoa.com/)
 
+## EVM chains
+
+1. Ethereum Mainet
+2. Binance Smart Chain
+3. Boba Network
+4. Bobabeam
+
 ## Testnet
 
 * Rococo Testnet
@@ -107,3 +114,7 @@ description: >-
 * KILT Spiritnet
 * Genshiro Testnet
 * Acala Mandala
+* Shibuya Tesnet
+* Bobabase Testnet
+* Boba Rinkeby Testnet
+* Ethereum Testnet (Goerli)
