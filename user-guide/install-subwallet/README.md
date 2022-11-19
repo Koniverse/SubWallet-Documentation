@@ -8,7 +8,7 @@ description: >-
 
 ## Google Chrome, Brave & MS Edge&#x20;
 
-**Step 1**: Visit the Chrome Web Store and click **Add to Chrome**: **** [**https://mzl.la/3dGqlTn**](https://mzl.la/3dGqlTn)****
+**Step 1**: Visit the Chrome Web Store and click **Add to Chrome**: **** [**https://bit.ly/3BGqFt1**](https://bit.ly/3BGqFt1)****
 
 ![](<../../.gitbook/assets/Screen Shot 2022-04-13 at 10.40.59.png>)
 
