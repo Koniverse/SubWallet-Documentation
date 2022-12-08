@@ -1,5 +1,7 @@
 ---
-description: Or how to integrate SubWallet and other DotSama wallets into your DApps
+description: >-
+  Or how to integrate SubWallet and other Polkadot and Kusama wallets into your
+  DApps
 ---
 
 # Integration Instructions

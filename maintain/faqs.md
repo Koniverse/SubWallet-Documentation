@@ -40,6 +40,8 @@ Your account address should be visible under your account name. If you cannot se
 
 To choose an account, click on the round item on the upper right corner of the wallet, scroll and choose the specific account you want, and the address would be visible
 
+![](../.gitbook/assets/photo\_2022-07-12\_19-42-59.jpg)
+
 
 
 ## I cannot see my assets. What’s the problem?
