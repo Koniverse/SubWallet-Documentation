@@ -74,9 +74,15 @@ The unstake feature can be unavailabe if you haven’t yet withdraw the amount y
 
 ## Some of the buttons on my screen are inactive
 
-If some buttons on your homescreen such as Send funds, Receive, etc… are inactive, it is likely that you are in the All Accounts mode. Please click the round item on the upper right corner of your wallet, scroll to see your accounts and choose the account you want to use. Once a specific account has been chosen, the buttons would be enabled.
+If some buttons on your homescreen such as Send funds, Receive, etc… are inactive, it is likely that you are in the All Accounts mode.&#x20;
 
+![](../.gitbook/assets/photo\_2022-05-25\_23-39-00.jpg)
 
+Please click the round item on the upper right corner of your wallet, scroll to see your accounts and choose the account you want to use. Once a specific account has been chosen, the buttons would be enabled.
+
+![](<../.gitbook/assets/photo\_2022-07-12\_19-42-59 (1).jpg>)
+
+##
 
 ## I cannot see my staking rewards
 
@@ -86,7 +92,7 @@ For some networks, there has not been any data indexers to track real-time infor
 
 ## Would my staking reward be restaked automatically?
 
-If you stake on a parachain, your staking reward would not be staked automatically.
+If you stake on a parachain, your staking reward would NOT be staked automatically.
 
 If you stake on a relaychain or solochain, then your staking reward would be restaked automatically.
 
