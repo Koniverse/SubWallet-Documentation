@@ -28,7 +28,9 @@ This might result from a broken link to the nodes. Follow these steps:&#x20;
 
 ## I want to log off my wallet when I’m not at my computer. Can I do this with SubWallet?
 
-For now, SubWallet extension doesn't have the automatic lock feature, but to keep the security of your assets, the wallet requires password everytime you submit a transaction, so no one will be able to transfer your assets without a password.
+For now, SubWallet extension doesn't have the lock feature, so you can not lock/log off your wallet.
+
+To keep the security of your assets, the wallet requires password everytime you submit a transaction, so no one will be able to transfer your assets without a password.
 
 Our developers are working on the master password and locking mechanism.
 
