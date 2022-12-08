@@ -104,3 +104,9 @@ Due to some problems with Astar portal, you might have to refresh the webpage, o
 
 
 
+## My transaction was successful but cannot see it in the transaction tab
+
+It depends on our data indexers. For networks NOT supported by SubQuery, it will show send transactions but not receive transactions. We are working with other data indexers to improve this feature
+
+
+
