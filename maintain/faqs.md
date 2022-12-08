@@ -46,7 +46,7 @@ To choose an account, click on the round item on the upper right corner of the w
 
 ## I cannot see my assets. What’s the problem?
 
-Make sure to active the network you have assets on
+Make sure to activate the network you have assets on
 
 In case you have your network activated but still cannot see the asset, you might want to restart the wallet or check again later. Some networks have slow processing speed and sometimes nodes can be unstable. If you need extra support, you can always visit us on Discord and Telegram.
 
