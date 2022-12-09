@@ -70,7 +70,7 @@ You can transfer USDC/USDT to SubWallet using the Moonbeam network
 
 ## I cannot unstake. What might be the problem?
 
-The unstake feature can be unavailabe if you haven’t yet withdraw the amount you have unstaked earlier. Please claim/withdraw the assets you had unstaked before and you can continue unstaking.
+The unstake feature can be unavailabe if you haven’t yet withdrawn the amount you have unstaked earlier. Please claim/withdraw the assets you had unstaked before and you can continue unstaking.
 
 
 
