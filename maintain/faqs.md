@@ -100,11 +100,11 @@ For some networks, there has not been any data indexers to track real-time infor
 
 ## Would my staking reward be restaked automatically?
 
-If you stake on a parachain, your staking reward would NOT be staked automatically.
+If you stake on a parachain, your staking reward would NOT be restaked automatically.
 
 If you stake on a relaychain or solochain, then your staking reward would be restaked automatically.
 
-If you stake your assets via a nomination pool, your staking reward would NOT be staked automatically.&#x20;
+If you stake your assets via a nomination pool, your staking reward would NOT be restaked automatically.&#x20;
 
 
 
