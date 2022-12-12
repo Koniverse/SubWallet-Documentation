@@ -40,7 +40,7 @@ Our developers are working on the master password and locking mechanism.
 
 Your account address should be visible under your account name. If you cannot see the address, it is likely that you are in the All Accounts mode. Since an address must go with a specific account, you would need to choose the exact account you want to get the address for.
 
-To choose an account, click on the round item on the upper right corner of the wallet, scroll and choose the specific account you want, and the address would be visible
+To choose an account, click on the round item on the upper right corner of the wallet, scroll and choose the specific account you want, and the address would be visible.&#x20;
 
 ![](../.gitbook/assets/photo\_2022-07-12\_19-42-59.jpg)
 
@@ -48,9 +48,9 @@ To choose an account, click on the round item on the upper right corner of the w
 
 ## I cannot see my assets. What’s the problem?
 
-Make sure to activate the network you have assets on
+Make sure to activate the network you have assets on.
 
-In case you have your network activated but still cannot see the asset, you might want to restart the wallet or check again later. Some networks have slow processing speed and sometimes nodes can be unstable. If you need extra support, you can always visit us on Discord and Telegram.
+In case you have your network activated but still cannot see the asset, you might want to restart the wallet or check again later. Some networks have slow processing speed and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).
 
 
 
@@ -58,13 +58,13 @@ In case you have your network activated but still cannot see the asset, you migh
 
 Please make sure that you have activated the network on which you have the assets
 
-In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. If you need further information, feel free to reach out to us via Discord and Telegram
+In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. If you need further information, feel free to reach out to us via  [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).
 
 
 
 ## How do I add my USDT/USDC to SubWallet?
 
-You can transfer USDC/USDT to SubWallet using the Moonbeam network
+You can transfer USDC/USDT to SubWallet using the Moonbeam network.
 
 
 
@@ -74,15 +74,21 @@ The unstake feature can be unavailabe if you haven’t yet withdrawn the amount 
 
 
 
-## Some of the buttons on my screen are inactive
+## Where do I withdraw my staked assets?
 
-If some buttons on your homescreen such as Send funds, Receive, etc… are inactive, it is likely that you are in the All Accounts mode.&#x20;
+
+
+
+
+## I cannot find some of the functions I want to use / some of the functions on my screen are disabled
+
+If some features on your homescreen such as Send funds, Receive, etc… are disabled, it is likely that you are in the All Accounts mode.&#x20;
 
 ![](../.gitbook/assets/photo\_2022-05-25\_23-39-00.jpg)
 
 Please click the round item on the upper right corner of your wallet, scroll to see your accounts and choose the account you want to use. Once a specific account has been chosen, the buttons would be enabled.
 
-![](<../.gitbook/assets/photo\_2022-07-12\_19-42-59 (1).jpg>)
+![](../.gitbook/assets/photo\_2022-07-12\_19-42-59.jpg)
 
 ##
 
@@ -98,6 +104,8 @@ If you stake on a parachain, your staking reward would NOT be staked automatical
 
 If you stake on a relaychain or solochain, then your staking reward would be restaked automatically.
 
+If you stake your assets via a nomination pool, your staking reward would NOT be staked automatically.&#x20;
+
 
 
 ## Problems connecting with Astar portal
@@ -108,7 +116,21 @@ Due to some problems with Astar portal, you might have to refresh the webpage, o
 
 ## My transaction was successful but cannot see it in the transaction tab
 
-It depends on our data indexers. For networks NOT supported by SubQuery, it will show send transactions but not receive transactions. We are working with other data indexers to improve this feature
+We are still working on the transaction history feature and the wallet might not display all transactions. If this problem is applicable to you, please reach out to us via [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).&#x20;
 
 
+
+## I cannot see my NFTs
+
+Please make sure that you have manually imported your NFTs into SubWallet.
+
+![](<../.gitbook/assets/Screenshot 2022-12-12 175240.png>) ![](<../.gitbook/assets/Screenshot 2022-12-12 175312.png>)
+
+In case you have imported your NFTs into SubWallet, it might take some loading time for the wallet to display them. Please wait for a while and check again later.&#x20;
+
+
+
+## I cannot see my crowdloans in SubWallet
+
+At the moment, if you participate in crowdloans via third parties such as [Bifrost Finance](https://bifrost.finance/) and [Parallel Finance](https://parallel.fi/), your crowdloans would not be visible in SubWallet.&#x20;
 
