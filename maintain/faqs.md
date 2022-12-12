@@ -74,6 +74,12 @@ The unstake feature can be unavailabe if you haven’t yet withdrawn the amount 
 
 
 
+## Where can I withdraw my unstaked amount?
+
+Before withdrawing your unstaked assets, please make sure that you are NOT in All Accounts mode, since this is a read-only mode. Then please follow the instruction for unstaking & withdrawing [here](../user-guide/manage-staking.md).&#x20;
+
+
+
 ## I cannot find some of the functions I want to use / some of the functions on my screen are disabled
 
 If some features on your homescreen such as Send funds, Receive, etc… are disabled, it is likely that you are in the All Accounts mode.&#x20;
