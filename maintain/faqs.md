@@ -74,12 +74,6 @@ The unstake feature can be unavailabe if you haven’t yet withdrawn the amount 
 
 
 
-## Where do I withdraw my staked assets?
-
-
-
-
-
 ## I cannot find some of the functions I want to use / some of the functions on my screen are disabled
 
 If some features on your homescreen such as Send funds, Receive, etc… are disabled, it is likely that you are in the All Accounts mode.&#x20;
