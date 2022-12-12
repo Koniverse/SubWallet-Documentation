@@ -50,7 +50,7 @@ To choose an account, click on the round item on the upper right corner of the w
 
 Make sure to activate the network you have assets on.
 
-In case you have your network activated but still cannot see the asset, you might want to restart the wallet or check again later. Some networks have slow processing speed and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).
+In case you have your network activated but still cannot see the asset, you might want to restart the wallet or check again later. Some networks have slow processing speed and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.gg/CvVewvApry)  and [Telegram](https://t.me/subwallet).
 
 
 
@@ -58,7 +58,7 @@ In case you have your network activated but still cannot see the asset, you migh
 
 Please make sure that you have activated the network on which you have the assets
 
-In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. If you need further information, feel free to reach out to us via  [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).
+In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. If you need further information, feel free to reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 
 
 
@@ -116,7 +116,7 @@ Due to some problems with Astar portal, you might have to refresh the webpage, o
 
 ## My transaction was successful but cannot see it in the transaction tab
 
-We are still working on the transaction history feature and the wallet might not display all transactions. If this problem is applicable to you, please reach out to us via [Discord](https://discord.com/invite/BWMwTQuP)  and [Telegram](https://t.me/subwallet).&#x20;
+We are still working on the transaction history feature and the wallet might not display all transactions. If this problem is applicable to you, please reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).&#x20;
 
 
 
