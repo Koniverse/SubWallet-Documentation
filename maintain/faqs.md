@@ -54,7 +54,7 @@ In case you have your network activated but still cannot see the asset, you migh
 
 
 
-## I imported an account from other wallet and now I cannot see my assets. What is the problem?
+## I imported an account from another wallet and now I cannot see my assets. What is the problem?
 
 Please make sure that you have activated the network on which you have the assets
 
