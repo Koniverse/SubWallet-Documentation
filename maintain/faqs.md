@@ -134,3 +134,8 @@ In case you have imported your NFTs into SubWallet, it might take some loading t
 
 At the moment, if you participate in crowdloans via third parties such as [Bifrost Finance](https://bifrost.finance/) and [Parallel Finance](https://parallel.fi/), your crowdloans would not be visible in SubWallet.&#x20;
 
+
+
+## I lost my account after  transaction
+
+Before signing a transaction, please make sure that the remaining balance in your account after that transaction is above the existential deposit amount. More information on existential balance can be found [here](https://support.polkadot.network/support/solutions/articles/65000168651-what-is-the-existential-deposit-).
