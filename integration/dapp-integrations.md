@@ -40,6 +40,9 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 30. [Nodle Network](https://www.nodle.com/network)
 31. [Joystream](https://www.joystream.org/)
 32. [Panorama Swap](https://panoramaswap.app/)
+33. [Crust Network](https://crustfiles.io/)
+34. [Grabber Network](https://app.grabber.network/astar)
+35. [Astar Domains](https://astr.domains/)
 
 ## Incoming Integration
 
