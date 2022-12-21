@@ -139,3 +139,11 @@ At the moment, if you participate in crowdloans via third parties such as [Bifro
 ## I lost my account after a transaction
 
 Before signing a transaction, please make sure that the remaining balance in your account after that transaction is above the existential deposit amount. More information on existential balance can be found [here](https://support.polkadot.network/support/solutions/articles/65000168651-what-is-the-existential-deposit-).
+
+
+
+## The network I want to use keeps showing the loading icon.
+
+It might be the case that the endpoint (provider) are disconnected. Please follow these steps to change provider for such network:
+
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
