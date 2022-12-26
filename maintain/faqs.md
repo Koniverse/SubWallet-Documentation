@@ -63,9 +63,7 @@ In this case, we would suggest you create a new wallet account with SubWallet an
 
 To create a new wallet account with SubWallet, please follow the instruction [here](https://docs.subwallet.app/user-guide/create-an-account).&#x20;
 
-To receive assets with SubWallet account, please follow the instruction [here](https://docs.subwallet.app/user-guide/transfer-and-receive-assets).
-
-\
+To receive assets with SubWallet account, please follow the instruction [here](https://docs.subwallet.app/user-guide/transfer-and-receive-assets).\
 If you need further information, feel free to reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 
 
