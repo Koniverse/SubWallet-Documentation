@@ -58,7 +58,15 @@ In case you have your network activated but still cannot see the asset, you migh
 
 Please make sure that you have activated the network on which you have the assets
 
-In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. If you need further information, feel free to reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
+In some case, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. Trust Wallet and Safepal are among the wallets not compatible with us. \
+In this case, we would suggest you create a new wallet account with SubWallet and transfer your assets from your original wallet to this new account.&#x20;
+
+To create a new wallet account with SubWallet, please follow the instruction [here](https://docs.subwallet.app/user-guide/create-an-account).&#x20;
+
+To receive assets with SubWallet account, please follow the instruction [here](https://docs.subwallet.app/user-guide/transfer-and-receive-assets).
+
+\
+If you need further information, feel free to reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 
 
 
