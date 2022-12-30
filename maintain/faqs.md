@@ -159,7 +159,7 @@ It might be the case that the endpoint (provider) are disconnected. Please follo
 
 ## I cannot see my Astar EVM deposit in SubWallet.
 
-Due to differences in the cryptography algorithm between SubWallet and Astar, our wallet might not display the correct information about your Astar deposit. However, it does not mean that your assets are gone; you can still see them in the Astar portal.&#x20;
+Due to differences in the cryptography algorithm between SubWallet and Astar, our wallet might not display the correct information about your Astar EVM deposit. However, it does not mean that your assets are gone; you can still see them in the Astar portal. Something to remember is that funds aren't locked in wallets. They are on chains.&#x20;
 
 Please connect your Substrate wallet account (SubWallet native account) to the Astar portal following the instruction [here](https://docs.subwallet.app/dapps-user-guide/astar-portal), and scroll down to see your EVM deposit.&#x20;
 
@@ -170,21 +170,21 @@ To get the corresponding EVM address for your SubWallet native account, please f
 
 **Step 1**: Visit [SubScan](https://www.subscan.io/) and choose the Astar network
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 104946.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104946.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 104521.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104521.png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Step 2**: In the Astar Explorer site in SubScan, please choose Account Format Transform in Tools:
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 105911 (1).png>)
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 105911 (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, input the SubWallet native account address into the textbox, choose H160 as your Output type, and click the Transform button.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 110114.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 110114.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 104610.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104610.png" alt=""><figcaption></figcaption></figure>
 
 The result you see on the right side of the screen is your corresponding EVM address for your SubWallet native account. \
 
