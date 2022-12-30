@@ -170,21 +170,21 @@ To get the corresponding EVM address for your SubWallet native account, please f
 
 **Step 1**: Visit [SubScan](https://www.subscan.io/) and choose the Astar network
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104946.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot 2022-12-30 104946.png>)
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104521.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot 2022-12-30 104521.png>)
 
 
 
 **Step 2**: In the Astar Explorer site in SubScan, please choose Account Format Transform in Tools:
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 105911 (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot 2022-12-30 105911 (1).png>)
 
 Then, input the SubWallet native account address into the textbox, choose H160 as your Output type, and click the Transform button.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 110114.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot 2022-12-30 110114.png>)
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104610.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot 2022-12-30 104610.png>)
 
 The result you see on the right side of the screen is your corresponding EVM address for your SubWallet native account. \
 
