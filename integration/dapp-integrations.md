@@ -53,6 +53,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 47. [MoonFit](https://moonfit.xyz/)
 48. [ArtZero](https://artzero.io/)
 49. [Gafi Network](https://gafi.network/)
+50. [Calamari](https://app.manta.network/calamari/stake)
 
 ## Incoming Integration
 
