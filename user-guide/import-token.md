@@ -6,7 +6,9 @@ description: To add your token to SubWallet
 
 **Step 1**: Open the wallet and scroll down to find the token you want to use. If you cannot see such a token in our token list, you have the option to manually add it. Please click the "import token" option at the end of the token list.
 
-![](<../.gitbook/assets/Screenshot 2023-01-03 181949.png>)
+(Tips: you might want to select the "Show Zero Balances" option to see the full list of our supported tokens. This option allows you to see the assets of which your balance is zero.)
+
+![](<../.gitbook/assets/Screenshot 2023-01-03 181949.png>) ![](<../.gitbook/assets/Screenshot 2023-01-03 184424.png>)
 
 
 
