@@ -191,7 +191,7 @@ The result you see on the right side of the screen is your corresponding EVM add
 
 **Step 3**: Please import this address back to SubWallet using the read-only account feature.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-12-30 111804.png>) ![](<../.gitbook/assets/Screenshot 2022-12-30 111728.png>)
+![](<../.gitbook/assets/Screenshot 2022-12-30 111804.png>) ![](<../.gitbook/assets/Screenshot 2022-12-30 111728 (1).png>)
 
 
 

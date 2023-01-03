@@ -14,6 +14,7 @@
   * [Restore an Account using JSON backup file](user-guide/import-and-restore-an-account/restore-an-account-using-json-backup-file.md)
   * [Import an Account using private key from MetaMask](user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md)
   * [Import an Account using QR-code](user-guide/import-and-restore-an-account/import-an-account-using-qr-code.md)
+  * [Attach a read-only account](user-guide/import-and-restore-an-account/attach-a-read-only-account.md)
 * [Select Custom Networks](user-guide/select-custom-networks.md)
 * [Transfer and Receive Assets](user-guide/transfer-and-receive-assets.md)
 * [Perform XCM Transfer](user-guide/perform-xcm-transfer.md)

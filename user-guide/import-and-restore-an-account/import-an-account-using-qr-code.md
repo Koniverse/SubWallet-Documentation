@@ -1,6 +1,6 @@
 # Import an Account using QR-code
 
-**Step 1:** Open SubWallet. Please click on the round item on the upper right corner of the wallet. You would see the Account page as below:
+**Step 1:** Open SubWallet. Please click on the round item on the upper right corner of the wallet. You would see the Account section as below:
 
 <img src="../../.gitbook/assets/Screenshot 2023-01-03 170546 (1).png" alt="" data-size="original">
 
