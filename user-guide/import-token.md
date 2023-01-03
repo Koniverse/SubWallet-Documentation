@@ -16,6 +16,6 @@ description: To add your token to SubWallet
 
 ![](<../.gitbook/assets/Screenshot 2023-01-03 182007.png>)
 
-Please note that we do not ACTIVELY support your manually imported tokens; therefore, if you engage in transactions such as sending and receiving of these tokens, we would show you the exact responses of the contract specified by the contract address that you have provided.&#x20;
+Please note that we do not ACTIVELY support your manually imported tokens; therefore, if you engage in transactions such as sending and receiving of these tokens, we would show you the exact responses from the contract specified by the contract address that you have provided.&#x20;
 
 We are happy to support with any issues you have via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet), but please note that our developers would not have full knowledge of your manually imported tokens.&#x20;
