@@ -18,4 +18,4 @@ Step 2: Input your password to authorize the transaction and click "Confirm".&#x
 
 ![](<../../.gitbook/assets/Screenshot 2023-01-04 105730.png>) ![](<../../.gitbook/assets/Screenshot 2023-01-04 105836.png>)
 
-We do not track your transactions, so we would not be able to tell you how much exactly you have claimed. Please notice changes in your balance of the specific token you have claimed; an increase in your balance would be a sign of staking rewards.&#x20;
+We do not track your transactions, so we would not be able to tell you exactly how much you have claimed. Please notice changes in your balance of the specific token you have claimed; an increase in your balance would be a sign of staking rewards.&#x20;
