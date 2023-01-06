@@ -9,9 +9,9 @@ Please choose the stake that you want to claim rewards from and click the three 
 
 
 {% hint style="info" %}
-For nominator staking (displayed on the screen as Nominated balance), we currently have not yet supported claiming rewards for all the tokens. Please check the specific tokens you want to claim; if the drop down menu does not have the claim rewards button, it means we are currently not supporting claiming rewards for it.
+For nominator staking (displayed on the screen as "Nominated balance"), we currently have not yet supported claiming rewards for all the tokens. Please check the specific tokens you want to claim; if the drop down menu does not have the claim rewards button, it means we are currently not supporting claiming rewards for it.
 
-For pooled nomination staking, we currently support all tokens. So if your stake is identified as "Pooled balance", you can claim rewards for it.&#x20;
+For nomination pool staking, we currently support all tokens. So if your stake is identified as "Pooled balance", you can claim rewards for it.&#x20;
 {% endhint %}
 
 **Step 2**: Input your password to authorize the transaction and click "Confirm".&#x20;

@@ -55,6 +55,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 49. [Calamari](https://app.manta.network/calamari/stake)
 50. [Spacers NFT](https://spacers.app/)
 51. [notifi](https://notifi.network/)
+52. [TF Alpha DAO](https://tfalpha.xyz/)
 
 ## Incoming Integration
 
