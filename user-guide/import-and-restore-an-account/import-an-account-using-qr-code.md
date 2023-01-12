@@ -2,11 +2,11 @@
 
 **Step 1:** Open SubWallet. Please click on the round item on the upper right corner of the wallet. You would see the Account section as below:
 
-<img src="../../.gitbook/assets/Screenshot 2023-01-03 170546 (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/Screenshot 2023-01-12 153055.png>)
 
 The option "Import account by QR code" might be disabled and the wallet might not respond if you try to click it. Don't worry! This happens because we need to ask for permission to use your camera first. Please click on the "Setting" button in the bottom right corner.
 
-<img src="../../.gitbook/assets/Screenshot 2023-01-03 170840.png" alt="" data-size="original">
+![](<../../.gitbook/assets/Screenshot 2023-01-12 153653.png>)
 
 In the Setting screen, please allow QR camera access and repeat Step 1. The option should be enabled!
 
@@ -20,4 +20,4 @@ After scanning the QR, please name your new wallet and click the "Add the accoun
 
 Your new account should be ready for use after this step.&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/QR3.png)
