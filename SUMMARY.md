@@ -26,6 +26,7 @@
   * [Unstake tokens](user-guide/manage-staking/unstake-tokens.md)
   * [Withdraw token](user-guide/manage-staking/withdraw-token.md)
   * [Claim rewards](user-guide/manage-staking/claim-rewards.md)
+  * [Staking compound](user-guide/manage-staking/staking-compound.md)
 * [Export and Backup an Account](user-guide/export-and-backup-an-account.md)
 
 ## DAPPS USER GUIDE
