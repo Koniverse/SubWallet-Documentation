@@ -18,6 +18,7 @@
 * [Import Token](user-guide/import-token.md)
 * [Select Custom Networks](user-guide/select-custom-networks.md)
 * [Transfer and Receive Assets](user-guide/transfer-and-receive-assets.md)
+* [Buy crypto from fiat money](user-guide/buy-crypto-from-fiat-money.md)
 * [Perform XCM Transfer](user-guide/perform-xcm-transfer.md)
 * [Collect and Transfer NFTs](user-guide/collect-and-transfer-nfts.md)
 * [Manage Crowdloan](user-guide/manage-crowdloan.md)
