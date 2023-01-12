@@ -8,7 +8,7 @@ description: >-
 
 Step 1: Open SubWallet. Please click on the round item on the upper right corner of the wallet. You would see the Account section as below:
 
-![](<../../.gitbook/assets/Screenshot 2022-12-30 111804 (1).png>)&#x20;
+![](<../../.gitbook/assets/Screenshot 2023-01-12 154119.png>)&#x20;
 
 Please select the option "Attach read-only account". \
 
