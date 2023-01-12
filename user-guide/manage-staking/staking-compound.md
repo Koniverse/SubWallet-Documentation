@@ -21,3 +21,7 @@ After successfully compound your stake, if you repeat Step 1, you would see the 
 If you want to cancel the task, click the "Cancel task" button, input password and confirm your decision.
 
 ![](<../../.gitbook/assets/Screenshot 2023-01-12 124212.png>)
+
+{% hint style="info" %}
+We currently have not yet supported compound staking for all the tokens. Please check the specific tokens you want to compound; if the drop down menu does not have the compound button, it means we are currently not supporting compound staking for it.
+{% endhint %}
