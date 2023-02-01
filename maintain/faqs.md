@@ -195,7 +195,9 @@ The result you see on the right side of the screen is your corresponding EVM add
 
 
 
-&#x20;
+## I cannot use  dApp after connecting dApp with SubWallet extension
 
+This issue can happen if you have multiple extension wallets with your browser. Extension wallets can cause conflict among each other.
 
+We would suggest you disable other extension wallets and reconnect SubWallet. If that also does not work, please reach out to us via via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).&#x20;
 
