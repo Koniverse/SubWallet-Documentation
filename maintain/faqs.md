@@ -83,7 +83,7 @@ The unstake feature can be unavailabe if you haven’t yet withdrawn the amount 
 
 ## Where can I withdraw my unstaked amount?
 
-Before withdrawing your unstaked assets, please make sure that you are NOT in All Accounts mode, since this is a read-only mode. Then please follow the instruction for unstaking & withdrawing [here](../user-guide/manage-staking/).&#x20;
+Before withdrawing your unstaked assets, please make sure that you are NOT in All Accounts mode, since this is a read-only mode. Then please follow the instruction for unstaking & withdrawing [here](../extension-user-guide/manage-staking/).&#x20;
 
 
 
@@ -153,7 +153,7 @@ Before signing a transaction, please make sure that the remaining balance in you
 
 It might be the case that the endpoint (provider) are disconnected. Please follow these steps to change provider for such network:
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
+![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
 
 
 

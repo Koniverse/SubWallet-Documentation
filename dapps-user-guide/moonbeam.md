@@ -7,11 +7,11 @@ description: Your Moonbeam wallet is here.
 ## Connect SubWallet to Moonbeam&#x20;
 
 {% hint style="info" %}
-For instructions on creating **Moonbeam** wallet including EVM and Substrate accounts with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
+For instructions on creating **Moonbeam** wallet including EVM and Substrate accounts with SubWallet, please visit [create-an-account](../extension-user-guide/create-an-account/ "mention")
 {% endhint %}
 
 {% hint style="info" %}
-If you want to import your Moonbeam wallets (accounts) from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
+If you want to import your Moonbeam wallets (accounts) from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../extension-user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
 
 **Step 1**: Log into [Moonbeam DApp](https://apps.moonbeam.network/moonbeam). Select **SubWallet**, then select the EVM account(s) (Polkadot EVM wallets) you want to connect and hit **Connect**.

@@ -7,7 +7,7 @@ description: The instructions are the same for Singular 1.0 and Singular 2.0.
 ## Connect SubWallet to Singular
 
 {% hint style="info" %}
-For instructions on creating a **RMRK** account with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention") page.
+For instructions on creating a **RMRK** account with SubWallet, please visit [create-an-account](../extension-user-guide/create-an-account/ "mention") page.
 {% endhint %}
 
 **Step 1**: On Singular, hit **Connect**, choose **SubWallet** and click on the account you want to use.

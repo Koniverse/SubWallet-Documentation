@@ -2,33 +2,37 @@
 
 * [Introduction: The Ultimate Polkadot Wallet](README.md)
 
-## User guide
+## Extension - User guide
 
-* [Install SubWallet](user-guide/install-subwallet/README.md)
-  * [Alpha Version](user-guide/install-subwallet/alpha-version.md)
-* [Create an Account](user-guide/create-an-account.md)
-  * [Create a New Account (Wallet)](user-guide/create-an-account/create-a-new-account-wallet.md)
-  * [Create an Additional Account (Wallet)](user-guide/create-an-account/create-an-additional-account-wallet.md)
-* [Import and Restore an Account](user-guide/import-and-restore-an-account/README.md)
-  * [Import an Account using mnemonic seed](user-guide/import-and-restore-an-account/import-an-account-using-mnemonic-seed.md)
-  * [Restore an Account using JSON backup file](user-guide/import-and-restore-an-account/restore-an-account-using-json-backup-file.md)
-  * [Import an Account using private key from MetaMask](user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md)
-  * [Import an Account using QR-code](user-guide/import-and-restore-an-account/import-an-account-using-qr-code.md)
-  * [Attach a read-only account](user-guide/import-and-restore-an-account/attach-a-read-only-account.md)
-* [Import Token](user-guide/import-token.md)
-* [Select Custom Networks](user-guide/select-custom-networks.md)
-* [Transfer and Receive Assets](user-guide/transfer-and-receive-assets.md)
-* [Buy crypto from fiat money](user-guide/buy-crypto-from-fiat-money.md)
-* [Perform XCM Transfer](user-guide/perform-xcm-transfer.md)
-* [Collect and Transfer NFTs](user-guide/collect-and-transfer-nfts.md)
-* [Manage Crowdloan](user-guide/manage-crowdloan.md)
-* [Manage Staking](user-guide/manage-staking/README.md)
-  * [Stake tokens](user-guide/manage-staking/stake-tokens.md)
-  * [Unstake tokens](user-guide/manage-staking/unstake-tokens.md)
-  * [Withdraw token](user-guide/manage-staking/withdraw-token.md)
-  * [Claim rewards](user-guide/manage-staking/claim-rewards.md)
-  * [Staking compound](user-guide/manage-staking/staking-compound.md)
-* [Export and Backup an Account](user-guide/export-and-backup-an-account.md)
+* [Install SubWallet](extension-user-guide/install-subwallet/README.md)
+  * [Alpha Version](extension-user-guide/install-subwallet/alpha-version.md)
+* [Create an Account](extension-user-guide/create-an-account/README.md)
+  * [Create a New Account (Wallet)](extension-user-guide/create-an-account/create-a-new-account-wallet.md)
+  * [Create an Additional Account (Wallet)](extension-user-guide/create-an-account/create-an-additional-account-wallet.md)
+* [Import and Restore an Account](extension-user-guide/import-and-restore-an-account/README.md)
+  * [Import an Account using mnemonic seed](extension-user-guide/import-and-restore-an-account/import-an-account-using-mnemonic-seed.md)
+  * [Restore an Account using JSON backup file](extension-user-guide/import-and-restore-an-account/restore-an-account-using-json-backup-file.md)
+  * [Import an Account using private key from MetaMask](extension-user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md)
+  * [Import an Account using QR-code](extension-user-guide/import-and-restore-an-account/import-an-account-using-qr-code.md)
+  * [Attach a read-only account](extension-user-guide/import-and-restore-an-account/attach-a-read-only-account.md)
+* [Import Token](extension-user-guide/import-token.md)
+* [Select Custom Networks](extension-user-guide/select-custom-networks.md)
+* [Transfer and Receive Assets](extension-user-guide/transfer-and-receive-assets.md)
+* [Buy crypto from fiat money](extension-user-guide/buy-crypto-from-fiat-money.md)
+* [Perform XCM Transfer](extension-user-guide/perform-xcm-transfer.md)
+* [Collect and Transfer NFTs](extension-user-guide/collect-and-transfer-nfts.md)
+* [Manage Crowdloan](extension-user-guide/manage-crowdloan.md)
+* [Manage Staking](extension-user-guide/manage-staking/README.md)
+  * [Stake tokens](extension-user-guide/manage-staking/stake-tokens.md)
+  * [Unstake tokens](extension-user-guide/manage-staking/unstake-tokens.md)
+  * [Withdraw token](extension-user-guide/manage-staking/withdraw-token.md)
+  * [Claim rewards](extension-user-guide/manage-staking/claim-rewards.md)
+  * [Staking compound](extension-user-guide/manage-staking/staking-compound.md)
+* [Export and Backup an Account](extension-user-guide/export-and-backup-an-account.md)
+
+## 📳 Mobile App - User Guide
+
+* [Install Mobile App](mobile-app-user-guide/install-mobile-app.md)
 
 ## DAPPS USER GUIDE
 

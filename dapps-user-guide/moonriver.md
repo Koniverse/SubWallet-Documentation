@@ -3,11 +3,11 @@
 ## Connect SubWallet to Moonriver
 
 {% hint style="info" %}
-For instructions on creating **Moonriver** EVM and Substrate accounts with SubWallet, please visit [create-an-account.md](../user-guide/create-an-account.md "mention")
+For instructions on creating **Moonriver** EVM and Substrate accounts with SubWallet, please visit [create-an-account](../extension-user-guide/create-an-account/ "mention")
 {% endhint %}
 
 {% hint style="info" %}
-If you want to import your accounts from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
+If you want to import your accounts from MetaMask into SubWallet, go to [import-an-account-using-private-key-from-metamask.md](../extension-user-guide/import-and-restore-an-account/import-an-account-using-private-key-from-metamask.md "mention")
 {% endhint %}
 
 **Step 1**: Log into [Moonriver DApp](https://apps.moonbeam.network/moonriver). Select **SubWallet**, then select the EVM account(s) you want to connect and hit **Connect**.

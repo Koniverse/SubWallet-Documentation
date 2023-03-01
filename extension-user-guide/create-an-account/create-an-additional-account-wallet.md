@@ -8,7 +8,7 @@ description: Additional Polkadot Native Wallets and/or Polkadot EVM Wallets.
 
 If you would like to create and manage multiple SubWallet accounts, you could do so simply by creating new accounts.
 
-Click the round favicon icon at the top right of your wallet and hit **Create new account**. Then repeat the steps in [create-an-account.md](../create-an-account.md "mention") to create an additional Polkadot Native Wallet and/or Polkadot EVM Wallet.
+Click the round favicon icon at the top right of your wallet and hit **Create new account**. Then repeat the steps in [.](./ "mention") to create an additional Polkadot Native Wallet and/or Polkadot EVM Wallet.
 
 ![1.1](<../../.gitbook/assets/additional account.png>) ![1.2](<../../.gitbook/assets/additional account 2.png>) ![1.3](<../../.gitbook/assets/additional account 3.png>)
 
