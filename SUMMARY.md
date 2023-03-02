@@ -4,8 +4,7 @@
 
 ## Extension - User guide
 
-* [Install SubWallet](extension-user-guide/install-subwallet/README.md)
-  * [Alpha Version](extension-user-guide/install-subwallet/alpha-version.md)
+* [Install SubWallet](extension-user-guide/install-subwallet.md)
 * [Create an Account](extension-user-guide/create-an-account/README.md)
   * [Create a New Account (Wallet)](extension-user-guide/create-an-account/create-a-new-account-wallet.md)
   * [Create an Additional Account (Wallet)](extension-user-guide/create-an-account/create-an-additional-account-wallet.md)
