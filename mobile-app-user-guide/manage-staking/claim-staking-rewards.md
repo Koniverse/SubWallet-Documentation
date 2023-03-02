@@ -1,2 +1,0 @@
-# Claim staking rewards
-

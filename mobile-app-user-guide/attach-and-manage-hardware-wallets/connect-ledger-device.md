@@ -1,2 +1,0 @@
-# Connect Ledger device
-

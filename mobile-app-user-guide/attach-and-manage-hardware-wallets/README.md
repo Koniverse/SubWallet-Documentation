@@ -4,6 +4,6 @@
 [attach-qr-signer-account.md](attach-qr-signer-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="connect-ledger-device.md" %}
-[connect-ledger-device.md](connect-ledger-device.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
