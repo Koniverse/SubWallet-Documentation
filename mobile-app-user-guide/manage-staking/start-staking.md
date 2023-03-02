@@ -17,11 +17,11 @@ In case you have staked before, even not through SubWallet, the staking tab woul
 ![](<../../.gitbook/assets/image (33).png>)
 
 **Step 4**: Select a collator. \
-The wallet displays the number of people participating in staking for a particular collator, and the **annualized** percentage yield (APY) on staking for such collator. We suggest you choose collators that are (i) not "overcrowded" and (ii) report a significantly high annual return.
+The wallet displays the number of people participating in staking for a particular validator/collator/dApp, and the **annualized** percentage yield (APY) on staking for such validator/collator/dApp. We suggest you choose validators/collators/dApps that are (i) not "overcrowded" and (ii) report a significantly high annual return.
 
 ![](<../../.gitbook/assets/image (44).png>)
 
-**Step 5**: Check the information. If you still want to stake for this validator, please click **Start staking**.&#x20;
+**Step 5**: Check the information. If you still want to stake for this validator/collator/dApp, please click **Start staking**.&#x20;
 
 ![](<../../.gitbook/assets/image (5).png>)
 
