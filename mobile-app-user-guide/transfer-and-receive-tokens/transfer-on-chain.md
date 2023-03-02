@@ -9,12 +9,12 @@
 ![](<../../.gitbook/assets/image (125).png>)
 
 {% hint style="info" %}
-The above display applies when you start the action from the "All accounts" mode.&#x20;
-
+The above display applies when you start the action from the "All accounts" mode. \
 \
 If you start from a single-account mode, the wallet would automatically fill in the "from account" section with the address of the account you are currently in. You would not have to manually select a sending account. \
 \
 To see if you are in the "All accounts" mode or a single-account mode, please look at the account name on top of the home screen:\
+\
 ![](<../../.gitbook/assets/image (75).png>)![](<../../.gitbook/assets/image (139).png>)
 {% endhint %}
 

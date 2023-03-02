@@ -19,8 +19,7 @@ If you have assets on both EVM chains and Substrate chains that associate with t
 
 ![](<../../.gitbook/assets/image (79).png>)
 
-**Step 4**: Name your account and set up a password
-
+**Step 4**: Name your account and set up a password\
 This password would be crucial, as we would ask you to provide password for every transaction. \
 \
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore or change password. Please make sure that your password is well-kept.

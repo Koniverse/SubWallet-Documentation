@@ -14,9 +14,11 @@ SubWallet does support XCM (cross-chain) transfer. Below is an example of XCM tr
 The above display applies when you start the action from the "All accounts" mode.&#x20;
 
 \
-If you start from a single-account mode, the wallet would automatically fill in the "from account" section with the address of the account you are currently in. You would not have to manually select a sending account.&#x20;
+If you start from a single-account mode, the wallet would automatically fill in the "from account" section with the address of the account you are currently in. You would not have to manually select a sending account. \
 
-To see if you are in the "All accounts" mode or a single-account mode, please look at the account name on top of the home screen:
+
+To see if you are in the "All accounts" mode or a single-account mode, please look at the account name on top of the home screen:\
+
 
 ![](<../../.gitbook/assets/image (83).png>)![](<../../.gitbook/assets/image (60).png>)
 {% endhint %}

@@ -12,8 +12,7 @@
 
 ![](<../../.gitbook/assets/image (69).png>)
 
-**Step 4**: Please set up a password for your new account, then click "Import Account".
-
+**Step 4**: Please set up a password for your new account, then click "Import Account".\
 This password would be crucial, as we would ask you to provide password for every transaction. \
 \
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore or change password. Please make sure that your password is well-kept.

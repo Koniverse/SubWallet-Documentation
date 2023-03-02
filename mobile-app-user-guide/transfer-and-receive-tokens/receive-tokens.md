@@ -22,8 +22,7 @@ If you are already in a single-account mode, the wallet would jump directly from
 
 ![](<../../.gitbook/assets/image (121).png>)
 
-**Step 4**: Get your wallet address & share it with your sender!
-
+**Step 4**: Get your wallet address & share it with your sender!\
 You can get the address in text form by clicking the icon next to the wallet address, or share the QR code version.&#x20;
 
 If you click the "Share" button on the screen, the wallet would treat your wallet address as a message and ask you to send via messaging application such as Telegtam, WhatsApp, etc...

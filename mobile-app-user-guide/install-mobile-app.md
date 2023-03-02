@@ -10,10 +10,7 @@ description: >-
 ## For iOS device:
 
 **Step 1**: Open the following [link](https://testflight.apple.com/join/ZW3pUbWj) on Testflight (if you use an iOS device) \
-\
-Please note that if you use an iOS device, you would not find SubWallet in AppStore. Please install the TestFlight application first.&#x20;
-
-\
+Please note that if you use an iOS device, you would not find SubWallet in AppStore. Please install the TestFlight application first. \
 Once you have TestFlight installed, when you click at the link above, TestFlight would ask if you want to join the public test for SubWallet Mobile. Please click "Accept". &#x20;
 
 ![](<../.gitbook/assets/image (2) (1).png>)\

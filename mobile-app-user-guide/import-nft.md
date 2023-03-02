@@ -12,8 +12,7 @@ Step 3: Enter NFT contract address, choose the network, then click "Import NFT"
 
 ![](<../.gitbook/assets/image (89).png>)
 
-A successful import of NFT would look like the following image:\
-
+A successful import of NFT would look like the following image:
 
 ![](<../.gitbook/assets/image (61).png>)
 

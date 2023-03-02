@@ -1,9 +1,10 @@
+---
+description: Add your customized tokens to manage them with SubWallet.
+---
+
 # Import token
 
-Add your customized tokens to manage them with SubWallet.
-
-**Step 1**: Open the wallet and click the list item on the top left corner\
-
+**Step 1**: Open the wallet and click the list item on the top left corner
 
 ![](<../.gitbook/assets/image (106).png>)
 

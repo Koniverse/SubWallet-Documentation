@@ -1,9 +1,7 @@
 # If you are new to SubWallet
 
-**Step 1**: Once your mobile app is successfully installed, you can open it directly from your phone to start using.&#x20;
-
-You can create a totally new account with SubWallet or import your existing accounts from other wallets and manage them in SubWallet.
-
+**Step 1**: Once your mobile app is successfully installed, you can open it directly from your phone to start using. \
+You can create a totally new account with SubWallet or import your existing accounts from other wallets and manage them in SubWallet.\
 Please note that while you can start using the app right away with Android devices, with iOS devices, we would have to ask you some additional questions:
 
 ![](<../../.gitbook/assets/image (132).png>)
