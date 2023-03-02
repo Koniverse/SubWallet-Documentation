@@ -62,7 +62,6 @@
   * [Turn on/ turn off your network](mobile-app-user-guide/manage-networks/turn-on-turn-off-your-network.md)
   * [Change network endpoint](mobile-app-user-guide/manage-networks/change-network-endpoint.md)
 * [Synchronize between SubWallet mobile app & SubWallet browser extension](mobile-app-user-guide/synchronize-between-subwallet-mobile-app-and-subwallet-browser-extension.md)
-* [FAQs](mobile-app-user-guide/faqs.md)
 
 ## DAPPS USER GUIDE
 

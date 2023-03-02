@@ -1,10 +1,10 @@
 # Start staking
 
-**Step 1**: Please make sure you are NOT in the All accounts mode. Please choose a specific account, and click the tab "Staking".
+**Step 1**: Please make sure you are NOT in the All accounts mode. Please choose a specific account, and click the tab **Staking**.
 
 ![](<../../.gitbook/assets/image (24).png>)
 
-**Step 2**: In the Staking tab, please choose "Start staking".
+**Step 2**: In the **Staking** tab, please choose **Start staking**.
 
 ![](<../../.gitbook/assets/image (7).png>)
 
@@ -12,7 +12,7 @@ In case you have staked before, even not through SubWallet, the staking tab woul
 
 ![](<../../.gitbook/assets/image (37).png>)
 
-**Step 3**: Select the network you want to stake on
+**Step 3**: Select the network you want to stake on.
 
 ![](<../../.gitbook/assets/image (33).png>)
 
@@ -21,19 +21,19 @@ The wallet displays the number of people participating in staking for a particul
 
 ![](<../../.gitbook/assets/image (44).png>)
 
-**Step 5**: Check the information. If you still want to stake for this validator, please click "Start staking".&#x20;
+**Step 5**: Check the information. If you still want to stake for this validator, please click **Start staking**.&#x20;
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-**Step 6**: Enter the amount you want to stake and click "Continue"
+**Step 6**: Enter the amount you want to stake and click **Continue**.
 
 ![](<../../.gitbook/assets/image (36).png>)
 
-**Step 7**: Review your transaction. If you still want to proceed, please click "Continue".&#x20;
+**Step 7**: Review your transaction. If you still want to proceed, please click **Continue**.&#x20;
 
 ![](<../../.gitbook/assets/image (35).png>)
 
-**Step 8**: Enter your password and click "Confirm"
+**Step 8**: Enter your password and click **Confirm**.
 
 ![](<../../.gitbook/assets/image (41).png>)
 

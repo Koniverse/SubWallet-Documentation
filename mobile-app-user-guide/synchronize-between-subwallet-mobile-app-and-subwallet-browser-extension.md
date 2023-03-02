@@ -17,11 +17,11 @@ In your home screen, please click the list item on the right corner.
 
 ![](<../.gitbook/assets/image (42).png>)
 
-**Step 2**: In the menu, click "Export account".
+**Step 2**: In the menu, click **Export account**.
 
 ![](<../.gitbook/assets/image (30).png>)
 
-**Step 3**: Enter your password and choose the QR option.
+**Step 3**: Enter your password and choose the **QR** option.
 
 ![](<../.gitbook/assets/image (25).png>)
 

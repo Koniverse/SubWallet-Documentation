@@ -1,10 +1,10 @@
 # Attach QR signer account
 
-**Step 1**: Open SubWallet and click on the account name to get to the add account section. Then click "Add/connect account" or the "+" button.
+**Step 1**: Open SubWallet and click on the account name to get to the add account section. Then click **Add/connect account** or the **\[+]** button.
 
 ![](<../../.gitbook/assets/image (46).png>)![](<../../.gitbook/assets/image (55).png>)
 
-**Step 2**: Choose "Attach QR signer account"
+**Step 2**: Choose **Attach QR signer account**.
 
 ![](<../../.gitbook/assets/image (32).png>)
 
@@ -12,7 +12,7 @@
 
 ![](<../../.gitbook/assets/image (38).png>)
 
-**Step 4**: Click "Attach account"
+**Step 4**: Click **Attach account**.
 
 ![](<../../.gitbook/assets/image (9).png>)
 

@@ -1,11 +1,11 @@
 # Turn on/ turn off your network
 
 **Step 1**: Open your wallet and click the list item at the top corner to\
-get to the Setting section.&#x20;
+get to the **Setting** section.&#x20;
 
 ![](<../../.gitbook/assets/image (27).png>)
 
-**Step 2**: Click "Network"
+**Step 2**: Click **Network.**
 
 ![](<../../.gitbook/assets/image (58).png>)
 

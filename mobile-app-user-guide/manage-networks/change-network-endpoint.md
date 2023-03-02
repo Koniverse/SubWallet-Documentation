@@ -16,6 +16,6 @@ For example, with Kusama network:
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-**Step 3**: Choose a provider and click "Done".
+**Step 3**: Choose a provider and click **Done**.
 
 ![](<../../.gitbook/assets/image (18).png>)

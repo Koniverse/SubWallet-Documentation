@@ -1,22 +1,22 @@
 # In-app browser
 
-**Step 1**: Open the wallet and click the "Browser" tab\
+**Step 1**: Open the wallet and click the **Browser** tab.\
 Then use the search bar to search for the application you want to use.
 
 ![](<../.gitbook/assets/image (39).png>)
 
-In this example, we are connecting with [dotinsights.xyz](https://dotinsights.subwallet.app/)
+In this example, we are connecting with [**dotinsights.xyz**](https://dotinsights.subwallet.app/)****
 
-**Step 2**: In the dApp, find the "Connect Wallet" button. Depends on the dApp, this option would be in different locations.\
-In this case, the "Connect Wallet" button is placed in a navigation list.&#x20;
+**Step 2**: In the dApp, find the **Connect Wallet** button. Depends on the dApp, this option would be in different locations.\
+In this case, the Connect Wallet button is placed in a navigation list.&#x20;
 
 ![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (57).png>)
 
-**Step 3**: Click the "Connect Wallet" button and choose SubWallet.
+**Step 3**: Click the **Connect Wallet** button and choose SubWallet.
 
 ![](<../.gitbook/assets/image (14).png>)
 
-**Step 4**: Choose the accounts you want to use and click "Connect" to approve request for dApp connection.
+**Step 4**: Choose the accounts you want to use and click **Connect** to approve request for dApp connection.
 
 ![](<../.gitbook/assets/image (6).png>)
 

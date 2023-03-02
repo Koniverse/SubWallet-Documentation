@@ -8,11 +8,11 @@ description: >-
 
 ## If you are new to SubWallet
 
-**Step 1**: Open the wallet and choose "Import an existing account"
+**Step 1**: Open the wallet and choose **Import an existing account.**
 
 ![](<../../.gitbook/assets/image (80).png>)
 
-**Step 2**: Please choose the desired method to import your account
+**Step 2**: Please choose the desired method to import your account.
 
 ![](<../../.gitbook/assets/image (91).png>)
 
@@ -23,15 +23,15 @@ description: >-
 
 ## If you have already had an account with SubWallet
 
-**Step 1**: Open the wallet and click your account name to get to the list of all your accounts
+**Step 1**: Open the wallet and click your account name to get to the list of all your accounts.
 
 ![](<../../.gitbook/assets/image (131).png>)
 
-**Step 2**: Click the "+" button
+**Step 2**: Click the **\[+]** button.
 
 ![](<../../.gitbook/assets/image (82).png>)
 
-**Step 3**: Please choose the desired method to import your account
+**Step 3**: Please choose the desired method to import your account.
 
 ![](<../../.gitbook/assets/image (124).png>)
 

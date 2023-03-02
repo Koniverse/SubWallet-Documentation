@@ -8,9 +8,9 @@ Please note that while you can start using the app right away with Android devic
 
 ![](<../../.gitbook/assets/image (99).png>)
 
-Please click  "Next" and "Start Testing" to start using the app.
+Please click  **Next** and **Start Testing** to start using the app.
 
-**Step 2**: Please choose the option Create a new account
+**Step 2**: Please choose the option **Create a new account**.
 
 ![](<../../.gitbook/assets/image (96).png>)
 
@@ -24,23 +24,23 @@ The difference between Substrate and EVM account is the kind of chains they mana
 ![](<../../.gitbook/assets/image (137).png>)
 
 **Step 5**: Verify your secret phrase.\
-We would ask you to organize the words in the same order as the secret phrase revealed to you in the previous step. Once you get the order right, please click "Continue".&#x20;
+We would ask you to organize the words in the same order as the secret phrase revealed to you in the previous step. Once you get the order right, please click **Continue**.&#x20;
 
 ![](<../../.gitbook/assets/image (140).png>)
 
-**Step 6**: Name your wallet and create a password\
-This password would be crucial, as we would ask you to provide password for every transaction. \
+**Step 6**: Name your wallet and create a password.\
+This password would be crucial, as we would ask you to provide password for every transaction.\
 \
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore or change password. Please make sure that your password is well-kept.
 
 ![](<../../.gitbook/assets/image (88).png>)
 
-**Step 7**: Account successfully created\
+**Step 7**: Account successfully created.\
 After creating a password, you are good to go!&#x20;
 
 ![](<../../.gitbook/assets/image (127).png>)
 
 You can manage different accounts with SubWallet. To switch account, please click on the account name and choose the specific account you want to use. \
-We also have the All accounts mode, which would allow you to have an overview of your assets.
+We also have the **All accounts** mode, which would allow you to have an overview of your assets.
 
 ![](<../../.gitbook/assets/image (128).png>)![](<../../.gitbook/assets/image (94).png>)

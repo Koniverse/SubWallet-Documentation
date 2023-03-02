@@ -10,12 +10,12 @@ description: >-
 ## For iOS device:
 
 **Step 1**: Open the following [link](https://testflight.apple.com/join/ZW3pUbWj) on Testflight (if you use an iOS device) \
-Please note that if you use an iOS device, you would not find SubWallet in AppStore. Please install the TestFlight application first. \
-Once you have TestFlight installed, when you click at the link above, TestFlight would ask if you want to join the public test for SubWallet Mobile. Please click "Accept". &#x20;
+Please note that if you use an iOS device, you would not find **SubWallet** in AppStore. Please install the TestFlight application first. \
+Once you have TestFlight installed, when you click on the link above, TestFlight would ask if you want to join the public test for SubWallet Mobile. Please click **Accept**. &#x20;
 
 ![](<../.gitbook/assets/image (2) (1).png>)\
 \
-**Step 2**: Click "Install" after you accept the test request.&#x20;
+**Step 2**: Click **Install** after you accept the test request.&#x20;
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 
@@ -25,11 +25,11 @@ Once successfully installed, you would see the SubWallet mobile app on your devi
 
 ## For Android device
 
-**Step 1**: Open Play Store and search for SubWallet.
+**Step 1**: Open Play Store and search for **SubWallet**.
 
 ![](<../.gitbook/assets/image (100).png>)
 
-**Step 2**: Click "Install"\
+**Step 2**: Click **Install**\
 Once the application is successfully installed, you would see the SubWallet mobile app on your device.&#x20;
 
 ![](<../.gitbook/assets/image (110).png>)
