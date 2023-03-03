@@ -25,4 +25,4 @@ You can get the address in text form by clicking the icon next to the wallet add
 
 If you click the **Share** button on the screen, the wallet would treat your wallet address as a message and ask you to send via messaging application such as Telegtam, WhatsApp, etc...
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49) (1).png>)

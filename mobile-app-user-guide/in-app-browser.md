@@ -14,11 +14,11 @@ In this case, the Connect Wallet button is placed in a navigation list.&#x20;
 
 **Step 3**: Click the **Connect Wallet** button and choose SubWallet.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 **Step 4**: Choose the accounts you want to use and click **Connect** to approve request for dApp connection.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 **Step 5**: After your accounts are succesfully connected with the dApp, you can switch between different accounts directly on the dApp.&#x20;
 

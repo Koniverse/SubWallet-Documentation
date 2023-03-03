@@ -19,7 +19,7 @@ In your home screen, please click the list item on the right corner.
 
 **Step 2**: In the menu, click **Export account**.
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
 
 **Step 3**: Enter your password and choose the **QR** option.
 
@@ -27,7 +27,7 @@ In your home screen, please click the list item on the right corner.
 
 **Step 4**: Your QR address has been generated.&#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ## To import the generated QR address into SubWallet mobile.&#x20;
 

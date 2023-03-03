@@ -50,9 +50,9 @@ You can change the account you want to use to buy NFT within the Singular dApp, 
 
 **Step 8**: The NFT is now yours! Note that your address has been displayed in the **Owned by** section. You can also list your NFT for sale.  &#x20;
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 **Step 9**: The NFT you have bought is also visible in SubWallet. Click the NFT tab to view your NFTs. \
-Click here for a detailed instruction on how to [view your NFTs](send-nft.md).![](<../../.gitbook/assets/image (15).png>)
+Click here for a detailed instruction on how to [view your NFTs](send-nft.md).![](<../../.gitbook/assets/image (15) (1).png>)
 
 ****

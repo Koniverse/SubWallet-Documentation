@@ -10,7 +10,7 @@
 
 **Step 3**: Scan the QR code from your QR signer wallet such as Keystone, Parity Signer, Stylo...
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (1).png>)
 
 **Step 4**: Click **Attach account**.
 

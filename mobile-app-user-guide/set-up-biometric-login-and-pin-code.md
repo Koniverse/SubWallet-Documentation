@@ -8,7 +8,7 @@
 
 **Step 2**: Choose **Security.**
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 **Step 3**: Click the toggle next to **PIN code.**
 
@@ -16,7 +16,7 @@
 
 **Step 4**: Choose a 6-digit PIN code and click **Continue.**
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 **Step 5**: Repeat your PIN code to verify, then click **Continue.**
 
@@ -33,4 +33,4 @@ SubWallet would direct you back to the **Security** section, this time you can s
 **Step 2**: Enable the **Face ID/ Touch ID** feature.\
 Please note that you would need to set up **Face ID**/ **Touch ID** on your own device before using it with SubWallet.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)

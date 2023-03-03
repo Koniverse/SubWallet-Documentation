@@ -6,7 +6,7 @@
 
 **Step 2**: In the **Staking** tab, please choose **Start staking**.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 In case you have staked before, even not through SubWallet, the staking tab would still display information about your stakings, as the following image:
 
@@ -31,7 +31,7 @@ The wallet displays the number of people participating in staking for a particul
 
 **Step 7**: Review your transaction. If you still want to proceed, please click **Continue**.&#x20;
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 **Step 8**: Enter your password and click **Confirm**.
 
@@ -39,4 +39,4 @@ The wallet displays the number of people participating in staking for a particul
 
 Depends on your network connection or blockchain processing time, it might take a while to finalize your transaction. Please be patient!
 
-![](<../../.gitbook/assets/image (31).png>)\
+![](<../../.gitbook/assets/image (31) (1).png>)\
