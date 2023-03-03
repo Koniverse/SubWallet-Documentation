@@ -7,7 +7,7 @@
 **Step 1:** Connect Ledger to your computer using the USB cable. Please make sure to enter your PIN code.\
 Press the right button to go up, left button to go down and both buttons simultaneously to validate.
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/Screenshot 2023-03-03 at 18.02.40.png>)
 
 **Step 2**: Use 2 buttons of the Ledger to move back and forth and choose **Close exit control center** section by pushing both buttons at the same time.
 
