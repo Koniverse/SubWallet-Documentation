@@ -73,4 +73,4 @@ If you see **Polkadot ready** screen as below, your DOT is successfully staked i
 
 You can also check out the staking details on Polkadot Dashboard or right in SubWallet **Staking** section.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/Screenshot 2023-03-03 at 09.59.04.png>)
