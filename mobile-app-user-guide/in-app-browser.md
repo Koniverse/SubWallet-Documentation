@@ -5,7 +5,7 @@ Then use the search bar to search for the application you want to use.
 
 ![](<../.gitbook/assets/image (39).png>)
 
-In this example, we are connecting with [**dotinsights.xyz**](https://dotinsights.subwallet.app/)****
+In this example, we are connecting with [**dotinsights.xyz**](https://dotinsights.subwallet.app/)
 
 **Step 2**: In the dApp, find the **Connect Wallet** button. Depends on the dApp, this option would be in different locations.\
 In this case, the Connect Wallet button is placed in a navigation list.&#x20;

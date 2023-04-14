@@ -43,7 +43,7 @@
   * [Import by QR code](mobile-app-user-guide/import-an-existing-account/import-by-qr-code.md)
 * [Transfer & receive tokens](mobile-app-user-guide/transfer-and-receive-tokens/README.md)
   * [Receive tokens](mobile-app-user-guide/transfer-and-receive-tokens/receive-tokens.md)
-  * [Transfer on-chain](mobile-app-user-guide/transfer-and-receive-tokens/transfer-on-chain.md)
+  * [Transfer single-chain](mobile-app-user-guide/transfer-and-receive-tokens/transfer-single-chain.md)
   * [Transfer cross-chain](mobile-app-user-guide/transfer-and-receive-tokens/transfer-cross-chain.md)
 * [Import NFT](mobile-app-user-guide/import-nft.md)
 * [Import token](mobile-app-user-guide/import-token.md)

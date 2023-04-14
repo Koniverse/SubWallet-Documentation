@@ -36,7 +36,7 @@ Please choose **Connect Ledger device**, you would see the **Import Ledger Accou
 **Step 2:** Click on the toggle next to **Select Network** and select a network of your choice.\
 Don’t forget to fill in the name for your account and choose your account type by clicking on the toggle next to **Account type 0.**
 
-****![](<../../../.gitbook/assets/image (11).png>)****![](<../../../.gitbook/assets/image (7).png>)****
+![](<../../../.gitbook/assets/image (11).png>)![](<../../../.gitbook/assets/image (7).png>)
 
 In this example, we are connecting to **Account type 0** named **Polkadot** on **Polkadot Relay Chain**.
 

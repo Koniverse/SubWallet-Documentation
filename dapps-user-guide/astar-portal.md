@@ -26,7 +26,7 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 
 {% embed url="https://www.youtube.com/watch?v=HB_1w8ax4Y8" %}
 
-**Step 1**: On the **** SubWallet extension, select Astar from the drop-down menu at the top. Then click the **Send** icon.&#x20;
+**Step 1**: On the SubWallet extension, select Astar from the drop-down menu at the top. Then click the **Send** icon.&#x20;
 
 ![1.1](../.gitbook/assets/astar2.png) ![1.2](../.gitbook/assets/astar3.png)
 
@@ -56,7 +56,7 @@ If you want to import your accounts from Metamask into SubWallet, go to [import-
 
 ## Withdraw EVM Deposit
 
-**Step 1**: If you send funds from your Metamask account to your SubWallet account, the funds will be available as EVM deposit on Astar Portal. To withdraw the funds, hit **Withdraw,** then click on **Confirm** in the pop-up box. ****&#x20;
+**Step 1**: If you send funds from your Metamask account to your SubWallet account, the funds will be available as EVM deposit on Astar Portal. To withdraw the funds, hit **Withdraw,** then click on **Confirm** in the pop-up box.&#x20;
 
 ![1.1](../.gitbook/assets/astar7.png)
 

@@ -4,8 +4,8 @@
 [receive-tokens.md](receive-tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="transfer-on-chain.md" %}
-[transfer-on-chain.md](transfer-on-chain.md)
+{% content-ref url="transfer-single-chain.md" %}
+[transfer-single-chain.md](transfer-single-chain.md)
 {% endcontent-ref %}
 
 {% content-ref url="transfer-cross-chain.md" %}

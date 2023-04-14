@@ -8,7 +8,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 2. [Karura](https://acala.network/karura)
 3. [Astar Network](https://astar.network/)&#x20;
 4. [Shiden Network](https://shiden.astar.network/)
-5. ****[KodaDOT](https://kodadot.xyz/)
+5. [KodaDOT](https://kodadot.xyz/)
 6. [Bifrost Finance](https://bifrost.finance/)
 7. [Singular (RMRK) 1.0](https://singular.rmrk.app/)
 8. [Singular (RMRK) 2.0](https://singular.app/)

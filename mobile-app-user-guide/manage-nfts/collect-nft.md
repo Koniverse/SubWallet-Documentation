@@ -21,7 +21,7 @@ You can change the account you want to use to buy NFT within the Singular dApp, 
 \
 **Step 1**: Click the Account item on Singular.
 
-![](<../../.gitbook/assets/image (20).png>)****
+![](<../../.gitbook/assets/image (20).png>)
 
 **Step 2**: Click **Select account.**
 
@@ -55,4 +55,3 @@ You can change the account you want to use to buy NFT within the Singular dApp, 
 **Step 9**: The NFT you have bought is also visible in SubWallet. Click the NFT tab to view your NFTs. \
 Click here for a detailed instruction on how to [view your NFTs](send-nft.md).![](<../../.gitbook/assets/image (15) (1).png>)
 
-****

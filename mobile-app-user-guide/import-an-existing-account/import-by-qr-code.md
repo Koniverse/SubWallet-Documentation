@@ -1,6 +1,6 @@
 # Import by QR code
 
-**Step 1**: After following the steps to arrive to the [**Add account**](../create-a-new-account/if-you-already-have-an-account-with-subwallet.md) **** section, please choose the **Import by private key** option.
+**Step 1**: After following the steps to arrive to the [**Add account**](../create-a-new-account/if-you-already-have-an-account-with-subwallet.md) section, please choose the **Import by private key** option.
 
 ![](<../../.gitbook/assets/image (130).png>)
 

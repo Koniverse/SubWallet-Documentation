@@ -71,7 +71,7 @@ The formation, interpretation, and performance of this Agreement and any dispute
 ## **Changes and amendments**
 
 We reserve the right to modify this Agreement or its terms related to the Extension Application and Services at any time at our discretion. When we do, we will revise the updated date at the bottom of this page. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided.\
-﻿****﻿\
+﻿\
 An updated version of this Agreement will be effective immediately upon the posting of the revised Agreement unless otherwise specified. Your continued use of the Extension Application and Services after the effective date of the revised Agreement (or such other act specified at that time) will constitute your consent to those changes.
 
 ## **Acceptance of these terms**

@@ -1,6 +1,6 @@
 # Import by private key
 
-**Step 1**: After following the steps to arrive at the [**Add account**](../create-a-new-account/if-you-already-have-an-account-with-subwallet.md) **** section, please choose the I**mport by private key** option.
+**Step 1**: After following the steps to arrive at the [**Add account**](../create-a-new-account/if-you-already-have-an-account-with-subwallet.md) section, please choose the I**mport by private key** option.
 
 ![](<../../.gitbook/assets/image (105).png>)
 

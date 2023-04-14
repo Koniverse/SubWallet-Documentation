@@ -72,7 +72,7 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 ## **Contacting us**
 
-If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using the details below: ****&#x20;
+If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using the details below:&#x20;
 
 **Email: agent@subwallet.app**\
 \
