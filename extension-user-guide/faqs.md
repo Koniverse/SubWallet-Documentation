@@ -4,7 +4,11 @@
 
 If the extension keeps on loading and does not show balances on all networks like this, try the following steps.
 
-![](<../.gitbook/assets/Screen Shot 2022-04-20 at 11.56.48.png>)
+<div align="center">
+
+<img src="../.gitbook/assets/Screen Shot 2022-04-20 at 11.56.48.png" alt="">
+
+</div>
 
 **Step 1**: Go to [brave://flags/](brave://flags/) and type "websockets" on the Search bar. In the drop-down menu, select **Disabled**.&#x20;
 
@@ -83,7 +87,7 @@ The unstake feature can be unavailabe if you haven’t yet withdrawn the amount 
 
 ## Where can I withdraw my unstaked amount?
 
-Before withdrawing your unstaked assets, please make sure that you are NOT in All Accounts mode, since this is a read-only mode. Then please follow the instruction for unstaking & withdrawing [here](../extension-user-guide/manage-staking/).&#x20;
+Before withdrawing your unstaked assets, please make sure that you are NOT in All Accounts mode, since this is a read-only mode. Then please follow the instruction for unstaking & withdrawing [here](manage-staking/).&#x20;
 
 
 

@@ -29,6 +29,7 @@
   * [Claim rewards](extension-user-guide/manage-staking/claim-rewards.md)
   * [Staking compound](extension-user-guide/manage-staking/staking-compound.md)
 * [Export and Backup an Account](extension-user-guide/export-and-backup-an-account.md)
+* [FAQs](extension-user-guide/faqs.md)
 
 ## 📴 Mobile App - User Guide
 
@@ -63,7 +64,7 @@
   * [Change network endpoint](mobile-app-user-guide/manage-networks/change-network-endpoint.md)
 * [Synchronize between SubWallet mobile app & SubWallet browser extension](mobile-app-user-guide/synchronize-between-subwallet-mobile-app-and-subwallet-browser-extension.md)
 
-## DAPPS USER GUIDE
+## 📰 DAPPS USER GUIDE
 
 * [Moonbeam](dapps-user-guide/moonbeam.md)
 * [Moonriver](dapps-user-guide/moonriver.md)
@@ -79,7 +80,7 @@
 * [Interlay](dapps-user-guide/interlay.md)
 * [Kintsugi](dapps-user-guide/kintsugi.md)
 
-## Privacy & security
+## 🛡 Privacy & security
 
 * [Basic Safety](privacy-and-security/basic-safety.md)
 * [Security](privacy-and-security/security.md)
@@ -95,5 +96,4 @@
 
 ## Maintain
 
-* [FAQs](maintain/faqs.md)
 * [Change Log](maintain/change-log.md)
