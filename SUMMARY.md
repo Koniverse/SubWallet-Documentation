@@ -88,12 +88,12 @@
 * [Privacy Policy](privacy-and-security/privacy-policy.md)
 * [Terms of Service](privacy-and-security/terms-of-service.md)
 
-## Integration
+## 🔌 Integration
 
 * [Supported Network](integration/supported-network.md)
 * [DApp Integrations](integration/dapp-integrations.md)
 * [Integration Instructions](integration/integration-instructions.md)
 
-## Maintain
+## 🍜 Maintain
 
 * [Change Log](maintain/change-log.md)
