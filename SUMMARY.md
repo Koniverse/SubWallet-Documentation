@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction: The Ultimate Polkadot Wallet](README.md)
+* [Introduction](README.md)
 
 ## Extension - User guide
 
