@@ -64,22 +64,6 @@
   * [Change network endpoint](mobile-app-user-guide/manage-networks/change-network-endpoint.md)
 * [Synchronize between SubWallet mobile app & SubWallet browser extension](mobile-app-user-guide/synchronize-between-subwallet-mobile-app-and-subwallet-browser-extension.md)
 
-## 📰 DAPPS USER GUIDE
-
-* [Moonbeam](dapps-user-guide/moonbeam.md)
-* [Moonriver](dapps-user-guide/moonriver.md)
-* [Acala](dapps-user-guide/acala.md)
-* [Karura](dapps-user-guide/karura.md)
-* [Astar Portal](dapps-user-guide/astar-portal.md)
-* [Shiden Portal](dapps-user-guide/shiden-portal.md)
-* [KodaDOT](dapps-user-guide/kodadot.md)
-* [Bifrost](dapps-user-guide/bifrost.md)
-* [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
-* [Phala Network](dapps-user-guide/phala-network.md)
-* [Subsocial](dapps-user-guide/subsocial.md)
-* [Interlay](dapps-user-guide/interlay.md)
-* [Kintsugi](dapps-user-guide/kintsugi.md)
-
 ## 🛡 Privacy & security
 
 * [Basic Safety](privacy-and-security/basic-safety.md)
@@ -97,3 +81,19 @@
 ## 🍜 Maintain
 
 * [Change Log](maintain/change-log.md)
+
+## 📰 DAPPS USER GUIDE
+
+* [Moonbeam](dapps-user-guide/moonbeam.md)
+* [Moonriver](dapps-user-guide/moonriver.md)
+* [Acala](dapps-user-guide/acala.md)
+* [Karura](dapps-user-guide/karura.md)
+* [Astar Portal](dapps-user-guide/astar-portal.md)
+* [Shiden Portal](dapps-user-guide/shiden-portal.md)
+* [KodaDOT](dapps-user-guide/kodadot.md)
+* [Bifrost](dapps-user-guide/bifrost.md)
+* [RMRK - Singular App](dapps-user-guide/rmrk-singular-app.md)
+* [Phala Network](dapps-user-guide/phala-network.md)
+* [Subsocial](dapps-user-guide/subsocial.md)
+* [Interlay](dapps-user-guide/interlay.md)
+* [Kintsugi](dapps-user-guide/kintsugi.md)
