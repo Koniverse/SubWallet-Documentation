@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Extension - User guide
+## 🧩 Extension - User guide
 
 * [Install SubWallet](extension-user-guide/install-subwallet.md)
 * [Create an Account](extension-user-guide/create-an-account/README.md)
@@ -30,7 +30,7 @@
   * [Staking compound](extension-user-guide/manage-staking/staking-compound.md)
 * [Export and Backup an Account](extension-user-guide/export-and-backup-an-account.md)
 
-## 📳 Mobile App - User Guide
+## 📴 Mobile App - User Guide
 
 * [Install Mobile App](mobile-app-user-guide/install-mobile-app.md)
 * [Create a new account](mobile-app-user-guide/create-a-new-account/README.md)
