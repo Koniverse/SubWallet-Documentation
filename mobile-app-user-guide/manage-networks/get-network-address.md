@@ -17,7 +17,7 @@ If you are already in a single-account mode, the wallet would jump directly from
 
 **Step 3**: Choose the asset you would like to receive.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 **Step 4**: Get your wallet address!
 

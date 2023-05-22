@@ -14,8 +14,8 @@ Please click the setting icon on the top right corner.
 
 For example, with Kusama network:
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 **Step 3**: Choose a provider and click **Done**.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)

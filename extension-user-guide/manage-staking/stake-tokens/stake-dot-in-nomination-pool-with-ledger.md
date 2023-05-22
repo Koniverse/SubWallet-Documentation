@@ -11,11 +11,11 @@ Press the right button to go up, left button to go down and both buttons simulta
 
 **Step 2**: Use 2 buttons of the Ledger to move back and forth and choose **Close exit control center** section by pushing both buttons at the same time.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 You would see a screen as below, press the right button:
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (2).png>)
 
 **Step 3**: Press both buttons simultaneously to open the dashboard.
 
@@ -23,7 +23,7 @@ You would see a screen as below, press the right button:
 
 **Step 4:** You would see a screen as below, please use 2 buttons to navigate to Polkadot icon and again press both buttons at the same time to choose Polkadot network.\
 You would see **Polkadot Ready** section.\
-![](<../../../.gitbook/assets/image (2) (1).png>)![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (2) (1) (3).png>)![](<../../../.gitbook/assets/image (27).png>)
 
 #### Import Ledger account to SubWallet Extension
 
@@ -36,11 +36,11 @@ Please choose **Connect Ledger device**, you would see the **Import Ledger Accou
 **Step 2:** Click on the toggle next to **Select Network** and select a network of your choice.\
 Don’t forget to fill in the name for your account and choose your account type by clicking on the toggle next to **Account type 0.**
 
-![](<../../../.gitbook/assets/image (11).png>)![](<../../../.gitbook/assets/image (7) (2).png>)
+![](<../../../.gitbook/assets/image (11) (2).png>)![](<../../../.gitbook/assets/image (7) (2) (1).png>)
 
 In this example, we are connecting to **Account type 0** named **Polkadot** on **Polkadot Relay Chain**.
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (2).png>)
 
 Step 3: Select **Import Account** button, your Ledger is successfully connected!
 
@@ -54,12 +54,12 @@ Detailed instruction can be found here:
 
 **Step 1**: After submitting DOT to Polkadot Nomination Pool, SubWallet Extension would ask for your approval. Please click on **Sign on Ledger** button.
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15) (1).png>)
 
 **Step 2:** Please review all staking details before approving the transaction.\
 Scroll to the left for each staking detail pressing the right button.
 
-![](<../../../.gitbook/assets/image (14).png>)![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (14) (1).png>)![](<../../../.gitbook/assets/image (13) (1).png>)
 
 ![](<../../../.gitbook/assets/image (49).png>)![](<../../../.gitbook/assets/image (38).png>)
 
@@ -69,7 +69,7 @@ Scroll to the left for each staking detail pressing the right button.
 
 If you see **Polkadot ready** screen as below, your DOT is successfully staked in Polkadot Nomination Pool!
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 You can also check out the staking details on Polkadot Dashboard or right in SubWallet **Staking** section.
 

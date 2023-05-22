@@ -2,7 +2,7 @@
 
 **Step 1**: Please make sure you are NOT in the All accounts mode. Please choose a specific account, and click the tab **Staking**.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 **Step 2**: In the **Staking** tab, please choose **Start staking**.
 
@@ -23,7 +23,7 @@ The wallet displays the number of people participating in staking for a particul
 
 **Step 5**: Check the information. If you still want to stake for this validator/collator/dApp, please click **Start staking**.&#x20;
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (2).png>)
 
 **Step 6**: Enter the amount you want to stake and click **Continue**.
 

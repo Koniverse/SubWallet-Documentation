@@ -23,7 +23,7 @@ In your home screen, please click the list item on the right corner.
 
 **Step 3**: Enter your password and choose the **QR** option.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 **Step 4**: Your QR address has been generated.&#x20;
 

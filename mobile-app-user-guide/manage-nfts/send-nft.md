@@ -8,7 +8,7 @@ description: Send your NFT from SubWallet
 
 **Step 1**: Open your wallet and click the NFT tab.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 **Step 2**: In the NFT tab, choose the collection, then the specific NFT you want to send.
 
