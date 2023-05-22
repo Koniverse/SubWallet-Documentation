@@ -1,42 +1,90 @@
 # Start staking
 
-**Step 1**: Please make sure you are NOT in the All accounts mode. Please choose a specific account, and click the tab **Staking**.
+**Step 1**: Open the staking tab in Homepage and click the "+" button to start staking.&#x20;
 
-![](<../../.gitbook/assets/image (24) (1) (1).png>)
+![](<../../.gitbook/assets/image (238).png>) ![](<../../.gitbook/assets/image (19).png>)
 
-**Step 2**: In the **Staking** tab, please choose **Start staking**.
+## If you want to join a staking pool
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+**Step 2**: Choose the Pool staking tab and enter staking information. Then click the "Stake" button
 
-In case you have staked before, even not through SubWallet, the staking tab would still display information about your stakings, as the following image:
+![](<../../.gitbook/assets/image (252).png>)
 
-![](<../../.gitbook/assets/image (37) (1).png>)
+{% hint style="info" %}
+If you are in all-accounts mode like the current example, you would need to choose the staking account.&#x20;
 
-**Step 3**: Select the network you want to stake on.
+If you have already been in a single account, you would not have to select account.
+{% endhint %}
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+A completed staking request would look like the following image:
 
-**Step 4**: Select a collator. \
-The wallet displays the number of people participating in staking for a particular validator/collator/dApp, and the **annualized** percentage yield (APY) on staking for such validator/collator/dApp. We suggest you choose validators/collators/dApps that are (i) not "overcrowded" and (ii) report a significantly high annual return.
+![](<../../.gitbook/assets/image (22).png>)
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+{% hint style="info" %}
+If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token
 
-**Step 5**: Check the information. If you still want to stake for this validator/collator/dApp, please click **Start staking**.&#x20;
+![](<../../.gitbook/assets/image (236).png>) ![](<../../.gitbook/assets/image (234).png>)
+{% endhint %}
 
-![](<../../.gitbook/assets/image (5) (1) (2) (1).png>)
+**Step 3**: Click "Approve" to confirm&#x20;
 
-**Step 6**: Enter the amount you want to stake and click **Continue**.
+![](<../../.gitbook/assets/image (20).png>)
 
-![](<../../.gitbook/assets/image (36) (1).png>)
 
-**Step 7**: Review your transaction. If you still want to proceed, please click **Continue**.&#x20;
 
-![](<../../.gitbook/assets/image (35) (1) (1).png>)
+**Step 4**: Enter password and click "Apply"
 
-**Step 8**: Enter your password and click **Confirm**.
+![](<../../.gitbook/assets/image (240).png>)
 
-![](<../../.gitbook/assets/image (41) (1).png>)
+And your staking request has been submitted. You could see your staking transaction in the History tab.
 
-Depends on your network connection or blockchain processing time, it might take a while to finalize your transaction. Please be patient!
+![](<../../.gitbook/assets/image (237).png>)
 
-![](<../../.gitbook/assets/image (31) (1).png>)\
+{% hint style="info" %}
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action\
+\
+![](<../../.gitbook/assets/image (251).png>)
+{% endhint %}
+
+
+
+## If you want to stake as a nominator
+
+**Step 2**: Choose the Nomination staking tab and enter staking information. Then click the "Stake" button
+
+![](<../../.gitbook/assets/image (250).png>)
+
+A completed staking request would look like the following image:
+
+![](<../../.gitbook/assets/image (18).png>)
+
+{% hint style="info" %}
+If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token
+
+![](<../../.gitbook/assets/image (235).png>) ![](<../../.gitbook/assets/image (244).png>)
+{% endhint %}
+
+We suggest you pay close attention to the validator you are choosing. When selecting validator, SubWallet support you with the latest record of validator details. Please click the three-dot icon on the right hand side of each validator to see the validator details.
+
+![](<../../.gitbook/assets/image (239).png>) ![](<../../.gitbook/assets/image (233).png>)
+
+**Step 3**: Click "Approve" to confirm
+
+![](<../../.gitbook/assets/image (23).png>)
+
+**Step 4**: Enter password and click "Apply"
+
+![](<../../.gitbook/assets/image (248).png>)
+
+And your staking request has been submitted. You could see your staking transaction in the History tab.
+
+![](<../../.gitbook/assets/image (241).png>)
+
+{% hint style="info" %}
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action
+
+![](<../../.gitbook/assets/image (243).png>)
+{% endhint %}
+
+
+

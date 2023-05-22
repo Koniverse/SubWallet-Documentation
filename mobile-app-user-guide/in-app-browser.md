@@ -24,4 +24,4 @@ In this case, the Connect Wallet button is placed in a navigation list.&#x20;
 
 ![](<../.gitbook/assets/image (45) (1).png>)
 
-If you want to read about another example with using in-app browser with SubWallet, [here](manage-nfts/collect-nft.md) is how you can use SubWallet in-app browser to directly buy and collect NFTs with your mobile device.&#x20;
+If you want to read about another example with using in-app browser with SubWallet, [here](broken-reference) is how you can use SubWallet in-app browser to directly buy and collect NFTs with your mobile device.&#x20;

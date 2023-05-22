@@ -8,11 +8,11 @@ Please follow the instruction below to get your wallet address.
 
 **Step 1**: Click the "Receive" button on your homescreen
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (3).png>)
 
 **Step 2**: Select your receiving account
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (4).png>)
 
 {% hint style="info" %}
 You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.
