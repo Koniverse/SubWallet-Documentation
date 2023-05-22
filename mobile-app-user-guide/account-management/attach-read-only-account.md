@@ -26,7 +26,7 @@ description: >-
 
 ![](<../../.gitbook/assets/image (17) (3).png>)
 
-Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](broken-reference)
+Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](switch-between-accounts-and-change-account-name.md)
 
 ![](<../../.gitbook/assets/image (74).png>)
 
@@ -37,7 +37,7 @@ SubWallet helps you identify your read-only accounts with the eye symbol as show
 
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}

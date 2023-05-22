@@ -21,7 +21,7 @@ If you are in a single-account mode, you would not have to select sending accoun
 
 ![](<../../.gitbook/assets/image (8) (4).png>)
 
-To switch between two modes, please follow this [guide](broken-reference).
+To switch between two modes, please follow this [guide](../account-management/switch-between-accounts-and-change-account-name.md).
 {% endhint %}
 
 {% hint style="info" %}
@@ -49,7 +49,7 @@ Step 5: Your transaction has been submitted.&#x20;
 ![](<../../.gitbook/assets/image (1) (7).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action. To manually navigate to the transaction history section from Homepage, please follow this [guide](broken-reference).
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action. To manually navigate to the transaction history section from Homepage, please follow this [guide](../view-transaction-history.md).
 {% endhint %}
 
 

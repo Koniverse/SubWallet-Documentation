@@ -31,7 +31,7 @@ You can either go back to homepage or view the "receipt" of your transaction in 
 ![](<../../.gitbook/assets/image (1) (6).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action. To manually navigate to the transaction history section from Homepage, please follow this [guide](broken-reference).
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action. To manually navigate to the transaction history section from Homepage, please follow this [guide](../view-transaction-history.md).
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (12) (3).png>) ![](<../../.gitbook/assets/image (17) (4) (1).png>)

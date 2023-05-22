@@ -18,7 +18,7 @@ You can also switch between the "All accounts" mode and single-account mode here
 
 ## Change your account name
 
-**Step 1**: Open your account list following the [guide](switch-between-accounts-and-change-account-name.md#switch-between-accounts) above. Then choose the pencil icon next to the account.&#x20;
+**Step 1**: Open your account list following the guide above. Then choose the pencil icon next to the account.&#x20;
 
 ![](<../../.gitbook/assets/image (76).png>)
 

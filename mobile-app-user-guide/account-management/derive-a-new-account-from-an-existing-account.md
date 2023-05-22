@@ -20,7 +20,7 @@ description: >-
 
 Your new account would be automatically created and added to the account list.&#x20;
 
-You might want to change the account name. Please follow this [guide](broken-reference).
+You might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 
 
