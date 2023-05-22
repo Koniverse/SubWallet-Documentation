@@ -9,7 +9,7 @@ description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
 \
 **Step 1**: After installing SubWallet extension, open the wallet and choose "Create a new account"
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (2).png>)
 
 **Step 2**: Create a master password and click "Continue"
 
@@ -17,7 +17,7 @@ description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (2).png>)
 
 **Step 3**: Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place.&#x20;
 
@@ -37,7 +37,7 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 In the Homepage, if you click the account name, you would see your list of accounts. You could switch & select your accounts here. We also offer the "All accounts" mode in case you need a quick glance of your total assets.&#x20;
 
-![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (8) (2).png>)
 
 For each seedphrase created with SubWallet, you would have a Substrate account and an EVM account. Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 

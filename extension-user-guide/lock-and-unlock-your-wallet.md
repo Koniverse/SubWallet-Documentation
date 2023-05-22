@@ -22,4 +22,4 @@ To unlock the wallet, you would need to enter your master password and click "Un
 
 More on master password could be found [here](broken-reference).
 
-![](<../.gitbook/assets/image (1) (1) (2).png>)
+![](<../.gitbook/assets/image (1) (1) (2) (2).png>)

@@ -8,11 +8,11 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 2**: In the account list, click the import icon&#x20;
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (2).png>)
 
 **Step 3**: Choose your preferred way to import account
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 
 
@@ -28,7 +28,7 @@ For each seedphrase created with SubWallet, you would have a Substrate account a
 Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (2).png>)
 
 In some cases, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -52,7 +52,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 
@@ -70,7 +70,7 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 **Step 1**: Click on the import field to choose file from your device, or drag and drop your JSON backup file to import.
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (2).png>)
 
 **Step 2**: Enter your master password (created when you set up the wallet for the first time) and click "Import from Json".&#x20;
 
@@ -99,7 +99,7 @@ After following this [guide](broken-reference) to choose your preferred way to i
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension the permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet would show the following message:
 
-![](<../../.gitbook/assets/image (7).png>)\
+![](<../../.gitbook/assets/image (7) (3).png>)\
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle to enable camera access.&#x20;
 
@@ -110,7 +110,7 @@ Click "Go to Setting" button. You would be directed to our security settings scr
 
 **Step 2**: Present your QR code and scan with SubWallet, using your device's camera.&#x20;
 
-![](<../../.gitbook/assets/image (1).png>) ![](broken-reference)
+![](<../../.gitbook/assets/image (1) (1).png>) ![](broken-reference)
 
 After the succesful import of your account by QR code, you would be directed to the Homescreen.&#x20;
 
