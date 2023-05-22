@@ -16,7 +16,7 @@ description: Send your NFT from SubWallet
 
 **Step 3**: Click the **Send** button.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 **Step 4**: Enter the receive address and click **Send.**
 
@@ -28,4 +28,4 @@ description: Send your NFT from SubWallet
 
 **Step 6**: Enter your password and click **Confirm.**
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)

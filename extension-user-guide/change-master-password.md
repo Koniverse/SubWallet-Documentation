@@ -11,7 +11,7 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 1**: Open your wallet and choose the list item on the top left corner
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (3).png>)
 
 **Step 2**: Choose "Security settings"
 
@@ -23,4 +23,4 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 4**: Type in your current password, set up your new password and click "Save"
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)

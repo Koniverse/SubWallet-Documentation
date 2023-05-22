@@ -4,7 +4,7 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 1**: Choose the account name to get to your account list
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 **Step 2**: In the account list, click the import icon&#x20;
 
@@ -52,7 +52,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 
@@ -70,11 +70,11 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 **Step 1**: Click on the import field to choose file from your device, or drag and drop your JSON backup file to import.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 **Step 2**: Enter your master password (created when you set up the wallet for the first time) and click "Import from Json".&#x20;
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 
@@ -103,14 +103,14 @@ Please note that you would need to grant the SubWallet extension the permission 
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle to enable camera access.&#x20;
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 {% endhint %}
 
 
 
 **Step 2**: Present your QR code and scan with SubWallet, using your device's camera.&#x20;
 
-![](../../.gitbook/assets/image.png) ![](broken-reference)
+![](<../../.gitbook/assets/image (1).png>) ![](broken-reference)
 
 After the succesful import of your account by QR code, you would be directed to the Homescreen.&#x20;
 
@@ -129,7 +129,7 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 {% hint style="info" %}
 **Step 1**: Choose the list icon on the upper left corner of your Homescreen
 
-![](<../../.gitbook/assets/image (22).png>)\
+![](<../../.gitbook/assets/image (22) (1).png>)\
 
 
 **Step 2**: Choose "Security settings"

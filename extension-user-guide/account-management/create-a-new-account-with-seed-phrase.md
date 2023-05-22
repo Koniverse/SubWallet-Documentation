@@ -9,7 +9,7 @@ description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
 \
 **Step 1**: After installing SubWallet extension, open the wallet and choose "Create a new account"
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **Step 2**: Create a master password and click "Continue"
 
@@ -17,7 +17,7 @@ description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 **Step 3**: Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place.&#x20;
 
@@ -27,11 +27,11 @@ This recovery phrase is as important as your private key; if someone has your re
 If, for instance, you forget your password, you would need your recovery phrase to import the account again and set up a new password.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 **Step 4**: Your account has been successfully set up. Click "Exit" to get to Homepage.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 ### If you have already used SubWallet before
 

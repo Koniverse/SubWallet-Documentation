@@ -6,11 +6,11 @@
 
 **Step 2**: In the account management screen, click "Create new account". Then choose "Create with existing seed phrase"
 
-![](<../../.gitbook/assets/image (21).png>)  ![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)  ![](<../../.gitbook/assets/image (2) (1).png>)
 
 **Step 3**: Choose from a list of your existing account
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 Your new account would be automatically created and added to the account list.&#x20;
 
@@ -22,5 +22,5 @@ You could also derrive a new account from the details section of a particular ac
 \
 From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you would be directed to an account details section. You could then choose the Derive account option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (14).png>)  ![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)  ![](<../../.gitbook/assets/image (5) (1).png>)
 {% endhint %}
