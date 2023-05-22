@@ -4,7 +4,7 @@
 
 **Step 1:** At Homepage, choose the browser tab in your SubWallet
 
-![](<../.gitbook/assets/image (275).png>)
+![](<../.gitbook/assets/image (275) (1).png>)
 
 **Step 2**: Type your website in the search bar, or choose from our suggested list.
 

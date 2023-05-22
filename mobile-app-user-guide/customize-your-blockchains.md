@@ -16,7 +16,7 @@
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 **Step 2**: In the Settings section, choose "Manage chains"
 
@@ -24,7 +24,7 @@
 
 **Step 3**: Click on the "+" button on the upper right corner of the list to add new chain
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (5).png>)
 
 **Step 4**: Enter provider URL and click "Add network".
 
@@ -32,7 +32,7 @@ SubWallet would automatically detect the chain name, token name (symbol) and cha
 
 If you want to input more information such as price ID, block explorer and crowdloan URL, you're free to do so.&#x20;
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (5).png>)
 
 The image below is an example of a complete input for importing chain:
 

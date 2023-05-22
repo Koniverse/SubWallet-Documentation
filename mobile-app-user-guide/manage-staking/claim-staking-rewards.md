@@ -18,7 +18,7 @@ You would need to select the account you want to claim staking rewards with.&#x2
 If you tick the "Bond reward after claim" checkbox, your reward would be automatically staked back to the pool/validator after claiming. This is analogous to compound interest.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (5).png>)
 
 {% hint style="info" %}
 If you are in all-accounts mode like the current example, you would need to choose the staking account.&#x20;
@@ -47,6 +47,6 @@ If you click "view transaction", the wallet would show you the latest transactio
 
 \
 \
-![](<../../.gitbook/assets/image (16) (1).png>) ![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (16) (1) (3).png>) ![](<../../.gitbook/assets/image (9).png>)
 {% endhint %}
 
