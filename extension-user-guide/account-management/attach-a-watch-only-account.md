@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Attach a Watch-only Account on SubWallet.
+---
+
 # Attach a watch-only account
 
 This feature allows you to view an account you do not own (i.e do not have private key for) with SubWallet. All you need is an account address.

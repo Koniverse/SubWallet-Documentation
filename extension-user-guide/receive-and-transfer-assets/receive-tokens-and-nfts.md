@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Receive tokens and NFTs on SubWallet.
+---
+
 # Receive tokens and NFTs
 
 All you need would be your wallet address. However, pay extra attention to the chain you are getting the address for.

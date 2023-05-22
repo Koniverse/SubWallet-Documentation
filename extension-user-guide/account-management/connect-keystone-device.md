@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Connect a Keystone Device to SubWallet.
+---
+
 # Connect Keystone device
 
 **Step 1**: Open your Keystone and have the QR code ready

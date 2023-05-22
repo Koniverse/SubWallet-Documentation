@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Connect a Ledger device to SubWallet.
+---
+
 # Connect Ledger device
 
 **Step 1**: Have your Ledger device ready & connected to your computer. Choose the dApp on your Ledger.

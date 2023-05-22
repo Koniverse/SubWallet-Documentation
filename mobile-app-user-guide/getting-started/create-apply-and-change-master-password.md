@@ -1,6 +1,6 @@
 # Create, apply & change master password
 
-At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](broken-reference) or [import and restore an existing account](broken-reference)).&#x20;
+At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](../account-management/create-a-new-account-with-new-seed-phrase.md) or [import and restore an existing account](../account-management/import-restore-an-account.md)).&#x20;
 
 If you have been using the beta version of SubWallet extension wallet, when updating to the new official version, SubWallet would ask you to create and apply a master password to your existing accounts.&#x20;
 
@@ -13,7 +13,7 @@ Once applied, you can also [change your master password](create-apply-and-change
 {% hint style="warning" %}
 In order to change password, you would need to remember your old password. This function cannot help you if you forget your password and want to restore it.&#x20;
 
-If you lose your password, you would need to [import the account](broken-reference) again with seedphrase, private key, or QR code, and then set up a new password.&#x20;
+If you lose your password, you would need to [import the account](../account-management/import-restore-an-account.md) again with seedphrase, private key, or QR code, and then set up a new password.&#x20;
 {% endhint %}
 
 ##

@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Apply Master Password on SubWallet.
+---
+
 # Apply master password
 
 If you have been using the beta version of SubWallet extension wallet, when updating to the new official version, SubWallet would ask you to create and apply a master password to your existing accounts.&#x20;

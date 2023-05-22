@@ -72,7 +72,7 @@
   * [Cancel a previous unstaking action](mobile-app-user-guide/manage-staking/cancel-a-previous-unstaking-action.md)
   * [Withdraw unstaked funds](mobile-app-user-guide/manage-staking/withdraw-unstaked-funds.md)
   * [Claim staking rewards](mobile-app-user-guide/manage-staking/claim-staking-rewards.md)
-* [In-app browser](mobile-app-user-guide/in-app-browser.md)
+* [DApp browser & manage website access](mobile-app-user-guide/dapp-browser-and-manage-website-access.md)
 * [Customize your end-point (provider)](mobile-app-user-guide/customize-your-end-point-provider.md)
 * [Set up biometric login & PIN code](mobile-app-user-guide/set-up-biometric-login-and-pin-code.md)
 * [Manage networks](mobile-app-user-guide/manage-networks/README.md)

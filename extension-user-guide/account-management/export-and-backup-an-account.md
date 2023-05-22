@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Export & Backup an Account on SubWallet.
+---
+
 # Export & backup an account
 
 Export your private key in different forms of backup file, and use such backup file to restore & import the account again if you so wish.

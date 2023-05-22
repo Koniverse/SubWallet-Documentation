@@ -1,3 +1,9 @@
+---
+description: >-
+  This document will show you How to Attach a Polkadot Vault (previously
+  Parity-Signer) Account to SubWallet.
+---
+
 # Attach a Polkadot Vault (previously Parity-Signer) account
 
 **Step 1**: Open SubWallet extension and click the account name to get to the account list

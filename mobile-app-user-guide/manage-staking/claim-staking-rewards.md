@@ -6,7 +6,7 @@
 
 **Step 2**: Click the three-dot icon in the staking details to see if there are available rewards to claim. If there is, click on the "Claim rewards" option
 
-![](<../../.gitbook/assets/image (4).png>) ![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (4).png>) ![](<../../.gitbook/assets/image (8) (6).png>)
 
 **Step 3**: Fill in the claim reward request and click "Continue".&#x20;
 
@@ -28,11 +28,11 @@ If you have already been in a single account, you would not have to select accou
 
 A completed claim rewards request would look like the following image:
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (4).png>)
 
 **Step 4**: Click "Approve" to confirm&#x20;
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (269).png>)
 
 **Step 5**: Enter password and click "Apply"
 

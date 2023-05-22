@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Lock and Unlock Your SubWallet.
+---
+
 # Lock and unlock your wallet
 
 ## To lock your wallet

@@ -1,5 +1,7 @@
 ---
-description: Aka new Polkadot native wallets and/or Polkadot EVM wallets.
+description: >-
+  This document will show you How to Create a New Account with Seed Phrase on
+  SubWallet.
 ---
 
 # Create a new account with seed phrase

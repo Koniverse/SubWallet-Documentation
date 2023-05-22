@@ -1,3 +1,9 @@
+---
+description: >-
+  This document will show you How to Derive a New Account from an Existing
+  Account on SubWallet.
+---
+
 # Derive a new account from an existing account
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen

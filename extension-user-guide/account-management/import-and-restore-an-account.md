@@ -1,3 +1,7 @@
+---
+description: This part will show you How to Import and Restore an Account on SubWallet.
+---
+
 # Import and restore an account
 
 If you have secret phrase (seedphrase), private key, back-up JSON file or QR code you can import/restore your account and manage them with SubWallet.

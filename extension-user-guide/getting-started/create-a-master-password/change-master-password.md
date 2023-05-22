@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Change Master Password on SubWallet.
+---
+
 # Change master password
 
 {% hint style="warning" %}

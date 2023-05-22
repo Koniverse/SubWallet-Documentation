@@ -1,3 +1,7 @@
+---
+description: This document will show you How to Import/Add and Manage Customized Tokens.
+---
+
 # Import & manage customized tokens
 
 ## **Import your customized token**
