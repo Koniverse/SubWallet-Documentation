@@ -32,7 +32,7 @@ Click on the device name (Nano X in this case) and click "Connect"
 
 **Step 5**: After your Ledger has been successfully found by SubWallet, click "Connect Ledger device"
 
-![](<../../.gitbook/assets/image (14) (1) (2).png>)
+![](<../../.gitbook/assets/image (14) (1) (2) (1).png>)
 
 
 

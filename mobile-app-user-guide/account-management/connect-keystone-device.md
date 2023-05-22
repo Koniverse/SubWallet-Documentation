@@ -16,7 +16,7 @@ You would be directed to a list of accounts.
 
 **Step 4**: Open your account on Keystone device, then click the "Scan the QR code" button on SubWallet and scan the QR code displayed on Keystone.
 
-![](<../../.gitbook/assets/image (143) (2).png>) ![](<../../.gitbook/assets/image (144) (2).png>)
+![](<../../.gitbook/assets/image (143) (2) (1).png>) ![](<../../.gitbook/assets/image (144) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 

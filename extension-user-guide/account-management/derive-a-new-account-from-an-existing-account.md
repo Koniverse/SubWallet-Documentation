@@ -28,5 +28,5 @@ You could also derrive a new account from the details section of a particular ac
 \
 From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you would be directed to an account details section. You could then choose the Derive account option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (14) (1) (2) (1).png>)  ![](<../../.gitbook/assets/image (5) (1) (3) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (2) (1) (1).png>)  ![](<../../.gitbook/assets/image (5) (1) (3) (1) (1).png>)
 {% endhint %}

@@ -32,7 +32,7 @@ A complete withdrawal request would look like the following image:
 
 **Step 5**: Enter password and click "Apply"
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (2).png>)
 
 And your request has been submitted. You could see your transaction in the History tab.
 

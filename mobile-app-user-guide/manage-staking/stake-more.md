@@ -49,6 +49,6 @@ And your staking request has been submitted. You could see your staking transact
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action
 
-![](<../../.gitbook/assets/image (252).png>) ![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (252).png>) ![](<../../.gitbook/assets/image (23) (4).png>)
 {% endhint %}
 

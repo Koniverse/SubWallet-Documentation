@@ -8,7 +8,7 @@
 
 **Step 2**: Type your website in the search bar, or choose from our suggested list.
 
-![](<../.gitbook/assets/image (13) (2).png>) ![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (13) (2).png>) ![](<../.gitbook/assets/image (1) (1).png>)
 
 In this case we are connecting to Beamswap.&#x20;
 
@@ -48,7 +48,7 @@ In this case we are connecting to Beamswap.&#x20;
 
 You might search for the website name using the searchbox and change access permission for multiple websites using the access options on the top right corner of the screen.&#x20;
 
-![](<../.gitbook/assets/image (14).png>) ![](<../.gitbook/assets/image (273).png>)
+![](<../.gitbook/assets/image (14) (1).png>) ![](<../.gitbook/assets/image (273).png>)
 
 
 
@@ -56,7 +56,7 @@ You might search for the website name using the searchbox and change access perm
 
 You could manually change the access permission using the toggle next to each account. However, you could also manage access of all accounts using the access options on the top right corner of the screen.&#x20;
 
-![](../.gitbook/assets/image.png) ![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (4).png>) ![](<../.gitbook/assets/image (8).png>)
 
 
 

@@ -2,7 +2,7 @@
 
 **Step 1**: Open the staking tab in Homepage and click on the current staking activity that you want to unstake
 
-![](<../../.gitbook/assets/image (22).png>) ![](<../../.gitbook/assets/image (257).png>)
+![](<../../.gitbook/assets/image (22) (4).png>) ![](<../../.gitbook/assets/image (257).png>)
 
 **Step 2**: Click the "Unstake" button
 

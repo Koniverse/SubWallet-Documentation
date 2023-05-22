@@ -12,7 +12,7 @@ description: This document will show you How to Transfer NFT with SubWallet.
 
 **Step 2**: Choose a collection
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (2).png>)
 
 
 

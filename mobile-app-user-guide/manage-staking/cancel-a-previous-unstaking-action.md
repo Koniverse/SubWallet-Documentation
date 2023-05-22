@@ -41,5 +41,5 @@ And your cancel unstake request has been submitted. You could see your staking t
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action
 
-![](<../../.gitbook/assets/image (143).png>)
+![](<../../.gitbook/assets/image (143) (2).png>)
 {% endhint %}

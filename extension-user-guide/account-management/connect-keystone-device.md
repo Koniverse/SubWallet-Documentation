@@ -8,7 +8,7 @@ description: This document will show you How to Connect a Keystone Device to Sub
 
 **Step 2**: Open SubWallet extension and click the account name to get to the account list
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (2).png>)
 
 **Step 3**: Choose the attach account icon on the lower right corner
 

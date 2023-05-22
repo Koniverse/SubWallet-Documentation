@@ -46,7 +46,7 @@ In this example, user can send ACA to either Acala (single-chain) or Moonbeam (c
 
 To specify the type of transfer, you would only need to choose the destination chain.
 
-![](<../../.gitbook/assets/image (148).png>) ![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (148).png>) ![](<../../.gitbook/assets/image (5) (1) (3).png>)
 
 
 {% endhint %}

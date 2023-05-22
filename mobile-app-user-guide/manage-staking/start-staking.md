@@ -18,7 +18,7 @@ If you have already been in a single account, you would not have to select accou
 
 A completed staking request would look like the following image:
 
-![](<../../.gitbook/assets/image (22) (4).png>)
+![](<../../.gitbook/assets/image (22) (4) (1).png>)
 
 {% hint style="info" %}
 If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token
@@ -70,7 +70,7 @@ We suggest you pay close attention to the validator you are choosing. When selec
 
 **Step 3**: Click "Approve" to confirm
 
-![](<../../.gitbook/assets/image (23) (4).png>)
+![](<../../.gitbook/assets/image (23) (4) (1).png>)
 
 **Step 4**: Enter password and click "Apply"
 

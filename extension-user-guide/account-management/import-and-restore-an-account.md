@@ -56,7 +56,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 After following the above steps, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
@@ -114,7 +114,7 @@ Click "Go to Setting" button. You would be directed to our security settings scr
 
 **Step 2**: Present your QR code and scan with SubWallet, using your device's camera.&#x20;
 
-![](<../../.gitbook/assets/image (1) (1).png>) ![](broken-reference)
+![](<../../.gitbook/assets/image (1) (1) (2).png>) ![](broken-reference)
 
 After the succesful import of your account by QR code, you would be directed to the Homescreen.&#x20;
 

@@ -8,11 +8,11 @@ This feature allows you to view an account you do not own (i.e do not have priva
 
 **Step 1**: Open SubWallet and click on the account name to get to the list of your accounts. Then click on the attach account item in the lower right corner
 
-![](<../../.gitbook/assets/image (5) (1) (3).png>)
+![](<../../.gitbook/assets/image (5) (1) (3) (1).png>)
 
 **Step 2**: Choose "Attach watch-only account"
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (2).png>)
 
 **Step 3**: Enter the address (as known as public key) of the account you want to track. Then click "Attach watch-only account"
 
@@ -20,7 +20,7 @@ This feature allows you to view an account you do not own (i.e do not have priva
 
 **Step 4**: You would be re-directed to the homescreen. In this example, your watch-only account has been named "Account 7"
 
-![](<../../.gitbook/assets/image (4) (2) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (2) (1).png>)
 
 As the name suggest, this type of account is read-only. You would not be able to transfer funds or actively participate in any activities with this type of account.&#x20;
 

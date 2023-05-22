@@ -27,7 +27,7 @@ To switch between two modes, please follow this [guide](broken-reference).
 {% hint style="info" %}
 SubWallet supports both single-chain and cross-chain transfer (also known as XCM transfer or teleport). To perform XCM, you would only need to select the desired destination chain when filling in the transaction request.
 
-![](<../../.gitbook/assets/image (16) (3) (1).png>) ![](<../../.gitbook/assets/image (23) (4) (1).png>)
+![](<../../.gitbook/assets/image (16) (3) (1).png>) ![](<../../.gitbook/assets/image (23) (4) (1) (1).png>)
 {% endhint %}
 
 A completed transfer request form would look like the following image:
@@ -38,7 +38,7 @@ Click "Transfer" to continue.
 
 **Step 3**: Click "Approve" to confirm the transaction request
 
-![](<../../.gitbook/assets/image (22) (4) (1).png>)
+![](<../../.gitbook/assets/image (22) (4) (1) (1).png>)
 
 **Step 4**: Enter password and click "Apply" to continue
 
