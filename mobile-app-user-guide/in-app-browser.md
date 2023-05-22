@@ -10,7 +10,7 @@ In this example, we are connecting with [**dotinsights.xyz**](https://dotinsight
 **Step 2**: In the dApp, find the **Connect Wallet** button. Depends on the dApp, this option would be in different locations.\
 In this case, the Connect Wallet button is placed in a navigation list.&#x20;
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (57).png>)
 
 **Step 3**: Click the **Connect Wallet** button and choose SubWallet.
 

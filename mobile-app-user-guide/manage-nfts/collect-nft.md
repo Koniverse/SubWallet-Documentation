@@ -46,7 +46,7 @@ You can change the account you want to use to buy NFT within the Singular dApp, 
 
 **Step 7**: Singular would check your balance and carry out the request. Stay tuned!
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 **Step 8**: The NFT is now yours! Note that your address has been displayed in the **Owned by** section. You can also list your NFT for sale.  &#x20;
 

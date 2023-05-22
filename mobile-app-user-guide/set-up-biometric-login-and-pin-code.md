@@ -12,7 +12,7 @@
 
 **Step 3**: Click the toggle next to **PIN code.**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 **Step 4**: Choose a 6-digit PIN code and click **Continue.**
 

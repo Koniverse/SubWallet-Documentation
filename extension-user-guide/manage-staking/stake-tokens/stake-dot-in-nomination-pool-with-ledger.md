@@ -23,7 +23,7 @@ You would see a screen as below, press the right button:
 
 **Step 4:** You would see a screen as below, please use 2 buttons to navigate to Polkadot icon and again press both buttons at the same time to choose Polkadot network.\
 You would see **Polkadot Ready** section.\
-![](<../../../.gitbook/assets/image (2).png>)![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)![](<../../../.gitbook/assets/image (27).png>)
 
 #### Import Ledger account to SubWallet Extension
 
@@ -36,11 +36,11 @@ Please choose **Connect Ledger device**, you would see the **Import Ledger Accou
 **Step 2:** Click on the toggle next to **Select Network** and select a network of your choice.\
 Don’t forget to fill in the name for your account and choose your account type by clicking on the toggle next to **Account type 0.**
 
-![](<../../../.gitbook/assets/image (11).png>)![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (11).png>)![](<../../../.gitbook/assets/image (7) (2).png>)
 
 In this example, we are connecting to **Account type 0** named **Polkadot** on **Polkadot Relay Chain**.
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 Step 3: Select **Import Account** button, your Ledger is successfully connected!
 
@@ -65,11 +65,11 @@ Scroll to the left for each staking detail pressing the right button.
 
 **Step 3**: Approve your transaction by pressing both buttons simultaneously in **Approve** section.
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (2).png>)
 
 If you see **Polkadot ready** screen as below, your DOT is successfully staked in Polkadot Nomination Pool!
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 You can also check out the staking details on Polkadot Dashboard or right in SubWallet **Staking** section.
 

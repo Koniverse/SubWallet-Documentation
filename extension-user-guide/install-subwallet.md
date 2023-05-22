@@ -6,30 +6,30 @@ description: >-
 
 # Install SubWallet
 
-## Google Chrome, Brave & MS Edge&#x20;
+Browser extension of the comprehensive non-custodial Polkadot, Subtrate & Ethereum wallet is now available on Google Chrome, Brave, Firefox & MS Edge.
 
-**Step 1**: Visit the Chrome Web Store and click **Add to Chrome**: [**https://bit.ly/3BGqFt1**](https://bit.ly/3BGqFt1)
+## Google Chrome, Brave & MS Edge <a href="#google-chrome-brave-and-ms-edge" id="google-chrome-brave-and-ms-edge"></a>
 
-![](<../.gitbook/assets/Screen Shot 2022-04-13 at 10.40.59.png>)
+{% hint style="info" %}
+Below is the installation process on Google Chrome. The same process applies to Brave and MS Edge.&#x20;
+{% endhint %}
 
-**Step 2**: When prompted, click **Add Extension.** If you would like to add SubWallet on all of your computers, click **Turn on sync...**
+**Step 1**: Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/subwallet-polkadot-extens/onhogfjeacnfoofkfgppdlbmlmnplgbn) and click **Add to Chrome**:
 
-![2.1](<../.gitbook/assets/Screen Shot 2022-04-13 at 10.43.15.png>) ![2.2](<../.gitbook/assets/Screen Shot 2022-04-13 at 10.45.22.png>)
+![](<../.gitbook/assets/Screenshot 2023-05-20 161441.png>)
 
-**Step 3**: Click on the extension icon and pin SubWallet Extension. The same process applies to Brave and MS Edge. You have successfully installed the ultimate Polkadot wallet extension!
+**Step 2**: A pop-up would appear. Click "Add extension" to continue.&#x20;
 
-![3.1](<../.gitbook/assets/Screen Shot 2022-04-13 at 10.48.29.png>) ![3.2](<../.gitbook/assets/Screen Shot 2022-04-13 at 10.52.37.png>)
+![](<../.gitbook/assets/Screenshot 2023-05-20 161800.png>)
 
-## Firefox&#x20;
+**Step 3**: Click on the extension icon and pin SubWallet Extension. You have successfully installed the ultimate Polkadot wallet extension!
+
+## Firefox
 
 **Step 1**: Visit the Firefox Browser Add-ons and click **Add to Firefox**: [https://mzl.la/3AoAMmd](https://mzl.la/3AoAMmd)
 
-![](<../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.30.png>)
+![](<../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_GIrC8LYwPL7wKD3OBzxn\_Screenshot 2023-05-20 172226.webp>)
 
 **Step 2**: When prompted, click **Add**. If you would like to use SubWallet in private windows, tick A**llow this extension to run in Private Windows.**&#x20;
 
-![2.1](<../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.38 (1).png>) ![2.2](<../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.50 (2).png>)
-
-**Step 3**: Your ultimate Polkadot wallet SubWallet is all set!
-
-![](<../.gitbook/assets/Screen Shot 2022-04-13 at 11.04.57.png>)
+![](<../.gitbook/assets/Screenshot 2023-05-20 171904.png>) ![](<../.gitbook/assets/Screenshot 2023-05-20 171929.png>)

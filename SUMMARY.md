@@ -5,6 +5,10 @@
 ## 🧩 Extension - User guide
 
 * [Install SubWallet](extension-user-guide/install-subwallet.md)
+* [Create a master password](extension-user-guide/create-a-master-password.md)
+* [Apply master password](extension-user-guide/apply-master-password.md)
+* [Change master password](extension-user-guide/change-master-password.md)
+* [Lock and unlock your wallet](extension-user-guide/lock-and-unlock-your-wallet.md)
 * [Create an Account](extension-user-guide/create-an-account/README.md)
   * [Create a New Account (Wallet)](extension-user-guide/create-an-account/create-a-new-account-wallet.md)
   * [Create an Additional Account (Wallet)](extension-user-guide/create-an-account/create-an-additional-account-wallet.md)

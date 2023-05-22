@@ -13,15 +13,15 @@ description: >-
 Please note that if you use an iOS device, you would not find **SubWallet** in AppStore. Please install the TestFlight application first. \
 Once you have TestFlight installed, when you click on the link above, TestFlight would ask if you want to join the public test for SubWallet Mobile. Please click **Accept**. &#x20;
 
-![](<../.gitbook/assets/image (2) (1).png>)\
+![](<../.gitbook/assets/image (2) (1) (2).png>)\
 \
 **Step 2**: Click **Install** after you accept the test request.&#x20;
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (2).png>)
 
 Once successfully installed, you would see the SubWallet mobile app on your device. Please do not uninstall the TestFlight app, as it would automatically update the latest version of the wallet.&#x20;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## For Android device
 
