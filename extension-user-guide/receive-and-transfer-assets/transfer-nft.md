@@ -56,7 +56,7 @@ Guess how? Since NFT is non-fungible and unique, a particular NFT can only be he
 
 **Step 5**: Check the transaction details and click "Approve" if you want to proceed
 
-![](<../../.gitbook/assets/image (3) (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (3) (1) (1).png>)
 
 
 
@@ -74,8 +74,8 @@ In this case, as we are sending to an account also managed by SubWallet, there w
 
 If you click the "View transaction" button, SubWallet would display the receive record, because it was recorded after the send record.
 
-![](<../../.gitbook/assets/image (2) (3).png>)
+![](<../../.gitbook/assets/image (2) (3) (1).png>)
 
 However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](broken-reference).
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (4).png>)

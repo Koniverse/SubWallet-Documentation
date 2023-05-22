@@ -4,13 +4,13 @@
 
 **Step 1**: From your Homescreen, click the list icon on the upper left corner to get to the "Settings" section.
 
-![](<../.gitbook/assets/image (28) (1).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 
 
 **Step 2**: Scroll to the end of the Settings section to see the button "Lock". Then click the button to lock the wallet.
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 
 
@@ -22,4 +22,4 @@ To unlock the wallet, you would need to enter your master password and click "Un
 
 More on master password could be found [here](broken-reference).
 
-![](<../.gitbook/assets/image (1) (1) (2) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (2).png>)

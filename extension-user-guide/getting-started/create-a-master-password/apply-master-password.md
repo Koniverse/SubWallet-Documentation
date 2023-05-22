@@ -12,7 +12,7 @@ You could also lock and unlock your wallet with the master password.&#x20;
 
 This will be the first screen in our new version.
 
-![](<../.gitbook/assets/Screenshot 2023-04-18 093511.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-04-18 093511.png>)
 
 
 
@@ -20,11 +20,11 @@ This will be the first screen in our new version.
 
 Then click "Continue"
 
-![](<../.gitbook/assets/Screenshot 2023-04-18 093531.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-04-18 093531.png>)
 
 **Step 3**: Click "Apply master password" to apply your newly created master password to the accounts you are managing with SubWallet.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2023-04-18 093558.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-04-18 093558.png>)
 
 
 
@@ -40,13 +40,13 @@ In this example, we are managing 3 accounts with the SubWallet beta version, so 
 It can be tedious if you have many accounts with SubWallet, but this is the most secure way to let SubWallet know that it is you who is making the change.&#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_OeoJ91TQS9Qo5Q3QnLUs\_Screenshot 2023-04-18 094355.webp>) ![](<../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_xRL62Ur3ddEAGINGfoNW\_Screenshot 2023-04-18 094417.webp>) ![](<../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_bNWO24PM6Ao14IiaJ3HZ\_Screenshot 2023-04-18 094446.webp>)
+![](<../../../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_OeoJ91TQS9Qo5Q3QnLUs\_Screenshot 2023-04-18 094355.webp>) ![](<../../../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_xRL62Ur3ddEAGINGfoNW\_Screenshot 2023-04-18 094417.webp>) ![](<../../../.gitbook/assets/spaces\_2zseowhOCGE5xsJFb2z5\_uploads\_bNWO24PM6Ao14IiaJ3HZ\_Screenshot 2023-04-18 094446.webp>)
 
 
 
 **Step 4**: Click "Finish" and you have successfully updated your password.&#x20;
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 
 

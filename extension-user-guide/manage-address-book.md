@@ -8,19 +8,19 @@ description: >-
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 
 
 **Step 2**: Choose "Manage address book"
 
-![](<../.gitbook/assets/image (170).png>)
+![](<../.gitbook/assets/image (170) (1).png>)
 
 
 
 **Step 3**: You would be directed to a list of address. To add new contact, click the "+" button on the upper right corner
 
-![](<../.gitbook/assets/image (155) (1).png>)
+![](<../.gitbook/assets/image (155) (1) (1).png>)
 
 
 
@@ -28,11 +28,11 @@ description: >-
 
 Your only neccesary input is the address. You can name the contact according to your own will.
 
-![](<../.gitbook/assets/image (165) (1).png>)
+![](<../.gitbook/assets/image (165) (1) (1).png>)
 
 An example of a complete input would be as following:
 
-![](<../.gitbook/assets/image (166) (1).png>)
+![](<../.gitbook/assets/image (166) (1) (1).png>)
 
 Click "Add contact" to proceed.&#x20;
 

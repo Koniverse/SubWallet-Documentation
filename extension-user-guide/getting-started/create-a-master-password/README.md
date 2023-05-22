@@ -8,7 +8,7 @@ description: >-
 
 At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](broken-reference) or [import an existing account](broken-reference)).&#x20;
 
-![](<../.gitbook/assets/Screenshot 2023-03-21 122036.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-03-21 122036.png>)
 
 If you have already used the beta version of SubWallet before and are migrating to the new version, we would ask you to create and [apply master password](broken-reference) to your existing accounts. Please read the corresponding guide to see if it correctly describes your situation.
 
