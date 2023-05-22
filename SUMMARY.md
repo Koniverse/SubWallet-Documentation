@@ -37,7 +37,10 @@
   * [Cancel a previous unstaking action](extension-user-guide/manage-staking/cancel-a-previous-unstaking-action.md)
   * [Withdraw unstaked funds](extension-user-guide/manage-staking/withdraw-unstaked-funds.md)
   * [Claim staking rewards](extension-user-guide/manage-staking/claim-staking-rewards.md)
-* [Export and Backup an Account](extension-user-guide/export-and-backup-an-account.md)
+* [Connect dApps & manage website access](extension-user-guide/connect-dapps-and-manage-website-access.md)
+* [View transaction history](extension-user-guide/view-transaction-history.md)
+* [Customize your blockchains](extension-user-guide/customize-your-blockchains.md)
+* [Customize endpoint/provider](extension-user-guide/customize-endpoint-provider.md)
 * [FAQs](extension-user-guide/faqs.md)
 
 ## 📴 Mobile App - User Guide

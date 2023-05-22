@@ -7,7 +7,7 @@ description: Understand your mnemonic seed and password
 ## **What is a mnemonic seed (secret recovery phrase) and how to back it up?**
 
 * The mnemonic seed, otherwise called secret recovery phrase or private key, is the key to your wallet. This means that if someone has the key, they have complete access to the wallet. SubWallet does not hold the key, nor will we ever ask for your mnemonic seed, even in a customer support scenario. If someone does ask for it, they are likely trying to scam you or steal your funds.&#x20;
-* In order to back up your mnemonic seed, you should write down every word in the same order they were given and double-check your spelling. Remember to write it down somewhere safe, or follow the instructions in [export-and-backup-an-account.md](../extension-user-guide/export-and-backup-an-account.md "mention") to export a text file.&#x20;
+* In order to back up your mnemonic seed, you should write down every word in the same order they were given and double-check your spelling. Remember to write it down somewhere safe, or follow the instructions in [connect-dapps-and-manage-website-access.md](../extension-user-guide/connect-dapps-and-manage-website-access.md "mention") to export a text file.&#x20;
 * Do not keep your private key in an easily discovered location; e.g. in a cloud-saved document or an email titled "Secret Recovery Phrase/Mnemonic Seed/Private Key" or on a post-it note stuck to your computer. Do not change the order of the words and again, do not provide your mnemonic seed to anyone, even if they say they are from our customer service.
 
 ## **Why do you need to store your mnemonic seed?**
