@@ -24,7 +24,7 @@
 
 **Step 3**: Click on the "+" button on the upper right corner of the list to add new chain
 
-![](<../.gitbook/assets/image (23) (5).png>)
+![](<../.gitbook/assets/image (23) (5) (1).png>)
 
 **Step 4**: Enter provider URL and click "Add network".
 

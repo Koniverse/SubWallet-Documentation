@@ -5,7 +5,7 @@ Users can manually change provider with SubWallet.&#x20;
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (5).png>)
 
 
 
@@ -42,3 +42,4 @@ Please enter the provider's URL and click "Save". If you need any further assist
 
 **Step 6**: After choosing, you would be directed back to the chain details screen. Click "Save" to save your changes.
 
+![](<../.gitbook/assets/image (23).png>)
