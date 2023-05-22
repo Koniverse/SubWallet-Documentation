@@ -50,6 +50,6 @@ Depending on whether or not there is an explorer service (provided by other part
 ![](<../../.gitbook/assets/image (195).png>)
 {% endhint %}
 
-You could also see your claim reward action in the History tab. To get to the transaction history tab, please follow this [guide](broken-reference).
+You could also see your claim reward action in the History tab. To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (193).png>)

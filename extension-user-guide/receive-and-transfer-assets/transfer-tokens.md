@@ -20,7 +20,7 @@ In this case, "Eugene" is my manually saved contact. I might want to save this c
 
 
 
-To manage your address book, please follow this [guide](broken-reference).
+To manage your address book, please follow this [guide](../manage-address-book.md).
 {% endhint %}
 
 ## **If you are in "All accounts" mode**
@@ -75,7 +75,7 @@ By clicking the book icon on the right hand side of the address field, you would
 
 In this case, "Eugene" is my manually saved contact. I might want to save this contact because I have to transfer to them frequently and I do not want to manually enter the address everytime I make transfer.&#x20;
 
-To manage your address book, please follow this [guide](broken-reference)
+To manage your address book, please follow this [guide](../manage-address-book.md)
 {% endhint %}
 
 Here we are doing a transfer of 0.0001 ACA from an account named "Arrange" to an account named "Stove - EVM". The transfer would be cross-chain, from Acala to Moonbeam.\
@@ -105,7 +105,7 @@ If you click the "View transaction" button, SubWallet would display the receive 
 
 ![](<../../.gitbook/assets/image (152).png>)
 
-However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](broken-reference).
+However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (44) (2).png>)
 

@@ -54,6 +54,6 @@ If you click "view transaction", the wallet would show you the latest transactio
 ![](<../../.gitbook/assets/image (190).png>)
 {% endhint %}
 
-To get to the transaction history tab, please follow this [guide](broken-reference).
+To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (191).png>)

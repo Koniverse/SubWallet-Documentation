@@ -1,7 +1,3 @@
----
-description: And multiple ones, in just one Polkadot wallet.
----
-
 # Account management
 
 {% embed url="https://www.youtube.com/watch?v=fGjdZ_uILeo" %}

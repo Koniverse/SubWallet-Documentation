@@ -70,7 +70,7 @@ You could see your staking transaction in the History tab.
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 {% endhint %}
 
-To get to the transaction history tab, please follow this [guide](broken-reference).
+To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (177) (1).png>) ![](<../../.gitbook/assets/image (180) (1).png>)
 
@@ -150,7 +150,7 @@ Network fee could be extra small (so it would appear zero in the confirmation sc
 ![](<../../.gitbook/assets/image (160).png>)
 {% endhint %}
 
-To get to the transaction history tab, please follow this [guide](broken-reference).
+To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (165) (1).png>)
 

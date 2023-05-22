@@ -14,7 +14,7 @@
 
 Your new account would be automatically created and added to the account list.&#x20;
 
-You might want to change the account name. Please follow this [guide](broken-reference).
+You might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
 You could also derrive a new account from the details section of a particular account. In this case you would not have to go through Step 3 in the above instruction.&#x20;

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Browser extension of the ultimate Polkadot wallet is now available on Google
-  Chrome, Brave, Firefox & MS Edge.
+  This document will show you How to Install SubWallet - A comprehensive
+  non-custodial wallet on browsers including Chrome, Brave, Firefox & MS Edge.
 ---
 
 # Install SubWallet

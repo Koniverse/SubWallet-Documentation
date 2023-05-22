@@ -39,7 +39,7 @@ In this case, "Eugene" is my manually saved contact. I might want to save this c
 
 
 
-To manage your address book, please follow this [guide](broken-reference).
+To manage your address book, please follow this [guide](../manage-address-book.md).
 {% endhint %}
 
 The image below is an example of a complete input:

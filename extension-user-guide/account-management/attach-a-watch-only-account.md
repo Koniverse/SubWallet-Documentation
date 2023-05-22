@@ -20,7 +20,7 @@ This feature allows you to view an account you do not own (i.e do not have priva
 
 As the name suggest, this type of account is read-only. You would not be able to transfer funds or actively participate in any activities with this type of account.&#x20;
 
-If you open your list of accounts again (see step 1), you would see your watch-only account and can [rename](broken-reference) it as you wish.
+If you open your list of accounts again (see step 1), you would see your watch-only account and can [rename](switch-between-accounts-and-change-account-name.md) it as you wish.
 
 ![](<../../.gitbook/assets/image (46) (2) (1).png>)
 

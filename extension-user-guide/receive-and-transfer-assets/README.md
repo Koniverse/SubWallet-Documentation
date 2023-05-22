@@ -26,9 +26,3 @@ SubWallet has supported 150+ networks on Polkadot, Subtrate & Ethereum ecosystem
 * Litentry (LIT)
 * Ajuna Network (BAJU)
 * XX Network (xx) … and more.
-
-[Broken link](broken-reference "mention")
-
-[Broken link](broken-reference "mention")
-
-[Broken link](broken-reference "mention")

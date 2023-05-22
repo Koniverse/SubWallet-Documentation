@@ -18,7 +18,7 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 ## Import by seedphrase
 
-After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by seedphrase, please enter your seed phrase and click "Import account".&#x20;
+After following the above steps, if you want to import by seedphrase, please enter your seed phrase and click "Import account".&#x20;
 
 You could choose between importing either Substrate (Polkadot) account or EVM (Ethereum) account, or both.&#x20;
 
@@ -38,10 +38,10 @@ Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 
 In this case, we would suggest you create a new wallet account with SubWallet and transfer your assets from your original wallet to this new account.&#x20;
 
-After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
+After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}
@@ -50,14 +50,14 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ## Import by private key (currently supported with EVM account)
 
-After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
+After following the above steps, if you want to import by private key, please enter your  private key and click "Import account".
 
 ![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
-Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
+Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.
 {% endhint %}
@@ -66,7 +66,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ## Import by JSON file
 
-After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by JSON backup file:
+After following the above steps, if you want to import by JSON backup file:
 
 **Step 1**: Click on the import field to choose file from your device, or drag and drop your JSON backup file to import.
 
@@ -76,10 +76,10 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 ![](<../../.gitbook/assets/image (23) (1) (2).png>)
 
-Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
+Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.
 {% endhint %}
@@ -88,7 +88,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ## Import by QR code
 
-After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by QR code, please present your QR code back-up of your account's private key and scan this QR code with your current device.&#x20;
+After following the above steps, if you want to import by QR code, please present your QR code back-up of your account's private key and scan this QR code with your current device.&#x20;
 
 
 
@@ -114,10 +114,10 @@ Click "Go to Setting" button. You would be directed to our security settings scr
 
 After the succesful import of your account by QR code, you would be directed to the Homescreen.&#x20;
 
-Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
+Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.
 {% endhint %}

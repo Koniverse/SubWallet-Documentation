@@ -56,9 +56,9 @@ SubWallet is currently supporting more than 490 tokens, including cross-chain to
 
 ![](<../../.gitbook/assets/image (172) (1).png>)
 
-To send token, you might want to read the instruction [here](broken-reference)
+To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens.md)
 
-To receive token, you might want to read the instruction [here](broken-reference)&#x20;
+To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md)&#x20;
 
 {% hint style="info" %}
 Since you have already selected your token, there would be less steps than there are in the instructions.&#x20;
@@ -78,7 +78,7 @@ Your transactions of manually imported tokens would also be recorded in transact
 
 In this case, as we are sending to an account also managed by SubWallet, there would be two (2) records correspond with this action: one is a send record from "Apology - EVM" to "Stove - EVM" and the other is a receive record of "Stove - EVM" from "Apology - EVM". &#x20;
 
-In the History tab, you would see both records. To get to the transaction history tab, please follow this [guide](broken-reference).
+In the History tab, you would see both records. To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (164) (1) (1).png>)
 

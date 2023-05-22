@@ -60,10 +60,10 @@ If you click "view transaction", the wallet would show you the latest transactio
 ![](<../../.gitbook/assets/image (198).png>)
 {% endhint %}
 
-You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](broken-reference).
+You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
 ![](<../../.gitbook/assets/image (153).png>)
 
 
 
-Depends on the network, sometimes you could still [cancel your unstaking](broken-reference) action with an amount of transaction fee.&#x20;
+Depends on the network, sometimes you could still [cancel your unstaking](cancel-a-previous-unstaking-action.md) action with an amount of transaction fee.&#x20;

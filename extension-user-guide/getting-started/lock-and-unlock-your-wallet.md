@@ -20,6 +20,6 @@ If you have previously locked the wallet, or if you have been inactive for a whi
 
 To unlock the wallet, you would need to enter your master password and click "Unlock".&#x20;
 
-More on master password could be found [here](broken-reference).
+More on master password could be found [here](create-a-master-password/).
 
 ![](<../../.gitbook/assets/image (1) (1) (2) (2).png>)
