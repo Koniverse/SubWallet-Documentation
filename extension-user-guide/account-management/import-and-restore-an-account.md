@@ -8,7 +8,7 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 1**: Choose the account name to get to your account list
 
-![](<../../.gitbook/assets/image (12) (1) (2).png>)
+![](<../../.gitbook/assets/image (12) (1) (2) (1).png>)
 
 **Step 2**: In the account list, click the import icon&#x20;
 
@@ -74,7 +74,7 @@ After following the above steps, if you want to import by JSON backup file:
 
 **Step 1**: Click on the import field to choose file from your device, or drag and drop your JSON backup file to import.
 
-![](<../../.gitbook/assets/image (10) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (2) (1) (1).png>)
 
 **Step 2**: Enter your master password (created when you set up the wallet for the first time) and click "Import from Json".&#x20;
 
@@ -138,7 +138,7 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 
 **Step 2**: Choose "Security settings"
 
-![](<../../.gitbook/assets/image (13) (2).png>)\
+![](<../../.gitbook/assets/image (13) (2) (1).png>)\
 \
 **Step 3**: Disable the toggle next to the "Allow camera access" option.&#x20;
 

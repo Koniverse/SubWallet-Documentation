@@ -12,7 +12,7 @@ You would be directed to a transaction request screen.
 
 **Step 2**: Enter the information for the transaction and click the "Transfer" button.&#x20;
 
-![](<../../.gitbook/assets/image (21) (3) (1).png>)
+![](<../../.gitbook/assets/image (21) (3) (1) (1).png>)
 
 {% hint style="info" %}
 In this example, we are sending tokens in "All accounts" mode.&#x20;
@@ -54,7 +54,7 @@ If you click "view transaction", the wallet would show you the latest transactio
 
 
 
-![](<../../.gitbook/assets/image (20) (4) (1).png>) ![](<../../.gitbook/assets/image (15) (4) (1).png>)
+![](<../../.gitbook/assets/image (20) (4) (1) (1).png>) ![](<../../.gitbook/assets/image (15) (4) (1).png>)
 
 
 

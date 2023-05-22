@@ -16,7 +16,7 @@ Export your private key in different forms of backup file, and use such backup f
 
 **Step 3**: In the Account details section, choose "Export Account"
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (2).png>)
 
 **Step 4**: Enter your password.&#x20;
 

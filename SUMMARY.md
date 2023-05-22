@@ -73,13 +73,9 @@
   * [Withdraw unstaked funds](mobile-app-user-guide/manage-staking/withdraw-unstaked-funds.md)
   * [Claim staking rewards](mobile-app-user-guide/manage-staking/claim-staking-rewards.md)
 * [DApp browser & manage website access](mobile-app-user-guide/dapp-browser-and-manage-website-access.md)
+* [View transaction history](mobile-app-user-guide/view-transaction-history.md)
+* [Customize your blockchains](mobile-app-user-guide/customize-your-blockchains.md)
 * [Customize your end-point (provider)](mobile-app-user-guide/customize-your-end-point-provider.md)
-* [Set up biometric login & PIN code](mobile-app-user-guide/set-up-biometric-login-and-pin-code.md)
-* [Manage networks](mobile-app-user-guide/manage-networks/README.md)
-  * [Get network address](mobile-app-user-guide/manage-networks/get-network-address.md)
-  * [Turn on/ turn off your network](mobile-app-user-guide/manage-networks/turn-on-turn-off-your-network.md)
-  * [Change network endpoint](mobile-app-user-guide/manage-networks/change-network-endpoint.md)
-* [Synchronize between SubWallet mobile app & SubWallet browser extension](mobile-app-user-guide/synchronize-between-subwallet-mobile-app-and-subwallet-browser-extension.md)
 
 ## 🛡 Privacy & security
 

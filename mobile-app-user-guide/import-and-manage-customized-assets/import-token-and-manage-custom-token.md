@@ -28,7 +28,7 @@ A completed input screen would look like the following image:
 
 After successful import of your customize token, if you repeat Step 2 and search for the token name in the search box, it should be found.
 
-![](<../../.gitbook/assets/image (21) (3).png>)
+![](<../../.gitbook/assets/image (21) (3) (1).png>)
 
 
 

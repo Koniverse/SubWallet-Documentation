@@ -12,7 +12,7 @@ Please follow the instruction below to get your wallet address.
 
 **Step 2**: Select your receiving account
 
-![](<../../.gitbook/assets/image (19) (4) (1).png>)
+![](<../../.gitbook/assets/image (19) (4) (1) (1).png>)
 
 {% hint style="info" %}
 You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.

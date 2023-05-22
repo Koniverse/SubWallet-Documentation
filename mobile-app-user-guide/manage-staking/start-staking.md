@@ -2,7 +2,7 @@
 
 **Step 1**: Open the staking tab in Homepage and click the "+" button to start staking.&#x20;
 
-![](<../../.gitbook/assets/image (238).png>) ![](<../../.gitbook/assets/image (19) (4).png>)
+![](<../../.gitbook/assets/image (238).png>) ![](<../../.gitbook/assets/image (19) (4) (1).png>)
 
 ## If you want to join a staking pool
 
@@ -28,7 +28,7 @@ If you choose the "info" icon on the upper  right corner, you could see the stak
 
 **Step 3**: Click "Approve" to confirm&#x20;
 
-![](<../../.gitbook/assets/image (20) (4).png>)
+![](<../../.gitbook/assets/image (20) (4) (1).png>)
 
 
 

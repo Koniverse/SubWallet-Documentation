@@ -32,11 +32,11 @@ A completed cancel unstake request would look like the following image:
 
 **Step 5**: Enter password and click "Apply"
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (4).png>)
 
 And your cancel unstake request has been submitted. You could see your staking transaction in the History tab.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (4).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action

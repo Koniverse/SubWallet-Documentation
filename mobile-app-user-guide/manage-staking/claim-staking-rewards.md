@@ -2,7 +2,7 @@
 
 **Step 1**: Open the staking tab in Homepage and click on the current staking activity that you have unstaked before and want to claim rewards for.
 
-![](<../../.gitbook/assets/image (11).png>) ![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (11).png>) ![](<../../.gitbook/assets/image (10) (1).png>)
 
 **Step 2**: Click the three-dot icon in the staking details to see if there are available rewards to claim. If there is, click on the "Claim rewards" option
 

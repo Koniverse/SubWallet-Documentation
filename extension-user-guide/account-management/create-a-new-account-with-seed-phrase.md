@@ -29,7 +29,7 @@ This recovery phrase is as important as your private key; if someone has your re
 If, for instance, you forget your password, you would need your recovery phrase to import the account again and set up a new password.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 **Step 4**: Your account has been successfully set up. Click "Exit" to get to Homepage.
 

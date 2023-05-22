@@ -6,7 +6,7 @@
 
 **Step 2**: Click the "Unstake" button
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (3).png>)
 
 **Step 3**: Fill in the details for unstaking request. Then click "Submit"
 
