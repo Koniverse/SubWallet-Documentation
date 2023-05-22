@@ -14,13 +14,13 @@ description: >-
 
 **Step 2**: Choose "Manage address book"
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (170).png>)
 
 
 
 **Step 3**: You would be directed to a list of address. To add new contact, click the "+" button on the upper right corner
 
-![](<../.gitbook/assets/image (155).png>)
+![](<../.gitbook/assets/image (155) (1).png>)
 
 
 
@@ -28,11 +28,11 @@ description: >-
 
 Your only neccesary input is the address. You can name the contact according to your own will.
 
-![](<../.gitbook/assets/image (165).png>)
+![](<../.gitbook/assets/image (165) (1).png>)
 
 An example of a complete input would be as following:
 
-![](<../.gitbook/assets/image (166).png>)
+![](<../.gitbook/assets/image (166) (1).png>)
 
 Click "Add contact" to proceed.&#x20;
 
@@ -46,4 +46,4 @@ This contact would be instantly available for you when making transfer of tokens
 
 To edit contact or delete contact, click on the contact with your mouse/touchpad. The following screen would appear and you might proceed with the action
 
-![](<../.gitbook/assets/image (157).png>)
+![](<../.gitbook/assets/image (157) (1).png>)

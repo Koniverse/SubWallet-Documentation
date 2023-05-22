@@ -56,7 +56,7 @@ Guess how? Since NFT is non-fungible and unique, a particular NFT can only be he
 
 **Step 5**: Check the transaction details and click "Approve" if you want to proceed
 
-![](<../../.gitbook/assets/image (3) (3).png>)
+![](<../../.gitbook/assets/image (3) (3) (1).png>)
 
 
 
@@ -64,7 +64,7 @@ Guess how? Since NFT is non-fungible and unique, a particular NFT can only be he
 
 You can either go back to homepage or view the "receipt" of your transaction in the transaction history.&#x20;
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../.gitbook/assets/image (161) (1).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
