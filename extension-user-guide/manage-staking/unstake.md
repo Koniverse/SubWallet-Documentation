@@ -46,7 +46,7 @@ To proceed with the action, click "Submit".
 
 **Step 4**: Check your unstaking action again and click "Approve".
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 
 
@@ -62,7 +62,7 @@ If you click "view transaction", the wallet would show you the latest transactio
 
 You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](broken-reference).
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (153).png>)
 
 
 

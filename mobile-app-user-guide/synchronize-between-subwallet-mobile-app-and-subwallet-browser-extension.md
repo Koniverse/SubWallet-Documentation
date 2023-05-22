@@ -31,4 +31,4 @@ In your home screen, please click the list item on the right corner.
 
 ## To import the generated QR address into SubWallet mobile.&#x20;
 
-Detailed instruction can be found [here](import-an-existing-account/import-by-qr-code.md).&#x20;
+Detailed instruction can be found [here](broken-reference).&#x20;

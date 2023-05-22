@@ -4,15 +4,15 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 1**: Choose the account name to get to your account list
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (2).png>)
 
 **Step 2**: In the account list, click the import icon&#x20;
 
-![](<../../.gitbook/assets/image (17) (2).png>)
+![](<../../.gitbook/assets/image (17) (2) (1).png>)
 
 **Step 3**: Choose your preferred way to import account
 
-![](<../../.gitbook/assets/image (15) (2).png>)
+![](<../../.gitbook/assets/image (15) (2) (1).png>)
 
 
 
@@ -28,7 +28,7 @@ For each seedphrase created with SubWallet, you would have a Substrate account a
 Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (25) (2).png>)
+![](<../../.gitbook/assets/image (25) (2) (1).png>)
 
 In some cases, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -70,11 +70,11 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 **Step 1**: Click on the import field to choose file from your device, or drag and drop your JSON backup file to import.
 
-![](<../../.gitbook/assets/image (10) (1) (2).png>)
+![](<../../.gitbook/assets/image (10) (1) (2) (1).png>)
 
 **Step 2**: Enter your master password (created when you set up the wallet for the first time) and click "Import from Json".&#x20;
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 
@@ -94,16 +94,16 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 **Step 1**: Click the "Scan the QR code" button.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (2).png>)
 
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension the permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet would show the following message:
 
-![](<../../.gitbook/assets/image (7) (3).png>)\
+![](<../../.gitbook/assets/image (7) (3) (1).png>)\
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle to enable camera access.&#x20;
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (2).png>)
 {% endhint %}
 
 
@@ -129,14 +129,14 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 {% hint style="info" %}
 **Step 1**: Choose the list icon on the upper left corner of your Homescreen
 
-![](<../../.gitbook/assets/image (22) (1).png>)\
+![](<../../.gitbook/assets/image (22) (1) (2).png>)\
 
 
 **Step 2**: Choose "Security settings"
 
-![](<../../.gitbook/assets/image (13).png>)\
+![](<../../.gitbook/assets/image (13) (2).png>)\
 \
 **Step 3**: Disable the toggle next to the "Allow camera access" option.&#x20;
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (2).png>)
 {% endhint %}

@@ -10,7 +10,7 @@
 
 **Step 2**: Scroll to the end of the Settings section to see the button "Lock". Then click the button to lock the wallet.
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (2).png>)
 
 
 

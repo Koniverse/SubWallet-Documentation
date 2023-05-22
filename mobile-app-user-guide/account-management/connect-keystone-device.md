@@ -1,0 +1,28 @@
+# Connect Keystone device
+
+**Step 1**: Open SubWallet extension and click the account name to get to the account list
+
+You would be directed to a list of accounts.
+
+![](<../../.gitbook/assets/image (33).png>)
+
+**Step 2**: In the account list, choose the "Attach account" icon
+
+![](<../../.gitbook/assets/image (35).png>)
+
+**Step 3**: Choose "Attach Keystone account"
+
+![](<../../.gitbook/assets/image (11).png>)
+
+**Step 4**: Open your account on Keystone device, then click the "Scan the QR code" button on SubWallet and scan the QR code displayed on Keystone.
+
+![](<../../.gitbook/assets/image (143).png>) ![](<../../.gitbook/assets/image (144).png>)
+
+Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
+
+{% hint style="info" %}
+Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+
+SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+{% endhint %}
+

@@ -14,13 +14,13 @@ Then click the three-dot item on the right hand side of the stake you want to wi
 
 **Step 2**: Choose "Cancel unstake".
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (4).png>)
 
 
 
 **Step 3**: Choose an account in which you want to cancel a previous unstaking request.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 {% hint style="info" %}
 In this example, we are in "All accounts" mode. If you are in a single-account mode, you would not have to go through Step 3.&#x20;

@@ -84,7 +84,7 @@ SubWallet is currently supporting pooled staking for Substrate blockchains.&#x20
 
 **Step 1**: Open SubWallet and choose the Staking tab. Then click the "+" icon on the upper right corner to start staking.&#x20;
 
-![](<../../.gitbook/assets/image (3) (3).png>)
+![](<../../.gitbook/assets/image (3) (3) (1).png>)
 
 
 

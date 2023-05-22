@@ -4,15 +4,15 @@ Export your private key in different forms of backup file, and use such backup f
 
 **Step 1**: Click the account name section to get to the account list
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 **Step 2**: Click the three-dot item on the right hand side of the account you want to export.&#x20;
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (37) (2).png>)
 
 **Step 3**: In the Account details section, choose "Export Account"
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 **Step 4**: Enter your password.&#x20;
 
@@ -20,11 +20,11 @@ Export your private key in different forms of backup file, and use such backup f
 You would notice that even if you correctly enter your password, the "Confirm" button is still not available. You would need to choose your preferred form of export file to continue.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (2).png>)
 
 **Step 5**: Choose your preferred way(s) to export your private key and click "Confirm".
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49) (3).png>)
 
 {% hint style="warning" %}
 Please save and keep your backup files in a secure place.&#x20;

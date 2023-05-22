@@ -2,7 +2,7 @@
 
 **Step 1**: Open SubWallet and click the Send button
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (48) (2).png>)
 
 You would be directed to a transaction request screen.
 
@@ -31,7 +31,7 @@ Please note that the destination account and the destination chain must be of th
 
 For example, if you choose Acala as your destination chain, the destination account must be a Substrate account.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (2).png>)
 
 {% hint style="info" %}
 SubWallet support both single-chain transfer and cross-chain transfer (also known as teleporting or XCM).&#x20;
@@ -40,14 +40,14 @@ In this example, user can send ACA to either Acala (single-chain) or Moonbeam (c
 
 To specify the type of transfer, you would only need to choose the destination chain.
 
-![](<../../.gitbook/assets/image (148).png>) ![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (148).png>) ![](<../../.gitbook/assets/image (5) (1).png>)
 
 
 {% endhint %}
 
 A completed transfer request would look like the following image:
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30) (3).png>)
 
 Here we are doing a transfer of 0.0001 ACA from an account named "Arrange" to an account named "Stove - EVM". The transfer would be cross-chain, from Acala to Moonbeam.\
 Click "Transfer".
@@ -70,7 +70,7 @@ This feature would save you a lot of time when entering address for transaction.
 
 By clicking the book icon on the right hand side of the address field, you would be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.&#x20;
 
-![](<../../.gitbook/assets/image (46).png>) ![](<../../.gitbook/assets/image (143).png>)\
+![](<../../.gitbook/assets/image (46) (2).png>) ![](<../../.gitbook/assets/image (143) (1).png>)\
 
 
 In this case, "Eugene" is my manually saved contact. I might want to save this contact because I have to transfer to them frequently and I do not want to manually enter the address everytime I make transfer.&#x20;
@@ -87,13 +87,13 @@ Click "Transfer".
 
 **Step 3**: Check your transaction details, then click "Approve" if you want to proceed.&#x20;
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 **Step 4**: Transaction result is in.
 
 You can either go back to homepage or view the "receipt" of your transaction in the transaction history.&#x20;
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (2).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
@@ -107,6 +107,6 @@ If you click the "View transaction" button, SubWallet would display the receive 
 
 However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](broken-reference).
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (2).png>)
 
-![](<../../.gitbook/assets/image (19).png>) ![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (19) (1).png>) ![](<../../.gitbook/assets/image (6) (1).png>)

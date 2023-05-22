@@ -2,7 +2,7 @@
 
 **Step 1**: Open the NFT tab in your wallet.
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (70) (1).png>)
 
 **Step 2**: Click the **\[+]** button to add NFT.
 
@@ -14,5 +14,5 @@ Step 3: Enter NFT contract address, choose the network, then click **Import NFT.
 
 A successful import of NFT would look like the following image:
 
-![](<../.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (61) (1).png>)
 

@@ -8,7 +8,7 @@
 
 **Step 2**: Choose "Manage tokens". You would be redirected to a token list.&#x20;
 
-![](<../../.gitbook/assets/image (3) (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (3) (1) (1).png>)
 
 **Step 3**: In the token list, click on the "+" button to add your token.
 
@@ -44,7 +44,7 @@ An useful trick is to utilize the "Search" feature everytime you want to use the
 
 **Step 2**: Find your customized token name in the search bar and click on it
 
-![](<../../.gitbook/assets/image (153) (1).png>)
+![](<../../.gitbook/assets/image (153) (1) (1).png>)
 
 
 

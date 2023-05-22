@@ -20,10 +20,10 @@ If you start from a single-account mode, the wallet would automatically fill in 
 To see if you are in the **All accounts** mode or a single-account mode, please look at the account name on top of the home screen:\
 
 
-![](<../../.gitbook/assets/image (83).png>)![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (83).png>)![](<../../.gitbook/assets/image (60) (1).png>)
 {% endhint %}
 
-The following example is a cross-chain transfer between Astar and Acala network:![](<../../.gitbook/assets/image (59).png>)
+The following example is a cross-chain transfer between Astar and Acala network:![](<../../.gitbook/assets/image (59) (1).png>)
 
 **Step 3**: Input the amount you want to transfer and click **Continue.**&#x20;
 
