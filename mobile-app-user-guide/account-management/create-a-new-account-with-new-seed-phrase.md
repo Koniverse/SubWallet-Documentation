@@ -4,7 +4,7 @@
 
 You can create a new account immediately from the "Welcome" screen. You can create a new account using seed phrase.&#x20;
 
-![](<../../.gitbook/assets/image (44).png>) ![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (44).png>) ![](<../../.gitbook/assets/image (23) (3).png>)
 
 
 
@@ -50,7 +50,7 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 **Step 3**: Enter your SubWallet password and click "Apply" to confirm the creation of your new account
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 

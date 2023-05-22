@@ -4,7 +4,7 @@
 
 **Step 1**: Open SubWallet and click on the account name on top of the screen. You would be directed to a list of accounts.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (4).png>)
 
 **Step 2**: In the account list, choose the account you want to use.&#x20;
 
@@ -24,4 +24,4 @@ You can also switch between the "All accounts" mode and single-account mode here
 
 **Step 2**: You would be directed to the account details section. Click on the account name and type a new name. SubWallet would automatically save the new name for you.&#x20;
 
-![](<../../.gitbook/assets/image (6).png>) ![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (6) (3).png>) ![](<../../.gitbook/assets/image (8) (3).png>)

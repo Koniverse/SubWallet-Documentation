@@ -16,7 +16,7 @@ description: >-
 
 **Step 3**: Choose "Attach read-only account"
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (3).png>)
 
 **Step 4**: Enter the address of the account you want to track, then click "Attach read-only account".
 
@@ -24,7 +24,7 @@ description: >-
 
 **Step 5**: Enter password then click "Apply" to continue
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (3).png>)
 
 Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](broken-reference)
 

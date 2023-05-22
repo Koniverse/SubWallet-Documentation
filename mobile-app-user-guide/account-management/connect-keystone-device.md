@@ -12,7 +12,7 @@ You would be directed to a list of accounts.
 
 **Step 3**: Choose "Attach Keystone account"
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (4).png>)
 
 **Step 4**: Open your account on Keystone device, then click the "Scan the QR code" button on SubWallet and scan the QR code displayed on Keystone.
 

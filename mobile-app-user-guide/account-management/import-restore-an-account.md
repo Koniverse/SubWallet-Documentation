@@ -10,7 +10,7 @@ description: >-
 
 You can import and restore account immediately from the "Welcome" screen.&#x20;
 
-![](<../../.gitbook/assets/image (10).png>) ![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (10) (2).png>) ![](<../../.gitbook/assets/image (5) (2).png>)
 
 ## If you have already had an account with SubWallet
 
@@ -22,7 +22,7 @@ You would need to open the Account management screen.
 
 **Step 2**: Click the "Import" icon in the account management screen
 
-![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (18) (3).png>) ![](<../../.gitbook/assets/image (15) (3).png>)
 
 
 
@@ -54,11 +54,11 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 **Step 1**: Enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (4).png>)
 
 **Step 2**: Enter your password and click "Apply"
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (3).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](broken-reference).
 

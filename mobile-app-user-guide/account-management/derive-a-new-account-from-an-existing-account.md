@@ -16,7 +16,7 @@ description: >-
 
 **Step 3**: Choose from a list of your existing account
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (24).png>)
 
 Your new account would be automatically created and added to the account list.&#x20;
 
@@ -30,7 +30,7 @@ You could also derrive a new account from the details section of a particular ac
 \
 From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you would be directed to an account details section. You could then choose the Derive an account option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (40).png>) ![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (40).png>) ![](<../../.gitbook/assets/image (7) (4).png>)
 {% endhint %}
 
 

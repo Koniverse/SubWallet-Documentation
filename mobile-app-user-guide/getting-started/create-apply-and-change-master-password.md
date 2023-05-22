@@ -28,13 +28,13 @@ You would need your old password for each account to confirm the change.&#x20;
 
 **Step 1**: Click "Apply master password" to continue
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (2).png>)
 
 **Step 2**: Enter your old password for each and every account you are managing with SubWallet and click "Next".
 
 In this example, we are managing 04 accounts with SubWallet
 
-![](<../../.gitbook/assets/image (24).png>) ![](<../../.gitbook/assets/image (37).png>) ![](<../../.gitbook/assets/image (29).png>) ![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (24) (3).png>) ![](<../../.gitbook/assets/image (37).png>) ![](<../../.gitbook/assets/image (29).png>) ![](<../../.gitbook/assets/image (9) (3).png>)
 
 **Step 3**: Your master password has been successfully applied!. Click "Finish" to go to Home screen.&#x20;
 
@@ -55,11 +55,11 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 1**: Open your wallet and choose the list item on the top left corner to get to the Settings section
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 **Step 2**: Choose Security settings > Change password
 
-![](<../../.gitbook/assets/image (22).png>) ![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (22) (3).png>) ![](<../../.gitbook/assets/image (70).png>)
 
 **Step 3**: Enter your password and click "Finish".&#x20;
 

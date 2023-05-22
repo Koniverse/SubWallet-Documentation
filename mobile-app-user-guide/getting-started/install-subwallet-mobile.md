@@ -4,7 +4,7 @@
 
 **Step 1**: Search for SubWallet on App Store and click "Get"
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (3).png>)
 
 
 
