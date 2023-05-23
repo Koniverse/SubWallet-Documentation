@@ -1,8 +1,8 @@
 # Receive & transfer assets
 
-Receiving & Transfering assets on Polkadot, Subtrate & Ethereum networks have never been easy than ever, with SubWallet. Whether you transfer tokens on single-chain or cross-chain, we will make it simple and smooth for you. The process has been streamlined for an intuitive user experience that allows you to make every transaction effortlessly.&#x20;
+Receiving & transferring assets on Polkadot, Subtrate & Ethereum networks has never been easier with SubWallet. Whether you transfer tokens on single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
 
-SubWallet has supported 150+ networks on Polkadot, Subtrate & Ethereum ecosystems with 380+ tokens. For example:&#x20;
+SubWallet now supports 150+ networks in the Polkadot, Subtrate & Ethereum ecosystems with 380+ tokens. Those include:&#x20;
 
 * Polkadot (DOT)
 * Kusama (KSM)
@@ -25,4 +25,6 @@ SubWallet has supported 150+ networks on Polkadot, Subtrate & Ethereum ecosystem
 * Picasso (PICA)
 * Litentry (LIT)
 * Ajuna Network (BAJU)
-* XX Network (xx) … and more.
+* XX Network (xx)&#x20;
+
+… and more.
