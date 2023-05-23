@@ -52,5 +52,15 @@ It can be tedious if you have many accounts with SubWallet, but this is the most
 
 ![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
+{% hint style="info" %}
+In case you do not remember the old password of your account, don't worry, the process can still be continued. As long as you have your seed phrase/JS backup file/private key/QR backup key, you can always re-import your account into the extension
+{% endhint %}
+
+![](../../../.gitbook/assets/image.png)
+
+![](<../../../.gitbook/assets/image (80).png>)
+
+You can enter your old password wrong maximum 3 times. After that, click Remove this account and continue with the remaining accounts. When you finish migrating your accounts, import your forgotten account again using your seed phrase/JS backup file/private key/QR backup key. For instructions on how to import account, click [here](../../account-management/import-and-restore-an-account.md).
+
 
 

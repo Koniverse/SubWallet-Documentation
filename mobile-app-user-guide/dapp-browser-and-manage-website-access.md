@@ -8,7 +8,7 @@
 
 **Step 2**: Type your website in the search bar, or choose from our suggested list.
 
-![](<../.gitbook/assets/image (13) (2).png>) ![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (13) (2).png>) ![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 In this case we are connecting to Beamswap.&#x20;
 
