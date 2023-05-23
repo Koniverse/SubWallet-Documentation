@@ -1,44 +1,83 @@
 ---
 description: >-
   Welcome to SubWallet’s Wiki & Documentation! Here you can find all kinds of
-  useful resources when using SubWallet, the ultimate Polkadot native wallet.
+  useful resources when using SubWallet, the comprehensive non-custodial wallet
+  for Polkadot, Substrate & Ethereum ecosystems.
 ---
 
-# Introduction: The Ultimate Polkadot Wallet
+# Introduction
 
-## **What** &#x20;
+## About SubWallet
 
-**SubWallet** is a user-friendly Web3 Multiverse Gateway for Polkadot and Kusama ecosystem. Our vision is to provide you with the simplest and most secure way to connect to blockchain-based applications like DeFi and GameFi on Polkadot.
+SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Substrate & Ethereum ecosystems. \
+Built on top of Polkadot {.js}, SubWallet focuses on improving UX & UI. We envision a crypto wallet as a Web3 multiverse gateway through which users can enjoy multi-chain services with utmost ease and absolute security. \
+Connecting and using blockchain-based applications in Polkadot, Substrate & Ethereum ecosystems is smoother than ever with SubWallet Browser Extension & SubWallet Mobile App (Android & iOS). Our web wallet is coming soon!
 
-Where to find what:&#x20;
+## SubWallet Crypto Wallet Key Features
 
-* To install the latest version of SubWallet, visit our [official website (open new window)](https://subwallet.app/).
-* For up-to-the-minute news on Polkadot, Kusama and SubWallet, follow our [Telegram](https://t.me/subwallet) & [Twitter](https://twitter.com/subwalletapp).
-* For help using SubWallet, jump into [Support Channel on Discord](https://discord.gg/EkFNgaBwpy).
-* To learn how to contribute to the **SubWallet** project, visit our community in [Discord](https://discord.gg/RFDpcG6xZ4).
-* To keep up with **SubWallet**'s updates, hit [change-log.md](maintain/change-log.md "mention").
+1. Manage multi-chain assets on 150+ networks in Polkadot, Substrate & Ethereum ecosystems with 380+ tokens supported
+2. Manage multiple seed phrases for Polkadot & Ethereum accounts with only one master password
+3. Send & receive assets cross-chain in Polkadot & Kusama ecosystems
+4. Display & manage NFT
+5. Stake to earn in-app easily via nominating directly and joining nomination pools (Polkadot, Kusama & Aleph Zero)
+6. Explore Web3 apps without friction
+7. Sync desktop & mobile wallets within seconds
+8. Boost security with hardware crypto wallets Ledger & Keystone as well as Polkadot Vault (previously Parity QR-Signer)
+9. Buy crypto from fiat using your credit & debit card \
+   And a lot more!
 
-## Why
+## Utmost Security & User Privacy
 
-**SubWallet** is built on top of Polkadot {.js} and focuses on improving user experience in the Polkadot and Kusama ecosystem—that is, we strive to make it easier for users to access and interact with Web3 applications that run on the Substrate Framework. In other words, we base SubWallet on Polkadot {.js}'s security backbone while improving all of its current drawbacks, including but not limited to:
+1. Non-custodial
+2. No user-tracking
+3. Fully open-source
+4. Security audit by Verichains
+5. Cold wallet integration
 
-* Cumbersome infrastructure
-* Complicated user interface&#x20;
-* High latency &#x20;
+## Token Standard Support
 
-This does not mean that we deny the contribution of Polkadot {.js}. It sets a crucial stepping stone for developers and plays a vital role for the Polkadot and Kusama ecosystem owing to its decentralization properties. Since there are too many blockchains and projects on the ecosystem that need to be managed, keeping track is immensely challenging for developers without a massive application like Polkadot {.js}. However, Polkadot end-users don't need this; they need something faster and more user-friendly. That's why **SubWallet** was born.
+ERC-20, ERC-721, PSP-34, PSP-22
 
-In the long run, we still believe that in the ecosystem, Polkadot {.js} is a pivotal platform application for developers. Our mission is to harness its power and bring it closer to the wider Polkadot community through user-friendly applications like **SubWallet**.&#x20;
+### &#x20;Assets Supported On All Networks & Parachains
 
-## How
+* Polkadot (DOT)
+* Kusama (KSM)
+* Ethereum (ETH)
+* Binance Smart Chain (BNB)
+* Moonbeam (GLMR)
+* Moonriver (MOVR)
+* Pioneer Network (NEER)
+* Aleph Zero (AZERO)
+* Astar (ASTR)
+* Shiden (SDN)
+* Bifrost (BNC)
+* Polygon (MATIC)
+* Arbitrum (ARB)
+* Optimism (OP)
+* TomoChain (TOMO)
+* Composable Finance (LAYR)
+* Phala (PHA)
+* HydraDX (HDX)
+* Picasso (PICA)
+* Litentry (LIT)
+* Ajuna Network (BAJU)
+* XX Network (xx) … and more.
 
-Below are our main features, or how we have improved from Polkadot {.js}:&#x20;
+## User Support
 
-* Monitor multi-chain assets on extension window
-* Send and receive assets with a few simple taps
-* Grant access and verify transactions to Web3
-* Manage and transfer NFT assets
-* Manage portfolio
-* And many more soon
+You can find “How to” materials and tutorials on our Wiki: [https://docs.subwallet.app/](https://docs.subwallet.app/) \
+and our Youtube Channel [https://www.youtube.com/@subwalletapp](https://www.youtube.com/@subwalletapp) \
+Any further queries, please contact us via community channel below.
 
-{% embed url="https://www.youtube.com/watch?v=8zY7AVv3AKg" %}
+## Community & Updates
+
+1. Download the latest version from our official website: [https://www.subwallet.app/](https://www.subwallet.app/)
+2. Visit our Github: [https://github.com/Koniverse/Subwallet-Extension](https://github.com/Koniverse/Subwallet-Extension)
+3. Follow us on Twitter: [https://twitter.com/subwalletapp](https://github.com/Koniverse/Subwallet-Extension)
+4. Join us on Telegram: [https://t.me/subwallet](https://t.me/subwallet)
+5. Join us in Discord: [https://discord.com/invite/EkFNgaBwpy](https://discord.com/invite/EkFNgaBwpy)
+6. Keep up with **SubWallet**'s updates, hit [change-log.md](maintain/change-log.md "mention").
+
+As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
+
+**Stay in touch!**
