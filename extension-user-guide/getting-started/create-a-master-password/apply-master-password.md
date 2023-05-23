@@ -12,7 +12,7 @@ In this updated version, with the introduction of a master password, users would
 You could also lock and unlock your wallet with the master password.&#x20;
 {% endhint %}
 
-**Step 1**: Click "Create master password"
+**Step 1**: Click "Create master password".
 
 This will be the first screen in our new version.
 
@@ -32,7 +32,7 @@ Then click "Continue"
 
 
 
-**Step 4**: Enter your old password for each account and click "Next" to confirm the change
+**Step 4**: Enter your old password for each account and click "Next" to confirm the change.
 
 {% hint style="info" %}
 You would need your old password for each account to confirm the change.&#x20;
