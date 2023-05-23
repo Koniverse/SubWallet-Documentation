@@ -5,10 +5,10 @@ description: This part will show you How to Manage Your Accounts on SubWallet.
 # Account management
 
 {% embed url="https://www.youtube.com/watch?v=fGjdZ_uILeo" %}
-How to Create new account with SubWallet
+How to create a new account with SubWallet
 {% endembed %}
 
-For now, there are 2 ways to create new and 4 ways to import your Substrate (Polkadot) accounts and Ethereum accounts on SubWallet. Also, the security of your assets will be enhanced with 3 ways to connect with cold wallets to SubWallet including [Ledger device](connect-ledger-device.md), [Keystone device](connect-keystone-device.md), and [Polkadot Vault](attach-a-polkadot-vault-previously-parity-signer-account.md) (previously Parity Signer). Your privacy and security are our priority.
+At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot) accounts & Ethereum accounts on SubWallet. In addition, the security of your assets is enhanced with 3 cold wallet connection options including [Ledger device](connect-ledger-device.md), [Keystone device](connect-keystone-device.md), and [Polkadot Vault](attach-a-polkadot-vault-previously-parity-signer-account.md) (previously Parity Signer). Your privacy and security are our top priorities as always.
 
 {% content-ref url="create-a-new-account-with-seed-phrase.md" %}
 [create-a-new-account-with-seed-phrase.md](create-a-new-account-with-seed-phrase.md)
