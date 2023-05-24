@@ -14,7 +14,7 @@ description: >-
 
 ![](<../../.gitbook/assets/image (21) (1) (2) (1).png>)  ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FtWmqrZHUR78QpC5IY0Kz%2FScreenshot\_29.png?alt=media\&token=4c7dfd39-7ad4-44bf-87f2-46bf1e1e0128)
 
-**Step 3**: Choose from a list of your existing account
+**Step 3**: Choose from a list of your existing account.
 
 ![](<../../.gitbook/assets/image (19) (1) (2).png>)
 
