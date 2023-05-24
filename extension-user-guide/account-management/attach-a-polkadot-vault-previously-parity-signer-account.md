@@ -6,27 +6,27 @@ description: >-
 
 # Attach a Polkadot Vault (previously Parity-Signer) account
 
-**Step 1**: Open SubWallet extension and click the account name to get to the account list
+**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
 ![](<../../.gitbook/assets/image (37) (2) (1).png>)
 
 
 
-**Step 2**: Choose the attach account icon on the lower right corner
+**Step 2**: In the account management screen, click on the attach account item in the lower right corner.
 
 ![](<../../.gitbook/assets/image (30) (3) (1).png>)
 
 
 
-**Step 3**: Choose "Connect Parity signer account"
+**Step 3**: Choose "Connect a Polkadot Vault account".
 
-![](<../../.gitbook/assets/image (38) (2).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FvACvQyKwuziqgvLDOkZu%2FScreenshot\_7.png?alt=media\&token=1f3698a2-31ef-4fb8-8017-c2663bcb9101)
 
 
 
 **Step 4**: Scan the QR code provided by Parity signer to continue.&#x20;
 
-![](<../../.gitbook/assets/image (40) (2) (1).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FVzNMxnNCUV1nWXmotBIk%2FScreenshot\_24.png?alt=media\&token=9d022279-94fe-4ae1-91de-c8d1a0b46cfc)
 
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension the permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet would show the following message:
@@ -35,6 +35,6 @@ Please note that you would need to grant the SubWallet extension the permission 
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access
 
-![](<../../.gitbook/assets/image (43) (2).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
