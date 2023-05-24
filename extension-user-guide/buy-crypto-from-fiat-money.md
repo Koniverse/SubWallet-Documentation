@@ -4,7 +4,7 @@ description: On-ramp crypto purchase for several tokens.
 
 # Buy crypto from fiat money
 
-**Step 1**: Click the "Buy" token item on your Homescreen
+**Step 1**: Open SubWallet homepage, click the "Buy" token item on your Homescreen.
 
 ![](<../.gitbook/assets/image (168) (2).png>)
 
