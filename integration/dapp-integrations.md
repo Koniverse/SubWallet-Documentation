@@ -72,7 +72,28 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 11. [Manta Pay](https://app.manta.network/dolphin/transact)
 12. [Cask](https://app.cask.fi/)
 13. Darwinia [Crab](https://apps.darwinia.network/?network=crab)
-14.
+14. [Moonbeans](https://moonbeans.io/)
+15. [Solarflare](https://app.solarflare.io/exchange/swap)
+16. [PolkaVerse](https://polkaverse.com/)
+17. [SORA](https://polkaswap.io/)
+18. [Zstake](https://zstake.finance/rewards/)
+19. [FiDi](https://app.fidi.tech/)
+20. [Taiga](https://app.taigaprotocol.io/assets)
+21. [Tapio](https://app.tapioprotocol.io/assets)
+22. [yieldbay](https://list.yieldbay.io/)
+23. [Ink Whale](https://inkwhale.net/#/)
+24. [Braindex](https://www.braindex.io/swap)
+25. [Helix](https://helixbridge.app/apps)
+26. [Basilik](https://bsx.fi/)
+27. [PrivaDEX](https://app.privadex.xyz/)
+28. [AzeroPunks](https://mint.azeropunks.com/#/welcome)
+29. [Apillon](https://app.apillon.io/login)
+30. [Polkasafe](https://app.polkasafe.xyz/)
+31. [Mandala Clan App](https://enterthemandala.app/HomePage)
+
+
+
+
 
 
 
