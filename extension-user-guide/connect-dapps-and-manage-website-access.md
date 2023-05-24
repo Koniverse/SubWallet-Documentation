@@ -42,7 +42,7 @@ Please note that sometimes extension wallets might override each other and thus 
 
 **Step 3**: Click "Manage website access".
 
-![](<../.gitbook/assets/image (212).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FhllGAoB2iKJ9PoSoBGYh%2FScreenshot\_10.png?alt=media\&token=174ef0ba-5484-4d85-9a4c-5d8ce74c30b2)
 
 **Step 4**: You would see a list of websites connected with SubWallet and the corresponding number of accounts connecting.&#x20;
 
