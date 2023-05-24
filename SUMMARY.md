@@ -39,7 +39,7 @@
   * [Claim staking rewards](extension-user-guide/manage-staking/claim-staking-rewards.md)
 * [Connect dApps & manage website access](extension-user-guide/connect-dapps-and-manage-website-access.md)
 * [View transaction history](extension-user-guide/view-transaction-history.md)
-* [Customize your blockchains](extension-user-guide/customize-your-blockchains.md)
+* [Customize your networks](extension-user-guide/customize-your-networks.md)
 * [Customize endpoint/provider](extension-user-guide/customize-endpoint-provider.md)
 * [FAQs](extension-user-guide/faqs.md)
 
