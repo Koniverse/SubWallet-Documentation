@@ -8,9 +8,9 @@ description: >-
 
 You can find the detail of all your transactions including token send & receive, NFT transaction, and staking on the History page.
 
-**Step 1**: Open SubWallet and choose the History tab.
+**Step 1**: Open SubWallet homepage and choose the History tab.
 
-![](<../.gitbook/assets/image (207).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F4b5g5Sbv8MlZF8SzYa1x%2FScreenshot\_9.png?alt=media\&token=995384e7-0168-4bab-8b6f-8af2db2ef7c7)
 
 {% hint style="info" %}
 You can see transaction history in both All accounts mode and single account mode. If you want to see history of a specific account, simply switch to a single account mode and only transactions in such an account would be displayed as the example below.&#x20;
