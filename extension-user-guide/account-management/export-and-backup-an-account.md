@@ -6,17 +6,17 @@ description: This document will show you How to Export & Backup an Account on Su
 
 Export your private key in different forms of backup file, and use such backup file to restore & import the account again if you so wish.
 
-**Step 1**: Click the account name section to get to the account list
+**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
 ![](<../../.gitbook/assets/image (15) (2).png>)
 
-**Step 2**: Click the three-dot item on the right hand side of the account you want to export.&#x20;
+**Step 2**: In the account management screen, click the ediedit item on the right hand side of the account you want to export.&#x20;
 
-![](<../../.gitbook/assets/image (37) (2).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FxNVaji337zKIPRGLdZEC%2FScreenshot\_27.png?alt=media\&token=b045aca2-34de-4b4e-b2cf-e6798f8a08dd)
 
-**Step 3**: In the Account details section, choose "Export Account"
+**Step 3**: In the Account details section, choose "Export Account".
 
-![](<../../.gitbook/assets/image (10) (1) (2).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FmRTO83U6ts402ta6zDmR%2FScreenshot\_3.png?alt=media\&token=81d01b3e-aa61-4065-b32e-1e6126f27365)
 
 **Step 4**: Enter your password.&#x20;
 

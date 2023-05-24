@@ -67,7 +67,16 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 6. [Polkadex](https://www.polkadex.trade/)
 7. [Parallel](https://parallel.fi/)
 8. [Aleph Zero](https://alephzero.org/)
-9. ...
+9. [Andromedaswap](https://andromedaswap.org/swap)
+10. [Astar Network](https://portal.astar.network/#/astar/assets) Portal
+11. [Manta Pay](https://app.manta.network/dolphin/transact)
+12. [Cask](https://app.cask.fi/)
+13. Darwinia [Crab](https://apps.darwinia.network/?network=crab)
+14.
+
+
+
+
 
 ## Have a Project? Contact Us!&#x20;
 
