@@ -27,22 +27,15 @@ This Privacy Policy covers all the categories and will tell you how we might col
 
 ### **Sensitive information**
 
-Your Sensitive information is not collected or stored by us. In particular, it is not sent anywhere, is not stored anywhere except your device and is not included in backups of the operating system. We are committed to making sure your information is protected and we employ several mechanisms to keep your information safe, including on-device encryption, verification and authentication by password or biometry and securing all network connections with industry standard transport layer security. However, even with these precautions taken by us, safety of your device and your mnemonic passphrase, seed or backup data is solely your responsibility.
+**Your Sensitive information is not collected or stored by us**. In particular, it is not sent anywhere, is not stored anywhere except your device and is not included in backups of the operating system. We are committed to making sure your information is protected and we employ several mechanisms to keep your information safe, including on-device encryption, verification and authentication by password or biometry and securing all network connections with industry standard transport layer security. However, even with these precautions taken by us, safety of your device and your mnemonic passphrase, seed or backup data is solely your responsibility.
 
 ### **Personal information**
 
-You can access and use the Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. In other words, no Personal information is collected by our Services. This applies to all categories of users, including children under the age of 18.
+You can access and use the Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. In other words, **no Personal information is collected by our Services**. This applies to all categories of users, including children under the age of 18.
 
-### **Log Data**
-
-Whenever you use our Services, we collect error data and information through third party products on your phone (“Log Data”). This Log Data may include information such as your device IP-address, name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. No Sensitive Information or Personal Information is collected. Log Data will be processed securely in compliance with all relevant regulations, and will not be sold or otherwise transferred to third parties without your explicit consent.
-
-### **Cookies**
-
-A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-Our Services do not use “cookies” explicitly. However, some third-party services that we might use in the app, may use cookies to collect, store, and track information for security and personalization, and for statistical purposes. Please note that you have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to use some portions of the Services.\
-
+{% hint style="info" %}
+Please note that our extension and app have been uploaded to the Store on desktop browsers (Chrome, Brave, Edge & Firefox) and mobile (App Store and Play Store). These stores may track some of your information and activities including and not limited to log data, cookies, etc.&#x20;
+{% endhint %}
 
 ## **Disclosure of information**
 
