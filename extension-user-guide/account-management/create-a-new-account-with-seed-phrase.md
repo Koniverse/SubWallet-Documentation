@@ -9,11 +9,11 @@ description: >-
 ### If this is the first time you install SubWallet
 
 \
-**Step 1**: After installing SubWallet extension, open the wallet and choose "Create a new account"
+**Step 1**: After installing SubWallet extension, open the wallet and choose "Create a new account".
 
-![](<../../.gitbook/assets/image (6) (1) (2) (1).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FrD7aDN3hu5uUKrEFkOoU%2FScreenshot\_15.png?alt=media\&token=8a3e589a-2fc8-4494-952d-05ff613c55eb)
 
-**Step 2**: Create a master password and click "Continue"
+**Step 2**: Create a master password and click "Continue".
 
 {% hint style="warning" %}
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
@@ -39,7 +39,7 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 In the Homepage, if you click the account name, you would see your list of accounts. You could switch & select your accounts here. We also offer the "All accounts" mode in case you need a quick glance of your total assets.&#x20;
 
-![](<../../.gitbook/assets/image (18) (2) (1).png>) ![](<../../.gitbook/assets/image (8) (2) (1).png>)
+![](<../../.gitbook/assets/image (18) (2) (1).png>) ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjTvHE5E5h8WwX5oDzBbO%2FScreenshot\_30.png?alt=media\&token=eff7bd88-190d-4556-8ac3-9f96d179fd77)
 
 For each seedphrase created with SubWallet, you would have a Substrate account and an EVM account. Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 
