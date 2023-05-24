@@ -143,7 +143,7 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F5JSrnZ74n3ImsMYrofiN%2FScreenshot\_2.png?alt=media\&token=7f65d518-d978-453b-9c3a-545f0a161e23)\
 
 
-**Step 2**: Choose "Security settings"
+**Step 2**: Choose "Security settings".
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F8D78OrReXf4WQRZ258aZ%2FScreenshot\_5.png?alt=media\&token=506a8567-6d9b-4d29-8a99-1f4d291c571c)\
 \
