@@ -4,19 +4,19 @@ description: This document will show you How to Transfer NFT with SubWallet.
 
 # Transfer NFT
 
-**Step 1**: Open SubWallet and scroll with your mouse/touchpad to see your NFT collections
+**Step 1**: Open SubWallet homepage and scroll with your mouse/touchpad to see your NFT collections.
 
 ![](<../../.gitbook/assets/image (147).png>)
 
 
 
-**Step 2**: Choose a collection
+**Step 2**: Choose a collection.
 
 ![](<../../.gitbook/assets/image (11) (1) (2).png>)
 
 
 
-**Step 3**: Choose NFT in the choosen collection, scroll to see the details and click "Send"
+**Step 3**: Choose NFT in the choosen collection, scroll to see the details and click "Send".
 
 ![](<../../.gitbook/assets/image (146).png>) ![](<../../.gitbook/assets/image (25) (2).png>)
 
@@ -58,7 +58,7 @@ Guess how? Since NFT is non-fungible and unique, a particular NFT can only be he
 
 
 
-**Step 5**: Check the transaction details and click "Approve" if you want to proceed
+**Step 5**: Check the transaction details and click "Approve" if you want to proceed.
 
 ![](<../../.gitbook/assets/image (3) (3) (1) (1) (1).png>)
 
