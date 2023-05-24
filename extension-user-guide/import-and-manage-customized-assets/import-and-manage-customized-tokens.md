@@ -6,7 +6,7 @@ description: This document will show you How to Import/Add and Manage Customized
 
 ## **Import your customized token**
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
+**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
 ![](<../../.gitbook/assets/image (168) (1).png>)
 
@@ -16,9 +16,9 @@ description: This document will show you How to Import/Add and Manage Customized
 
 **Step 3**: In the token list, click on the "+" button to add your token.
 
-![](<../../.gitbook/assets/image (170) (1) (1).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fyw6QLlXxMRMRcogCeadp%2FScreenshot\_32.png?alt=media\&token=166424c0-a74d-4dc9-9ce0-3c566c62d596)
 
-**Step 4**: Enter required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Import"
+**Step 4**: Enter required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Import".
 
 ![](<../../.gitbook/assets/image (174).png>)
 
@@ -42,7 +42,7 @@ Since our natively supported tokens are used by a larger user base, we prioritiz
 An useful trick is to utilize the "Search" feature everytime you want to use the customized tokens.&#x20;
 {% endhint %}
 
-**Step 1**: Open SubWallet and click the "Search" item on the top right corner
+**Step 1**: Open SubWallet homepage and click the "Search" item on the top right corner.
 
 ![](<../../.gitbook/assets/image (158) (1).png>)
 
@@ -70,7 +70,7 @@ Since you have already selected your token, there would be less steps than there
 
 ### Example - transfer of customized token
 
-The following example is a transfer of a manually imported token named MFG&#x20;
+The following example is a transfer of a manually imported token named MFG.
 
 You might try finding it in your wallet; you won't find it because you have not imported it yet, but we have.&#x20;
 
