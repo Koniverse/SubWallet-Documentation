@@ -6,7 +6,7 @@ description: >-
 
 # Transfer tokens
 
-**Step 1**: Open SubWallet and click the Send button
+**Step 1**:  Open SubWallet homepage and click the Send button.
 
 ![](<../../.gitbook/assets/image (48) (2).png>)
 

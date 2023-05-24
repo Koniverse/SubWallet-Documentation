@@ -12,11 +12,11 @@ All you need would be your wallet address. You would need to show your wallet ad
 
 Please follow the instruction below to get your wallet address.
 
-**Step 1**: Click the "Receive" button on your homescreen
+**Step 1**: Open SubWallet homepage and click the "Receive" button on your homescreen.
 
 ![](<../../.gitbook/assets/image (28) (2).png>)
 
-**Step 2**: Choose your receiving account
+**Step 2**: Choose your receiving account.
 
 ![](<../../.gitbook/assets/image (14) (1) (2).png>)
 
