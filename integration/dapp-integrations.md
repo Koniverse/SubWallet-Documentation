@@ -55,7 +55,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 49. [Calamari](https://app.manta.network/calamari/stake)
 50. [Spacers NFT](https://spacers.app/)
 51. [notifi](https://notifi.network/)
-52. [TF Alpha DA](https://tfalpha.xyz/)&#x20;
+52. [TF Alpha DAO](https://tfalpha.xyz/)
 53. [HydraDX](https://hydradx.io/) / [Basilisk](https://bsx.fi/)
 54. [KILT Protocol](https://www.kilt.io/)
 55. [Dotmarketcap](https://dotmarketcap.com/)
@@ -68,7 +68,7 @@ SubWallet is working with important projects in the Polkadot and Kusama ecosyste
 62. [Astar Network Portal](https://portal.astar.network/astar/assets#/astar/assets)
 63. [Manta Pay](https://app.manta.network/dolphin/transact)
 64. [Cask](https://app.cask.fi/)
-65. Darwinia Crab
+65. [Darwinia Crab](https://apps.darwinia.network/?network=crab)
 66. [Moonbeans](https://moonbeans.io/)
 67. [Solarflare](https://app.solarflare.io/exchange/swap)
 68. [PolkaVerse](https://polkaverse.com/)
