@@ -48,7 +48,7 @@ An useful trick is to utilize the "Search" feature everytime you want to use the
 
 **Step 2**: Find your customized token name in the search bar and click on it
 
-![](<../../.gitbook/assets/image (153) (1) (1).png>)
+![](<../../.gitbook/assets/image (153) (1) (1) (1).png>)
 
 
 

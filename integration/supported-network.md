@@ -38,6 +38,9 @@ description: >-
 23. [Unique Network - Build Next Generation NFTs](https://unique.network/)
 24. [OriginTrail - The world's first Decentralized Knowledge Gap](https://origintrail.io/)
 25. [Integritee](https://integritee.network/)
+26.
+
+
 
 ## Kusama&#x20;
 
@@ -95,6 +98,12 @@ description: >-
 2. Binance Smart Chain
 3. Boba Network
 4. Bobabeam
+5. Astar - EVM
+6. Polygon
+7. Arbitrum One
+8. Optimism&#x20;
+9. TomoChain
+10. Shiden - EVM
 
 ## Testnet
 
@@ -118,3 +127,6 @@ description: >-
 * Bobabase Testnet
 * Boba Rinkeby Testnet
 * Ethereum Testnet (Goerli)
+* Shibuya Testnet
+* Shibuya Testnet - EVM
+*
