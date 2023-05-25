@@ -56,7 +56,7 @@ It can be tedious if you have many accounts with SubWallet, but this is the most
 In case you do not remember the old password of your account, don't worry, the process can still be continued. As long as you have your seed phrase/JS backup file/private key/QR backup key, you can always re-import your account into the extension
 {% endhint %}
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ![](<../../../.gitbook/assets/image (80).png>)
 

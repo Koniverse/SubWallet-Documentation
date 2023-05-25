@@ -34,7 +34,7 @@ Click "Continue" to proceed with the action.&#x20;
 
 **Step 4**: Confirm the action by clicking the "Approve" button.&#x20;
 
-![](<../../.gitbook/assets/image (153) (1) (1).png>)
+![](<../../.gitbook/assets/image (153) (1).png>)
 
 
 

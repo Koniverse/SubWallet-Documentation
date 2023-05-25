@@ -38,7 +38,9 @@ description: >-
 23. [Unique Network - Build Next Generation NFTs](https://unique.network/)
 24. [OriginTrail - The world's first Decentralized Knowledge Gap](https://origintrail.io/)
 25. [Integritee](https://integritee.network/)
-26.
+26. [Aventus](https://www.aventus.io/aventus-network-to-bring-enhanced-blockchain-offering-to-businesses-with-polkadot-parachain-slot-bid/)
+27. [Bifrost](https://bifrost.finance/)
+28. [Edgeware](https://www.edgeware.io/)
 
 
 
@@ -104,6 +106,7 @@ description: >-
 8. Optimism&#x20;
 9. TomoChain
 10. Shiden - EVM
+11. Clover
 
 ## Testnet
 
@@ -129,4 +132,8 @@ description: >-
 * Ethereum Testnet (Goerli)
 * Shibuya Testnet
 * Shibuya Testnet - EVM
+* Westend
+* Turing Staging
+* Amplitude Testnet
+* Binance Smart Chain Testnet
 *

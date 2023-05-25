@@ -62,7 +62,7 @@ If you click "view transaction", the wallet would show you the latest transactio
 
 You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](../view-transaction-history.md).
 
-![](<../../.gitbook/assets/image (153) (1).png>)
+![](<../../.gitbook/assets/image (153).png>)
 
 
 
