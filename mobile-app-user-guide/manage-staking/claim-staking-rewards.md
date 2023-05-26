@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/image (11) (1).png>) ![](<../../.gitbook/assets/image (10) (1).png>)
 
-**Step 2**: Click the three-dot icon in the staking details to see if there are available rewards to claim. If there is, click on the "Claim rewards" option
+**Step 2**: Click the three-dot icon in the staking details to see if there are available rewards to claim. If there is, click on the "Claim rewards" option.
 
 ![](<../../.gitbook/assets/image (4) (2).png>) ![](<../../.gitbook/assets/image (8) (6).png>)
 
@@ -30,11 +30,11 @@ A completed claim rewards request would look like the following image:
 
 ![](<../../.gitbook/assets/image (12) (4).png>)
 
-**Step 4**: Click "Approve" to confirm&#x20;
+**Step 4**: Click "Approve" to confirm .
 
 ![](<../../.gitbook/assets/image (269).png>)
 
-**Step 5**: Enter password and click "Apply"
+**Step 5**: Enter password and click "Apply".
 
 ![](<../../.gitbook/assets/image (7).png>)
 
@@ -43,7 +43,7 @@ And your request has been submitted. You could see your transaction in the Histo
 ![](<../../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
 \
 \

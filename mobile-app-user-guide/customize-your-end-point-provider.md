@@ -3,13 +3,13 @@
 In some cases, the wallet might appear slow or fail to settle transactions. A possible cause is that the endpoint / provider fails to respond. \
 Users can manually change provider with SubWallet.&#x20;
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
+**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
 ![](<../.gitbook/assets/image (23) (5).png>)
 
 
 
-**Step 2**: In the Settings section, choose "Manage chains"
+**Step 2**: In the Settings section, choose "Manage chains".
 
 ![](<../.gitbook/assets/image (277).png>)
 
@@ -21,7 +21,7 @@ Users can manually change provider with SubWallet.&#x20;
 
 
 
-**Step 4**: In the Chain details section, click on the provider URL
+**Step 4**: In the Chain details section, click on the provider URL.
 
 ![](<../.gitbook/assets/image (15).png>)
 

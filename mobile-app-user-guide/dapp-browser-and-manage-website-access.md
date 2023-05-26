@@ -2,7 +2,7 @@
 
 ### **Connect dApps**
 
-**Step 1:** At Homepage, choose the browser tab in your SubWallet
+**Step 1:** At Homepage, choose the browser tab in your SubWallet.
 
 ![](<../.gitbook/assets/image (275) (1).png>)
 
@@ -12,7 +12,7 @@
 
 In this case we are connecting to Beamswap.&#x20;
 
-**Step 3**: Find and click the "Connect Wallet" button in the website
+**Step 3**: Find and click the "Connect Wallet" button in the website.
 
 ![](<../.gitbook/assets/image (270).png>)
 
@@ -26,19 +26,19 @@ In this case we are connecting to Beamswap.&#x20;
 
 ## Manage website access
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
+**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
 ![](<../.gitbook/assets/image (274).png>)
 
 
 
-**Step 2**: Choose "Security settings"
+**Step 2**: Choose "Security settings".
 
 ![](<../.gitbook/assets/image (12) (1).png>)
 
 
 
-**Step 3**: Choose "Manage website access"
+**Step 3**: Choose "Manage website access".
 
 ![](<../.gitbook/assets/image (2).png>)
 

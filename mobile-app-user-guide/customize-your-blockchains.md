@@ -2,7 +2,7 @@
 
 ### **Enable chains**
 
-**Step 1**: At Homepage, click the fader icon
+**Step 1**: At Homepage, click the fader icon.
 
 ![](<../.gitbook/assets/image (1).png>)
 
@@ -14,15 +14,15 @@
 
 ### Import chains
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
+**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
 ![](<../.gitbook/assets/image (16) (1).png>)
 
-**Step 2**: In the Settings section, choose "Manage chains"
+**Step 2**: In the Settings section, choose "Manage chains".
 
 ![](<../.gitbook/assets/image (143).png>)
 
-**Step 3**: Click on the "+" button on the upper right corner of the list to add new chain
+**Step 3**: Click on the "+" button on the upper right corner of the list to add new chain.
 
 ![](<../.gitbook/assets/image (23) (5) (1).png>)
 
@@ -40,7 +40,7 @@ The image below is an example of a complete input for importing chain:
 
 
 
-**Step 5**: Find and use your chain
+**Step 5**: Find and use your chain.
 
 Once your chain has been imported, you would be directed to the Manage Chains section. If you perform a search for your newly imported chain, it shall be found.&#x20;
 
@@ -50,7 +50,7 @@ Once your chain has been imported, you would be directed to the Manage Chains se
 
 ## Manage your custom blockchains
 
-After importing your custom token and find it on your token list, you can change its set-up by clicking the pencil icon on the right hand side of the chain
+After importing your custom token and find it on your token list, you can change its set-up by clicking the pencil icon on the right hand side of the chain.
 
 ![](<../.gitbook/assets/image (18).png>)
 
