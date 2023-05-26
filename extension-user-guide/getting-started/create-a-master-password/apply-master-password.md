@@ -22,7 +22,7 @@ This will be the first screen in our new version.
 
 **Step 2**: Choose a master password. Please remember your password because we could not help you restore it once lost.&#x20;
 
-Then click "Continue"
+Then click "Continue".
 
 ![](<../../../.gitbook/assets/Screenshot 2023-04-18 093531.png>)
 
@@ -53,7 +53,7 @@ It can be tedious if you have many accounts with SubWallet, but this is the most
 ![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 {% hint style="info" %}
-In case you do not remember the old password of your account, don't worry, the process can still be continued. As long as you have your seed phrase/JS backup file/private key/QR backup key, you can always re-import your account into the extension
+In case you do not remember the old password of your account, don't worry, the process can still be continued. As long as you have your seed phrase/JS backup file/private key/QR backup key, you can always re-import your account into the extension.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (4).png>)
