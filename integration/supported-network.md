@@ -50,9 +50,8 @@ description: >-
 35. [Bitgreen](https://bitgreen.org/wallet)
 36. [Ajuna Network ](https://ajuna.io/)
 37. Frequency
-38. [Hashed Network](https://hashed.network/)
-39. Kapex
-40. [Kylin Network](https://www.kylin.network/)
+38. Kapex
+39. [Kylin Network](https://www.kylin.network/)
 
 
 
@@ -98,7 +97,6 @@ description: >-
 38. [SNOW Network](https://icenetwork.io/snow/)
 39. [Mangata](https://www.mangata.finance/)
 40. [InvArch Tinker](https://invarch.network/tinkernet)
-41. [Imbue](https://www.imbue.network/)
 
 ## Solochains
 
@@ -118,6 +116,7 @@ description: >-
 14. [3DPass](https://3dpass.org/)
 15. [Polymesh](https://polymesh.network/blog/what-is-polyx-used-for-on-polymesh)
 16. [Logion Standalon](https://logion.network/)
+17. [Hashed Network](https://hashed.network/)
 
 
 
