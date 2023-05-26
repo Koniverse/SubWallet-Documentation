@@ -60,7 +60,7 @@ In case you have your network activated but still cannot see the asset, you migh
 
 ## I imported an account from another wallet and now I cannot see my assets. What is the problem?
 
-Please make sure that you have activated the network on which you have the assets
+Please make sure that you have activated the network on which you have the assets.
 
 In some cases, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet. Trust Wallet and Safepal are among the wallets not compatible with us. \
 In this case, we would suggest you create a new wallet account with SubWallet and transfer your assets from your original wallet to this new account.&#x20;
@@ -105,7 +105,7 @@ Please click the round item on the upper right corner of your wallet, scroll to 
 
 ## I cannot see my staking rewards
 
-For some networks, there has not been any data indexers to track real-time information about your staking rewards. However, you can observe your balance to know whether or not your staking is paying off. A slight increase in your total balance would be a sign of staking rewards
+For some networks, there has not been any data indexers to track real-time information about your staking rewards. However, you can observe your balance to know whether or not your staking is paying off. A slight increase in your total balance would be a sign of staking rewards.
 
 
 
@@ -172,7 +172,7 @@ If you still want to see your Astar EVM deposit in SubWallet, we would suggest y
 To get the corresponding EVM address for your SubWallet native account, please follow these steps:\
 
 
-**Step 1**: Visit [SubScan](https://www.subscan.io/) and choose the Astar network
+**Step 1**: Visit [SubScan](https://www.subscan.io/) and choose the Astar network.
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-12-30 104946.png" alt=""><figcaption></figcaption></figure>
 

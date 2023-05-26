@@ -38,7 +38,7 @@ To proceed, click the "Stake" button.
 
 
 
-**Step 4**: Check the information and click "Approve" to confirm
+**Step 4**: Check the information and click "Approve" to confirm.
 
 ![](<../../.gitbook/assets/image (201).png>)
 

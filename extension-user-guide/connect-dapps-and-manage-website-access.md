@@ -1,7 +1,7 @@
 ---
 description: >-
   This document will show How to Connect dApps & Manage Website Access with
-  SubWallet
+  SubWallet.
 ---
 
 # Connect dApps & manage website access
