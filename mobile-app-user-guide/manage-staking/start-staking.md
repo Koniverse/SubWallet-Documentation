@@ -6,7 +6,7 @@
 
 ## If you want to join a staking pool
 
-**Step 2**: Choose the Pool staking tab and enter staking information. Then click the "Stake" button
+**Step 2**: Choose the Pool staking tab and enter staking information. Then click the "Stake" button.
 
 ![](<../../.gitbook/assets/image (252) (1).png>)
 
@@ -21,18 +21,18 @@ A completed staking request would look like the following image:
 ![](<../../.gitbook/assets/image (22) (4) (1).png>)
 
 {% hint style="info" %}
-If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token
+If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token.
 
 ![](<../../.gitbook/assets/image (236) (1).png>) ![](<../../.gitbook/assets/image (234) (1).png>)
 {% endhint %}
 
-**Step 3**: Click "Approve" to confirm&#x20;
+**Step 3**: Click "Approve" to confirm.
 
 ![](<../../.gitbook/assets/image (20) (4) (1).png>)
 
 
 
-**Step 4**: Enter password and click "Apply"
+**Step 4**: Enter password and click "Apply".
 
 ![](<../../.gitbook/assets/image (240) (1).png>)
 
@@ -41,7 +41,7 @@ And your staking request has been submitted. You could see your staking transact
 ![](<../../.gitbook/assets/image (237) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action\
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.\
 \
 ![](<../../.gitbook/assets/image (251) (1).png>)
 {% endhint %}
@@ -50,7 +50,7 @@ If you click "view transaction", the wallet would show you the latest transactio
 
 ## If you want to stake as a nominator
 
-**Step 2**: Choose the Nomination staking tab and enter staking information. Then click the "Stake" button
+**Step 2**: Choose the Nomination staking tab and enter staking information. Then click the "Stake" button.
 
 ![](<../../.gitbook/assets/image (250) (1).png>)
 
@@ -59,7 +59,7 @@ A completed staking request would look like the following image:
 ![](<../../.gitbook/assets/image (18) (5).png>)
 
 {% hint style="info" %}
-If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token
+If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token.
 
 ![](<../../.gitbook/assets/image (235) (1).png>) ![](<../../.gitbook/assets/image (244).png>)
 {% endhint %}
@@ -68,11 +68,11 @@ We suggest you pay close attention to the validator you are choosing. When selec
 
 ![](<../../.gitbook/assets/image (239) (1).png>) ![](<../../.gitbook/assets/image (233) (1).png>)
 
-**Step 3**: Click "Approve" to confirm
+**Step 3**: Click "Approve" to confirm.
 
 ![](<../../.gitbook/assets/image (23) (4) (1).png>)
 
-**Step 4**: Enter password and click "Apply"
+**Step 4**: Enter password and click "Apply".
 
 ![](<../../.gitbook/assets/image (248) (1).png>)
 
@@ -81,7 +81,7 @@ And your staking request has been submitted. You could see your staking transact
 ![](<../../.gitbook/assets/image (241).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action
+If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
 ![](<../../.gitbook/assets/image (243) (1).png>)
 {% endhint %}

@@ -4,12 +4,12 @@
 
 ![](<../../.gitbook/assets/image (4) (3).png>) ![](<../../.gitbook/assets/image (9) (4) (1).png>)
 
-**Step 2**: Choose NFT in the choosen collection, scroll to see the details and click "Send"
+**Step 2**: Choose NFT in the choosen collection, scroll to see the details and click "Send".
 
 ![](<../../.gitbook/assets/image (13) (4).png>)
 
 {% hint style="info" %}
-Please notice the chain in which you have the NFT on, because you could only send and NFT to an account that is of the same type with the chain. In this example. the NFT is on the Kusama chain - a Substrate chain, so you know that the receiving account must be a Substrate account
+Please notice the chain in which you have the NFT on, because you could only send and NFT to an account that is of the same type with the chain. In this example. the NFT is on the Kusama chain - a Substrate chain, so you know that the receiving account must be a Substrate account.
 {% endhint %}
 
 **Step 3**: Enter the receiving account address. Since we are sending and NFT that exists on Kusama, you would need to enter a Substrate account address. Then click "Next".
@@ -20,7 +20,7 @@ Please notice the chain in which you have the NFT on, because you could only sen
 
 ![](<../../.gitbook/assets/image (7) (5).png>)
 
-**Step 5**: Enter password and click "Apply"
+**Step 5**: Enter password and click "Apply".
 
 ![](<../../.gitbook/assets/image (10) (3) (1).png>)
 

@@ -6,7 +6,7 @@ description: Add your customized tokens to manage them with SubWallet.
 
 ## Import your customized token
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section
+**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
 ![](<../../.gitbook/assets/image (249) (1).png>)
 
@@ -18,7 +18,7 @@ description: Add your customized tokens to manage them with SubWallet.
 
 ![](<../../.gitbook/assets/image (10) (3).png>)
 
-**Step 4**: Enter required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Add token"
+**Step 4**: Enter required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Add token".
 
 ![](<../../.gitbook/assets/image (247).png>)
 
@@ -34,7 +34,7 @@ After successful import of your customize token, if you repeat Step 2 and search
 
 ## Manage your custom tokens
 
-After importing your custom token and find it on your token list, you can change its set-up by clicking the pencil icon on the right hand side of the token
+After importing your custom token and find it on your token list, you can change its set-up by clicking the pencil icon on the right hand side of the token.
 
 ![](<../../.gitbook/assets/image (11) (5).png>)
 

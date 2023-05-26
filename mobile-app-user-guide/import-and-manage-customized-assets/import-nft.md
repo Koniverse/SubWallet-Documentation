@@ -1,10 +1,10 @@
 # Import NFT
 
-**Step 1**: Choose the NFTs tab and click the "+" button on the upper right corner of your screen
+**Step 1**: Choose the NFTs tab and click the "+" button on the upper right corner of your screen.
 
 ![](<../../.gitbook/assets/image (15) (4).png>)
 
-**Step 2**: Enter the NFT details. You would need to specify the network you have the NFT on and the specific contract address. Then click "Import"
+**Step 2**: Enter the NFT details. You would need to specify the network you have the NFT on and the specific contract address. Then click "Import".
 
 ![](<../../.gitbook/assets/image (2) (5).png>) ![](<../../.gitbook/assets/image (245) (1).png>)
 
