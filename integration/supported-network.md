@@ -41,6 +41,18 @@ description: >-
 26. [Aventus](https://www.aventus.io/aventus-network-to-bring-enhanced-blockchain-offering-to-businesses-with-polkadot-parachain-slot-bid/)
 27. [Bifrost](https://bifrost.finance/)
 28. [Edgeware](https://www.edgeware.io/)
+29. [Chain X](https://chainx.org/)
+30. [Pendulum](https://pendulumchain.org/)
+31. [Watr Network](https://watr.org/)
+32. Polkadot Collectives
+33. [SwapDEX](https://swapdex.network/)
+34. [RioChain](https://riochain.io/)
+35. [Bitgreen](https://bitgreen.org/wallet)
+36. [Ajuna Network ](https://ajuna.io/)
+37. Frequency
+38. [Hashed Network](https://hashed.network/)
+39. Kapex
+40. [Kylin Network](https://www.kylin.network/)
 
 
 
@@ -84,6 +96,9 @@ description: >-
 36. [Tanganika ](https://www.datahighway.com/)
 37. [Tinkernet - The Bleeding-Edge Layer-1 for the Creator Economy](https://invarch.network/tinkernet)
 38. [SNOW Network](https://icenetwork.io/snow/)
+39. [Mangata](https://www.mangata.finance/)
+40. [InvArch Tinker](https://invarch.network/tinkernet)
+41. [Imbue](https://www.imbue.network/)
 
 ## Solochains
 
@@ -93,6 +108,17 @@ description: >-
 4. [Subsocial Solochain](https://subsocial.network/)
 5. [Subspace - Infrastructure for Web3](https://subspace.network/)
 6. [Ternoa - NFT-Centric Blockchain](https://www.ternoa.com/)
+7. [XX Network ](https://xx.network/)
+8. [Fusotao](https://www.fusotao.org/#/)
+9. [Joystream](https://www.joystream.org/)
+10. [Kulupu](https://kulupu.network/)
+11. [Discovol](https://discovol.org/)
+12. [Atocha](https://atocha.io/)
+13. [Myria](https://myria.com/)
+14. 3DPass
+15. [Polymesh](https://polymesh.network/blog/what-is-polyx-used-for-on-polymesh)
+
+
 
 ## EVM chains
 
@@ -107,6 +133,11 @@ description: >-
 9. TomoChain
 10. Shiden - EVM
 11. Clover
+12. Pangoli
+13. Watr Network
+14. SherpaX
+15. Kusari
+16. Creditcoin
 
 ## Testnet
 
@@ -138,3 +169,11 @@ description: >-
 * Binance Smart Chain Testnet
 * Polkadex Testnet&#x20;
 * Unique TestNet 2.0
+* Acala Mandala TC7
+* Subspace Testney
+* Arctic Testnet
+* KILT Peregrine
+* Aventus Testnet
+* Discovol Testnet
+* Barnacle
+* Aleph Zero Smartnet
