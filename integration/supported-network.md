@@ -115,8 +115,9 @@ description: >-
 11. [Discovol](https://discovol.org/)
 12. [Atocha](https://atocha.io/)
 13. [Myria](https://myria.com/)
-14. 3DPass
+14. [3DPass](https://3dpass.org/)
 15. [Polymesh](https://polymesh.network/blog/what-is-polyx-used-for-on-polymesh)
+16. [Logion Standalon](https://logion.network/)
 
 
 
