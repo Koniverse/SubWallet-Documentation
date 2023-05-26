@@ -49,8 +49,8 @@ description: >-
 34. [RioChain](https://riochain.io/)
 35. [Bitgreen](https://bitgreen.org/wallet)
 36. [Ajuna Network ](https://ajuna.io/)
-37. Frequency
-38. Kapex
+37. [Frequency](https://www.frequency.xyz/)
+38. [Kapex](https://totem.live/)
 39. [Kylin Network](https://www.kylin.network/)
 40. [Crown Sterling ](https://www.crownsterling.io/)
 
