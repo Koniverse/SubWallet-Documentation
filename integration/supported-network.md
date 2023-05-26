@@ -117,6 +117,7 @@ description: >-
 15. [Polymesh](https://polymesh.network/blog/what-is-polyx-used-for-on-polymesh)
 16. [Logion Standalon](https://logion.network/)
 17. [Hashed Network](https://hashed.network/)
+18. [Dock](https://www.dock.io/web3id)&#x20;
 
 
 
