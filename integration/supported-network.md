@@ -121,6 +121,7 @@ description: >-
 18. [Dock](https://www.dock.io/web3id)
 19. [RioDeFi](https://riochain.io/)
 20. [NFTMart](https://riochain.io/)
+21. [DAO IPCI](https://ipci.io/)
 
 
 
@@ -142,6 +143,7 @@ description: >-
 14. SherpaX
 15. Kusari
 16. Creditcoin
+17. Automata
 
 ## Testnet
 
