@@ -33,7 +33,7 @@ Please note that you would need to grant the SubWallet extension the permission 
 
 ![](<../../.gitbook/assets/image (29) (2).png>)\
 \
-Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access
+Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
