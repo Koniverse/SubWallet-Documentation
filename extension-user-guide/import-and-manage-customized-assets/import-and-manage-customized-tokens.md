@@ -46,7 +46,7 @@ An useful trick is to utilize the "Search" feature everytime you want to use the
 
 ![](<../../.gitbook/assets/image (158) (1).png>)
 
-**Step 2**: Find your customized token name in the search bar and click on it
+**Step 2**: Find your customized token name in the search bar and click on it.
 
 ![](<../../.gitbook/assets/image (153) (1) (1).png>)
 
@@ -60,9 +60,9 @@ SubWallet is currently supporting more than 490 tokens, including cross-chain to
 
 ![](<../../.gitbook/assets/image (172) (1).png>)
 
-To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens.md)
+To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens.md).
 
-To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md)&#x20;
+To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md).
 
 {% hint style="info" %}
 Since you have already selected your token, there would be less steps than there are in the instructions.&#x20;
