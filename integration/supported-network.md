@@ -136,4 +136,5 @@ description: >-
 * Turing Staging
 * Amplitude Testnet
 * Binance Smart Chain Testnet
-*
+* Polkadex Testnet&#x20;
+* Unique TestNet 2.0
