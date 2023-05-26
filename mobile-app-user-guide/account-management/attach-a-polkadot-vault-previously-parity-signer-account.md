@@ -1,20 +1,20 @@
 # Attach a Polkadot Vault (previously Parity-Signer) account
 
-**Step 1**: Open SubWallet extension and click the account name to get to the account list
+**Step 1**: Open SubWallet extension and click the account name to get to the account list.
 
 You would be directed to a list of accounts.
 
 ![](<../../.gitbook/assets/image (42).png>)
 
-**Step 2**: In the account list, choose the "Attach account" icon
+**Step 2**: In the account list, choose the "Attach account" icon.
 
 ![](<../../.gitbook/assets/image (69).png>)
 
-**Step 3**: Choose "Attach QR-Signer account"
+**Step 3**: Choose "Attach QR-Signer account".
 
 ![](<../../.gitbook/assets/image (30).png>)
 
-**Step 4**: Click "Scan the QR code" and scan the QR code displayed on your Parity Signer (Polkadot Vault)&#x20;
+**Step 4**: Click "Scan the QR code" and scan the QR code displayed on your Parity Signer (Polkadot Vault).
 
 ![](<../../.gitbook/assets/image (25).png>)
 

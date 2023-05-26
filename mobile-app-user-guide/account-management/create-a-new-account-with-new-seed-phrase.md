@@ -14,15 +14,15 @@ You might create a new account with new seed phrase, or [derive a new account fr
 
 In this case we are introducing creating new account with seed phrase.&#x20;
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen
+**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
 ![](<../../.gitbook/assets/image (28).png>)
 
-**Step 2**: In the account management screen, click "Create new account"
+**Step 2**: In the account management screen, click "Create new account".
 
 ![](<../../.gitbook/assets/image (71).png>)
 
-**Step 3**: Choose "Create with new seed phrase"
+**Step 3**: Choose "Create with new seed phrase".
 
 ![](<../../.gitbook/assets/image (39).png>)
 
@@ -30,7 +30,7 @@ In this case we are introducing creating new account with seed phrase.&#x20;
 
 ## Create account with new Seed phrase
 
-**Step 1**: SubWallet would present you with a totally new seed phrase. Please keep it in a safe place. Then click "Continue"
+**Step 1**: SubWallet would present you with a totally new seed phrase. Please keep it in a safe place. Then click "Continue".
 
 This recovery phrase is as important as your private key; if someone has your recovery phrase, they will have full control of your account.&#x20;
 
@@ -42,13 +42,13 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 
 
-**Step 2**: Enter your seed phrase in the correct order&#x20;
+**Step 2**: Enter your seed phrase in the correct order.
 
 ![](<../../.gitbook/assets/image (78).png>)
 
 
 
-**Step 3**: Enter your SubWallet password and click "Apply" to confirm the creation of your new account
+**Step 3**: Enter your SubWallet password and click "Apply" to confirm the creation of your new account.
 
 ![](<../../.gitbook/assets/image (14) (2).png>)
 

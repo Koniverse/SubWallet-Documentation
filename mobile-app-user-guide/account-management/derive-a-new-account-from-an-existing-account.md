@@ -6,15 +6,15 @@ description: >-
 
 # Derive a new account from an existing account
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen
+**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
 ![](<../../.gitbook/assets/image (63).png>)
 
-**Step 2**: In the account management screen, click "Create new account". Then choose "Derive from another account"
+**Step 2**: In the account management screen, click "Create new account". Then choose "Derive from another account".
 
 ![](<../../.gitbook/assets/image (59).png>) ![](<../../.gitbook/assets/image (43).png>)
 
-**Step 3**: Choose from a list of your existing account
+**Step 3**: Choose from a list of your existing account.
 
 ![](<../../.gitbook/assets/image (24).png>)
 

@@ -6,11 +6,11 @@ You would be directed to a list of accounts.
 
 ![](<../../.gitbook/assets/image (33).png>)
 
-**Step 2**: In the account list, choose the "Attach account" icon
+**Step 2**: In the account list, choose the "Attach account" icon.
 
 ![](<../../.gitbook/assets/image (35).png>)
 
-**Step 3**: Choose "Attach Keystone account"
+**Step 3**: Choose "Attach Keystone account".
 
 ![](<../../.gitbook/assets/image (11) (4).png>)
 

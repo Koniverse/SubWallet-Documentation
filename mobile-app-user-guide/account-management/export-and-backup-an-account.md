@@ -12,7 +12,7 @@ description: Get your seed phrase, private key and backup JSON file of your acco
 
 ![](<../../.gitbook/assets/image (31).png>)
 
-**Step 3**: Choose "Export this account"
+**Step 3**: Choose "Export this account".
 
 ![](<../../.gitbook/assets/image (1) (5).png>)
 
@@ -33,7 +33,7 @@ Please save and keep your backup files in a secure place.&#x20;
 
 Do not share these files because they contain your private key; anyone who has these files would be able to use your assets.
 
-Furthermore, you would need these backup file to restore your account in case you forget your SubWallet password
+Furthermore, you would need these backup file to restore your account in case you forget your SubWallet password.
 {% endhint %}
 
 

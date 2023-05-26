@@ -10,11 +10,11 @@ description: >-
 
 ![](<../../.gitbook/assets/image (60).png>)
 
-**Step 2**: In the account list, choose the "Attach account" icon
+**Step 2**: In the account list, choose the "Attach account" icon.
 
 ![](<../../.gitbook/assets/image (66).png>)
 
-**Step 3**: Choose "Attach read-only account"
+**Step 3**: Choose "Attach read-only account".
 
 ![](<../../.gitbook/assets/image (13) (3).png>)
 
@@ -22,11 +22,11 @@ description: >-
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-**Step 5**: Enter password then click "Apply" to continue
+**Step 5**: Enter password then click "Apply" to continue.
 
 ![](<../../.gitbook/assets/image (17) (3).png>)
 
-Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](switch-between-accounts-and-change-account-name.md)
+Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](switch-between-accounts-and-change-account-name.md).
 
 ![](<../../.gitbook/assets/image (74).png>)
 

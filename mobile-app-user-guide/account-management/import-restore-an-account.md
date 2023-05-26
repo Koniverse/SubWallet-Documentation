@@ -16,11 +16,11 @@ You can import and restore account immediately from the "Welcome" screen.&#x20;
 
 You would need to open the Account management screen.
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen
+**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
 ![](<../../.gitbook/assets/image (68).png>)
 
-**Step 2**: Click the "Import" icon in the account management screen
+**Step 2**: Click the "Import" icon in the account management screen.
 
 ![](<../../.gitbook/assets/image (18) (3).png>) ![](<../../.gitbook/assets/image (15) (3).png>)
 
@@ -28,7 +28,7 @@ You would need to open the Account management screen.
 
 ## Import by Seed phrase
 
-**Step 1**: Enter your seed phrase and choose whether or not you want to import a Substrate account, an Ethereum account, or both by ticking the checkmark on the right hand side of each account type. Then click "Import account"
+**Step 1**: Enter your seed phrase and choose whether or not you want to import a Substrate account, an Ethereum account, or both by ticking the checkmark on the right hand side of each account type. Then click "Import account".
 
 ![](<../../.gitbook/assets/image (72).png>)
 
@@ -38,7 +38,7 @@ In some cases, if you import account by seedphrase, problems can arise if the se
 Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 {% endhint %}
 
-**Step 2**: Enter your password
+**Step 2**: Enter your password.
 
 ![](<../../.gitbook/assets/image (79).png>)
 
@@ -56,7 +56,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ![](<../../.gitbook/assets/image (2) (4).png>)
 
-**Step 2**: Enter your password and click "Apply"
+**Step 2**: Enter your password and click "Apply".
 
 ![](<../../.gitbook/assets/image (19) (3).png>)
 
@@ -80,7 +80,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ![](<../../.gitbook/assets/image (48).png>)
 
-**Step 3**: Enter your SubWallet password and click "Apply"
+**Step 3**: Enter your SubWallet password and click "Apply".
 
 ![](<../../.gitbook/assets/image (75).png>)
 
@@ -100,7 +100,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 ![](<../../.gitbook/assets/image (49).png>)
 
-**Step 2**: Enter your SubWallet password and click "Apply" to continue
+**Step 2**: Enter your SubWallet password and click "Apply" to continue.
 
 ![](<../../.gitbook/assets/image (62).png>)
 

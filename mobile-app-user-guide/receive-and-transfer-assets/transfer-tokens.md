@@ -4,7 +4,7 @@ description: Perform single-chain and cross-chain (XCM) token transfer with SubW
 
 # Transfer tokens
 
-**Step 1**: Open SubWallet and click the Send button
+**Step 1**: Open SubWallet and click the Send button.
 
 ![](<../../.gitbook/assets/image (18) (4).png>)
 
@@ -36,11 +36,11 @@ A completed transfer request form would look like the following image:
 
 Click "Transfer" to continue.
 
-**Step 3**: Click "Approve" to confirm the transaction request
+**Step 3**: Click "Approve" to confirm the transaction request.
 
 ![](<../../.gitbook/assets/image (22) (4) (1) (1).png>)
 
-**Step 4**: Enter password and click "Apply" to continue
+**Step 4**: Enter password and click "Apply" to continue.
 
 ![](<../../.gitbook/assets/image (5) (3).png>)
 

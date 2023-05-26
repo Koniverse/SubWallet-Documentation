@@ -6,11 +6,11 @@ All you need would be your wallet address. You would need to show your wallet ad
 
 Please follow the instruction below to get your wallet address.
 
-**Step 1**: Click the "Receive" button on your homescreen
+**Step 1**: Click the "Receive" button on your homescreen.
 
 ![](<../../.gitbook/assets/image (14) (3) (1).png>)
 
-**Step 2**: Select your receiving account
+**Step 2**: Select your receiving account.
 
 ![](<../../.gitbook/assets/image (19) (4) (1) (1).png>)
 
@@ -38,7 +38,7 @@ SubWallet support DOT on Polkadot, DOT on Astar, DOT on Acala, etc... so please 
 Please notice the chain logo and the chain name under the token name.&#x20;
 {% endhint %}
 
-In this example, we want to receive DOT on Astar
+In this example, we want to receive DOT on Astar.
 
 
 
