@@ -6,19 +6,19 @@ description: This document will show you How to Attach a Watch-only Account on S
 
 This feature allows you to view an account you do not own (i.e do not have private key for) with SubWallet. All you need is an account address.
 
-**Step 1**: Open SubWallet and click on the account name to get to the list of your accounts. Then click on the attach account item in the lower right corner
+**Step 1**: Open SubWallet and click on the account name to get to the list of your accounts. Then click on the attach account item in the lower right corner.
 
 ![](<../../.gitbook/assets/image (5) (1) (3) (1).png>)
 
-**Step 2**: Choose "Attach watch-only account"
+**Step 2**: Choose "Attach watch-only account".
 
 ![](<../../.gitbook/assets/image (16) (1) (2).png>)
 
-**Step 3**: Enter the address (as known as public key) of the account you want to track. Then click "Attach watch-only account"
+**Step 3**: Enter the address (as known as public key) of the account you want to track. Then click "Attach watch-only account".
 
 ![](<../../.gitbook/assets/image (35) (2).png>)
 
-**Step 4**: You would be re-directed to the homescreen. In this example, your watch-only account has been named "Account 7"
+**Step 4**: You would be re-directed to the homescreen. In this example, your watch-only account has been named "Account 7".
 
 ![](<../../.gitbook/assets/image (4) (2) (2) (1).png>)
 
