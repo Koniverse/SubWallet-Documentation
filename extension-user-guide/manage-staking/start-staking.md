@@ -54,7 +54,7 @@ If you wish to proceed with the staking request, click the "Stake" button.&#x20;
 
 
 
-**Step 3**: Confirm staking and click "Approve"
+**Step 3**: Confirm staking and click "Approve".
 
 ![](<../../.gitbook/assets/image (157).png>)
 
