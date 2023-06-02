@@ -9,7 +9,10 @@ description: >-
 
 ## About SubWallet
 
-SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Substrate & Ethereum ecosystems. \
+SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Substrate & Ethereum ecosystems.&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=xY9NyrqMY6E" %}
+
 Built on top of Polkadot {.js}, SubWallet focuses on improving UX & UI. We envision a crypto wallet as a Web3 multiverse gateway through which users can enjoy multi-chain services with utmost ease and absolute security. \
 Connecting and using blockchain-based applications in Polkadot, Substrate & Ethereum ecosystems is smoother than ever with SubWallet Browser Extension & SubWallet Mobile App (Android & iOS). Our web wallet is coming soon!
 
