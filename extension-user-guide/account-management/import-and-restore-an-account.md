@@ -4,6 +4,18 @@ description: This part will show you How to Import and Restore an Account on Sub
 
 # Import and restore an account
 
+### If you have not had any accounts with SubWallet
+
+**Step 1**: After installing SubWallet extension, open SubWallet and choose "Import an account".
+
+![](../../.gitbook/assets/image.png)
+
+**Step 2**: Choose your prefered way to import an existing account
+
+![](<../../.gitbook/assets/Screenshot 2023-06-08 093513.png>)
+
+### If you have already used SubWallet before
+
 If you have secret phrase (seedphrase), private key, back-up JSON file or QR code you can import/restore your account and manage them with SubWallet.
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen. &#x20;

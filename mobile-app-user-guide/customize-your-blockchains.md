@@ -4,7 +4,7 @@
 
 **Step 1**: At Homepage, click the fader icon.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 **Step 2**: Enable/ disable the neworks you want to manage by clicking the corresponding toggles.&#x20;
 
@@ -56,4 +56,4 @@ After importing your custom token and find it on your token list, you can change
 
 In the token details screen, you could add a new provider for the chain or delete the chain if you so wish.&#x20;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
