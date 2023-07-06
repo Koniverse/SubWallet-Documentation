@@ -38,6 +38,7 @@
   * [Withdraw unstaked funds](extension-user-guide/manage-staking/withdraw-unstaked-funds.md)
   * [Claim staking rewards](extension-user-guide/manage-staking/claim-staking-rewards.md)
 * [Connect dApps & manage website access](extension-user-guide/connect-dapps-and-manage-website-access.md)
+* [Advanced phising detection](extension-user-guide/advanced-phising-detection.md)
 * [View transaction history](extension-user-guide/view-transaction-history.md)
 * [Customize your networks](extension-user-guide/customize-your-networks.md)
 * [Customize endpoint/provider](extension-user-guide/customize-endpoint-provider.md)
