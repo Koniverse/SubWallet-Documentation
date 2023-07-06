@@ -13,3 +13,8 @@ description: On-ramp crypto purchase for several tokens.
 ![](<../.gitbook/assets/image (183).png>)
 
 SubWallet would redirect you to the website of the supplier. Please continue the transaction in the website. \
+
+
+If you are in "All Accounts" mode, you would have to do an extra step of selecting an account
+
+![](<../.gitbook/assets/Screenshot 2023-07-06 172140.png>)
