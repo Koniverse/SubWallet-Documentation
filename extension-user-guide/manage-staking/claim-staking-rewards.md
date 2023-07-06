@@ -8,7 +8,11 @@ Then click the three-dot item on the right hand side of the stake you want to wi
 
 
 
-**Step 2**: Choose "Claim rewards![](<../../.gitbook/assets/image (166).png>)".
+**Step 2**: Choose "Claim rewards".
+
+
+
+![](<../../.gitbook/assets/image (166).png>)
 
 
 
