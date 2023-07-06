@@ -65,3 +65,29 @@ In this example, we are importing a chain named "Metaverse Dev". The network is 
 Once your network has been imported, you would be directed to the Manage Networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
 ![](<../.gitbook/assets/image (215).png>)
+
+
+
+### Delete your customized network
+
+**Step 1**: Find the network you want to delete and disable it
+
+![](<../.gitbook/assets/Screenshot 2023-07-06 164653.png>) ![](<../.gitbook/assets/Screenshot 2023-07-06 164744.png>)
+
+
+
+**Step 2**: Click the pencil icon to get to network configuration
+
+![](<../.gitbook/assets/Screenshot 2023-07-06 164744 (1).png>)
+
+
+
+**Step 3**: In the Network details section, click the trashbin icon in the upper right corner
+
+![](<../.gitbook/assets/Screenshot 2023-07-06 164801.png>)
+
+
+
+**Step 4**: Confirm your action
+
+![](<../.gitbook/assets/Screenshot 2023-07-06 164816.png>)
