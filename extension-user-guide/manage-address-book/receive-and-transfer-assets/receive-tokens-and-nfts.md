@@ -14,11 +14,11 @@ Please follow the instruction below to get your wallet address.
 
 **Step 1**: Open SubWallet homepage and click the "Receive" button on your homescreen.
 
-![](<../../.gitbook/assets/image (28) (2).png>)
+![](<../../../.gitbook/assets/image (28) (2).png>)
 
 **Step 2**: Choose your receiving account.
 
-![](<../../.gitbook/assets/image (14) (1) (2).png>)
+![](<../../../.gitbook/assets/image (14) (1) (2).png>)
 
 {% hint style="info" %}
 You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.
@@ -38,7 +38,7 @@ SubWallet support DOT on Polkadot, DOT on Astar, DOT on Moonbeam, etc... so plea
 Please notice the chain logo and the chain name under the token name.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (151).png>)
+![](<../../../.gitbook/assets/image (151).png>)
 
 In this example, we want to receive DOT on Astar.
 
@@ -48,7 +48,7 @@ You could share this QR code with your sender, or click the "copy" icon next to 
 
 As mentioned above, in this example we want to receive DOT on Astar, so the address should be an Astar address! You could double-check the address by viewing it on explorer.&#x20;
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1).png>)
 
 
 

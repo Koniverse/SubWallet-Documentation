@@ -8,7 +8,7 @@ description: This part will show you How to Import and Restore an Account on Sub
 
 **Step 1**: After installing SubWallet extension, open SubWallet and choose "Import an account".
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (13).png>)
 
 **Step 2**: Choose your prefered way to import an existing account
 
@@ -68,7 +68,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (1) (1) (2) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (2) (2).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 

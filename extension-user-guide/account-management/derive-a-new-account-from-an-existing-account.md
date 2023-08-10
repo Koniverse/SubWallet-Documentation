@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (9) (2).png>)
+![](<../../.gitbook/assets/image (9) (2) (1).png>)
 
 **Step 2**:  In the account management screen, click "Create new account". Then choose "Derive from an existing account".
 

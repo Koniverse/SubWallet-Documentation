@@ -24,4 +24,4 @@ You can also switch between the "All accounts" mode and single-account mode here
 
 **Step 2**: You would be directed to the account details section. Click on the account name and type a new name. SubWallet would automatically save the new name for you.&#x20;
 
-![](<../../.gitbook/assets/image (6) (3).png>) ![](<../../.gitbook/assets/image (8) (3).png>)
+![](<../../.gitbook/assets/image (6) (3).png>) ![](<../../.gitbook/assets/image (8) (3) (1).png>)

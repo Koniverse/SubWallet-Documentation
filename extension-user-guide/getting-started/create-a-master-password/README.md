@@ -14,7 +14,7 @@ If you have already used the beta version of SubWallet before and are migrating 
 
 Once applied, you can also [change your master password](change-master-password.md) if you so wish. Please note that you would need your current master password to confirm the change.&#x20;
 
-Last but not least, the master password would allow you to [lock and unlock your wallet ](../lock-and-unlock-your-wallet.md)if you so wish.&#x20;
+Last but not least, the master password would allow you to [lock and unlock your wallet ](../lock-and-unlock-your-wallet/)if you so wish.&#x20;
 
 {% hint style="warning" %}
 In order to change password, you would need to remember your old password. This function cannot help you if you forget your password and want to restore it.&#x20;

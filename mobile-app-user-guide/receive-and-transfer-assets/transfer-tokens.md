@@ -42,7 +42,7 @@ Click "Transfer" to continue.
 
 **Step 4**: Enter password and click "Apply" to continue.
 
-![](<../../.gitbook/assets/image (5) (3).png>)
+![](<../../.gitbook/assets/image (5) (3) (1).png>)
 
 Step 5: Your transaction has been submitted.&#x20;
 

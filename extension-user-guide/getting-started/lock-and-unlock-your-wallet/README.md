@@ -8,7 +8,7 @@ description: This document will show you How to Lock and Unlock Your SubWallet.
 
 **Step 1**: From your Homescreen, click the list icon on the upper left corner to get to the "Settings" section.
 
-![](<../../.gitbook/assets/image (28) (1).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 
 
@@ -24,6 +24,6 @@ If you have previously locked the wallet, or if you have been inactive for a whi
 
 To unlock the wallet, you would need to enter your master password and click "Unlock".&#x20;
 
-More on master password could be found [here](create-a-master-password/).
+More on master password could be found [here](../create-a-master-password/).
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FqAgHrfVsn0H4jwWAje3b%2FScreenshot\_12.png?alt=media\&token=28bd4df6-0ca4-47ce-bb03-576848754c0c)

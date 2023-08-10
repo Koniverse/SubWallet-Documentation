@@ -24,11 +24,11 @@ If you have already been in a single account, you would not have to select accou
 
 A complete withdrawal request would look like the following image:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 **Step 4**: Click "Approve" to confirm withdrawal.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (4).png>)
 
 **Step 5**: Enter password and click "Apply".
 

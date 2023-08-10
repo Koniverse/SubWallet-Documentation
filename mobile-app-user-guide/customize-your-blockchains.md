@@ -4,7 +4,7 @@
 
 **Step 1**: At Homepage, click the fader icon.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (2).png>)
 
 **Step 2**: Enable/ disable the neworks you want to manage by clicking the corresponding toggles.&#x20;
 
@@ -36,7 +36,7 @@ If you want to input more information such as price ID, block explorer and crowd
 
 The image below is an example of a complete input for importing chain:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (3).png>)
 
 
 
@@ -44,7 +44,7 @@ The image below is an example of a complete input for importing chain:
 
 Once your chain has been imported, you would be directed to the Manage Chains section. If you perform a search for your newly imported chain, it shall be found.&#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 
 

@@ -40,7 +40,7 @@ In this case we are connecting to Beamswap.&#x20;
 
 **Step 3**: Choose "Manage website access".
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (7).png>)
 
 
 
@@ -56,7 +56,7 @@ You might search for the website name using the searchbox and change access perm
 
 You could manually change the access permission using the toggle next to each account. However, you could also manage access of all accounts using the access options on the top right corner of the screen.&#x20;
 
-![](<../.gitbook/assets/image (4) (4).png>) ![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (4) (4) (1).png>) ![](<../.gitbook/assets/image (8) (3).png>)
 
 
 
