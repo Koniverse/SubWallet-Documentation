@@ -41,7 +41,7 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the account management screen, click "Create new account". Then choose "Create with new seed phrase".
+**Step 2**: In the account management screen, click "Create a new account". Then choose "Create with new seed phrase".
 
 ![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (7).png>)
 

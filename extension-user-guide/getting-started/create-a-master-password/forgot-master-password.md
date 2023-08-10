@@ -7,7 +7,7 @@ description: >-
 # Forgot master password
 
 {% hint style="info" %}
-If you forget your account password, don't worry! You can still continue the process by re-importing your account into the extension. Simply ensure you have your seed phrase/JS backup file/private key/QR backup key, and you can easily regain access to your account.
+If you forgot your account password, don't worry! You can still continue the process by re-importing your account into the extension. Simply ensure you have your seed phrase/JS backup file/private key/QR backup key, and you can easily regain access to your account.
 {% endhint %}
 
 **Step 1**: At the welcome page, click "Don't remember your password?".
@@ -44,7 +44,7 @@ This action will reset **all** the information in the wallet. Besides the inform
 * List custom network
 * List custom token
 * Chain state&#x20;
-* Asset State&#x20;
+* Asset tate&#x20;
 * Setting: Pin code, Theme, Language...
 * Manage address book
 * Browser - current tab list (moblie app)

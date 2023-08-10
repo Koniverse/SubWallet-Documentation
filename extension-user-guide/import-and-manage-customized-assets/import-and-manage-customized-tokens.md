@@ -60,9 +60,9 @@ SubWallet is currently supporting more than 490 tokens, including cross-chain to
 
 ![](<../../.gitbook/assets/image (172) (1).png>)
 
-To send token, you might want to read the instruction [here](../manage-address-book/receive-and-transfer-assets/transfer-tokens.md).
+To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens.md).
 
-To receive token, you might want to read the instruction [here](../manage-address-book/receive-and-transfer-assets/receive-tokens-and-nfts.md).
+To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md).
 
 {% hint style="info" %}
 Since you have already selected your token, there would be less steps than there are in the instructions.&#x20;
