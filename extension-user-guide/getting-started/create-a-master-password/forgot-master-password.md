@@ -12,7 +12,7 @@ If you forgot your account password, don't worry! You can still continue the pro
 
 **Step 1**: At the welcome page, click "Don't remember your password?".
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Here, there will be 2 options provided:
 
@@ -21,7 +21,7 @@ If you forgot your account password, don't worry! You can still continue the pro
 
 Choose the option you want to apply:
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 With the option to Reset account:
@@ -47,9 +47,8 @@ This action will reset **all** the information in the wallet. Besides the inform
 * Asset tate&#x20;
 * Setting: Pin code, Theme, Language...
 * Manage address book
-* Browser - current tab list (moblie app)
 {% endhint %}
 
 **Step 3:** In this step, you will re-import your forgotten account again using your seed phrase/JS backup file/private key/QR backup key. For instructions on how to import account, click [here](../../account-management/import-and-restore-an-account.md).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>

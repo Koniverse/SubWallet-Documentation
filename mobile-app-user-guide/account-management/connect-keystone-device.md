@@ -4,11 +4,11 @@
 
 You would be directed to a list of accounts.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 **Step 2**: In the account list, choose the "Attach account" icon.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 **Step 3**: Choose "Attach Keystone account".
 

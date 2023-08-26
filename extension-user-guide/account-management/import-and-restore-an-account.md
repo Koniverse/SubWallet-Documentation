@@ -8,11 +8,25 @@ description: This part will show you How to Import and Restore an Account on Sub
 
 **Step 1**: After installing SubWallet extension, open SubWallet and choose "Import an account".
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (82).png>)
 
 **Step 2**: Choose your prefered way to import an existing account
 
 ![](<../../.gitbook/assets/Screenshot 2023-06-08 093513.png>)
+
+**Step 3:** Create a master password and click "Continue".
+
+{% hint style="warning" %}
+Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
+{% endhint %}
+
+![](<../../.gitbook/assets/image (83).png>)
+
+{% hint style="info" %}
+After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
+
+[#import-by-seedphrase](import-and-restore-an-account.md#import-by-seedphrase "mention")[#import-by-private-key-currently-supported-with-evm-account](import-and-restore-an-account.md#import-by-private-key-currently-supported-with-evm-account "mention")[#import-from-polkadot-js-import-by-json-file](import-and-restore-an-account.md#import-from-polkadot-js-import-by-json-file "mention")                                   [#import-by-qr-code](import-and-restore-an-account.md#import-by-qr-code "mention")
+{% endhint %}
 
 ### If you have already used SubWallet before
 
@@ -20,7 +34,7 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen. &#x20;
 
-![](<../../.gitbook/assets/image (12) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (289).png>)
 
 **Step 2**: In the account management screen, click the import icon.
 
@@ -28,9 +42,13 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 3**: Choose your preferred way to import account.
 
-![](<../../.gitbook/assets/image (15) (2) (1).png>)
+![](<../../.gitbook/assets/image (290).png>)
 
+{% hint style="info" %}
+After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
 
+[#import-by-seedphrase](import-and-restore-an-account.md#import-by-seedphrase "mention")[#import-by-private-key-currently-supported-with-evm-account](import-and-restore-an-account.md#import-by-private-key-currently-supported-with-evm-account "mention")[#import-from-polkadot-js-import-by-json-file](import-and-restore-an-account.md#import-from-polkadot-js-import-by-json-file "mention")                                      [#import-by-qr-code](import-and-restore-an-account.md#import-by-qr-code "mention")
+{% endhint %}
 
 ## Import by seedphrase
 
@@ -44,7 +62,7 @@ For each seedphrase created with SubWallet, you would have a Substrate account a
 Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (25) (2) (1).png>)
+![](<../../.gitbook/assets/image (291).png>)
 
 In some cases, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -59,18 +77,18 @@ After importing the new account into the wallet, you might want to change the ac
 {% hint style="info" %}
 Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
 
+Ethereum network will be automatically turned on for EVM accounts.
+
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}
-
-##
 
 ## Import by private key (currently supported with EVM account)
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (1) (1) (2) (2) (2).png>)
+![](<../../.gitbook/assets/image (292).png>)
 
-Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
+After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
 Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
@@ -78,9 +96,7 @@ Please note that in order to see your assets after importing your account, your 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.
 {% endhint %}
 
-##
-
-## Import by JSON file
+## Import from Polkadot {js} (Import by JSON file)
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by JSON backup file:
 
@@ -88,19 +104,21 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 ![](<../../.gitbook/assets/image (10) (1) (2) (1) (1).png>)
 
-**Step 2**: Enter your master password (created when you set up the wallet for the first time) and click "Import from Json".&#x20;
+**Step 2**: Enter your JSON file password (created when you set up the wallet for the first time) and click "Import from JSON file".&#x20;
 
-![](<../../.gitbook/assets/image (23) (1) (2).png>)
+![](<../../.gitbook/assets/image (298).png>)
 
-Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
+{% hint style="info" %}
+Please note that if you want to import multiple accounts simultaneously from a JSON file, you are required to enter the password for each account you want to import.
+{% endhint %}
+
+After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
 Please note that in order to see your assets after importing your account, your would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
 
 SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.
 {% endhint %}
-
-##
 
 ## Import by QR code
 
@@ -114,26 +132,35 @@ After following this [guide](broken-reference) to choose your preferred way to i
 
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension the permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet would show the following message:
+
+![](<../../.gitbook/assets/image (29) (2).png>)\
+\
+Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
 {% hint style="info" %}
-Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle to enable camera access.&#x20;
+If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (7) (3) (1).png>)\
-. Please switch the toggle to enable camera access.&#x20;
-
-![](<../../.gitbook/assets/image (24) (1) (2).png>)
+![](<../../.gitbook/assets/image (38).png>)
 {% endhint %}
 
 
 
 **Step 2**: Present your QR code and scan with SubWallet, using your device's camera.&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fo0LyV3teoGd7K13E4p9S%2Fimage.png?alt=media&#x26;token=487b39c8-2c48-4c67-a496-897714b2549e" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-&#x20;
+<figure><img src="../../.gitbook/assets/image (303).png" alt="" width="290"><figcaption></figcaption></figure>
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FdjKG4ygi6JOKuOifIOiZ%2F2.png?alt=media&#x26;token=9c47ee56-8444-4975-8927-8d32a024bd8e" alt=""><figcaption></figcaption></figure>
+</div>
+
+<div align="left">
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fo0LyV3teoGd7K13E4p9S%2Fimage.png?alt=media&#x26;token=487b39c8-2c48-4c67-a496-897714b2549e" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 After the succesful import of your account by QR code, you would be directed to the Homescreen.&#x20;
 
@@ -152,14 +179,14 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 {% hint style="info" %}
 **Step 1**: Choose the list icon on the upper left corner of your Homescreen.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F5JSrnZ74n3ImsMYrofiN%2FScreenshot\_2.png?alt=media\&token=7f65d518-d978-453b-9c3a-545f0a161e23)\
+![](<../../.gitbook/assets/image (22).png>)\
 
 
 **Step 2**: Choose "Security settings".
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F8D78OrReXf4WQRZ258aZ%2FScreenshot\_5.png?alt=media\&token=506a8567-6d9b-4d29-8a99-1f4d291c571c)\
+![](<../../.gitbook/assets/image (296).png>)\
 \
 **Step 3**: Disable the toggle next to the "Allow camera access" option.&#x20;
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41)
+![](<../../.gitbook/assets/image (297).png>)
 {% endhint %}

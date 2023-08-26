@@ -8,7 +8,7 @@ description: This document will show you How to Import/Add and Manage Customized
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
-![](<../../.gitbook/assets/image (168) (1).png>)
+![](<../../.gitbook/assets/image (93).png>)
 
 **Step 2**: Choose "Manage tokens". You would be redirected to a token list.&#x20;
 
@@ -44,11 +44,11 @@ An useful trick is to utilize the "Search" feature everytime you want to use the
 
 **Step 1**: Open SubWallet homepage and click the "Search" item on the top right corner.
 
-![](<../../.gitbook/assets/image (158) (1).png>)
+![](<../../.gitbook/assets/image (94).png>)
 
 **Step 2**: Find your customized token name in the search bar and click on it.
 
-![](<../../.gitbook/assets/image (153) (1) (1).png>)
+![](<../../.gitbook/assets/image (95).png>)
 
 
 
@@ -58,9 +58,9 @@ An useful trick is to utilize the "Search" feature everytime you want to use the
 SubWallet is currently supporting more than 490 tokens, including cross-chain tokens.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (172) (1).png>)
+![](<../../.gitbook/assets/image (96).png>)
 
-To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens.md).
+To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens/).
 
 To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md).
 

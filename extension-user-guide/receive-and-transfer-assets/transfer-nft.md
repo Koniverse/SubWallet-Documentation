@@ -6,7 +6,7 @@ description: This document will show you How to Transfer NFT with SubWallet.
 
 **Step 1**: Open SubWallet homepage and scroll with your mouse/touchpad to see your NFT collections.
 
-![](<../../.gitbook/assets/image (147).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 
 

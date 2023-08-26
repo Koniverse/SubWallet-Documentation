@@ -8,7 +8,7 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 2**:  Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (28) (2) (1).png>)
+![](<../../.gitbook/assets/image (87).png>)
 
 **Step 3**: Choose the attach account icon on the lower right corner.
 
@@ -24,13 +24,21 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 4**: Select the network according to the current dApp on your Ledger and click "Connect". Your extension would display the following pop-up:
 
-![](<../../.gitbook/assets/image (19) (2).png>) ![](<../../.gitbook/assets/image (31) (3).png>)
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image (31) (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 Click on the device name (Nano X in this case) and click "Connect".
 
 
 
 **Step 5**: After your Ledger has been successfully found by SubWallet, click "Connect Ledger device".
+
+{% hint style="info" %}
+Please remember that you have to turn on the corresponding app on the Ledger device.
+{% endhint %}
 
 ![](<../../.gitbook/assets/image (14) (1) (2) (1).png>)
 
@@ -49,6 +57,12 @@ Click on the device name (Nano X in this case) and click "Connect".
 If you get to the account list (repeat step 2) you could see your Ledger account there.
 
 ![](<../../.gitbook/assets/image (3) (2).png>)
+
+{% hint style="info" %}
+Note: If you have an account attached from Ledger, it can only handle assets like tokens and NFTs within the specific network associated with that account.&#x20;
+
+For instance: If you have an account attached from Ledger with the Polkadot network, you can only manage assets within the Polkadot network using SubWallet.
+{% endhint %}
 
 
 

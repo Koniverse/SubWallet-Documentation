@@ -34,7 +34,7 @@ In this case we are connecting to Beamswap.&#x20;
 
 **Step 2**: Choose "Security settings".
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (2).png>)
 
 
 

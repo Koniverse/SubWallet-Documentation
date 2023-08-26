@@ -8,7 +8,7 @@ description: >-
 
 At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](../../account-management/create-a-new-account-with-seed-phrase.md) or [import an existing account](../../account-management/import-and-restore-an-account.md)).&#x20;
 
-![](<../../../.gitbook/assets/Screenshot 2023-03-21 122036.png>)
+<figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 If you have already used the beta version of SubWallet before and are migrating to the new version, we would ask you to create and [apply master password](apply-master-password.md) to your existing accounts. Please read the corresponding guide to see if it correctly describes your situation.
 

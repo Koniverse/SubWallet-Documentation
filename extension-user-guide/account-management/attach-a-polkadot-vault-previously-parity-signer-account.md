@@ -6,25 +6,27 @@ description: >-
 
 # Attach a Polkadot Vault (previously Parity-Signer) account
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+**Step 1**: Open your Polkadot Vault app and have the QR code ready.
 
-![](<../../.gitbook/assets/image (37) (2) (1).png>)
+**Step 2:** pen SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+
+![](<../../.gitbook/assets/image (86).png>)
 
 
 
-**Step 2**: In the account management screen, click on the attach account item in the lower right corner.
+**Step 3**: In the account management screen, click on the attach account item in the lower right corner.
 
 ![](<../../.gitbook/assets/image (30) (3) (1).png>)
 
 
 
-**Step 3**: Choose "Connect a Polkadot Vault account".
+**Step 4**: Choose "Connect a Polkadot Vault account".
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FvACvQyKwuziqgvLDOkZu%2FScreenshot\_7.png?alt=media\&token=1f3698a2-31ef-4fb8-8017-c2663bcb9101)
 
 
 
-**Step 4**: Scan the QR code provided by Parity signer to continue.&#x20;
+**Step 5**: Scan the QR code provided by Parity signer to continue.&#x20;
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FVzNMxnNCUV1nWXmotBIk%2FScreenshot\_24.png?alt=media\&token=9d022279-94fe-4ae1-91de-c8d1a0b46cfc)
 
@@ -38,3 +40,16 @@ Click "Go to Setting" button. You would be directed to our security settings scr
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
+{% hint style="info" %}
+If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
+
+![](<../../.gitbook/assets/image (38).png>)
+{% endhint %}
+
+**Step 6**: Put the Polkadot Vault app (with QR code displayed) in front of your computer and scan with the computer's camera.
+
+![](<../../.gitbook/assets/image (307).png>)
+
+**Step 7**: Your account is ready!&#x20;
+
+![](<../../.gitbook/assets/image (308).png>)

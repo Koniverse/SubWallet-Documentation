@@ -4,7 +4,7 @@
 
 You can create a new account immediately from the "Welcome" screen. You can create a new account using seed phrase.&#x20;
 
-![](<../../.gitbook/assets/image (44).png>) ![](<../../.gitbook/assets/image (23) (3).png>)
+![](<../../.gitbook/assets/image (44) (1).png>) ![](<../../.gitbook/assets/image (23) (3).png>)
 
 
 
@@ -16,15 +16,15 @@ In this case we are introducing creating new account with seed phrase.&#x20;
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 **Step 2**: In the account management screen, click "Create new account".
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (71) (1).png>)
 
 **Step 3**: Choose "Create with new seed phrase".
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (1).png>)
 
 
 
@@ -38,13 +38,13 @@ This recovery phrase is as important as your private key; if someone has your re
 If, for instance, you forget your password, you would need your recovery phrase to import the account again and set up a new password.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (41) (2).png>)
 
 
 
 **Step 2**: Enter your seed phrase in the correct order.
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (1).png>)
 
 
 

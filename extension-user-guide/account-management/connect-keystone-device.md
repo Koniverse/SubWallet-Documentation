@@ -8,11 +8,13 @@ description: This document will show you How to Connect a Keystone Device to Sub
 
 **Step 2**: : Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (4) (2) (2).png>)
+![](<../../.gitbook/assets/image (88).png>)
+
+
 
 **Step 3**: In the account management screen, choose the attach account icon on the lower right corner.
 
-![](<../../.gitbook/assets/image (41) (2).png>)
+![](<../../.gitbook/assets/image (41) (2) (1).png>)
 
 
 
@@ -38,6 +40,12 @@ Click "Go to Setting" button. You would be directed to our Security settings scr
 
 
 
+{% hint style="info" %}
+If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
+
+![](<../../.gitbook/assets/image (100).png>)
+{% endhint %}
+
 **Step 6**: Put your Keystone device (with QR code displayed) in front of your computer and scan with the computer's camera.
 
 ![](<../../.gitbook/assets/image (42) (2).png>)
@@ -46,7 +54,7 @@ Click "Go to Setting" button. You would be directed to our Security settings scr
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (22) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1).png>)
 
 You could find your Keystone device in the account list (follow step 2 to get to the account list). You would notice that this account has been marked with a QR icon.&#x20;
 

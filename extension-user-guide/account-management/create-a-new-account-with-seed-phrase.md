@@ -11,15 +11,15 @@ description: >-
 \
 **Step 1**: After installing SubWallet extension, open the wallet and choose "Create a new account".
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FrD7aDN3hu5uUKrEFkOoU%2FScreenshot\_15.png?alt=media\&token=8a3e589a-2fc8-4494-952d-05ff613c55eb)
+![](<../../.gitbook/assets/image (79).png>)
 
 **Step 2**: Create a master password and click "Continue".
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (4) (2) (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (80).png>)
 
 **Step 3**: Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place.&#x20;
 
@@ -39,23 +39,29 @@ If, for instance, you forget your password, you would need your recovery phrase 
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (81).png>)
 
 **Step 2**: In the account management screen, click "Create a new account". Then choose "Create with new seed phrase".
 
-![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)![](<../../.gitbook/assets/image (7) (1).png>)
 
 **Step 3**: Choose the account type you want to create.
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (282).png>)&#x20;
 
-**Step 4**: Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place.&#x20;
+Then, choose "Confirm"
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="433"><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (283).png>)
+
+
+
+&#x20;**Step 4**: Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place. Then, click on "I have saved it somewhere safe".
+
+![](<../../.gitbook/assets/image (284).png>)
 
 In the Homepage, if you click the account name, you would see your list of accounts. You could switch & select your accounts here. We also offer the "All accounts" mode in case you need a quick glance of your total assets.&#x20;
 
-![](<../../.gitbook/assets/image (18) (2) (1).png>) ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjTvHE5E5h8WwX5oDzBbO%2FScreenshot\_30.png?alt=media\&token=eff7bd88-190d-4556-8ac3-9f96d179fd77)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)
 
 For each seedphrase created with SubWallet, you would have a Substrate account and an EVM account. Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 

@@ -8,11 +8,11 @@ description: >-
 
 **Step 1**: Open SubWallet and click on the account name on top of the screen. You would be directed to a list of accounts.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (60) (1).png>)
 
 **Step 2**: In the account list, choose the "Attach account" icon.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 **Step 3**: Choose "Attach read-only account".
 
@@ -20,7 +20,7 @@ description: >-
 
 **Step 4**: Enter the address of the account you want to track, then click "Attach read-only account".
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 **Step 5**: Enter password then click "Apply" to continue.
 
@@ -28,7 +28,7 @@ description: >-
 
 Your read-only account is ready!. If you repeat Step 1 to get to the account list, you would notice that your read-only account would be marked by an "eye" icon. You could change the account name following this [guide](switch-between-accounts-and-change-account-name.md).
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (2).png>)
 
 {% hint style="info" %}
 SubWallet helps you identify your read-only accounts with the eye symbol as shown in the picture above, so even if you are creative when naming this account, you can still identify it. Please make sure that you are not in a read-only account if you want to make transactions.

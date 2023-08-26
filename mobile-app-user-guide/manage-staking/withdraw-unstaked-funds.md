@@ -24,15 +24,15 @@ If you have already been in a single account, you would not have to select accou
 
 A complete withdrawal request would look like the following image:
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (2).png>)
 
 **Step 4**: Click "Approve" to confirm withdrawal.
 
-![](<../../.gitbook/assets/image (3) (1) (4).png>)
+![](<../../.gitbook/assets/image (3) (1) (4) (1).png>)
 
 **Step 5**: Enter password and click "Apply".
 
-![](<../../.gitbook/assets/image (18) (2).png>)
+![](<../../.gitbook/assets/image (18) (2) (2).png>)
 
 And your request has been submitted. You could see your transaction in the History tab.
 
@@ -40,7 +40,7 @@ And your request has been submitted. You could see your transaction in the Histo
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.\
-![](<../../.gitbook/assets/image (14) (4).png>) ![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (14) (4).png>) ![](<../../.gitbook/assets/image (17) (5).png>)
 {% endhint %}
 
 

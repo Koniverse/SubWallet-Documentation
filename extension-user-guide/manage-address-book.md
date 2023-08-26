@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click on the list item on the upper left corner to get to Settings section.
 
-![](<../.gitbook/assets/image (2) (3) (1).png>)
+![](<../.gitbook/assets/image (90).png>)
 
 
 

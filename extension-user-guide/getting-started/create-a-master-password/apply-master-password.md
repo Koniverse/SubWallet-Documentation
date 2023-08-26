@@ -24,7 +24,7 @@ This will be the first screen in our new version.
 
 Then click "Continue".
 
-![](<../../../.gitbook/assets/Screenshot 2023-04-18 093531.png>)
+![](<../../../.gitbook/assets/image (75).png>)
 
 **Step 3**: Click "Apply master password" to apply your newly created master password to the accounts you are managing with SubWallet.&#x20;
 
@@ -60,7 +60,7 @@ In case you do not remember the old password of your account, don't worry, the p
 
 ![](<../../../.gitbook/assets/image (4) (4).png>)
 
-![](<../../../.gitbook/assets/image (80).png>)
+![](<../../../.gitbook/assets/image (80) (1).png>)
 
 You can enter your old password wrong maximum 3 times. After that, click Remove this account and continue with the remaining accounts. When you finish migrating your accounts, import your forgotten account again using your seed phrase/JS backup file/private key/QR backup key. For instructions on how to import account, click [here](../../account-management/import-and-restore-an-account.md).
 
