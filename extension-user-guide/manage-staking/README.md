@@ -6,7 +6,17 @@ description: >-
 
 # Manage staking
 
-Each network has its own staking mechanism, terms and conditions, too. Thus, in case you want to know more details about staking specifications that are not displayed on the wallet, you can go to their websites and wikis to research or ask for support in their official channels. Please be aware of people priorly DM you and offer support, verify their accounts carefully before starting any conversation. Your keys, your coins.
+Each network has its own staking mechanism, terms and conditions. Thus, in case you want to know more details about staking specifications that are not displayed on the wallet, you can go to their websites and wikis to research or ask for support in their official channels. Please be aware of people who previously DM you and offer support. We recommend you to verify their accounts carefully before starting any conversation. Your keys, your coins.
+
+In this part, there are 4 guidelines for following sections:
+
+[nomination-pool](nomination-pool/ "mention")
+
+[nominate-for-validator](nominate-for-validator/ "mention")
+
+[nominate-for-collator](nominate-for-collator/ "mention")
+
+[nominate-for-dapp](nominate-for-dapp/ "mention")
 
 As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
 
@@ -17,8 +27,4 @@ As SubWallet is a community-driven product, our team is always more than happy t
 5. Join us in Discord: [https://discord.com/invite/EkFNgaBwpy](https://discord.com/invite/EkFNgaBwpy)
 
 Stay in touch!
-
-{% embed url="https://youtu.be/4UzPcnEHEH0" %}
-
-
 

@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Apply Master Password on SubWallet.
+description: This document will show you how to apply master password on SubWallet.
 ---
 
 # Apply master password
@@ -24,7 +24,7 @@ This will be the first screen in our new version.
 
 Then click "Continue".
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (75) (1).png>)
 
 **Step 3**: Click "Apply master password" to apply your newly created master password to the accounts you are managing with SubWallet.&#x20;
 
@@ -50,7 +50,7 @@ It can be tedious if you have many accounts with SubWallet, but this is the most
 
 **Step 4**: Click "Finish" and you have successfully updated your password.&#x20;
 
-![](<../../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ## Do not remember the old password
 
@@ -60,7 +60,7 @@ In case you do not remember the old password of your account, don't worry, the p
 
 ![](<../../../.gitbook/assets/image (4) (4).png>)
 
-![](<../../../.gitbook/assets/image (80) (1).png>)
+![](<../../../.gitbook/assets/image (80) (1) (1).png>)
 
 You can enter your old password wrong maximum 3 times. After that, click Remove this account and continue with the remaining accounts. When you finish migrating your accounts, import your forgotten account again using your seed phrase/JS backup file/private key/QR backup key. For instructions on how to import account, click [here](../../account-management/import-and-restore-an-account.md).
 

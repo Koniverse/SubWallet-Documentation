@@ -8,7 +8,7 @@ description: This part will show you How to Import and Restore an Account on Sub
 
 **Step 1**: After installing SubWallet extension, open SubWallet and choose "Import an account".
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../.gitbook/assets/image (82) (1).png>)
 
 **Step 2**: Choose your prefered way to import an existing account
 
@@ -20,7 +20,7 @@ description: This part will show you How to Import and Restore an Account on Sub
 Please note that SubWallet is non-custodial, so you would be the only person who know your password; we cannot help you restore password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)
 
 {% hint style="info" %}
 After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
@@ -34,15 +34,15 @@ If you have secret phrase (seedphrase), private key, back-up JSON file or QR cod
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen. &#x20;
 
-![](<../../.gitbook/assets/image (289).png>)
+![](<../../.gitbook/assets/image (126).png>)
 
 **Step 2**: In the account management screen, click the import icon.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FnA5elIEwiVADORTkcDrF%2FScreenshot\_21.png?alt=media\&token=14fc8e7b-d870-4387-8bb5-8b9566504bc8)
+![](<../../.gitbook/assets/image (17).png>)
 
 **Step 3**: Choose your preferred way to import account.
 
-![](<../../.gitbook/assets/image (290).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 {% hint style="info" %}
 After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
@@ -62,7 +62,7 @@ For each seedphrase created with SubWallet, you would have a Substrate account a
 Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (291).png>)
+![](<../../.gitbook/assets/image (98).png>)
 
 In some cases, if you import account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -86,7 +86,7 @@ SubWallet automatically enable Polkadot & Kusama networks for Substrate accounts
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your  private key and click "Import account".
 
-![](<../../.gitbook/assets/image (292).png>)
+![](<../../.gitbook/assets/image (127).png>)
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
@@ -137,13 +137,13 @@ Please note that you would need to grant the SubWallet extension the permission 
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (99).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (1).png>)
 {% endhint %}
 
 
@@ -179,7 +179,7 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 {% hint style="info" %}
 **Step 1**: Choose the list icon on the upper left corner of your Homescreen.
 
-![](<../../.gitbook/assets/image (22).png>)\
+![](<../../.gitbook/assets/image (22) (1).png>)\
 
 
 **Step 2**: Choose "Security settings".

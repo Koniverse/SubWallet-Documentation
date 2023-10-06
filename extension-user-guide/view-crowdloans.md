@@ -14,5 +14,5 @@ At the moment we have not yet supported participating in crowdloans directly fro
 
 In this example we have only 1 account with crowdloans, so in both "All-accounts" mode and single-account mode, the crowdloans list is the same. To switch between these modes, please follow this [guide](account-management/switch-between-accounts-and-change-account-name.md).
 
-![](<../.gitbook/assets/image (186).png>) ![](<../.gitbook/assets/image (176) (1).png>)
+![](<../.gitbook/assets/image (186) (1).png>) ![](<../.gitbook/assets/image (176) (1) (1).png>)
 

@@ -10,9 +10,9 @@ description: >-
 "Single-chain transfer" refers to the process of transferring tokens within the same blockchain network. It does not involve moving assets across different blockchains.
 {% endhint %}
 
-**Step 1**:  Open SubWallet homepage and click the Send button.
+**Step 1**: Open SubWallet homepage and click the Send button.
 
-![](<../../../.gitbook/assets/image (92).png>)
+![](<../../../.gitbook/assets/image (116).png>)
 
 You would be directed to a transaction request screen.
 
@@ -20,7 +20,7 @@ You would be directed to a transaction request screen.
 
 **Step 2:** Enter the information for the transaction and click the "Transfer" button.&#x20;
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (117).png>)
 
 {% hint style="info" %}
 In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
@@ -29,7 +29,7 @@ This feature would save you a lot of time when entering address for transaction.
 
 By clicking the book icon on the right hand side of the address field, you would be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.
 
-![](<../../../.gitbook/assets/image (55).png>)![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (55) (1).png>)![](<../../../.gitbook/assets/image (118).png>)
 
 To manage your address book, please follow this [guide](../../manage-address-book.md)
 {% endhint %}
@@ -38,7 +38,7 @@ To manage your address book, please follow this [guide](../../manage-address-boo
 
 **Step 3**: Check your transaction details, then click "Approve" if you want to proceed.&#x20;
 
-![](<../../../.gitbook/assets/image (57).png>)
+
 
 **Step 4**: Transaction result is in.
 
@@ -56,18 +56,18 @@ In this case, as we are sending to an account also managed by SubWallet, there w
 If you click the "View transaction" button, SubWallet would display the receive record, because it was recorded after the send record.&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (58) (1).png>)
 
 However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (59) (1).png>)
 
-![](<../../../.gitbook/assets/image (60).png>) ![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (60) (1).png>) ![](<../../../.gitbook/assets/image (119).png>)
 
 ## **If you are in "All accounts" mode**
 
 {% hint style="info" %}
 In "All accounts" mode, most transaction steps are identical to the "Single-account mode". The only additional step that users need to perform is selecting the "Sender".
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21) (1).png>)
 {% endhint %}

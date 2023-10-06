@@ -15,7 +15,7 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 1**: Open your wallet and choose the list item on the top left corner.
 
-![](<../../../.gitbook/assets/image (280).png>)
+![](<../../../.gitbook/assets/image (9).png>)
 
 **Step 2**: Choose "Security settings".
 
@@ -23,8 +23,8 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 3**: Click "Change wallet password".
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FFwehPxgl0D4XAvxbJvef%2FScreenshot\_16.png?alt=media\&token=e3ed8dac-f8bd-4648-ba00-d58888d30f2c)
+![](<../../../.gitbook/assets/image (10).png>)
 
 **Step 4**: Type in your current password, set up your new password and click "Save".
 
-![](<../../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1) (1).png>)

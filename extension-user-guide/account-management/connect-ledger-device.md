@@ -8,11 +8,11 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 2**:  Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (106).png>)
 
 **Step 3**: Choose the attach account icon on the lower right corner.
 
-![](<../../.gitbook/assets/image (34) (2).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 
 
@@ -24,11 +24,11 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 4**: Select the network according to the current dApp on your Ledger and click "Connect". Your extension would display the following pop-up:
 
-&#x20;
+<div align="left">
 
-<figure><img src="../../.gitbook/assets/image (31) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
+</div>
 
 Click on the device name (Nano X in this case) and click "Connect".
 
@@ -44,7 +44,7 @@ Please remember that you have to turn on the corresponding app on the Ledger dev
 
 
 
-**Step 6**: Choose the account you want to use.
+**Step 6**: Choose the account you want to use then click "Connect Ledger device"
 
 ![](<../../.gitbook/assets/image (33) (2).png>)
 

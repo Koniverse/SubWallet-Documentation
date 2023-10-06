@@ -10,16 +10,28 @@ Auto-lock is a security feature that locks your wallet after a period of inactiv
 
 **Step 1:** Open SubWallet homepage and click on the list item on the upper left corner to get to Settings section.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="291"><figcaption></figcaption></figure>
+
+</div>
 
 **Step 2**: Choose "Security settings".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+
+</div>
 
 **Step 3**: Choose "Wallet auto-lock".
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (12).png>)
 
 **Step 4:** Select the lock time you prefer.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+
+</div>

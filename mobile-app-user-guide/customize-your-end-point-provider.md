@@ -17,7 +17,7 @@ Users can manually change provider with SubWallet.&#x20;
 
 **Step 3**: Customize your provider by clicking the pencil icon next to the network you want to customize the provider for. In this case we want to change provider for Astar.
 
-![](<../.gitbook/assets/image (22) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1).png>)
 
 
 

@@ -28,7 +28,7 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
-![](<../.gitbook/assets/image (209).png>)
+![](<../.gitbook/assets/image (209) (1).png>)
 
 **Step 2**: In the Settings section, choose "Manage networks".
 

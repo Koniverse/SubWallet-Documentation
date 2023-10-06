@@ -8,13 +8,13 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click on the list item on the upper left corner to get to Settings section.
 
-![](<../.gitbook/assets/image (90).png>)
+![](<../.gitbook/assets/image (112).png>)
 
 
 
 **Step 2**: Choose "Manage address book".
 
-![](<../.gitbook/assets/image (170) (1).png>)
+![](<../.gitbook/assets/image (113).png>)
 
 
 
@@ -42,8 +42,8 @@ Click "Add contact" to proceed.&#x20;
 
 This contact would be instantly available for you when making transfer of tokens or NFT. You can also edit contact details or delete contact if you so wish.&#x20;
 
-![](<../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (167) (1).png>)
 
 To edit contact or delete contact, click on the contact with your mouse/touchpad. The following screen would appear and you might proceed with the action.
 
-![](<../.gitbook/assets/image (157) (1).png>)
+![](<../.gitbook/assets/image (157) (1) (1).png>)

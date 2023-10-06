@@ -8,10 +8,10 @@ description: >-
 
 Here are the articles in this section:
 
-{% content-ref url="cross-chain-transfer.md" %}
-[cross-chain-transfer.md](cross-chain-transfer.md)
-{% endcontent-ref %}
-
 {% content-ref url="single-chain-transfer.md" %}
 [single-chain-transfer.md](single-chain-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="cross-chain-transfer.md" %}
+[cross-chain-transfer.md](cross-chain-transfer.md)
 {% endcontent-ref %}

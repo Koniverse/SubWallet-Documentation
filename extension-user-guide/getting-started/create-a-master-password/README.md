@@ -6,7 +6,7 @@ description: >-
 
 # Create a master password
 
-At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](../../account-management/create-a-new-account-with-seed-phrase.md) or [import an existing account](../../account-management/import-and-restore-an-account.md)).&#x20;
+At the start of your journey with us, we always ask you to create a master password (such as when you [create a new account](../../account-management/create-a-new-account.md) or [import an existing account](../../account-management/import-and-restore-an-account.md)).&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 

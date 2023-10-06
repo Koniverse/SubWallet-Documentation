@@ -1,6 +1,6 @@
 ---
 description: >-
-  This document will show you How to Install SubWallet - A comprehensive
+  This document will show you how to install SubWallet - A comprehensive
   non-custodial wallet on browsers including Chrome, Brave, Firefox & MS Edge.
 ---
 

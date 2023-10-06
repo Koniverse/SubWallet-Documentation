@@ -22,7 +22,7 @@ To switch between these modes, please follow [this guide](account-management/swi
 
 **Step 2**: Click on the transaction you want to view the details of. For some types of transaction (such as send transaction on mainnets), you would also have the option to view on explorer. The example below is a send transaction of 0.01 ACA from the sender account named "Arrange" at 11:36 AM - Apr 08,2023.&#x20;
 
-![](<../.gitbook/assets/image (208).png>)
+![](<../.gitbook/assets/image (208) (1).png>)
 
 You might want to use the filter feature to see only transactions in a particular category. Click on the fader icon at the history search bar and then choose the type of transaction you want to see.
 

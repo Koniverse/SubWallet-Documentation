@@ -6,7 +6,7 @@ description: This document will show you How to Import an NFT into SubWallet.
 
 **Step 1**: Choose the NFTs tab and click the "+" button on the upper right corner of your screen.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../../.gitbook/assets/image (97) (1).png>)
 
 **Step 2**: Enter the NFT details. You would need to specify the network you have the NFT on and the specific contract address. Then click "Import".
 
@@ -14,7 +14,7 @@ description: This document will show you How to Import an NFT into SubWallet.
 SubWallet would automatically perform an on-chain search to fill in other details such as NFT type and NFT collection name.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (154) (1).png>)
+![](<../../.gitbook/assets/image (154) (1) (1).png>)
 
 **Step 3**: Would be re-directed back to NFT homescreen. Your newly imported NFT (in this case, MoonBeast) should be visible there.&#x20;
 

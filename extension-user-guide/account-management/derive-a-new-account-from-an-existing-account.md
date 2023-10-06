@@ -8,13 +8,13 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (299).png>)
+![](<../../.gitbook/assets/image (96).png>)
 
 **Step 2**:  In the account management screen, click "Create new account". Then choose "Derive from an existing account".
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FtWmqrZHUR78QpC5IY0Kz%2FScreenshot\_29.png?alt=media\&token=4c7dfd39-7ad4-44bf-87f2-46bf1e1e0128)
+![](<../../.gitbook/assets/image (79).png>)![](<../../.gitbook/assets/image (80).png>)
 
-**Step 3**: Choose from a list of your existing account.
+**Step 3**: Choose the account you want to derive from.
 
 ![](<../../.gitbook/assets/image (19) (1) (2).png>)
 
@@ -28,5 +28,5 @@ You could also derive a new account from the details section of a particular acc
 \
 From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you would be directed to an account details section. You could then choose the Derive account option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (29).png>)  ![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)  ![](<../../.gitbook/assets/image (28) (1).png>)
 {% endhint %}

@@ -48,7 +48,7 @@ In this case we are connecting to Beamswap.&#x20;
 
 You might search for the website name using the searchbox and change access permission for multiple websites using the access options on the top right corner of the screen.&#x20;
 
-![](<../.gitbook/assets/image (14) (1).png>) ![](<../.gitbook/assets/image (273).png>)
+![](<../.gitbook/assets/image (14) (1) (2).png>) ![](<../.gitbook/assets/image (273).png>)
 
 
 

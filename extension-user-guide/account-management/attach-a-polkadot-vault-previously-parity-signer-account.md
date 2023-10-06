@@ -8,15 +8,15 @@ description: >-
 
 **Step 1**: Open your Polkadot Vault app and have the QR code ready.
 
-**Step 2:** pen SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+**Step 2:** Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (86).png>)
+![](<../../.gitbook/assets/image (102).png>)
 
 
 
 **Step 3**: In the account management screen, click on the attach account item in the lower right corner.
 
-![](<../../.gitbook/assets/image (30) (3) (1).png>)
+![](<../../.gitbook/assets/image (103).png>)
 
 
 
@@ -37,13 +37,13 @@ Please note that you would need to grant the SubWallet extension the permission 
 \
 Click "Go to Setting" button. You would be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FjOdRHyvzxBLw6jOLlzZM%2FScreenshot\_4.png?alt=media\&token=d7c1e341-f1b4-4f6f-885d-109b21d49e41) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (104).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (1).png>)
 {% endhint %}
 
 **Step 6**: Put the Polkadot Vault app (with QR code displayed) in front of your computer and scan with the computer's camera.
@@ -52,4 +52,4 @@ If you use Brave browser, there will be multiple options that allow us to access
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (308).png>)
+![](<../../.gitbook/assets/image (105).png>)
