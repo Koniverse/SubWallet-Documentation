@@ -75,6 +75,11 @@
 * [Customize endpoint/provider](extension-user-guide/customize-endpoint-provider.md)
 * [FAQs](extension-user-guide/faqs.md)
 
+## 📋 Web Dashboard - User guide
+
+* [Earning](web-dashboard-user-guide/earning/README.md)
+  * [FAQs](web-dashboard-user-guide/earning/faqs.md)
+
 ## 📴 Mobile App - User Guide
 
 * [Getting started](mobile-app-user-guide/getting-started/README.md)
