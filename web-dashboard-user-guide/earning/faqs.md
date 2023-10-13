@@ -17,6 +17,14 @@ description: Frequently asked questions about SubWallet Earning feature.
 3.  **Which projects have their crowdloans unlocked in the first batch?**
 
     The first batch of crowdloan unlocks include Moonbeam, Acala, Astar, Parallel and Clover Finance.
+4.  **Do I need to claim my unlocked DOT?**
+
+    If you contribute natively on Polkadot, your DOT will automatically be unlocked and distributed to your wallet. If you contribute via third-party platforms like DeFi protocols or cryptocurrency exchanges, make sure you visit these platforms for instructions on how to redeem your DOT.
+5.  **Where can I check my crowdloan contributions?**
+
+    You can check via SubWallet's crowdloan checking portal [here](https://earn.subwallet.app/crowdloan-unlock-campaign/check-contributions).
+6. **Why can't I see my crowdloan contributions in SubWallet's crowdloan checking portal?**\
+   If you contributed through cryptocurrency exchanges like Binance, Kraken, Gate.io, etc... we won't be able to check your contributions.
 
 ### General FAQs
 
