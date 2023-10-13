@@ -4,7 +4,21 @@ description: Frequently asked questions about SubWallet Earning feature.
 
 # FAQs
 
-### General FAQ
+### Polkadot crowdloan FAQs
+
+1.  **What are Polkadot crowdloans?**
+
+    Polkadot enables parachains to source tokens for their parachain bids in a crowdloan. When a parachain wins an auction, users who contribute to the crowdloan will have their DOT locked for the lease duration in exchange for rewards in the parachain’s native token. Parachains can choose to host their crowdloans natively on Polkadot or via third-party platforms like DeFi protocols or cryptocurrency exchanges.
+
+    Learn more about crowdloans and auctions [here](https://www.polkadot.network/features/auctions/).
+2.  **What happens when the crowdloan funds are unlocked?**
+
+    If you contribute natively on Polkadot, your DOT will automatically be unlocked and distributed to your wallet. If you contribute via third-party platforms, make sure you visit these platforms for instructions on how to redeem your DOT.
+3.  **Which projects have their crowdloans unlocked in the first batch?**
+
+    The first batch of crowdloan unlocks include Moonbeam, Acala, Astar, Parallel and Clover Finance.
+
+### General FAQs
 
 1.  **What is SubWallet Earning?**
 
@@ -57,28 +71,30 @@ description: Frequently asked questions about SubWallet Earning feature.
 1.  **What is liquid staking on Acala?**
 
     Acala establishes a decentralized and non-custodial trustless staking protocol where you can stake your DOT and receive LDOT that represents the staked DOT plus the staking yield continuously accruing.
-2.  **What are LDOT and LCDOT?**
+2.  **What are LDOT and lcDOT?**
 
-    LDOT stands for Liquid DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. LCDOT stands for Liquid Crowdloan DOT, a 1:1 representation of DOT locked in the Acala crowdloan.
-3.  **How long does it take to unstake my DOT?**
+    LDOT stands for Liquid DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. lcDOT stands for Liquid Crowdloan DOT, a 1:1 representation of DOT locked in the Acala crowdloan.
+3. **Can I stake lcDOT?**\
+   Yes. SubWallet provides an option for you to directly stake your lcDOT and mint LDOT.
+4.  **How long does it take to unstake my DOT?**
 
     You can pay a 1% fee to unstake your DOT instantly or you can pay a smaller fee and wait for 28 days.
-4.  **Why doesn’t my LDOT balance increase over time?**
+5.  **Why doesn’t my LDOT balance increase over time?**
 
     The amount of LDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from LDOT, your LDOT should be worth more than your originally staked DOT.
-5.  **Can I stake LDOT for extra rewards?**
+6.  **Can I stake LDOT for extra rewards?**
 
     Yes. You can either hold LDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
-6.  **Why can’t I unstake instantly all my LDOT?**
+7.  **Why can’t I unstake instantly all my LDOT?**
 
     If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your LDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
-7.  **I only have DOT in my wallet, can I pay transaction fees on Acala?**
+8.  **I only have DOT in my wallet, can I pay transaction fees on Acala?**
 
     Yes. Your DOT will be automatically swapped to ACA to pay transaction fees.
-8.  **What are the risks of LDOT?**
+9.  **What are the risks of LDOT?**
 
     The liquid staking protocol by Acala selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
-9.  **What is the current validator set?**
+10. **What is the current validator set?**
 
     You can find the list of selected validators [here](https://polkadot.subscan.io/account/15sr8Dvq3AT3Z2Z1y8FnQ4VipekAHhmQnrkgzegUr1tNgbcn?tab=vote).
 
@@ -104,7 +120,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your sDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
 7.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
 
-    Yes. Your DOT will be automatically swapped to PARA to pay transaction fees.
+    No. You need PARA to pay transaction fees.
 8.  **What are the risks of sDOT?**
 
     The liquid staking protocol by Parallel selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
@@ -119,12 +135,12 @@ description: Frequently asked questions about SubWallet Earning feature.
 1.  **What is liquid staking on Bifrost?**
 
     Bifrost offers an efficient form of staking referred to as liquid staking, where you can stake DOT to receive vDOT as a representative of the staked DOT plus the staking yield continuously accruing.
-2.  **What is vDOT?**
+2.  **What are vDOT and vsDOT?**
 
-    vDOT stands for voucher DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing.
+    vDOT stands for voucher DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. vsDOT is a 1:1 representation of DOT locked in the Bifrost liquid crowdloan solution.
 3.  **How long does it take to unstake my DOT?**
 
-    You can pay a 1% fee to unstake your DOT instantly or you can pay a smaller fee and wait for 28 days.
+    28 days. If you want to unstake instantly, you can opt for fast redeem and swap vDOT for DOT. The swap fee will be 0.3% in addition to market price impact.
 4.  **Why doesn’t my vDOT balance increase over time?**
 
     The amount of vDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from vDOT, your vDOT should be worth more than your originally staked DOT.
@@ -163,15 +179,12 @@ description: Frequently asked questions about SubWallet Earning feature.
 5.  **I only have DOT in my wallet, can I pay transaction fees on Interlay?**
 
     Yes. Your DOT will be automatically swapped to INTR to pay transaction fees.
-6.  **What happens if I choose to enable my deposits as collateral?**
-
-    Your qDOT will then be used as Vault collateral in the BTC bridge. Note that deposits that are enabled as collateral are subject to liquidation when the borrowed balance becomes undercollateralized.
 
 ### Moonwell
 
 1.  **What is DOT lending on Moonwell?**
 
-    Interlay allows you to trustlessly lend and borrow wherein supplied assets can start earning interest immediately. By supplying DOT, you receive mDOT as a representative of your lent DOT plus the interest continuously accruing.
+    Moonwell enables users to lend and borrow their digital assets in a trustless manner and begin accruing interest in addition to earning GLMR and WELL rewards. When supplying xcDOT on Moonwell, you will also receive mDOT in your wallet, which serves as a representation of your supplied balance.
 2.  **What is mDOT?**
 
     mDOT is a representative of your lent DOT plus the interest continuously accruing.
@@ -183,10 +196,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     No.
 5.  **I only have DOT in my wallet, can I pay transaction fees on Interlay?**
 
-    Yes. Your DOT will be automatically swapped to GLMR to pay transaction fees.
-6.  **What happens if I choose to enable my deposits as collateral?**
-
-    Your qDOT will then be used as Vault collateral in the BTC bridge. Note that deposits that are enabled as collateral are subject to liquidation when the borrowed balance becomes undercollateralized.
-7.  **How is the APY calculated?**
+    No. You need GLMR to pay transaction fees.
+6.  **How is the APY calculated?**
 
     You can find the detailed explanations [here](https://docs.moonwell.fi/moonwell/moonwell-overview/lend/lend-faq).
