@@ -157,7 +157,7 @@ Before signing a transaction, please make sure that the remaining balance in you
 
 It might be the case that the endpoint (provider) are disconnected. Please follow these steps to change provider for such network:
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
 
 
 

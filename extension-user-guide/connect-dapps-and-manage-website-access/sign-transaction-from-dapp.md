@@ -14,7 +14,7 @@ For more specific and detailed instructions on how to connect the dApp with SubW
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,12 +24,12 @@ A SubWallet pop-up window will appear. Check the information carefully and then,
 You can also sign transactions through WalletConnect.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (83).png>)![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)![](<../../.gitbook/assets/image (46) (1).png>)
 
 {% hint style="info" %}
 There are certain transaction types that Polkadot Vault, Keystone, and Ledger do not support for executing transactions.
 
 In that cases, the screen will be displayed as follows.
 
-![](<../../.gitbook/assets/image (50).png>)![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (50) (1).png>)![](<../../.gitbook/assets/image (51) (1).png>)
 {% endhint %}

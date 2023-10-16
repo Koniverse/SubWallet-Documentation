@@ -16,23 +16,23 @@ Then click the three-dot item on the right hand side of the stake you want to un
 
 **Step 2**: In the list of available actions, choose "Unstake funds".
 
-![](<../../../.gitbook/assets/image (185) (1).png>)
+![](<../../../.gitbook/assets/image (185) (1) (1).png>)
 
 
 
 **Step 3**: Enter the information for unstaking.&#x20;
 
-![](<../../../.gitbook/assets/image (169).png>)
+![](<../../../.gitbook/assets/image (169) (1).png>)
 
 {% hint style="info" %}
 In the above example, we are in "All - accounts" mode. If you are in a single-account mode, you would not have to select account to unstake. Your Step 3 would look like the following:
 
-![](<../../../.gitbook/assets/image (170).png>)
+![](<../../../.gitbook/assets/image (170) (1).png>)
 {% endhint %}
 
 A complete input for unstaking would look like the following image:
 
-![](<../../../.gitbook/assets/image (171).png>)
+![](<../../../.gitbook/assets/image (171) (1).png>)
 
 In this case we are unstaking 200 TZERO from our previous bonded amount of 560.72 TZERO.&#x20;
 
@@ -46,23 +46,23 @@ To proceed with the action, click "Submit".
 
 **Step 4**: Check your unstaking action again and click "Approve".
 
-![](<../../../.gitbook/assets/image (172).png>)
+![](<../../../.gitbook/assets/image (172) (1).png>)
 
 
 
 **Step 5**: Result is in.&#x20;
 
-![](<../../../.gitbook/assets/image (173).png>)
+![](<../../../.gitbook/assets/image (173) (1).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (174).png>)
+![](<../../../.gitbook/assets/image (174) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}
 You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).\
-![](<../../../.gitbook/assets/image (176).png>)
+![](<../../../.gitbook/assets/image (176) (1).png>)
 {% endhint %}
 
 Depends on the network, sometimes you could still [cancel your unstaking](broken-reference) action with an amount of transaction fee.&#x20;

@@ -10,10 +10,10 @@ Up until now, SubWallet has only supported the domain name feature in Aleph Zero
 
 Here are the articles in this section:
 
-{% content-ref url="transfer-nft-using-domain-name.md" %}
-[transfer-nft-using-domain-name.md](transfer-nft-using-domain-name.md)
+{% content-ref url="transfer-nfts-using-domain-name.md" %}
+[transfer-nfts-using-domain-name.md](transfer-nfts-using-domain-name.md)
 {% endcontent-ref %}
 
-{% content-ref url="transfer-token-using-domain-name.md" %}
-[transfer-token-using-domain-name.md](transfer-token-using-domain-name.md)
+{% content-ref url="transfer-tokens-using-domain-name.md" %}
+[transfer-tokens-using-domain-name.md](transfer-tokens-using-domain-name.md)
 {% endcontent-ref %}

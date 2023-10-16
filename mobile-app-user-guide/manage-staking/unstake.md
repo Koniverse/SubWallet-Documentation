@@ -10,7 +10,7 @@
 
 **Step 3**: Fill in the details for unstaking request. Then click "Submit".
 
-![](<../../.gitbook/assets/image (233).png>)
+![](<../../.gitbook/assets/image (233) (1).png>)
 
 {% hint style="info" %}
 If you are in all-accounts mode like the current example, you would need to choose the staking account.&#x20;
@@ -37,6 +37,6 @@ And your unstaking request has been submitted. You could see your staking transa
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
-![](<../../.gitbook/assets/image (237).png>) ![](<../../.gitbook/assets/image (251).png>)
+![](<../../.gitbook/assets/image (237) (2).png>) ![](<../../.gitbook/assets/image (251).png>)
 {% endhint %}
 

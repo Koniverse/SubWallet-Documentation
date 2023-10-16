@@ -8,7 +8,7 @@
 
 **Step 2**: Click the three-dot icon in the staking details to see if there are available funds for withdrawal. If there is, click on the "Withdraw" option.
 
-![](<../../.gitbook/assets/image (240).png>) ![](<../../.gitbook/assets/image (1) (8).png>)
+![](<../../.gitbook/assets/image (240) (1).png>) ![](<../../.gitbook/assets/image (1) (8).png>)
 
 **Step 3**: Fill in the withdraw request and click "Continue".
 

@@ -10,60 +10,62 @@ Unstake your previously staked (bonded) funds. Also known as unbonding funds.
 
 Then click the three-dot item on the right hand side of the stake you want to unstake.&#x20;
 
-![](<../../../.gitbook/assets/image (164) (1).png>)
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="275"><figcaption></figcaption></figure>
 
+</div>
 
-**Step 2**: In the list of available actions, choose "Unstake funds".
+**Step 2**: In the list of available actions, choose "Unstake".
 
-![](<../../../.gitbook/assets/image (185) (1).png>)
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (101).png" alt="" width="287"><figcaption></figcaption></figure>
 
+</div>
 
 **Step 3**: Enter the information for unstaking.&#x20;
 
-![](<../../../.gitbook/assets/image (162) (1).png>)
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (102).png" alt="" width="286"><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 In the above example, we are in "All - accounts" mode. If you are in a single-account mode, you would not have to select account to unstake. Your Step 3 would look like the following:
-
-![](<../../../.gitbook/assets/image (176) (1).png>)
 {% endhint %}
 
 A complete input for unstaking would look like the following image:
 
-![](<../../../.gitbook/assets/image (169) (2).png>)
+<div align="left">
 
-In this case we are unstaking 200 TZERO from our previous bonded amount of 560.72 TZERO.&#x20;
+<figure><img src="../../../.gitbook/assets/image (103).png" alt="" width="279"><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Note that with TZERO, the minimum active stake required is 100 (this information has been shown when you started staking), so in this case we could not unstake more than 460.72 TZERO.&#x20;
-{% endhint %}
+</div>
 
-To proceed with the action, click "Submit".
+To proceed with the action, click "Unbond".
 
 
 
 **Step 4**: Check your unstaking action again and click "Approve".
 
-![](<../../../.gitbook/assets/image (2) (3).png>)
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (104).png" alt="" width="285"><figcaption></figcaption></figure>
 
+</div>
 
 **Step 5**: Result is in.&#x20;
 
-![](<../../../.gitbook/assets/image (172) (3).png>)
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (105).png" alt="" width="280"><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
-
-![](<../../../.gitbook/assets/image (198) (1).png>)
 {% endhint %}
 
 You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
-
-![](<../../../.gitbook/assets/image (153) (2).png>)
-
-
-
-Depends on the network, sometimes you could still [cancel your unstaking](broken-reference) action with an amount of transaction fee.&#x20;

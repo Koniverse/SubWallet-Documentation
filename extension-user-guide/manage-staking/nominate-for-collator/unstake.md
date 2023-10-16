@@ -10,24 +10,24 @@ Unstake your previously staked (bonded) funds. Also known as unbonding funds.
 
 Then click the three-dot item on the right hand side of the stake you want to unstake.&#x20;
 
-![](<../../../.gitbook/assets/image (164) (1).png>)
+![](<../../../.gitbook/assets/image (164) (1) (2).png>)
 
 
 
 **Step 2**: In the list of available actions, choose "Unstake funds".
 
-![](<../../../.gitbook/assets/image (185) (1).png>)
+![](<../../../.gitbook/assets/image (185) (1) (1).png>)
 
 
 
 **Step 3**: Enter the information for unstaking.&#x20;
 
-![](<../../../.gitbook/assets/image (162) (1).png>)
+![](<../../../.gitbook/assets/image (162) (1) (1).png>)
 
 {% hint style="info" %}
 In the above example, we are in "All - accounts" mode. If you are in a single-account mode, you would not have to select account to unstake. Your Step 3 would look like the following:
 
-![](<../../../.gitbook/assets/image (176) (1).png>)
+![](<../../../.gitbook/assets/image (176) (1) (1).png>)
 {% endhint %}
 
 A complete input for unstaking would look like the following image:
@@ -57,7 +57,7 @@ To proceed with the action, click "Submit".
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (198) (1).png>)
+![](<../../../.gitbook/assets/image (198) (1) (1).png>)
 {% endhint %}
 
 You could see your unstaking transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

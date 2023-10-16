@@ -10,13 +10,13 @@ Unstake your previously staked (bonded) funds. Also known as unbonding funds.
 
 Then click the three-dot item on the right hand side of the stake you want to unstake.&#x20;
 
-![](<../../../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (70) (1).png>)
 
 
 
 **Step 2**: In the list of available actions, choose "Unstake funds".
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71) (1).png>)
 
 
 
@@ -27,7 +27,7 @@ Then click the three-dot item on the right hand side of the stake you want to un
 {% hint style="info" %}
 In the above example, we are in "All - accounts" mode. If you are in a single-account mode, you would not have to select account to unstake. Your Step 3 would look like the following:
 
-![](<../../../.gitbook/assets/image (176) (1).png>)
+![](<../../../.gitbook/assets/image (176) (1) (1).png>)
 {% endhint %}
 
 A complete input for unstaking would look like the following image:

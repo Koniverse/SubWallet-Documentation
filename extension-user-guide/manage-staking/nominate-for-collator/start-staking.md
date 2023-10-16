@@ -27,7 +27,7 @@ If you are in all-accounts mode like the current example, you would need to choo
 
 If you have already been in a single account, you would not have to select account. Your Step 2 would be as the following image:
 
-![](<../../../.gitbook/assets/image (155) (1) (1).png>)
+![](<../../../.gitbook/assets/image (155) (1) (1) (1).png>)
 {% endhint %}
 
 We suggest you pay close attention to the collator you are choosing. When selecting collator, SubWallet support you with the latest record of collator details. Please click the three-dot icon on the right hand side of each collator to see the collator details.

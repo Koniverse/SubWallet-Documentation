@@ -2,7 +2,7 @@
 
 **Step 1**: Open the staking tab in Homepage and click on the current staking activity that you have unstaked before and want to cancel unstake.
 
-![](<../../.gitbook/assets/image (260).png>) ![](<../../.gitbook/assets/image (235).png>)
+![](<../../.gitbook/assets/image (260).png>) ![](<../../.gitbook/assets/image (235) (1).png>)
 
 **Step 2**: Click the three-dot icon in the staking details to see if the unstaking action correspond with this staking task could be cancelled. If there is, click on the "Cancel unstake" option.&#x20;
 
@@ -24,7 +24,7 @@ SubWallet automatically display your unstaking task in a list. Please choose the
 
 A completed cancel unstake request would look like the following image:
 
-![](<../../.gitbook/assets/image (239).png>)
+![](<../../.gitbook/assets/image (239) (2).png>)
 
 **Step 4**: Click "Approve" to confirm cancel unstaking.
 

@@ -8,9 +8,11 @@ description: >-
 
 **Step 1**: Open SubWallet and choose the "Staking" tab. Then click on the three-dot icon next to the stake you want to stake more for.
 
-![](<../../../.gitbook/assets/image (366).png>)
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="354"><figcaption></figcaption></figure>
 
+</div>
 
 **Step 2**: Choose "Stake more".
 
@@ -25,14 +27,20 @@ description: >-
 {% hint style="info" %}
 In the above example, we are in "All accounts" mode. If you are already in a single account mode, you would not have to select an account. Your staking request form would be like the following image:
 
-![](<../../../.gitbook/assets/image (163) (2).png>)
+![](<../../../.gitbook/assets/image (163) (2).png>)  &#x20;
 {% endhint %}
 
-Please note that since this is a "stake more" action for a previously performed staking, you might not choose a different validator. If you want to stake for another validator, you would need to start a new staking action.&#x20;
+{% hint style="info" %}
+We suggest you pay close attention to the pool you are choosing. When selecting pool, SubWallet support you with the latest record of pool details. Please click the three-dot icon on the right hand side of each pool to see the pool details.
+{% endhint %}
 
 An example of a completed stake more request would be the following:
 
-![](<../../../.gitbook/assets/image (202) (1).png>)
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="360"><figcaption></figcaption></figure>
+
+</div>
 
 To proceed, click the "Stake" button.
 
@@ -40,20 +48,20 @@ To proceed, click the "Stake" button.
 
 **Step 4**: Check the information and click "Approve" to confirm.
 
-![](<../../../.gitbook/assets/image (201) (1).png>)
+![](<../../../.gitbook/assets/image (201) (1) (1).png>)
 
 
 
 **Step 5**: Result is in!
 
-![](<../../../.gitbook/assets/image (181) (1).png>)
+![](<../../../.gitbook/assets/image (181) (1) (1).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (190) (1).png>)
+![](<../../../.gitbook/assets/image (190) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
-![](<../../../.gitbook/assets/image (191) (1).png>)
+![](<../../../.gitbook/assets/image (191) (1) (1).png>)

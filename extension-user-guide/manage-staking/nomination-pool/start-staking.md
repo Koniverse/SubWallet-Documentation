@@ -27,7 +27,7 @@ If you are in all-accounts mode like the current example, you would need to choo
 
 If you have already been in a single account, you would not have to select account. Your Step 2 would be as the following image:
 
-![](<../../../.gitbook/assets/image (155) (1) (1).png>)
+![](<../../../.gitbook/assets/image (155) (1) (1) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}
@@ -75,11 +75,11 @@ You could see your staking transaction in the History tab.
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (160).png>)&#x20;
+![](<../../../.gitbook/assets/image (160) (1).png>)&#x20;
 
 You also can see pooled details by clicking in the symbol of the token you have bonded in Staking tab.
 
-![](<../../../.gitbook/assets/image (64).png>)![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (64) (1).png>)![](<../../../.gitbook/assets/image (65) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

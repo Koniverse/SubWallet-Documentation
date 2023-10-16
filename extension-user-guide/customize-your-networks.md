@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**:  Open SubWallet Homepage, click the fader icon at the top right corner of the screen.
 
-![](<../.gitbook/assets/image (221).png>)
+![](<../.gitbook/assets/image (221) (1).png>)
 
 **Step 2**: Enable/ disable the neworks you want to manage by clicking the corresponding toggles.&#x20;
 
@@ -28,7 +28,7 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 **Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
 
-![](<../.gitbook/assets/image (209) (1).png>)
+![](<../.gitbook/assets/image (209) (1) (1).png>)
 
 **Step 2**: In the Settings section, choose "Manage networks".
 
@@ -47,7 +47,7 @@ SubWallet would automatically detect the network name, token name (symbol) and n
 If you want to input more information such as price ID, block explorer and crowdloan URL, you're free to do so.&#x20;
 
 {% hint style="info" %}
-SubWallet are currently supporting WSS provider for Substrate-based networks and HTTP provider for EVM networks. Plese make sure that you are importing network with these two types of provider.&#x20;
+SubWallet are currently supporting WSS provider for Substrate-based networks and HTTP provider for EVM networks. Please make sure that you are importing network with these two types of provider.&#x20;
 {% endhint %}
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FUUlzCBgx8gqjyNCc8Sjf%2FScreenshot\_37.png?alt=media\&token=597b603d-93e2-4fab-9aa9-f801a61a84c4)
@@ -64,30 +64,30 @@ In this example, we are importing a chain named "Metaverse Dev". The network is 
 
 Once your network has been imported, you would be directed to the Manage Networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (215) (1).png>)
 
 
 
 ### Delete your customized network
 
-**Step 1**: Find the network you want to delete and disable it
+**Step 1**: Find the network you want to delete and disable it.
 
 ![](<../.gitbook/assets/Screenshot 2023-07-06 164653.png>) ![](<../.gitbook/assets/Screenshot 2023-07-06 164744.png>)
 
 
 
-**Step 2**: Click the pencil icon to get to network configuration
+**Step 2**: Click the pencil icon to get to network configuration.
 
 ![](<../.gitbook/assets/Screenshot 2023-07-06 164744 (1).png>)
 
 
 
-**Step 3**: In the Network details section, click the trashbin icon in the upper right corner
+**Step 3**: In the Network details section, click the trash bin icon in the upper right corner.
 
 ![](<../.gitbook/assets/Screenshot 2023-07-06 164801.png>)
 
 
 
-**Step 4**: Confirm your action
+**Step 4**: Confirm your action.
 
 ![](<../.gitbook/assets/Screenshot 2023-07-06 164816.png>)

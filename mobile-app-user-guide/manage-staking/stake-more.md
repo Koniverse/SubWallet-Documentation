@@ -8,7 +8,7 @@
 
 **Step 2**: Click "Stake more".
 
-![](<../../.gitbook/assets/image (234).png>)
+![](<../../.gitbook/assets/image (234) (1).png>)
 
 **Step 3**: Enter staking details and click "Stake" .
 
@@ -27,12 +27,12 @@ A completed staking request would look like the following image:
 {% hint style="info" %}
 If you choose the "info" icon on the upper  right corner, you could see the staking details of the network for your choosen token.
 
-![](<../../.gitbook/assets/image (144) (1).png>) ![](<../../.gitbook/assets/image (255).png>)
+![](<../../.gitbook/assets/image (144) (1) (1).png>) ![](<../../.gitbook/assets/image (255).png>)
 {% endhint %}
 
 We suggest you pay close attention to the validator you are choosing. When selecting validator, SubWallet support you with the latest record of validator details. Please click the three-dot icon on the right hand side of each validator to see the validator details.
 
-![](<../../.gitbook/assets/image (236).png>) ![](<../../.gitbook/assets/image (248).png>)
+![](<../../.gitbook/assets/image (236) (1).png>) ![](<../../.gitbook/assets/image (248).png>)
 
 **Step 3:** Click "Approve" to confirm.
 

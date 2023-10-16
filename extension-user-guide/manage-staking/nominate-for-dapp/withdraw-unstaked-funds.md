@@ -26,7 +26,7 @@ In any cases, we are happy to support you via [Discord](https://discord.gg/CvVew
 
 **Step 3**: Choose the account for withdrawal.&#x20;
 
-![](<../../../.gitbook/assets/image (187) (1).png>)
+![](<../../../.gitbook/assets/image (187) (1) (1).png>)
 
 You would notice that once an account is choosen, the withdraw amount would be automatically filled in.&#x20;
 
@@ -38,7 +38,7 @@ In this example, we are in "All accounts" mode. If you are in a single-account m
 
 
 
-![](<../../../.gitbook/assets/image (196) (1).png>)
+![](<../../../.gitbook/assets/image (196) (1) (1).png>)
 
 If you wish to proceed with the action, click "Continue".
 
@@ -46,20 +46,20 @@ If you wish to proceed with the action, click "Continue".
 
 **Step 4**: Confirm withdrawal by clicking the "Approve" button.&#x20;
 
-![](<../../../.gitbook/assets/image (203) (1).png>)
+![](<../../../.gitbook/assets/image (203) (1) (1).png>)
 
 
 
 **Step 5**: Result is in!
 
-![](<../../../.gitbook/assets/image (199) (1).png>)
+![](<../../../.gitbook/assets/image (199) (1) (1).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (155) (1).png>)
+![](<../../../.gitbook/assets/image (155) (1) (1).png>)
 {% endhint %}
 
 You could see your staking withdrawal transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
-![](<../../../.gitbook/assets/image (154) (1).png>)
+![](<../../../.gitbook/assets/image (154) (1) (1).png>)

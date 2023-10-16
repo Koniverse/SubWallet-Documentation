@@ -4,19 +4,19 @@
 
 You would be directed to a list of accounts.
 
-![](<../../.gitbook/assets/image (42) (1) (1).png>)
+![](<../../.gitbook/assets/image (42) (1) (1) (1).png>)
 
 **Step 2**: In the account list, choose the "Attach account" icon.
 
-![](<../../.gitbook/assets/image (69) (1) (1).png>)
+![](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
 
 **Step 3**: Choose "Attach QR-Signer account".
 
-![](<../../.gitbook/assets/image (30) (1) (1).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1).png>)
 
 **Step 4**: Click "Scan the QR code" and scan the QR code displayed on your Parity Signer (Polkadot Vault).
 
-![](<../../.gitbook/assets/image (25) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)
 
 Afer importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
