@@ -77,7 +77,6 @@
 ## 📋 Web Dashboard - User guide
 
 * [Getting started](web-dashboard-user-guide/getting-started/README.md)
-  * [Page 1](web-dashboard-user-guide/getting-started/page-1.md)
   * [Lock and unlock your wallet](web-dashboard-user-guide/getting-started/lock-and-unlock-your-wallet/README.md)
     * [Change auto-lock time](web-dashboard-user-guide/getting-started/lock-and-unlock-your-wallet/change-auto-lock-time.md)
   * [Create a master password](web-dashboard-user-guide/getting-started/create-a-master-password.md)
