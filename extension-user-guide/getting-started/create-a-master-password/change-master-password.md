@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Change Master Password on SubWallet.
+description: This document will show you how to change master password on SubWallet.
 ---
 
 # Change master password
@@ -15,7 +15,7 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 1**: Open your wallet and choose the list item on the top left corner.
 
-![](<../../../.gitbook/assets/image (9) (1).png>)
+![](<../../../.gitbook/assets/image (9) (1) (1).png>)
 
 **Step 2**: Choose "Security settings".
 
@@ -23,8 +23,8 @@ In order to change password, you would need to remember your old password. This 
 
 **Step 3**: Click "Change wallet password".
 
-![](<../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../.gitbook/assets/image (10) (1) (1).png>)
 
 **Step 4**: Type in your current password, set up your new password and click "Save".
 
-![](<../../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)

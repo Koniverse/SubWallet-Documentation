@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet and choose the Staking tab. Then click the "+" icon on the upper right corner to start staking.&#x20;
 
-![](<../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1).png>)
 
 
 

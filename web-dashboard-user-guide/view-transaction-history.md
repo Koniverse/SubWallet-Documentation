@@ -30,7 +30,7 @@ If you choose the "View on explorer" button below, you will be directed to the *
 
 You might want to use the filter feature to see only transactions in a particular category. Click on the fader icon at the search bar.&#x20;
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose the type(s) of the transaction you want to see and click the "Apply filter" button below.
 

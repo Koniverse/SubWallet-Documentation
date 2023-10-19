@@ -32,6 +32,6 @@ If you want to use a provider outside of our suggested list, please click "Add n
 Please enter the provider's URL and click "Save". If you need any further assistance, don't hesitate to contact us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 {% endhint %}
 
-**Step 6**: Click "Save". You have changed your endpoint for the Acala network!
+**Step 6**: Click "Save". You have successfully changed your endpoint for the Acala network!
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FaVakV95HU7evPoYR6X34%2FScreenshot\_13.png?alt=media\&token=95491873-4e92-4479-9269-9b771f7883ff)

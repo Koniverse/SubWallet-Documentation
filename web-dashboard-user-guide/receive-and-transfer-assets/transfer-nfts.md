@@ -19,7 +19,7 @@ description: This document will show you how to transfer NFT with SubWallet.
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Please notice the chain in which you have the NFT, because you could only send an NFT to an account that is of the same type as the chain. In this example. the NFT is on the Kusama chain - a Substrate chain, so you know that the receiving account must be a Substrate account.&#x20;
+Please notice the chain in which you have the NFT, because you could only send an NFT to an account that is of the same type as the chain. In this example, the NFT is on the Kusama chain - a Substrate chain, so you know that the receiving account must be a Substrate account.&#x20;
 {% endhint %}
 
 **Step 4**: Enter the receiving account address. Since we are sending an NFT that exists on Kusama, you would need to enter a Substrate account. Then click "Next".
@@ -38,13 +38,9 @@ By clicking the book icon on the right-hand side of the address field, you will 
 ![](<../../.gitbook/assets/image (77).png>) ![](<../../.gitbook/assets/image (76).png>)
 {% endhint %}
 
-{% hint style="info" %}
-Guess how? Since NFT is non-fungible and unique, a particular NFT can only be held by a particular account. This is very different from fungible tokens, say, DOT, which can be held by many accounts. Due to this non-fungible attribute of the asset, we can detect the sending account automatically.&#x20;
-{% endhint %}
-
 **Step 5**: Check the transaction details and click "Approve" to proceed.
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: Transaction result is in!
 

@@ -30,7 +30,7 @@ Then, click on the "Manage tokens" button.
 
 **Step 4**: Enter the required information. You would need to specify the network you have the token on, and the contract address corresponding with that token. Then click "Import token".
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: After the token is successfully imported, we will redirect you to the token list. You can search for the token name on the search bar and the token you have just imported should be found.
 
@@ -47,7 +47,7 @@ We are happy to support you with any issues you have via [Discord](https://disco
 ## Manage your customized tokens
 
 {% hint style="info" %}
-Since our natively supported tokens are used by a larger user base, we prioritize our natively supported token over user's manually imported tokens. As a result, it might be difficult to find your customized tokens in our token list.&#x20;
+Since our natively supported tokens are used by a larger user base, we prioritize our natively supported token over the user's manually imported tokens. As a result, it might be difficult to find your customized tokens in our token list.&#x20;
 
 A useful trick is to utilize the "Search" feature every time you want to use the customized tokens.&#x20;
 {% endhint %}

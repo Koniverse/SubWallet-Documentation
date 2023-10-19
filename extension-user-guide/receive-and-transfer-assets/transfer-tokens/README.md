@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document will show you How to Transfer Tokens on Single-chain and
-  Cross-chain with SubWallet.
+  This document will show you how to transfer tokens on single-chain and
+  cross-chain with SubWallet.
 ---
 
 # Transfer tokens

@@ -12,7 +12,7 @@ description: >-
 
 **Step 2**: In the account management screen, click "Create new account". Then choose "Derive from another account".
 
-![](<../../.gitbook/assets/image (59) (2).png>) ![](<../../.gitbook/assets/image (43) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (59) (2).png>) ![](<../../.gitbook/assets/image (43) (1) (1) (1) (1).png>)
 
 **Step 3**: Choose from a list of your existing account.
 

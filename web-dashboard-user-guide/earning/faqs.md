@@ -208,3 +208,23 @@ description: Frequently asked questions about SubWallet Earning feature.
 6.  **How is the APY calculated?**
 
     You can find the detailed explanations [here](https://docs.moonwell.fi/moonwell/moonwell-overview/lend/lend-faq).
+
+### Exclusive rewards
+
+The user who stakes from Oct 24, 2:00 UTC will have chances to join a shared pool of exclusive reward
+
+1.  For Acala stakers:\
+    **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24 to 31. For example, if their stake accounts for 10% of the total stake in Acala pool on SubWallet Dashboard from Oct 24 to 31, they will receive 10% of the total reward of **80K ACA**.\
+
+
+    **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second and 40% in the third month.
+2. For Bifrost stakers:\
+   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24 to 31. For example, if their stake accounts for 10% of the total stake in Bifrost pool on \
+   SubWallet Dashboard from Oct 24 to 31, they will receive 10% of the total reward of **5K BNC**. \
+   \
+   **Distribution rules**: Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second and 40% in the third month.
+3. For Parallel stakers:\
+   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24 to 31. For example, if their stake accounts for 10% of the total stake in Parallel pool on SubWallet Dashboard from Oct 24 to 31, they will receive 10% of the total reward of **1M PARA**. \
+   \
+   **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second and 40% in the third month.
+

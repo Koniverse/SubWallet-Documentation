@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Transfer NFT using Domain Name.
+description: This document will show you how to transfer NFT using domain name.
 ---
 
 # Transfer NFTs using domain name
@@ -23,10 +23,6 @@ description: This document will show you How to Transfer NFT using Domain Name.
 **Step 3**: Choose NFT in the choosen collection, scroll to see the details and click "Send".
 
 ![](<../../../.gitbook/assets/image (70) (1) (1).png>)![](<../../../.gitbook/assets/image (72) (1) (1).png>)
-
-{% content-ref url="transfer-tokens-using-domain-name.md" %}
-[transfer-tokens-using-domain-name.md](transfer-tokens-using-domain-name.md)
-{% endcontent-ref %}
 
 **Step 4**: Enter the domain name of the recipient's account.
 
@@ -58,7 +54,7 @@ Then click "Next".
 
 If the transaction is completed successfully, the screen will appear in the following manner.
 
-You can either go back to homepage or view the "receipt" of your transaction in the transaction history.
+You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.
 
 <div align="left">
 

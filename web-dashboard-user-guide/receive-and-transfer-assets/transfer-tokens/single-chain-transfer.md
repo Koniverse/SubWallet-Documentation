@@ -20,30 +20,30 @@ You will be directed to a transaction request screen.
 
 **Step 2:** Enter the information for the transaction and click the "Transfer" button.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
 
-This feature would save you a lot of time when entering address for transaction.&#x20;
+This feature would save you a lot of time when entering the address for transaction.&#x20;
 
-By clicking the book icon on the right hand side of the address field, you would be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.
+By clicking the book icon on the right-hand side of the address field, you will be directed to a list of addresses including the addresses of your accounts and other addresses (contacts) you have manually saved before.
 
 ![](<../../../.gitbook/assets/image (125).png>)![](<../../../.gitbook/assets/image (127).png>)
 {% endhint %}
 
 **Step 3**: Check your transaction details, then click "Approve" if you want to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in.
 
-You can either go back to homepage or view the "receipt" of your transaction in the transaction history.&#x20;
+You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you click "View transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
@@ -51,7 +51,7 @@ If you click "View transaction", the wallet would show you the latest transactio
 {% hint style="info" %}
 Please remember that the receive record and the send record must have identical extrinsic hash.
 
-![](../../../.gitbook/assets/image.png)![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (62).png>)![](<../../../.gitbook/assets/image (1) (1).png>)
 {% endhint %}
 
 ## **If you are in "All accounts" mode**

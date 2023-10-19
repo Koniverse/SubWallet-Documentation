@@ -6,7 +6,7 @@ description: The document will show you how to customize your networks on SubWal
 
 ### Enable networks
 
-**Step 1**:  Open SubWallet homepage, and click this "Customize asset display" icon.
+**Step 1**:  Open SubWallet homepage, and click this "Customize asset display" tab.
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,11 +56,9 @@ The image below is an example of a complete input for importing network:
 
 In this example, we are importing a network named "Metaverse Dev". The network is a Substrate network with the token symbol named "NUUM".&#x20;
 
-
-
 **Step 5**: Find and use your network.
 
-Once your network has been imported, you will be directed to the "Manage networks" section. If you perform a search for your newly imported network, it shall be found.&#x20;
+Once your network has been imported, you will be directed to the Manage networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
 <figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 

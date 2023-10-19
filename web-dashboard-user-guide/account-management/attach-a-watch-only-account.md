@@ -32,7 +32,7 @@ In this example, your watch-only account has been named "Account 1". You can ren
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (233).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (233).png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,9 +44,11 @@ SubWallet helps you identify your watch-only accounts with the eye symbol as sho
 
 ### If you have already used SubWallet before
 
-**Step 1:** Open SubWallet and click on the account name to get to the list of your accounts. Then click on the attach account item in the lower right corner.
+**Step 1:** Open SubWallet and click on the account name to get to the list of your accounts.
 
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+
+Then click on the "Attach account" item in the lower right corner.
 
 <figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 

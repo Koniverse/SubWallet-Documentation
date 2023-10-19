@@ -8,10 +8,6 @@ description: >-
 
 ## If you want to nominate for collator
 
-{% hint style="info" %}
-SubWallet is currently supporting pooled staking for Substrate blockchains.&#x20;
-{% endhint %}
-
 **Step 1**: Open SubWallet and choose the Staking tab. Then click the "+" icon on the upper right corner to start staking.&#x20;
 
 ![](<../../../.gitbook/assets/image (352).png>)
@@ -30,17 +26,17 @@ If you have already been in a single account, you would not have to select accou
 ![](<../../../.gitbook/assets/image (155) (1) (1) (1).png>)
 {% endhint %}
 
-We suggest you pay close attention to the collator you are choosing. When selecting collator, SubWallet support you with the latest record of collator details. Please click the three-dot icon on the right hand side of each collator to see the collator details.
+We suggest you pay close attention to the collator you are choosing. When selecting collator, SubWallet support you with the latest record of collator details. Please click the three-dot icon on the right-hand side of each collator to see the collator details.
 
 ![](<../../../.gitbook/assets/image (356).png>) ![](<../../../.gitbook/assets/image (357).png>)
 
 {% hint style="info" %}
-You could use the sort function to find the most suitable collator according to your need. Please click the sort icon on the upper right corner and choose your sorting criteria.&#x20;
+You could use the sort function to find the most suitable collator according to your needs. Please click the sort icon on the upper right corner and choose your sorting criteria.&#x20;
 
 ![](<../../../.gitbook/assets/image (358).png>) ![](<../../../.gitbook/assets/image (359).png>)
 {% endhint %}
 
-An example of a complete input would be like the following image:
+An example of a complete input would be the following image:
 
 ![](<../../../.gitbook/assets/image (360).png>)
 
@@ -54,18 +50,18 @@ Click "Stake" to continue.
 
 
 
-Step 4: Result is in!
+Step 4: The result is in!
 
-You could see your staking transaction in the History tab.
+You can see your staking transaction in the History tab.
 
 ![](<../../../.gitbook/assets/image (371).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (370).png>)
 
-You also can see nomination details by clicking in the symbol of the token you have bonded in Staking tab.
+You also can see nomination details by clicking on the symbol of the token you have bonded in the Staking tab.
 
 ![](<../../../.gitbook/assets/image (369).png>)![](<../../../.gitbook/assets/image (368).png>)
 {% endhint %}

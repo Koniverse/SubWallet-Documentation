@@ -1,14 +1,14 @@
 ---
 description: >-
-  This part will show you How to Manage Staking on SubWallet by joining pools
+  This part will show you how to manage staking on SubWallet by joining pools
   and nominating.
 ---
 
 # Manage staking
 
-Each network has its own staking mechanism, terms and conditions. Thus, in case you want to know more details about staking specifications that are not displayed on the wallet, you can go to their websites and wikis to research or ask for support in their official channels. Please be aware of people who previously DM you and offer support. We recommend you to verify their accounts carefully before starting any conversation. Your keys, your coins.
+Each network has its own staking mechanism, terms and conditions. Thus, in case you want to know more details about staking specifications that are not displayed on the wallet, you can go to their websites and wikis to research or ask for support in their official channels. Please be aware of people who previously DM you and offer support. We recommend you verify their accounts carefully before starting any conversation. Your keys, your coins.
 
-In this part, there are 4 guidelines for following sections:
+In this part, there are 4 guidelines for the following sections:
 
 [nomination-pool](nomination-pool/ "mention")
 

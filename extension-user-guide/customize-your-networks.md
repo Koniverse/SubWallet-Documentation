@@ -1,6 +1,6 @@
 ---
 description: >-
-  The document will show you How to Customize Your Chains (Networks) on
+  The document will show you how to customize your chains (networks) on
   SubWallet.
 ---
 
@@ -8,11 +8,11 @@ description: >-
 
 ### **Enable networks**
 
-**Step 1**:  Open SubWallet Homepage, click the fader icon at the top right corner of the screen.
+**Step 1**:  Open SubWallet Homepage, and click the fader icon at the top right corner of the screen.
 
 ![](<../.gitbook/assets/image (221) (1).png>)
 
-**Step 2**: Enable/ disable the neworks you want to manage by clicking the corresponding toggles.&#x20;
+**Step 2**: Enable/disable the networks you want to manage by clicking the corresponding toggles.&#x20;
 
 To exit this section, click the "X" button on the top left corner.&#x20;
 
@@ -26,7 +26,7 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 ### Import networks
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
+**Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
 ![](<../.gitbook/assets/image (209) (1) (1).png>)
 
@@ -34,20 +34,20 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FhYQjmBk7PzG37t387kAr%2FScreenshot\_35.png?alt=media\&token=19d1dfcb-e747-44e8-bc77-6ac1785c0efb)
 
-**Step 3**: Click on the "+" button on the upper right corner of the list to add new network.
+**Step 3**: Click on the "+" button in the upper right corner of the list to add a new network.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FSYGD6YKG99gAPbJ7w2B8%2FScreenshot\_36.png?alt=media\&token=b11ad0da-ebf9-4545-9ded-4ffbf906e9ce)
 
 
 
-**Step 4**: Enter provider URL and click "Save".
+**Step 4**: Enter the provider URL and click "Save".
 
-SubWallet would automatically detect the network name, token name (symbol) and network type.&#x20;
+SubWallet would automatically detect the network name, token name (symbol), and network type.&#x20;
 
-If you want to input more information such as price ID, block explorer and crowdloan URL, you're free to do so.&#x20;
+If you want to input more information such as price ID, block explorer, and crowdloan URL, you're free to do so.&#x20;
 
 {% hint style="info" %}
-SubWallet are currently supporting WSS provider for Substrate-based networks and HTTP provider for EVM networks. Please make sure that you are importing network with these two types of provider.&#x20;
+SubWallet is currently supporting WSS provider for Substrate-based networks and HTTP provider for EVM networks. Please make sure that you are importing a network with these two types of providers.&#x20;
 {% endhint %}
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FUUlzCBgx8gqjyNCc8Sjf%2FScreenshot\_37.png?alt=media\&token=597b603d-93e2-4fab-9aa9-f801a61a84c4)
@@ -58,11 +58,9 @@ The image below is an example of a complete input for importing network:
 
 In this example, we are importing a chain named "Metaverse Dev". The network is a Substrate network with the token symbol named "NUUM".&#x20;
 
-
-
 **Step 5**: Find and use your network.
 
-Once your network has been imported, you would be directed to the Manage Networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
+Once your network has been imported, you will be directed to the Manage Networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
 ![](<../.gitbook/assets/image (215) (1).png>)
 
@@ -76,7 +74,7 @@ Once your network has been imported, you would be directed to the Manage Network
 
 
 
-**Step 2**: Click the pencil icon to get to network configuration.
+**Step 2**: Click the pencil icon to get to the network configuration.
 
 ![](<../.gitbook/assets/Screenshot 2023-07-06 164744 (1).png>)
 

@@ -18,15 +18,15 @@ description: >-
 
 ![](<../../.gitbook/assets/image (19) (1) (2).png>)
 
-Your new account would be automatically created and added to the account list.&#x20;
+Your new account will be automatically created and added to the account list.&#x20;
 
 You might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-You could also derive a new account from the details section of a particular account. In this case you would not have to go through Step 3 in the above instruction.&#x20;
+You could also derive a new account from the details section of a particular account. In this case, you would not have to go through Step 3 in the above instruction.&#x20;
 
 \
-From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you would be directed to an account details section. You could then choose the Derive account option in this section.&#x20;
+From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you will be directed to an account details section. You could then choose the Derive account option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (29) (1) (1).png>)  ![](<../../.gitbook/assets/image (28) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)  ![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
 {% endhint %}

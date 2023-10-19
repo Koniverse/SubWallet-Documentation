@@ -44,7 +44,7 @@ The image below is an example of a complete input for importing chain:
 
 Once your chain has been imported, you would be directed to the Manage Chains section. If you perform a search for your newly imported chain, it shall be found.&#x20;
 
-![](<../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -56,4 +56,4 @@ After importing your custom token and find it on your token list, you can change
 
 In the token details screen, you could add a new provider for the chain or delete the chain if you so wish.&#x20;
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)

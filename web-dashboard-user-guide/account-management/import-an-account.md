@@ -8,7 +8,7 @@ description: This part will show you how to import an account on SubWallet.
 
 **Step 1:** Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), at the welcome page, choose "Import an account".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose your preferred way to import an existing account.
 

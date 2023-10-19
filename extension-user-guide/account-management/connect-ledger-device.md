@@ -30,7 +30,7 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 </div>
 
-Click on the device name (Nano X in this case) and click "Connect".
+\`Click on the device name (Nano X in this case) and click "Connect".
 
 
 
@@ -54,7 +54,7 @@ Please remember that you have to turn on the corresponding app on the Ledger dev
 
 ![](<../../.gitbook/assets/image (24) (2).png>)
 
-If you get to the account list (repeat step 2) you could see your Ledger account there.
+If you get to the account list (repeat Step 2) you can see your Ledger account there.
 
 ![](<../../.gitbook/assets/image (3) (2).png>)
 

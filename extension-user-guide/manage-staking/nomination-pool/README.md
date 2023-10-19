@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Manage Pooled Staking.
+description: This document will show you how to manage Pooled Staking.
 ---
 
 # Nomination Pool

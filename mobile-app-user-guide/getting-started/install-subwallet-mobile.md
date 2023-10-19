@@ -18,4 +18,4 @@
 
 Search for SubWallet on Play Store and click "Install".
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1) (1) (1).png>)

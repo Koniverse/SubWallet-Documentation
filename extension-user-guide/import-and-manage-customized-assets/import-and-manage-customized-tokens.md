@@ -1,12 +1,12 @@
 ---
-description: This document will show you How to Import/Add and Manage Customized Tokens.
+description: This document will show you how to import/add and manage customized tokens.
 ---
 
 # Import & manage customized tokens
 
 ## **Import your customized token**
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
+**Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
 ![](<../../.gitbook/assets/image (93) (1) (1).png>)
 
@@ -15,11 +15,11 @@ description: This document will show you How to Import/Add and Manage Customized
 ![](<../../.gitbook/assets/image (187) (1).png>)
 
 {% hint style="info" %}
-There is also another way to quick access Manage tokens setting.
+There is also another way to quickly access the Manage tokens setting.
 
-First, scrolling down to the end of the home page.&#x20;
+First, scroll down to the end of the home page.&#x20;
 
-Then, click in  Manage tokens button.
+Then, click on the "Manage tokens" button.
 
 ![](<../../.gitbook/assets/image (345).png>)
 {% endhint %}
@@ -28,19 +28,19 @@ Then, click in  Manage tokens button.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fyw6QLlXxMRMRcogCeadp%2FScreenshot\_32.png?alt=media\&token=166424c0-a74d-4dc9-9ce0-3c566c62d596)
 
-**Step 4**: Enter required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Import".
+**Step 4**: Enter the required information. You would need to specify the chain you have the token on, and the contract address corresponding with that token. Then click "Import".
 
 ![](<../../.gitbook/assets/image (174) (1) (1).png>)
 
-**Step 5**: After the token is successfully imported, we would redirect you to the token list. You can search for the token name on the search bar and the token you have just imported should be found.
+**Step 5**: After the token is successfully imported, we will redirect you to the token list. You can search for the token name on the search bar and the token you have just imported should be found.
 
 ![](<../../.gitbook/assets/image (156) (1) (1) (1).png>)
 
 {% hint style="warning" %}
-Please note that we do not ACTIVELY support your manually imported tokens; therefore, if you engage in transactions such as sending and receiving of these tokens, we would show you the exact responses from the contract specified by the contract address that you have provided.&#x20;
+Please note that we do not ACTIVELY support your manually imported tokens; therefore, if you engage in transactions such as sending and receiving these tokens, we will show you the exact responses from the contract specified by the contract address that you have provided.&#x20;
 {% endhint %}
 
-We are happy to support with any issues you have via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet), but please note that our developers would not have full knowledge of your manually imported tokens.&#x20;
+We are happy to support you with any issues you have via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet), but please note that our developers do not have full knowledge of your manually imported tokens.&#x20;
 
 
 
@@ -49,7 +49,7 @@ We are happy to support with any issues you have via [Discord](https://discord.g
 {% hint style="info" %}
 Since our natively supported tokens are used by a larger user base, we prioritize our natively supported token over user's manually imported tokens. As a result, it might be difficult to find your customized tokens in our token list.&#x20;
 
-An useful trick is to utilize the "Search" feature everytime you want to use the customized tokens.&#x20;
+A useful trick is to utilize the "Search" feature every time you want to use the customized tokens.&#x20;
 {% endhint %}
 
 **Step 1**: Open SubWallet homepage and click the "Search" item on the top right corner.
@@ -75,6 +75,6 @@ To send token, you might want to read the instruction [here](../receive-and-tran
 To receive token, you might want to read the instruction [here](../receive-and-transfer-assets/receive-tokens-and-nfts.md).
 
 {% hint style="info" %}
-Since you have already selected your token, there would be less steps than there are in the instructions.&#x20;
+Since you have already selected your token, there will be fewer steps than there are in the instructions.&#x20;
 {% endhint %}
 

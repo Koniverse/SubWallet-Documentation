@@ -12,11 +12,11 @@ Please follow the instruction below to get your wallet address.
 
 **Step 1**: Open SubWallet homepage, click "Receive" button on your homescreen.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose your receiving account.
 
-&#x20;![](<../../.gitbook/assets/image (49).png>)
+&#x20;![](<../../.gitbook/assets/image (49) (1).png>)
 
 {% hint style="info" %}
 You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.
@@ -35,10 +35,10 @@ SubWallet supports DOT on Polkadot, DOT on Astar, DOT on Moonbeam, etc... so ple
 {% hint style="info" %}
 Please notice the network logo and the network name under the token name.&#x20;
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 {% endhint %}
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 In this example, we want to receive DOT on Acala.
 
@@ -48,7 +48,7 @@ You could share this QR code with your sender, or click the "copy" icon next to 
 
 As mentioned above, in this example we want to receive DOT on Acala, so the address should be an Acala address! You could double-check the address by viewing it on explorer.&#x20;
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 ## Receive NFT
 

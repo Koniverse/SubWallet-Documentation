@@ -1,10 +1,10 @@
 ---
 description: >-
-  This document will show How to Connect dApps & Manage Website Access with
+  This document will show how to connect dApps & manage website access with
   SubWallet.
 ---
 
-# Connect DApps & manage website access
+# Connect dApps & manage website access
 
 ### **Connect dApps**
 
@@ -18,7 +18,7 @@ In this example, we are using Beamswap.
 
 </div>
 
-**Step 2**: After clicking "Connect Wallet", you would see various wallet option. Choose SubWallet.
+**Step 2**: After clicking "Connect Wallet", you will see various wallet options. Choose SubWallet.
 
 <div align="left">
 
@@ -32,12 +32,12 @@ Please note that sometimes extension wallets might override each other and thus 
 
 
 
-**Step 3**: A pop-up would appear. Please choose the account you want to connect and click the "Connect" button.
+**Step 3**: A pop-up will appear. Please choose the account you want to connect to and click the "Connect" button.
 
 ![](<../../.gitbook/assets/image (229) (1).png>)
 
 {% hint style="info" %}
-Please note that you can check connect status right in wallet's homepage by moving or scrolling the mouse to the Connecting symbol on the left corner:&#x20;
+Please note that you can check the connect status right in wallet's homepage by moving or scrolling the mouse to the Connecting symbol in the left corner:&#x20;
 
 If it turns green, then you're successfully connected.
 
@@ -54,7 +54,7 @@ If the Connecting symbol remains grey, it indicates an unsuccessful connection. 
 
 After successfully connecting to dApps, you can manage the connected dApps/websites with your wallet by following these steps:
 
-**Step 1**: Open SubWallet and click on the list item on the upper left corner to get to Settings section.
+**Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
 ![](<../../.gitbook/assets/image (89) (1).png>)
 
@@ -66,9 +66,9 @@ After successfully connecting to dApps, you can manage the connected dApps/websi
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FhllGAoB2iKJ9PoSoBGYh%2FScreenshot\_10.png?alt=media\&token=174ef0ba-5484-4d85-9a4c-5d8ce74c30b2)
 
-**Step 4**: You would see a list of websites connected with SubWallet and the corresponding number of accounts connecting.&#x20;
+**Step 4**: You will see a list of websites connected with SubWallet and the corresponding number of accounts connecting.&#x20;
 
-Click on the website you want to change access. In this case we use Beamswap as an example:
+Click on the website you want to change access. In this case, we use Beamswap as an example:
 
 ![](<../../.gitbook/assets/image (216) (1).png>)
 
@@ -76,6 +76,6 @@ In this case, we are connecting to Beamswap using 1 account (Arrange - EVM). You
 
 ![](<../../.gitbook/assets/image (195) (1).png>)
 
-Furthermore, if you click on the gear icon on the upper right corner of the screen, there are other options such as disconnect all, connect all, forget site and block site. We think this feature would be useful if you manage a large number of accounts and a large number of dApps.&#x20;
+Furthermore, if you click on the gear icon on the upper right corner of the screen, there are other options such as disconnect all, connect all, forget site, and block site. We think this feature would be useful if you manage a large number of accounts and a large number of dApps.&#x20;
 
 ![](<../../.gitbook/assets/image (90) (1).png>)

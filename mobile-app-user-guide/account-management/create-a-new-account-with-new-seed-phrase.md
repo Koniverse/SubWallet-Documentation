@@ -4,7 +4,7 @@
 
 You can create a new account immediately from the "Welcome" screen. You can create a new account using seed phrase.&#x20;
 
-![](<../../.gitbook/assets/image (44) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (23) (3).png>)
+![](<../../.gitbook/assets/image (44) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (23) (3).png>)
 
 
 
@@ -16,7 +16,7 @@ In this case we are introducing creating new account with seed phrase.&#x20;
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (28) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1) (1).png>)
 
 **Step 2**: In the account management screen, click "Create new account".
 
@@ -24,7 +24,7 @@ In this case we are introducing creating new account with seed phrase.&#x20;
 
 **Step 3**: Choose "Create with new seed phrase".
 
-![](<../../.gitbook/assets/image (39) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1) (1) (1).png>)
 
 
 

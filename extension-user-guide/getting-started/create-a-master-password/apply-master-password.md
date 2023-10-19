@@ -50,7 +50,7 @@ It can be tedious if you have many accounts with SubWallet, but this is the most
 
 **Step 4**: Click "Finish" and you have successfully updated your password.&#x20;
 
-![](<../../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png>)
 
 ## Do not remember the old password
 

@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet and click on the account name on top of the screen. You would be directed to a list of accounts.
 
-![](<../../.gitbook/assets/image (60) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1) (1).png>)
 
 **Step 2**: In the account list, choose the "Attach account" icon.
 
@@ -20,7 +20,7 @@ description: >-
 
 **Step 4**: Enter the address of the account you want to track, then click "Attach read-only account".
 
-![](<../../.gitbook/assets/image (47) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1) (1) (1).png>)
 
 **Step 5**: Enter password then click "Apply" to continue.
 

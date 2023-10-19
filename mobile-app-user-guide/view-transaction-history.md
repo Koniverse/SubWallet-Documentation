@@ -20,7 +20,7 @@ To switch between these modes, please follow [this guide](account-management/swi
 
 
 
-&#x20;![](<../.gitbook/assets/image (19) (1) (1) (1).png>) ![](<../.gitbook/assets/image (13) (1) (2).png>)
+&#x20;![](<../.gitbook/assets/image (19) (1) (1) (1) (1).png>) ![](<../.gitbook/assets/image (13) (1) (2).png>)
 
 You might want to use the filter feature to see only transactions in a particular category. Click on the fader icon at the history search bar and then choose the type of transaction you want to see.
 

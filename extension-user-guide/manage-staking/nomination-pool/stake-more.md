@@ -42,7 +42,7 @@ To proceed, click the "Stake" button.
 
 **Step 4**: Check the information and click "Approve" to confirm.
 
-![](<../../../.gitbook/assets/image (58) (1).png>)
+![](<../../../.gitbook/assets/image (58) (1) (1).png>)
 
 
 

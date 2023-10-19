@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Connect a Keystone Device to SubWallet.
+description: This document will show you how to connect a Keystone device to SubWallet.
 ---
 
 # Connect Keystone device
@@ -12,13 +12,13 @@ description: This document will show you How to Connect a Keystone Device to Sub
 
 
 
-**Step 3**: In the account management screen, choose the attach account icon on the lower right corner.
+**Step 3**: In the account management screen, choose the "Attach account" icon in the lower right corner.
 
 ![](<../../.gitbook/assets/image (109) (1).png>)
 
 
 
-**Step 4**: Choose "Connect Keystone device".
+**Step 4**: Choose "Connect a Keystone device".
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FubVxWhc1aqxHkGhzESvy%2FScreenshot\_9.png?alt=media\&token=9db1c099-dc69-4c45-8e6b-c03eb93607e1)
 
@@ -29,11 +29,11 @@ description: This document will show you How to Connect a Keystone Device to Sub
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2F3A1yDDHh6YQeilUghJlR%2FScreenshot\_25.png?alt=media\&token=0991d0b4-9355-4606-89c4-560ee3aecf77)
 
 {% hint style="info" %}
-Please note that you would need to grant the SubWallet extension the permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet would show the following message:
+Please note that you would need to grant the SubWallet extension permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
 
 ![](<../../.gitbook/assets/image (45) (2) (1).png>)\
 \
-Click "Go to Setting" button. You would be directed to our Security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
+Click the "Go to Setting" button. You will be directed to our Security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
 ![](<../../.gitbook/assets/image (110) (1).png>) ![](<../../.gitbook/assets/image (47) (2).png>)
 {% endhint %}
@@ -56,6 +56,6 @@ If you use Brave browser, there will be multiple options that allow us to access
 
 ![](<../../.gitbook/assets/image (131) (1).png>)
 
-You could find your Keystone device in the account list (follow step 2 to get to the account list). You would notice that this account has been marked with a QR icon.&#x20;
+You could find your Keystone device in the account list (follow Step 2 to get to the account list). You will notice that this account has been marked with a QR icon.&#x20;
 
 ![](<../../.gitbook/assets/image (11) (3).png>)

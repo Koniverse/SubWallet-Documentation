@@ -1,6 +1,6 @@
 ---
 description: >-
-  This part will show you How to Create A Master Password on SubWallet - The
+  This part will show you how to create a master password on SubWallet - The
   function that helps you streamline the signing process.
 ---
 

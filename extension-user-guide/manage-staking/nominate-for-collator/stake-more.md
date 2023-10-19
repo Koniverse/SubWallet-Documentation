@@ -10,7 +10,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="354"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt="" width="354"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,20 +48,22 @@ To proceed, click the "Stake" button.
 
 **Step 4**: Check the information and click "Approve" to confirm.
 
-![](<../../../.gitbook/assets/image (201) (1) (1).png>)
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (431).png" alt="" width="284"><figcaption></figcaption></figure>
+
+</div>
 
 
 
-**Step 5**: Result is in!
+**Step 5**: The result is in!
 
 ![](<../../../.gitbook/assets/image (181) (1) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (190) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
-
-![](<../../../.gitbook/assets/image (191) (1) (1).png>)

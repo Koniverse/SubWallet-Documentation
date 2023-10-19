@@ -1,3 +1,7 @@
+---
+description: This part will show you how to receive and transfer assets.
+---
+
 # Receive & transfer assets
 
 Receiving & transferring assets on Polkadot, Subtrate & Ethereum networks has never been easier with SubWallet. Whether you transfer tokens on single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
