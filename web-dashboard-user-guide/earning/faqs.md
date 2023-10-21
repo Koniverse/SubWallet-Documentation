@@ -211,19 +211,19 @@ description: Frequently asked questions about SubWallet Earning feature.
 
 ### Exclusive rewards
 
-Users who stake or supply to pools listed on SubWallet earning page from **Oct 24, 2 AM UTC to Oct 31, 11:59 PM** will have the chance to share a pool of exclusive rewards. Details:
+Users who stake or supply to pools listed on SubWallet earning page from **Oct 24, 2 AM UTC to Nov 07, 11:59 PM** will have the chance to share a pool of exclusive rewards. Details:
 
 1.  For Acala stakers\
-    **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Oct 31, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Acala pool on SubWallet dashboard from Oct 24, 2 AM UTC to Oct 31, 11:59 PM, they will receive 10% of the total reward of **80K ACA**.\
+    **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Acala pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **80K ACA**.\
 
 
     **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
 2. For Bifrost stakers\
-   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Oct 31, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Bifrost pool on SubWallet dashboard from Oct 24, 2 AM UTC to Oct 31, 11:59 PM, they will receive 10% of the total reward of **5K BNC**. \
+   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Bifrost pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **5K BNC**. \
    \
    **Distribution rules**: Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
 3. For Parallel stakers\
-   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Oct 31, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Parallel pool on SubWallet dashboard from Oct 24, 2 AM UTC to Oct 31, 11:59 PM, they will receive 10% of the total reward of **1M PARA**. \
+   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Parallel pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **1M PARA**. \
    \
    **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
 
