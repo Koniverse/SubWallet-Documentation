@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you already staked tokens, this document will show you How to Stake more on
+  If you already staked tokens, this document will show you how to stake more on
   SubWallet.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet and choose the "Staking" tab. Then click on the three-dot icon next to the stake you want to stake more for.
 
-![](<../../../.gitbook/assets/image (75) (1).png>)
+![](<../../../.gitbook/assets/image (75) (1) (1).png>)
 
 
 
@@ -24,7 +24,7 @@ Please note that if you nominate for validator and want to stake more, you can c
 
 **Step 3**: Fill in the staking request.
 
-![](<../../../.gitbook/assets/image (77) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1).png>)
 
 {% hint style="info" %}
 In the above example, we are in "All accounts" mode. If you are already in a single account mode, you would not have to select an account. Your staking request form would be like the following image:

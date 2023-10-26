@@ -16,13 +16,13 @@ description: This document will show you how to transfer NFT using domain name.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (73) (1) (1).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73) (1) (1) (1).png" alt="" width="289"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 3**: Choose NFT in the choosen collection, scroll to see the details and click "Send".
 
-![](<../../../.gitbook/assets/image (70) (1) (1).png>)![](<../../../.gitbook/assets/image (72) (1) (1).png>)
+![](<../../../.gitbook/assets/image (70) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (72) (1) (1) (1).png>)
 
 **Step 4**: Enter the domain name of the recipient's account.
 
@@ -32,7 +32,7 @@ Please note that when using a domain name, you do not need to remember the full 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (65) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ Then click "Next".
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (66) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ Then click "Next".
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (67) (1) (1).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67) (1) (1) (1).png" alt="" width="286"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,6 +58,6 @@ You can either go back to the homepage or view the "receipt" of your transaction
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (74) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>

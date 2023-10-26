@@ -1,3 +1,7 @@
+---
+description: This document will show you how to cancel a previous unstaking action.
+---
+
 # Cancel a previous unstaking action
 
 **Step 1**: Open SubWallet and choose the Staking tab.&#x20;
@@ -34,7 +38,7 @@ This is because the unstaking action and the corresponding unstaking amount have
 
 **Step 4**: Confirm your action by clicking "Approve".
 
-Note that you have to pay the transaction fee for cancelling a previous unstake request
+Note that you have to pay the transaction fee for canceling a previous unstake request.
 
 .![](<../../../.gitbook/assets/image (457).png>)
 
@@ -45,7 +49,7 @@ Note that you have to pay the transaction fee for cancelling a previous unstake 
 ![](<../../../.gitbook/assets/image (459).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
 &#x20;![](<../../../.gitbook/assets/image (460).png>)
 {% endhint %}

@@ -1,14 +1,14 @@
 ---
 description: >-
-  This document will show you How to Start Staking (Also known as Bonding)
-  Tokens on SubWallet.
+  This document will show you how to start staking (also known as bonding)
+  tokens on SubWallet.
 ---
 
 # Start staking
 
 **Step 1**: Open SubWallet and choose the Staking tab. Then click the "+" icon on the upper right corner to start staking.&#x20;
 
-![](<../../../.gitbook/assets/image (59) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
 
 
 
@@ -48,20 +48,20 @@ Click "Stake" to continue.
 
 
 
-**Step 4:** Result is in!
+**Step 4:** The result is in!
 
-You could see your staking transaction in the History tab.
+You can see your staking transaction in the History tab.
 
 ![](<../../../.gitbook/assets/image (172) (2).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (393).png>)
 
-After complete the transaction, you can see the nomination details by clicking to the respective token in Staking tab:
+After completing the transaction, you can see the nomination details by clicking on the respective token in the Staking tab:
 
-![](<../../../.gitbook/assets/image (73) (1).png>)![](<../../../.gitbook/assets/image (74) (1).png>)
+![](<../../../.gitbook/assets/image (73) (1) (1).png>)![](<../../../.gitbook/assets/image (74) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

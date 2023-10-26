@@ -8,7 +8,7 @@ description: This document will show you how to create a new account on SubWalle
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), at the welcome page, choose "Create a new account".
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Create a password and click "Continue".
 
@@ -16,7 +16,7 @@ description: This document will show you how to create a new account on SubWalle
 Please note that SubWallet is non-custodial, so you would be the only person who knows your password; we cannot help you restore your password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Keep your recovery phrase (also known as seed phrase or secret phrase) in a safe place.&#x20;
 
@@ -26,21 +26,21 @@ This recovery phrase is as important as your private key; if someone has your re
 If, for instance, you forget your password, you will need your recovery phrase to import the account again and set up a new password.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** Your account has been successfully set up. Click "Go to portfolio" to get to Homepage.
 
-<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### If you have already used SubWallet web dashboard before
 
 **Step 1:** Open SubWallet homepage, and click on the account name to get to the account management screen.
 
-<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** In the account management screen, click "Create new".
 
-<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Then choose "Create with new seed phrase".
 

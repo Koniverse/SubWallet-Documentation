@@ -8,7 +8,7 @@ description: Withdraw your previously unstaked funds after the unstaking period.
 
 Then click the three-dot item on the right hand side of the stake you want to withdraw to see all the avaliable options.&#x20;
 
-![](<../../../.gitbook/assets/image (72) (1).png>)
+![](<../../../.gitbook/assets/image (72) (1) (1).png>)
 
 
 
@@ -28,7 +28,7 @@ In any cases, we are happy to support you via [Discord](https://discord.gg/CvVew
 
 ![](<../../../.gitbook/assets/image (155) (1).png>)
 
-You would notice that once an account is chosen, the withdraw amount would be automatically filled in.&#x20;
+You will notice that once an account is chosen, the withdrawal amount will be automatically filled in.&#x20;
 
 This is because the amount of funds available for withdrawal has been determined before, by the protocol and by the unstaking action you had previously performed in the past.&#x20;
 
@@ -48,15 +48,15 @@ If you wish to proceed with the action, click "Continue".
 
 
 
-**Step 5**: Result is in!
+**Step 5**: The result is in!
 
 ![](<../../../.gitbook/assets/image (158) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (159) (1).png>)&#x20;
 {% endhint %}
 
-You could see your staking withdrawal transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
+You can see your staking withdrawal transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 

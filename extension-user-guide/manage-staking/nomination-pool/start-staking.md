@@ -79,7 +79,7 @@ If you click "View transaction", the wallet will show you the latest transaction
 
 You also can see pooled details by clicking on the symbol of the token you have bonded in the Staking tab.
 
-![](<../../../.gitbook/assets/image (64) (1).png>)![](<../../../.gitbook/assets/image (65) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1).png>)![](<../../../.gitbook/assets/image (65) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

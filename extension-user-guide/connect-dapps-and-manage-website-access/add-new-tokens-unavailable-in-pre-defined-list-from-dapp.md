@@ -31,7 +31,7 @@ A SubWallet pop-up window will appear. Check the information carefully and then,
 {% hint style="info" %}
 After following the above steps, you should click on to Manage tokens setting and search for the token you have added. If the token has displayed in the screen, then you have successfully added token from dApp.&#x20;
 
-![](<../../.gitbook/assets/image (48) (1) (1).png>)
+![](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}

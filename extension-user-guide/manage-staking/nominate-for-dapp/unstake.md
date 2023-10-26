@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Unstake on SubWallet.
+description: This document will show you how to unstake on SubWallet.
 ---
 
 # Unstake
@@ -12,7 +12,7 @@ Then click the three-dot item on the right-hand side of the stake you want to un
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100) (1).png" alt="" width="275"><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ Then click the three-dot item on the right-hand side of the stake you want to un
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ Then click the three-dot item on the right-hand side of the stake you want to un
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102) (1).png" alt="" width="286"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ A complete input for unstaking would look like the following image:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt="" width="279"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103) (1).png" alt="" width="279"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ To proceed with the action, click "Unbond".
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104) (1).png" alt="" width="285"><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ To proceed with the action, click "Unbond".
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (105).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (105) (1).png" alt="" width="280"><figcaption></figcaption></figure>
 
 </div>
 

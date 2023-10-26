@@ -10,15 +10,15 @@ Please note that when using a domain name, you do not need to remember the full 
 
 **Step 1**: Open SubWallet web dashboard, then choose **NFTs** tab.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Then, choose a collection you want to transfer.
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Choose NFT in the chosen collection, scroll to see the details and click "Send".
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Enter the domain name of the recipient's account.
 
@@ -28,10 +28,10 @@ Please note that when using a domain name, you do not need to remember the full 
 
 Then click "Next".
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Check the transaction details and click "Approve" if you want to proceed.
 
 If the transaction is completed successfully, the screen will appear in the following manner.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>

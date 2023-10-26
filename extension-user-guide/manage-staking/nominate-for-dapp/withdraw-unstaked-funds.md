@@ -53,7 +53,7 @@ If you wish to proceed with the action, click "Continue".
 ![](<../../../.gitbook/assets/image (199) (1) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (155) (1) (1).png>)
 {% endhint %}

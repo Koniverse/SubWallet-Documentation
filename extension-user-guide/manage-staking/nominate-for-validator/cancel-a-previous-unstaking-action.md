@@ -1,5 +1,5 @@
 ---
-description: This document will show you How to Cancel a Previous Unstaking Action.
+description: This document will show you how to cancel a previous unstaking action.
 ---
 
 # Cancel a previous unstaking action
@@ -8,7 +8,7 @@ description: This document will show you How to Cancel a Previous Unstaking Acti
 
 Then click the three-dot item on the right hand side of the stake you want to withdraw to see all the avaliable options.&#x20;
 
-![](<../../../.gitbook/assets/image (54) (1) (1).png>)
+![](<../../../.gitbook/assets/image (54) (1) (1) (1).png>)
 
 
 

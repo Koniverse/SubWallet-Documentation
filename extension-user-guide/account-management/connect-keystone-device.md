@@ -8,13 +8,13 @@ description: This document will show you how to connect a Keystone device to Sub
 
 **Step 2**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (108) (1).png>)
+![](<../../.gitbook/assets/image (108) (1) (1).png>)
 
 
 
 **Step 3**: In the account management screen, choose the "Attach account" icon in the lower right corner.
 
-![](<../../.gitbook/assets/image (109) (1).png>)
+![](<../../.gitbook/assets/image (109) (1) (1).png>)
 
 
 
@@ -35,7 +35,7 @@ Please note that you would need to grant the SubWallet extension permission to u
 \
 Click the "Go to Setting" button. You will be directed to our Security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](<../../.gitbook/assets/image (110) (1).png>) ![](<../../.gitbook/assets/image (47) (2).png>)
+![](<../../.gitbook/assets/image (110) (1) (1).png>) ![](<../../.gitbook/assets/image (47) (2).png>)
 {% endhint %}
 
 
@@ -43,7 +43,7 @@ Click the "Go to Setting" button. You will be directed to our Security settings 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (100) (1) (1).png>)
+![](<../../.gitbook/assets/image (100) (1) (1) (1).png>)
 {% endhint %}
 
 **Step 6**: Put your Keystone device (with QR code displayed) in front of your computer and scan with the computer's camera.
@@ -54,7 +54,7 @@ If you use Brave browser, there will be multiple options that allow us to access
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (131) (1).png>)
+![](<../../.gitbook/assets/image (131) (1) (1).png>)
 
 You could find your Keystone device in the account list (follow Step 2 to get to the account list). You will notice that this account has been marked with a QR icon.&#x20;
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you already staked tokens, this document will show you How to Stake more on
+  If you already staked tokens, this document will show you how to stake more on
   SubWallet.
 ---
 
@@ -42,7 +42,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ To proceed, click the "Stake" button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="283"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (99) (1).png" alt="" width="283"><figcaption></figcaption></figure>
 
 </div>
 
@@ -63,7 +63,7 @@ To proceed, click the "Stake" button.
 ![](<../../../.gitbook/assets/image (181) (1) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

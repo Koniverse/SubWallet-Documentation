@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document will show you How to Start Staking (Also known as Bonding)
-  Tokens on SubWallet.
+  This document will show you how to start staking (also known as bonding)
+  tokens on SubWallet.
 ---
 
 # Start staking
@@ -32,12 +32,12 @@ If you have already been in a single account, you would not have to select accou
 ![](<../../../.gitbook/assets/image (155) (1) (1) (1).png>)
 {% endhint %}
 
-We suggest you pay close attention to the dApp you are choosing. When selecting pool, SubWallet support you with the latest record of dApp details. Please click the three-dot icon on the right hand side of each pool to see the pool details.
+We suggest you pay close attention to the dApp you are choosing. When selecting pool, SubWallet supports you with the latest record of dApp details. Please click the three-dot icon on the right-hand side of each pool to see the pool details.
 
 ![](<../../../.gitbook/assets/image (171) (2).png>) ![](<../../../.gitbook/assets/image (162) (2).png>)
 
 {% hint style="info" %}
-You could use the sort function to find the most suitable validator according to your need. Please click the sort icon on the upper right corner and choose your sorting criteria.&#x20;
+You could use the sort function to find the most suitable validator according to your needs. Please click the sort icon on the upper right corner and choose your sorting criteria.&#x20;
 
 ![](<../../../.gitbook/assets/image (184) (1) (1).png>) ![](<../../../.gitbook/assets/image (156) (1) (1).png>)
 {% endhint %}
@@ -45,12 +45,12 @@ You could use the sort function to find the most suitable validator according to
 {% hint style="info" %}
 We also identify destroyed/ inactive pool. **We suggest that you always choose an active pool to stake with**.&#x20;
 
-To filter out active pool, click the fader icon on the right hand side of the search validator bar. Then click the checkbox "Active validator".&#x20;
+To filter out active pool, click the fader icon on the right-hand side of the search validator bar. Then click the checkbox "Active validator".&#x20;
 
 ![](<../../../.gitbook/assets/image (179) (1) (1).png>) ![](<../../../.gitbook/assets/image (178) (1) (1).png>)
 {% endhint %}
 
-An example of a complete input for pooled staking would be like the following image:
+An example of a complete input for pooled staking would be the following image:
 
 Click "Stake" to continue.
 
@@ -68,9 +68,9 @@ Click "Stake" to continue.
 
 </div>
 
-Step 4: Result is in!
+Step 4: The result is in!
 
-You could see your staking transaction in the History tab.
+You can see your staking transaction in the History tab.
 
 <div align="left">
 
@@ -81,9 +81,9 @@ You could see your staking transaction in the History tab.
 ![](<../../../.gitbook/assets/image (395).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-Best practice to keep in mind is to always stake slightly above minimum active stake.&#x20;
+The best practice to keep in mind is to always stake slightly above the minimum active stake.&#x20;
 
 
 {% endhint %}

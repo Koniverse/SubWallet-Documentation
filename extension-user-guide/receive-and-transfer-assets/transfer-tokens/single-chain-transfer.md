@@ -12,7 +12,7 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click the "Send" button.
 
-![](<../../../.gitbook/assets/image (116) (1).png>)
+![](<../../../.gitbook/assets/image (116) (1) (1).png>)
 
 You will be directed to a transaction request screen.
 
@@ -20,7 +20,7 @@ You will be directed to a transaction request screen.
 
 **Step 2:** Enter the information for the transaction and click the "Transfer" button.&#x20;
 
-![](<../../../.gitbook/assets/image (117) (1).png>)
+![](<../../../.gitbook/assets/image (117) (1) (1).png>)
 
 {% hint style="info" %}
 In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
@@ -29,7 +29,7 @@ This feature would save you a lot of time when entering address for transaction.
 
 By clicking the book icon on the right-hand side of the address field, you will be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.
 
-![](<../../../.gitbook/assets/image (55) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (118) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (118) (1) (1).png>)
 
 To manage your address book, please follow this [guide](../../manage-address-book.md)
 {% endhint %}
@@ -56,18 +56,18 @@ In this case, as we are sending to an account also managed by SubWallet, there w
 If you click the "View transaction" button, SubWallet will display the receive record, because it was recorded after the send record.&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (58) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (58) (1) (1) (1) (1).png>)
 
 However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
-![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (60) (1) (1) (1).png>) ![](<../../../.gitbook/assets/image (119) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1) (1) (1).png>) ![](<../../../.gitbook/assets/image (119) (1) (1).png>)
 
 ## **If you are in "All accounts" mode**
 
 {% hint style="info" %}
 In "All accounts" mode, most transaction steps are identical to the "Single-account mode". The only additional step that users need to perform is selecting the "Sender".
 
-![](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 {% endhint %}

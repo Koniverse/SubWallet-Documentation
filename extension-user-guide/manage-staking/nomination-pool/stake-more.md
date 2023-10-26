@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you already staked tokens, this document will show you How to Stake more on
+  If you already staked tokens, this document will show you how to stake more on
   SubWallet.
 ---
 
@@ -15,6 +15,8 @@ description: >-
 **Step 2**: Choose "Stake more".
 
 ![](<../../../.gitbook/assets/image (189) (1) (1).png>)
+
+
 
 
 
@@ -42,22 +44,22 @@ To proceed, click the "Stake" button.
 
 **Step 4**: Check the information and click "Approve" to confirm.
 
-![](<../../../.gitbook/assets/image (58) (1) (1).png>)
+![](<../../../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 
 
-**Step 5**: Result is in!
+**Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (67) (1).png>)
+![](<../../../.gitbook/assets/image (67) (1) (1).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet would show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (68) (1).png>)
+![](<../../../.gitbook/assets/image (68) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
 After a successful transaction, the information in the pool details will be updated as you can see below:
 
-![](<../../../.gitbook/assets/image (66) (1).png>)![](<../../../.gitbook/assets/image (69) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1).png>)![](<../../../.gitbook/assets/image (69) (1) (1).png>)

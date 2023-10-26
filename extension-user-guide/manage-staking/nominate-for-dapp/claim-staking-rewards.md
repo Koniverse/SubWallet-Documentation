@@ -1,3 +1,7 @@
+---
+description: This document will show you how to claim staking rewards on SubWallet.
+---
+
 # Claim staking rewards
 
 **Step 1**: Open SubWallet and choose the Staking tab.&#x20;
@@ -57,7 +61,7 @@ Click "Continue" to proceed with the action.&#x20;
 ![](<../../../.gitbook/assets/image (159) (2).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 Depending on whether or not there is an explorer service (provided by other parties) with the blockchain, SubWallet might offer the "View on explorer" option for some transactions.
 {% endhint %}

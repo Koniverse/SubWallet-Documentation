@@ -8,17 +8,17 @@ description: >-
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**:  In the account management screen, click "Create new".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then choose "Derive from an existing account":
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="345"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ Then choose "Derive from an existing account":
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="330"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="330"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,6 +38,6 @@ You could also derive a new account from the details section of a particular acc
 \
 From Step 2, if you choose the configuration button (the pencil icon next to a particular account), you will be directed to an account details section. You could then choose the "Derive account" option in this section.&#x20;
 
-![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)![](<../../.gitbook/assets/image (14) (1).png>)
 {% endhint %}
 

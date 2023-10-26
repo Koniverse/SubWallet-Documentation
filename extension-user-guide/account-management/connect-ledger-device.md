@@ -8,11 +8,11 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 2**:  Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (106) (1).png>)
+![](<../../.gitbook/assets/image (106) (1) (1).png>)
 
 **Step 3**: Choose the attach account icon on the lower right corner.
 
-![](<../../.gitbook/assets/image (107) (1).png>)
+![](<../../.gitbook/assets/image (107) (1) (1).png>)
 
 
 

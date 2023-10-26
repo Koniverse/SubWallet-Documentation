@@ -4,7 +4,7 @@ description: This document will show you how to transfer tokens using domain nam
 
 # Transfer tokens using domain name
 
-**Step 1:** Open SubWallet homepage and click the "Send" button.![](<../../../.gitbook/assets/image (27) (1) (1) (1).png>)
+**Step 1:** Open SubWallet homepage and click the "Send" button.![](<../../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
 
 Then, you would be directed to a transaction request screen.
 
@@ -20,7 +20,7 @@ Please note that when using a domain name, you do not need to remember the full 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (24) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ Please note that when using a domain name, you do not need to remember the full 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,6 +38,6 @@ You can either go back to the homepage or view the "receipt" of your transaction
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (26) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure>
 
 </div>

@@ -57,7 +57,7 @@ You can see your staking transaction in the History tab.
 ![](<../../../.gitbook/assets/image (371).png>)
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
 ![](<../../../.gitbook/assets/image (370).png>)
 
