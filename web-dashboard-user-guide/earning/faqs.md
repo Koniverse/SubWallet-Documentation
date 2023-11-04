@@ -82,27 +82,25 @@ description: Frequently asked questions about SubWallet Earning feature.
 2.  **What are LDOT and lcDOT?**
 
     LDOT stands for Liquid DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. lcDOT stands for Liquid Crowdloan DOT, a 1:1 representation of DOT locked in the Acala crowdloan.
-3. **Can I stake lcDOT?**\
-   Yes. SubWallet provides an option for you to directly stake your lcDOT and mint LDOT.
-4.  **How long does it take to unstake my DOT?**
+3.  **How long does it take to unstake my DOT?**
 
-    You can pay a 1% fee to unstake your DOT instantly or you can pay a smaller fee and wait for 28 days.
-5.  **Why doesn’t my LDOT balance increase over time?**
+    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
+4.  **Why doesn’t my LDOT balance increase over time?**
 
     The amount of LDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from LDOT, your LDOT should be worth more than your originally staked DOT.
-6.  **Can I stake LDOT for extra rewards?**
+5.  **Can I stake LDOT for extra rewards?**
 
     Yes. You can either hold LDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
-7.  **Why can’t I unstake instantly all my LDOT?**
+6.  **Why can’t I unstake instantly all my LDOT?**
 
     If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your LDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
-8.  **I only have DOT in my wallet, can I pay transaction fees on Acala?**
+7.  **I only have DOT in my wallet, can I pay transaction fees on Acala?**
 
     Yes. Your DOT will be automatically swapped to ACA to pay transaction fees.
-9.  **What are the risks of LDOT?**
+8.  **What are the risks of LDOT?**
 
     The liquid staking protocol by Acala selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
-10. **What is the current validator set?**
+9.  **What is the current validator set?**
 
     You can find the list of selected validators [here](https://polkadot.subscan.io/account/15sr8Dvq3AT3Z2Z1y8FnQ4VipekAHhmQnrkgzegUr1tNgbcn?tab=vote).
 
@@ -116,25 +114,22 @@ description: Frequently asked questions about SubWallet Earning feature.
     sDOT is a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing.
 3.  **How long does it take to unstake my DOT?**
 
-    You can pay a 0.3% fee to unstake your DOT instantly or you can pay a smaller fee and wait for 29 days.
+    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
 4.  **Why doesn’t my sDOT balance increase over time?**
 
     The amount of sDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from sDOT, your sDOT should be worth more than your originally staked DOT.
 5.  **Can I stake sDOT for extra rewards?**
 
     Yes. You can either hold sDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
-6.  **Why can’t I unstake instantly all my sDOT?**
-
-    If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your sDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
-7.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
+6.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
 
     No. You need PARA to pay transaction fees.
-8.  **What are the risks of sDOT?**
+7.  **What are the risks of sDOT?**
 
     The liquid staking protocol by Parallel selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
 
     However, if this happens, Parallel will pay for the loss.
-9.  **What is the current validator set?**
+8.  **What is the current validator set?**
 
     You can find the list of selected validators [here](https://analytics.parallel.fi/polkadot/staking).
 
@@ -148,25 +143,22 @@ description: Frequently asked questions about SubWallet Earning feature.
     vDOT stands for voucher DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. vsDOT is a 1:1 representation of DOT locked in the Bifrost liquid crowdloan solution.
 3.  **How long does it take to unstake my DOT?**
 
-    28 days. If you want to unstake instantly, you can opt for fast redeem and swap vDOT for DOT. The swap fee will be 0.3% in addition to market price impact.
+    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
 4.  **Why doesn’t my vDOT balance increase over time?**
 
     The amount of vDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from vDOT, your vDOT should be worth more than your originally staked DOT.
 5.  **Can I stake vDOT for extra rewards?**
 
     Yes. You can either hold vDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
-6.  **Why can’t I unstake instantly all my vDOT?**
-
-    If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your vDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
-7.  **I only have DOT in my wallet, can I pay transaction fees on Bifrost?**
+6.  **I only have DOT in my wallet, can I pay transaction fees on Bifrost?**
 
     Yes. Your DOT will be automatically swapped to BNC to pay transaction fees.
-8.  **What are the risks of vDOT?**
+7.  **What are the risks of vDOT?**
 
     The liquid staking protocol by Bifrost selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
 
     However, Bifrost provides insurance for vDOT. More details can be found [here](https://docs.bifrost.finance/quick-start/faq#regarding-security).
-9.  **What is the current validator set?**
+8.  **What is the current validator set?**
 
     You can find the list of selected validators [here](https://bifrost.app/vstaking/vDOT?tab=validators).
 
@@ -183,7 +175,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     There is no minimum amount required to start lending your DOT on Interlay.
 4.  **Can I stake qDOT for extra rewards?**
 
-    You can use qDOT as Vault collateral in the BTC bridge, thus boosting your earnings.
+    You can use qDOT as Vault collateral in the BTC bridge on the Interlay dApp, thus boosting your earnings.
 5.  **I only have DOT in my wallet, can I pay transaction fees on Interlay?**
 
     Yes. Your DOT will be automatically swapped to INTR to pay transaction fees.
