@@ -120,7 +120,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     The amount of sDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from sDOT, your sDOT should be worth more than your originally staked DOT.
 5.  **Can I stake sDOT for extra rewards?**
 
-    Yes. You can either hold sDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
+    Yes. You can either hold sDOT to accrue staking rewards or use it in [Parallel Money Market](https://app.parallel.fi/lendAndBorrow).
 6.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
 
     No. You need PARA to pay transaction fees.
