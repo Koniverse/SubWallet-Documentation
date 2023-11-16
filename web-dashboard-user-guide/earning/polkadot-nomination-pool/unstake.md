@@ -1,25 +1,25 @@
 ---
 description: >-
-  This document will show you how to unstake DOT on the Earning page on
-  SubWallet web dashboard.
+  This document will show you how to unstake DOT from Polkadot nomination pool
+  on the Earning page on SubWallet web dashboard.
 ---
 
 # Unstake
 
-**Step 1:** Open SubWallet's web dashboard, then click on the Earning tab in the sidebar.\
+**Step 1:** Open SubWallet web dashboard, then click on the Earning tab on the sidebar.\
 
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Click on the "Unstake" button in **Polkadot Nomination Pool** tab.\
 
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Fill in the information for the transaction. Then click "Unstake" to proceed.
 
 \
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (35) (1).png>)
 
 
 
@@ -32,22 +32,22 @@ When you manually enter the amount, if the unstake amount that you input makes t
 {% endhint %}
 
 {% hint style="info" %}
-Please ensure your account balance is sufficient to cover transaction fees and maintain your account alive.
+Please ensure your account balance is sufficient to cover transaction fees and keep your account live.
 {% endhint %}
 
 **Step 4:** Check the information carefully and then click "Approve".
 
 \
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 \
 **Step 5:** The result is in!\
 
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
 
-You can view the transaction details by clicking on "View transaction"**.**
+You can see the transaction details by clicking on "View transaction"**.**
 
 {% hint style="info" %}
-Please note that for Polkadot nomination pool, once unstaked, your funds will be available for withdrawal after 28 days.
+Please note that for **Polkadot nomination pool**, once unstaked, your funds will be available for withdrawal after 28 days.
 {% endhint %}

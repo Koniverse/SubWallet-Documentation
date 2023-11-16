@@ -46,7 +46,7 @@ You could share this QR code with your sender, or click the "Copy" icon next to 
 
 As mentioned above, in this example we want to receive DOT on Astar, so the address should be an Astar address! You could double-check the address by viewing it on explorer.&#x20;
 
-![](<../../.gitbook/assets/image (115) (1) (1).png>)
+![](<../../.gitbook/assets/image (115) (1) (1) (1).png>)
 
 
 

@@ -9,7 +9,7 @@ description: This document will show you how to connect a Keystone device to Sub
 **Step 1**: Open your Keystone and enter your password.
 
 \
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 
 
@@ -17,19 +17,19 @@ description: This document will show you how to connect a Keystone device to Sub
 
 
 
-&#x20;![](<../../.gitbook/assets/image (13).png>)\
+&#x20;![](<../../.gitbook/assets/image (13) (1).png>)\
 
 
 **Step 3:** Click on the three-dot icon to go to the more options.
 
 \
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 \
 **Step 4**: Choose "Connect Software Wallet".
 
 \
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 \
 Then, the Keystone will display a QR code that help you connect to SubWallet.
@@ -38,19 +38,19 @@ Then, the Keystone will display a QR code that help you connect to SubWallet.
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the account management screen, choose the "Attach account" icon in the lower right corner.
 
-![](<../../.gitbook/assets/image (38) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1).png>)
 
 **Step 3:** Choose "Connect Keystone device".
 
-![](<../../.gitbook/assets/image (39) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1).png>)
 
 **Step 4:** Click "Scan the QR code".
 
-<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Please note that you would need to grant SubWallet permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
@@ -72,12 +72,12 @@ If you use the Brave browser, there will be multiple options that allow us to ac
 
 **Step 6:** Put your Keystone device (with the QR code displayed) in front of your computer and scan with the computer's camera.
 
-<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**: Your account is ready!&#x20;
 
-<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can find your Keystone device in the account list (follow Step 2 to get to the account list). You will notice that this account has been marked with a QR icon.&#x20;
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](<../../.gitbook/assets/image (44) (1) (1).png>)

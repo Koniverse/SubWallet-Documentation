@@ -157,7 +157,7 @@ Before signing a transaction, please make sure that the remaining balance in you
 
 It might be the case that the endpoint (provider) are disconnected. Please follow these steps to change provider for such network:
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
 
 
 
@@ -205,3 +205,124 @@ This issue can happen if you have multiple extension wallets with your browser. 
 
 We would suggest you disable other extension wallets and reconnect SubWallet. If that also does not work, please reach out to us via via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).&#x20;
 
+
+
+## What if I mistakenly transfer an unsupported network’s token into my Ledger account?
+
+You can transfer your tokens out using Polkadot.js UI.
+
+{% hint style="info" %}
+Which situation does this user guide refer to?
+
+When a user attaches a Ledger account to any hot wallet and chooses to connect a Substrate network (aka Polkadot SDK network such as Polkadot, Kusama, etc.), all the actions users can execute are only limited to the chosen network. For example, if a user chooses to connect Polkadot network, this user can only see the balance of DOT and make transactions on the Polkadot network.\
+\
+For some reason, users can mistakenly send different tokens to the chosen Substrate network. To illustrate, when a user sends his/her CFG tokens to his/her Ledger account on Polkadot network, these tokens can not be displayed and as a result, they can not be used for any kind of transactions, either. (Including token transfer, staking, etc)\
+\
+In this FAQ, we will demonstrate the case where CFG is mistakenly transferred to a Ledger account currently on Polkadot and How you can withdraw it using Polkadot {js} app.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Note: This method also applies to the following networks: Acala, Ajuna Network Aleph Zero, Astar, Bifrost (Polkadot), Bifrost (Kusama), Centrifuge, Composable Finance, Darwinia2, Dock, Edgeware, Equilibrium, Genshiro, HydraDX, Interlay, Karura, Khala, Kusama, Nodle, OriginTrail, Parallel, Pendulum, Phala, Picasso, Polkadex, Polkadot, Polymesh Mainnet, QUARTZ by UNIQUE, AssetHub (Polkadot), AssetHub (Kusama), Ternoa, Unique Network, Zeitgeist, and SORA.
+{% endhint %}
+
+
+
+**Step 1: Log into Polkadot.js UI**
+
+Log into \[[https://polkadot.js.org/app](https://polkadot.js.org/app)] and choose the network that the Ledger account is on. In this example, we choose Polkadot.
+
+{% hint style="info" %}
+We highly recommend the user use the anonymous tab or create a new profile on the browser (which creates a new environment without any extension) to implement this process.  This is to improve your account and assets' security.&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+**Step 2: Configure your account**
+
+* After activating the network, choose **Settings** —> **General**, move to a_ccount options_ and set up your account according to the following information:
+  * address prefix = “Default for the connected node (Polkadot Relay Chain, 0)".
+
+{% hint style="info" %}
+Note: The information "(Polkadot Relay Chain, 0)" will change depending on the selected network.
+{% endhint %}
+
+* in-browser account creation = “Allow local in-browser account storage”.
+* Manage hardware connections = “Attach Ledger via WebUSB (Chrome, recommended)".
+
+{% hint style="info" %}
+Note: This option is only displayed when the user has set up in-browser account creation = ''Allow local in-browser account storage".&#x20;
+{% endhint %}
+
+* Click **Save** to save the configuration.
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+**Step 3: Import Ledger account**
+
+*   After successfully configuring your account, access the _Accounts_ menu, select _Accounts_ sub-menu and click + **Account.**\
+
+
+    <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+*   At the _Add account_ screen — Step 1:
+
+    * Enter your mnemonic seed (seed phrase).
+    * Click _Advance creation options_ and fill in the following information:
+      * keypair crypto type = “Ledger (ed25519, BIP32 derivation)”.
+      * ledger app type (originated from) = Network on your Ledger account (in this example it’s Polkadot Relay Chain).
+      * account type = The index on your Ledger account when you attach it to a wallet minus 1. For example, if your attached Ledger account shows Ledger Polkadot 1, select Account type 0. (See Attach Ledger account).
+      * address index = “Address index 0”.
+    * Tick on **I have saved my mnemonic seed safely.**
+
+    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+    * Enter **Next** to move on to the next step.
+*   At the _Add account_ screen — Step 2:
+
+    * Enter information: name, password, password (repeat).
+    * Enter **Next** to move on to the next step.
+
+    <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+* At the _Add account_ screen — Step 3:
+* Review all information and click **Save** to complete account creation.
+* A backup file will pop up and prompt you to download it. You can choose to download now or download later.
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+**Step 4: Change the scope of account use**
+
+After successfully creating your account, hover to the new account:
+
+* Select the vertical ellipsis icon to open account configuration options.
+* Disable **only this network** toggle so that this account can be used on other networks.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+**Step 5: Transfer token**
+
+After changing the scope of account use, switch to the network that you need to send your tokens too (in this example it’s Centrifuge). Click on the network logo on the upper toolbar, choose the network, and hit **Switch**.
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+* On the _Accounts_ screen, select the newly created Ledger account in Step 3 and hit **Send** to open the _send funds_ screen.
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+* On the _send funds_ screen, enter transfer information and hit **Make transfer** to move to the _authorize transaction_ screen.
+
+<figure><img src="../.gitbook/assets/Step_5_2.png" alt=""><figcaption></figcaption></figure>
+
+* On the _authorize transaction_ screen, enter your password and hit **Sign and Submit** to finish the transaction.
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note: After completing the transaction, users should delete the account from the Polkadot JS app. To delete the account, follow these steps:
+{% endhint %}
+
+* Step 1: On the account you want to delete, click the "Three vertical dots" button and select the "Forget this account" option.
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+* Step 2: In the confirm account removal screen, click the "Forget" button to complete the account deletion process.
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>

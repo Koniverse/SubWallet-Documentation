@@ -16,7 +16,7 @@ description: >-
 
 **Step 2**: Choose "Manage address book".
 
-![](<../.gitbook/assets/image (113) (1) (1).png>)
+![](<../.gitbook/assets/image (113) (1) (1) (1).png>)
 
 **Step 3**: You will be directed to a list of addresses. To add a new contact, click the "+" button in the upper right corner.
 

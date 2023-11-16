@@ -16,7 +16,7 @@ description: >-
 
 **Step 2**: Click **Install**.
 
-![](<../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -24,7 +24,7 @@ description: >-
 
 Search for SubWallet on Play Store and click **Install**.
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1) (1).png>)
 
 ### Update new version
 
@@ -36,6 +36,6 @@ Let's click on the **Update** button to download the newest version:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="278"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="278"><figcaption></figcaption></figure>
 
 </div>

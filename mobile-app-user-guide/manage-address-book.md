@@ -10,7 +10,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (114).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (115).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (116).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ Your only necessary input is the address. You can name the contact according to 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (121).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ An example of a complete input would be as follows. After entering the contact a
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (118).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ This contact would be instantly available for you when making the transfer of to
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (119).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@ You can also edit contact details or delete contact if you so wish, by clicking 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (120).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
 
@@ -70,6 +70,6 @@ The following screen would appear and you might proceed with the action.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (122).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (122) (1).png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>

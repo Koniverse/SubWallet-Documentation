@@ -42,7 +42,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (98) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ To proceed, click the "Stake" button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (99) (1).png" alt="" width="283"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (99) (1) (1).png" alt="" width="283"><figcaption></figcaption></figure>
 
 </div>
 

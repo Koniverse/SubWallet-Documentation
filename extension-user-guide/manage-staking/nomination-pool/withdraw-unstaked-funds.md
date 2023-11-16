@@ -8,7 +8,7 @@ description: Withdraw your previously unstaked funds after the unstaking period.
 
 Then click the three-dot item on the right hand side of the stake you want to withdraw to see all the avaliable options.&#x20;
 
-![](<../../../.gitbook/assets/image (72) (1) (1).png>)
+![](<../../../.gitbook/assets/image (72) (1) (1) (1).png>)
 
 
 

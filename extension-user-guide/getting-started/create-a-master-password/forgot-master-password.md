@@ -14,7 +14,7 @@ If you forgot your account password, don't worry! You can still continue the pro
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 </div>
 
@@ -27,7 +27,7 @@ Choose the option you want to apply:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -61,6 +61,6 @@ This action will reset **all** the information in the wallet. Besides the inform
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (103) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103) (1) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 </div>

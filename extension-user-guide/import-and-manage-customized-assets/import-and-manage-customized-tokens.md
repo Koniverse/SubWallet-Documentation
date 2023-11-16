@@ -8,7 +8,7 @@ description: This document will show you how to import/add and manage customized
 
 **Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
-![](<../../.gitbook/assets/image (93) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (93) (1) (1) (1) (1).png>)
 
 **Step 2**: Choose "Manage tokens". You would be redirected to a token list.&#x20;
 
@@ -54,11 +54,11 @@ A useful trick is to utilize the "Search" feature every time you want to use the
 
 **Step 1**: Open SubWallet homepage and click the "Search" item on the top right corner.
 
-![](<../../.gitbook/assets/image (94) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (94) (1) (1) (1) (1).png>)
 
 **Step 2**: Find your customized token name in the search bar and click on it.
 
-![](<../../.gitbook/assets/image (95) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (95) (1) (1) (1) (1).png>)
 
 
 
@@ -68,7 +68,7 @@ A useful trick is to utilize the "Search" feature every time you want to use the
 SubWallet is currently supporting more than 490 tokens, including cross-chain tokens.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (96) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (96) (1) (1) (1) (1).png>)
 
 To send token, you might want to read the instruction [here](../receive-and-transfer-assets/transfer-tokens/).
 

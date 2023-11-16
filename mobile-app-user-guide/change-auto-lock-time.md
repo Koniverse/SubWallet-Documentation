@@ -10,16 +10,16 @@ Auto-lock is a security feature that locks your wallet after a period of inactiv
 
 **Step 1:** Open SubWallet homepage and click on the list item in the upper left corner to get to the Settings section.
 
-![](<../.gitbook/assets/image (129).png>)
+![](<../.gitbook/assets/image (129) (1).png>)
 
-**Step 2**: Choose "Security settings"
+**Step 2**: Choose **Security settings**.
 
-.![](<../.gitbook/assets/image (131).png>)
+.![](<../.gitbook/assets/image (131) (1).png>)
 
 **Step 3**: Choose **Require unlock**.
 
-![](<../.gitbook/assets/image (132).png>)
+![](<../.gitbook/assets/image (132) (1).png>)
 
 **Step 4:** Select the lock time you prefer.
 
-![](<../.gitbook/assets/image (133).png>)
+![](<../.gitbook/assets/image (133) (1).png>)

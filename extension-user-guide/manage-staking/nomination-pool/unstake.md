@@ -10,13 +10,13 @@ Unstake your previously staked (bonded) funds. Also known as unbonding funds.
 
 Then click the three-dot item on the right-hand side of the stake you want to unstake.&#x20;
 
-![](<../../../.gitbook/assets/image (70) (1) (1).png>)
+![](<../../../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 
 
 **Step 2**: In the list of available actions, choose "Unstake funds".
 
-![](<../../../.gitbook/assets/image (71) (1) (1).png>)
+![](<../../../.gitbook/assets/image (71) (1) (1) (1).png>)
 
 
 

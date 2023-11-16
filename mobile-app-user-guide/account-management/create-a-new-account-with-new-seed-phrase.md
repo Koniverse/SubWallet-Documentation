@@ -8,7 +8,7 @@ description: This document will show you how to create a new account on SubWalle
 
 You can create a new account immediately from the welcome screen. You can create a new account using seed phrase.&#x20;
 
-![](<../../.gitbook/assets/image (17).png>)&#x20;
+![](<../../.gitbook/assets/image (17) (1).png>)&#x20;
 
 
 
@@ -20,21 +20,27 @@ In this case, we are introducing creating new account with seed phrase.&#x20;
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (28) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (28) (1) (1) (1) (1) (1) (1).png>)
 
 **Step 2**: In the account management screen, click **Create new account**.
 
-![](<../../.gitbook/assets/image (71) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (71) (1) (1) (1) (1) (1).png>)
 
 **Step 3**: Choose "Create with new seed phrase".
 
-![](<../../.gitbook/assets/image (39) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1) (1) (1) (1) (1).png>)
 
 
 
 ## Create account with new seed phrase
 
-**Step 1**: SubWallet will present you with a totally new seed phrase. Please keep it in a safe place. Then click **Continue**.
+**Step 1**: SubWallet will present you with a new seed phrase. Please keep it in a safe place. Then click **Continue**.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="324"><figcaption></figcaption></figure>
+
+</div>
 
 This recovery phrase is as important as your private key; if someone has your recovery phrase, they will have full control of your account.&#x20;
 
@@ -42,15 +48,9 @@ This recovery phrase is as important as your private key; if someone has your re
 If, for instance, you forget your password, you will need your recovery phrase to import the account again and set up a new password.
 {% endhint %}
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="266"><figcaption></figcaption></figure>
-
-</div>
-
 **Step 2**: Enter your seed phrase in the correct order.
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 
 

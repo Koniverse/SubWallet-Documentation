@@ -10,7 +10,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 </div>
 

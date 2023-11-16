@@ -16,11 +16,11 @@ WalletConnect is a protocol that securely connects users' cryptocurrency wallets
 
 In here. we are using Moonbeam as an example.
 
-<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (47) (1).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1) (1).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,24 +32,24 @@ Here, there will be 2 ways to connect your wallet:
 * Save the QR code and use it to connect.
 * Copy the URI link by clicking here and use it to connect.
 
-![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
 {% endhint %}
 
 **Step 3:** Open [SubWallet's web dashboard](https://web.subwallet.app/home/tokens) and click this icon.
 
-<figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** In this step, choose a preferred way to connect.                                                       &#x20;
 
 Paste the copied URI link or upload the QR code picture here.
 
-![](<../../.gitbook/assets/image (31) (1) (1) (1).png>)![](<../../.gitbook/assets/image (35) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (35) (1) (1) (1) (1).png>)
 
 Then click "Connect".
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (49) (1).png" alt="" width="246"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1) (1).png" alt="" width="246"><figcaption></figcaption></figure>
 
 </div>
 
@@ -57,38 +57,38 @@ Then click "Connect".
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (50) (1).png" alt="" width="246"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1) (1).png" alt="" width="246"><figcaption></figcaption></figure>
 
 </div>
 
 {% hint style="info" %}
-If you connect successfully, the screen will display as follows:![](<../../.gitbook/assets/image (52) (1).png>)&#x20;
+If you connect successfully, the screen will display as follows:![](<../../.gitbook/assets/image (52) (1) (1).png>)&#x20;
 
 When you click on the WalletConnect icon, it will display as follows:\
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}
-The dApp screen will display as follows: ![](<../../.gitbook/assets/image (54) (1).png>)
+The dApp screen will display as follows: ![](<../../.gitbook/assets/image (54) (1) (1).png>)
 {% endhint %}
 
 ## Disconnect dApp with WalletConnect
 
 **Step 1:** On [SubWallet's web dashboard homepage](https://web.subwallet.app/home/tokens), click on the WalletConnect icon:
 
-<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** In here, choose the dApp you want to disconnect. Then click "Disconnect".
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (56) (1).png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1) (1).png" alt="" width="347"><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (58) (1).png" alt="" width="357"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1) (1).png" alt="" width="357"><figcaption></figcaption></figure>
 
 </div>
 
@@ -96,12 +96,12 @@ Read the notice carefully and then click "Disconnect":
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (59) (1).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59) (1) (1).png" alt="" width="356"><figcaption></figcaption></figure>
 
 </div>
 
 {% hint style="info" %}
 If you disconnect successfully, the WalletConnect setting screen will no longer display the dApp you previously connected to:
 
-![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)&#x20;
+![](<../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)&#x20;
 {% endhint %}

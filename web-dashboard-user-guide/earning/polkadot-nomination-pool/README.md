@@ -1,17 +1,15 @@
 ---
 description: >-
-  This part will show you how to earn rewards with Polkadot nomination pool in
+  This part will show you how to earn rewards with Polkadot nomination pool on
   the Earning page on SubWallet web dashboard.
 ---
 
 # Polkadot nomination pool
 
+Here are the articles in this section:
+
 {% content-ref url="start-staking.md" %}
 [start-staking.md](start-staking.md)
-{% endcontent-ref %}
-
-{% content-ref url="stake-more.md" %}
-[stake-more.md](stake-more.md)
 {% endcontent-ref %}
 
 {% content-ref url="unstake.md" %}

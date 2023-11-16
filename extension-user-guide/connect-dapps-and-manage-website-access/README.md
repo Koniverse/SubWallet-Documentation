@@ -45,7 +45,7 @@ If it turns green, then you're successfully connected.
 
 If the Connecting symbol remains grey, it indicates an unsuccessful connection. In that case, you may need to double-check your connection settings.
 
-![](<../../.gitbook/assets/image (88) (1) (1).png>)
+![](<../../.gitbook/assets/image (88) (1) (1) (1).png>)
 {% endhint %}
 
 ###
@@ -56,7 +56,7 @@ After successfully connecting to dApps, you can manage the connected dApps/websi
 
 **Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
-![](<../../.gitbook/assets/image (89) (1) (1).png>)
+![](<../../.gitbook/assets/image (89) (1) (1) (1).png>)
 
 **Step 2**: Choose "Security settings".
 
@@ -78,4 +78,4 @@ In this case, we are connecting to Beamswap using 1 account (Arrange - EVM). You
 
 Furthermore, if you click on the gear icon on the upper right corner of the screen, there are other options such as disconnect all, connect all, forget site, and block site. We think this feature would be useful if you manage a large number of accounts and a large number of dApps.&#x20;
 
-![](<../../.gitbook/assets/image (90) (1) (1).png>)
+![](<../../.gitbook/assets/image (90) (1) (1) (1).png>)

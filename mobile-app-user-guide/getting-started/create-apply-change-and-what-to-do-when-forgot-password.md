@@ -12,7 +12,7 @@ If you have been using the current version of SubWallet extension wallet, when u
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt="" width="266"><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ You would need your old password for each account to confirm the change.&#x20;
 
 In this example, we are managing 04 accounts with SubWallet.
 
-![](<../../.gitbook/assets/image (24) (3).png>) ![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (9) (3).png>)
+![](<../../.gitbook/assets/image (24) (3).png>) ![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (9) (3).png>)
 
 **Step 3**: Your master password has been successfully applied! Click **Finish** to go to the Home screen.&#x20;
 
@@ -61,7 +61,7 @@ In order to change your password, you would need to remember your old password. 
 
 **Step 1**: Open SubWallet and choose the list item on the top left corner to get to the Settings section.
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **Step 2**: Choose **Security settings**, then click **Change password**.
 
@@ -82,7 +82,7 @@ If you forgot your account password, don't worry! You can continue the process b
 
 **Step 1**: At the welcome page, click **Forgot password?**.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 **Step 2:** Here, there will be 2 options provided:
 
@@ -91,7 +91,7 @@ If you forgot your account password, don't worry! You can continue the process b
 
 Choose the option you want to apply:
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 {% hint style="info" %}
 With the option to Reset account:

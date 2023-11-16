@@ -10,13 +10,13 @@ description: >-
 
 **Step 2:** Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (102) (1) (1).png>)
+![](<../../.gitbook/assets/image (102) (1) (1) (1).png>)
 
 
 
 **Step 3**: In the account management screen, click on the "Attach account" item in the lower right corner.
 
-![](<../../.gitbook/assets/image (103) (1) (1).png>)
+![](<../../.gitbook/assets/image (103) (1) (1) (1).png>)
 
 
 
@@ -37,13 +37,13 @@ Please note that you would need to grant the SubWallet extension permission to u
 \
 Click the "Go to Setting" button. You will be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](<../../.gitbook/assets/image (104) (1) (1).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (104) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 **Step 6**: Put the Polkadot Vault app (with the QR code displayed) in front of your computer and scan with the computer's camera.
@@ -52,4 +52,4 @@ If you use Brave browser, there will be multiple options that allow us to access
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (105) (1) (1).png>)
+![](<../../.gitbook/assets/image (105) (1) (1) (1).png>)

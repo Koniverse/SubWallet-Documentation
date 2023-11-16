@@ -6,7 +6,7 @@ description: This document will show you how to transfer tokens using domain nam
 
 **Step 1:** Open SubWallet homepage and click the "Send" button.
 
-<figure><img src="../../../.gitbook/assets/image (112) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, you would be directed to a transaction request screen.
 
@@ -20,14 +20,14 @@ Please note that the destination account and the destination chain must be of th
 Please note that when using a domain name, you do not need to remember the full wallet addresses. Instead, you simply need to enter the domain name that the recipient has registered. The system will automatically detect the registered wallet address associated with that domain name.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Check the transaction details and click "Approve" to proceed.
 
-<figure><img src="../../../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the transaction is completed successfully, the screen will appear in the following manner.
 
 You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.
 
-<figure><img src="../../../.gitbook/assets/image (83) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83) (1) (1).png" alt=""><figcaption></figcaption></figure>

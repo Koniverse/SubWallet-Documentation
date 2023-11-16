@@ -8,7 +8,7 @@ description: This part will show you how to import and restore an account on Sub
 
 **Step 1**: After installing SubWallet extension, open SubWallet and choose "Import an account".
 
-![](<../../.gitbook/assets/image (82) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1) (1) (1).png>)
 
 **Step 2**: Choose your preferred way to import an existing account
 
@@ -20,7 +20,7 @@ description: This part will show you how to import and restore an account on Sub
 Please note that SubWallet is non-custodial, so you would be the only person who knows your password; we cannot help you restore your password once it is lost. Please make sure that your password is well-kept.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (83) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
@@ -34,15 +34,15 @@ If you have secret phrase (seed phrase), private key, back-up JSON file, or QR c
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen. &#x20;
 
-![](<../../.gitbook/assets/image (126) (1) (1).png>)
+![](<../../.gitbook/assets/image (126) (1) (1) (1).png>)
 
 **Step 2**: In the account management screen, click the import icon.
 
-![](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)
 
 **Step 3**: Choose your preferred way to import account.
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 After creating the master password, users will be directed to the step of creating/importing an account using the selected method.
@@ -68,7 +68,7 @@ For each seed phrase created with SubWallet, you would have a Substrate account 
 Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, and Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (98) (1) (1).png>)
+![](<../../.gitbook/assets/image (98) (1) (1) (1).png>)
 
 In some cases, if you import an account from seed phrase, problems can arise if the seed phrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -92,7 +92,7 @@ SubWallet automatically enables Polkadot & Kusama networks for Substrate account
 
 After following this [guide](broken-reference) to choose your preferred way to import an account, if you want to import by private key, please enter your private key and click "Import account".
 
-![](<../../.gitbook/assets/image (127) (1) (1).png>)
+![](<../../.gitbook/assets/image (127) (1) (1) (1).png>)
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
@@ -143,13 +143,13 @@ Please note that you would need to grant the SubWallet extension permission to u
 \
 Click the "Go to Setting" button. You will be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](<../../.gitbook/assets/image (99) (1) (1).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (99) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 
@@ -185,7 +185,7 @@ After importing by QR code, If you want to revoke the permission for SubWallet t
 {% hint style="info" %}
 **Step 1**: Choose the list icon on the upper left corner of your Homescreen.
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)\
 
 
 **Step 2**: Choose "Security settings".

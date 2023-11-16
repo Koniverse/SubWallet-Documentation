@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open SubWallet and choose the Staking tab. Then click the "+" icon on the upper right corner to start staking.&#x20;
 
-![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1) (1).png>)
 
 
 
@@ -61,7 +61,7 @@ If you click "View transaction", the wallet will show you the latest transaction
 
 After completing the transaction, you can see the nomination details by clicking on the respective token in the Staking tab:
 
-![](<../../../.gitbook/assets/image (73) (1) (1).png>)![](<../../../.gitbook/assets/image (74) (1) (1).png>)
+![](<../../../.gitbook/assets/image (73) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (74) (1) (1) (1).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

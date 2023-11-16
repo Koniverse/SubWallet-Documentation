@@ -8,10 +8,10 @@ description: >-
 
 Here are the articles in this section:
 
-{% content-ref url="import-and-manage-customized-tokens.md" %}
-[import-and-manage-customized-tokens.md](import-and-manage-customized-tokens.md)
+{% content-ref url="import-and-manage-customized-tokens/" %}
+[import-and-manage-customized-tokens](import-and-manage-customized-tokens/)
 {% endcontent-ref %}
 
-{% content-ref url="import-nfts.md" %}
-[import-nfts.md](import-nfts.md)
+{% content-ref url="import-nfts/" %}
+[import-nfts](import-nfts/)
 {% endcontent-ref %}

@@ -11,17 +11,17 @@ Press the right button to go up, the left button to go down, and both buttons si
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="298"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 2:** Choose the network you want to connect by clicking on the right button to go up, the left button to go down, and both buttons simultaneously to validate.\
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 Here, we will take an example by choosing the Kusama network.
 
 The screen will display as follows if you have set it up successfully.\
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 
 
@@ -29,7 +29,7 @@ The screen will display as follows if you have set it up successfully.\
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.
 
-<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose the "Attach account" icon in the lower right corner.
 
@@ -39,7 +39,7 @@ The screen will display as follows if you have set it up successfully.\
 
 **Step 3**: Choose "Connect a Ledger device".
 
-![](<../../.gitbook/assets/image (35) (1).png>)
+![](<../../.gitbook/assets/image (35) (1) (1).png>)
 
 **Step 4**: A window will pop up as follows:&#x20;
 
