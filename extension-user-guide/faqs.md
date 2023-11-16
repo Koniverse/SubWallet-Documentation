@@ -209,8 +209,6 @@ We would suggest you disable other extension wallets and reconnect SubWallet. If
 
 ## What if I mistakenly transfer an unsupported network’s token into my Ledger account?
 
-You can transfer your tokens out using Polkadot.js UI.
-
 {% hint style="info" %}
 Which situation does this user guide refer to?
 
