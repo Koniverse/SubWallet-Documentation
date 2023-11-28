@@ -1,79 +1,97 @@
 ---
 description: >-
   This document will show you how to start staking (also known as bonding) for
-  Parallel liquid staking on the Earning page on SubWallet web dashboard.
+  Parallel liquid staking on SubWallet web dashboard.
 ---
 
 # Start staking
 
+If you are in "All account" mode
+
 **Step 1**: Open SubWallet web dashboard and choose the Earning tab on the sidebar.
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the Earning section, you will see a list of available protocols.&#x20;
 
+{% hint style="info" %}
+To view more information related to staking such as reward distribution, minimum active stake, minimum redeem, APY,... you can follow this[ instruction](../earning-information.md).
+{% endhint %}
+
 Since you want to stake for **Parallel liquid staking**, click on the "Stake now" button of the Parallel Liquid Staking protocol.
 
-<figure><img src="../../../.gitbook/assets/image (622).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you have previously staked for certain protocols, when you choose the Earning tab on the sidebar, the screen will be displayed in the following manner. Don't worry, just simply click on the "+" icon or **Add more fund** button to access the same screen as the picture above.
+If you have previously staked for certain protocols, when you choose the **Earning tab** on the sidebar, the screen will be displayed in the following manner. Don't worry, just simply click on the "+" icon or "Add more fund" button to access the same screen as the picture above.
 
 ![](<../../../.gitbook/assets/image (45).png>)![](<../../../.gitbook/assets/image (44).png>)
 {% endhint %}
 
-**Step 3**: You will be directed to the Earn screen.&#x20;
+**Step 3**: At this step, you will be directed to the **Earn** screen.&#x20;
 
-On the right panel, the steps involved in the process are listed clearly for you to see. After completing each step, you will be automatically directed to the next step.
+To begin the process, please enter the required staking information.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+Then please click "Submit" to continue.
 
-{% hint style="info" %}
-The steps of the process also depend on whether you have enough DOT on Parallel to cover the minimum active stake.&#x20;
-{% endhint %}
-
-**Step 4**: To begin the process, please enter the required staking information.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you are in all-accounts mode like the current example, you would need to choose the staking account.&#x20;
+When selecting the stake amount, ensure that the remaining balance (after deducting the stake amount and fee) meets or exceeds the **Existential Deposit (ED)** requirement.&#x20;
 
-If you have already been in a single account mode, you would not have to select the account. The screen would be as the following image:
-
-![](<../../../.gitbook/assets/image (625).png>)
+Additionally, make sure your stake amount meets or exceeds the **minimum active stake level**. Find minimum active stake information[ here](../earning-information.md).
 {% endhint %}
 
 {% hint style="info" %}
-Please make sure that the amount you want to stake is at least equal to or greater than the minimum staking required. For **Parallel liquid staking**, the minimum active stake is 1 DOT.
+In the right corner of the screen, the system will display the step-by-step process for completing the stake, which you need to follow to successfully finish the process.
 
-Please keep in mind that each network has regulations regarding the **existential deposit** **(ED)**. When selecting the stake amount, it is important to ensure that the balance (after reducing the stake amount and stake fee) is equal to or greater than **ED**.
+![](<../../../.gitbook/assets/image (637).png>)
 {% endhint %}
 
-An example of a complete input for staking would be the following image.&#x20;
+From this step, **two scenarios** can occur.
 
-<figure><img src="../../../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
+#### If you already have enough DOT on Parallel network
 
-In this case, since we don't have enough DOT on Parallel to cover the minimum active stake, we need to transfer DOT from Polkadot network to Parallel network. You may notice that on the right panel of the screen, Step 2 has changed to "Transfer DOT from Polkadot".
+In this case, you can skip to **Step 5** to continue the process and there are not any additional steps.
 
-Please click "Submit" to continue.
+#### If you do not have/ do not have enough DOT on Parallel network&#x20;
 
-**Step 5**: Click "Approve" to proceed.
+Then you will have to do one more step to XCM (cross-transfer) DOT from Polkadot to Parallel network.
 
-<figure><img src="../../../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
+**Step 4:** A pop-up window will appear. Check the information carefully and then click "Approve" to proceed.
 
-**Step 6**: You have successfully transferred your DOT from Polkadot to Parallel!
+<figure><img src="../../../.gitbook/assets/image (632).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Please note that you need to pay the XCM transaction fee in DOT.
+{% endhint %}
+
+**Step 5**: You have successfully transferred your DOT from Polkadot to Parallel!
 
 Now choose "Continue" to mint your sDOT.
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure>
 
-**Step 7**: Click on the "Approve" button below to proceed with the action.
+**Step 6**: Click on the "Approve" button below to proceed&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
 
-**Step 8**: The result is in!
+{% hint style="info" %}
+Please note that you can pay the minting transaction fee in PARA. Therefore, make sure that you have enough PARA balance to cover the transaction fee.
+{% endhint %}
+
+**Step 7**: The result is in!
 
 You can click "View transaction" to see the transaction details.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
+
+### If you are in "Single account" mode.
+
+{% hint style="info" %}
+In "Single account" mode, most steps are identical to "All account" mode. The only difference is that in step 2 you would not have to select the account.
+
+&#x20;The screen would be as the following image:
+
+![](<../../../.gitbook/assets/image (636).png>)
+{% endhint %}

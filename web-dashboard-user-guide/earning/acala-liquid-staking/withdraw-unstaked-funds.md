@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document will show you how to withdraw funds from Acala liquid staking on
-  the Earning page on SubWallet web dashboard.
+  This document will show you how to withdraw funds from Acala liquid staking 
+  on SubWallet web dashboard.
 ---
 
 # Withdraw unstaked funds

@@ -1,7 +1,7 @@
 ---
 description: >-
   This document will show you how to withdraw funds from Parallel liquid staking
-  on the Earning page on SubWallet web dashboard.
+  on SubWallet web dashboard.
 ---
 
 # Withdraw unstaked funds
@@ -21,9 +21,7 @@ You also can click on the "Max" button to withdraw as much as you can. The syste
 {% endhint %}
 
 {% hint style="info" %}
-Please make sure that your account has enough native tokens to cover the transaction fee when withdrawing funds.
-
-For example, in this case, you must ensure to have enough PARA to cover the transaction fee.
+Please make sure that your account has enough native tokens (PARA) to cover the transaction fee when withdrawing funds.
 {% endhint %}
 
 **Step 3:** Check the information carefully and then click on "Approve".
