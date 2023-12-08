@@ -175,7 +175,7 @@
 * [Security](privacy-and-security/security.md)
 * [Protect Yourself from Scam](privacy-and-security/protect-yourself-from-scam.md)
 * [Privacy Policy](privacy-and-security/privacy-policy.md)
-* [Terms of Service](privacy-and-security/terms-of-service.md)
+* [Terms of Use](privacy-and-security/terms-of-use.md)
 
 ## 🔌 Integration
 
