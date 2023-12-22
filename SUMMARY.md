@@ -166,7 +166,7 @@
 * [DApp browser & manage website access](mobile-app-user-guide/dapp-browser-and-manage-website-access.md)
 * [View transaction history](mobile-app-user-guide/view-transaction-history.md)
 * [Customize your blockchains](mobile-app-user-guide/customize-your-blockchains.md)
-* [Customize your end-point (provider)](mobile-app-user-guide/customize-your-end-point-provider.md)
+* [Customize endpoint/provider](mobile-app-user-guide/customize-endpoint-provider.md)
 * [FAQs](mobile-app-user-guide/faqs.md)
 
 ## 🛡 Privacy & security
