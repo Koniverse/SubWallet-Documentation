@@ -35,3 +35,7 @@ Please enter the provider's URL and click "Save". If you need any further assist
 **Step 6**: Click "Save". You have successfully changed your endpoint for the Acala network!
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FaVakV95HU7evPoYR6X34%2FScreenshot\_13.png?alt=media\&token=95491873-4e92-4479-9269-9b771f7883ff)
+
+{% hint style="info" %}
+Several networks are experiencing endpoint instability at the moment. You might need to change endpoints/providers one by one in this case to see which one works. If no endpoints work, please try again later.
+{% endhint %}
