@@ -10,7 +10,7 @@ If you do not have such authority, or if you do not agree with the terms of this
 
 If you create a wallet in the SubWallet Application, you are responsible for maintaining the security of your wallet and you are fully responsible for all activities that occur with the wallet and any other actions taken in connection with it. You should understand that we do not have access to any wallet-related information on our side, nor are we able to send it to any other party.&#x20;
 
-All such information is stored locally on your device(s) which we do not have access to and you bear full responsibility for its (their) safety. Your wallet keys are not backed up along with other data so if you delete SubWallet Application, it will be impossible to restore your keys from a backup.
+All such information is stored locally on your device(s) which we do not have access to and you bear full responsibility for its (their) safety. Your wallet private keys/seed phrases are not backed up along with other data so if you delete SubWallet Application, it will be impossible to restore your keys from a backup.
 
 ## Privacy policy
 
