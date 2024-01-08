@@ -16,7 +16,7 @@ All such information is stored locally on your device(s) which we do not have ac
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide on the SubWallet Application, SubWallet.App website, and any of their related products and services, and our practices for collecting, using, maintaining, protecting, and disclosing that information. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.&#x20;
 
-### What information do we talk about?
+### Information category
 
 For the purposes of the given document, we would like to classify information into the following categories: Data that is used for wallet creation, import, and export (i.e., seed phrase, private key, etc.) (“Sensitive information”), personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal information”), and Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-personal information”). This Policy covers all the categories and will tell you how we might collect and use each type.
 
