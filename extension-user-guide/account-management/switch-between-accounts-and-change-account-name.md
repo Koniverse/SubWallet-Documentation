@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (179) (1).png>)
+![](<../../.gitbook/assets/image (765).png>)
 
 **Step 2**: In the account management screen, choose the account you want to use.&#x20;
 
@@ -18,13 +18,13 @@ description: >-
 You can also switch between the "All accounts" mode and single-account mode here.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (12) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1443).png>)
 
 ### Change your account name
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (97) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (683).png>)
 
 **Step 2**: In the account management screen, click the edit icon on the right-hand side of each account to get to account details.
 
@@ -32,4 +32,4 @@ You can also switch between the "All accounts" mode and single-account mode here
 
 **Step 3**: Click on the account name and change it. We would automatically save the new name. Then click the "X' button or the arrow icon on the top left corner to go back to the Homepage.&#x20;
 
-![](<../../.gitbook/assets/image (40) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (835).png>)

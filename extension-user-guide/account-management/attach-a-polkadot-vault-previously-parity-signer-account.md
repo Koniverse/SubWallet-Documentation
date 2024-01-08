@@ -10,13 +10,13 @@ description: >-
 
 **Step 2:** Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (102) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (688).png>)
 
 
 
 **Step 3**: In the account management screen, click on the "Attach account" item in the lower right corner.
 
-![](<../../.gitbook/assets/image (103) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (689).png>)
 
 
 
@@ -33,23 +33,23 @@ description: >-
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
 
-![](<../../.gitbook/assets/image (29) (2).png>)\
+![](<../../.gitbook/assets/image (931).png>)\
 \
 Click the "Go to Setting" button. You will be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](<../../.gitbook/assets/image (104) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (690).png>) ![](<../../.gitbook/assets/image (935).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (833).png>)
 {% endhint %}
 
 **Step 6**: Put the Polkadot Vault app (with the QR code displayed) in front of your computer and scan with the computer's camera.
 
-![](<../../.gitbook/assets/image (307).png>)
+![](<../../.gitbook/assets/image (1578).png>)
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (105) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (691).png>)

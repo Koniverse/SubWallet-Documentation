@@ -12,7 +12,7 @@ If you have been using the current version of SubWallet extension wallet, when u
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (175).png" alt="" width="266"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,17 +36,17 @@ You would need your old password for each account to confirm the change.&#x20;
 
 **Step 1**: Click **Apply master password** to continue.
 
-![](<../../.gitbook/assets/image (21) (2).png>)
+![](<../../.gitbook/assets/image (1088).png>)
 
 **Step 2**: Enter your old password for each and every account you are managing with SubWallet and click **Next**.
 
 In this example, we are managing 04 accounts with SubWallet.
 
-![](<../../.gitbook/assets/image (24) (3).png>) ![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (9) (3).png>)
+![](<../../.gitbook/assets/image (1091).png>) ![](<../../.gitbook/assets/image (954).png>) ![](<../../.gitbook/assets/image (938).png>) ![](<../../.gitbook/assets/image (1364).png>)
 
 **Step 3**: Your master password has been successfully applied! Click **Finish** to go to the Home screen.&#x20;
 
-![](<../../.gitbook/assets/image (67) (2).png>)
+![](<../../.gitbook/assets/image (1438).png>)
 
 
 
@@ -61,17 +61,17 @@ In order to change your password, you would need to remember your old password. 
 
 **Step 1**: Open SubWallet and choose the list item on the top left corner to get to the Settings section.
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (985).png>)
 
 **Step 2**: Choose **Security settings**, then click **Change password**.
 
-![](<../../.gitbook/assets/image (22) (3).png>) ![](<../../.gitbook/assets/image (70) (2).png>)
+![](<../../.gitbook/assets/image (934).png>) ![](<../../.gitbook/assets/image (1230).png>)
 
 **Step 3**: Enter your password and click **Finish**.&#x20;
 
 You would need your old password to confirm the change.&#x20;
 
-![](<../../.gitbook/assets/image (77) (2).png>)\
+![](<../../.gitbook/assets/image (1235).png>)\
 
 
 ### Forgot password
@@ -82,7 +82,7 @@ If you forgot your account password, don't worry! You can continue the process b
 
 **Step 1**: At the welcome page, click **Forgot password?**.
 
-![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 **Step 2:** Here, there will be 2 options provided:
 
@@ -91,7 +91,7 @@ If you forgot your account password, don't worry! You can continue the process b
 
 Choose the option you want to apply:
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 {% hint style="info" %}
 With the option to Reset account:

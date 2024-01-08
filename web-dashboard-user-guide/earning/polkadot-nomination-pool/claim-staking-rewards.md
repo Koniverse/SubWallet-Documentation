@@ -8,17 +8,17 @@ description: >-
 
 **Step 1**: Open SubWallet web dashboard and choose the Earning tab on the sidebar.
 
-<figure><img src="../../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Click on the "Claim rewards" button on the **Polkadot Nomination Pool** tab.
 
-<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Select an account to claim staking rewards.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (57) (1).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (206).png" alt="" width="314"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ Click "Continue" to proceed with the action.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (58) (1).png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (207).png" alt="" width="304"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,12 +52,12 @@ Click "Continue" to proceed with the action.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (59) (1).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (208).png" alt="" width="302"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 5**: The result is in!
 
-<figure><img src="../../../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1826).png" alt=""><figcaption></figcaption></figure>
 
 You can view the transaction details by clicking on "View transaction"**.**

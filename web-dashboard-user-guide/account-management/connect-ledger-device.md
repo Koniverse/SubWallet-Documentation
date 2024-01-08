@@ -11,17 +11,17 @@ Press the right button to go up, the left button to go down, and both buttons si
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt="" width="298"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 2:** Choose the network you want to connect by clicking on the right button to go up, the left button to go down, and both buttons simultaneously to validate.\
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (158).png>)
 
 Here, we will take an example by choosing the Kusama network.
 
 The screen will display as follows if you have set it up successfully.\
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (159).png>)
 
 
 
@@ -29,7 +29,7 @@ The screen will display as follows if you have set it up successfully.\
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.
 
-<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose the "Attach account" icon in the lower right corner.
 
@@ -39,13 +39,13 @@ The screen will display as follows if you have set it up successfully.\
 
 **Step 3**: Choose "Connect a Ledger device".
 
-![](<../../.gitbook/assets/image (35) (1) (1).png>)
+![](<../../.gitbook/assets/image (318).png>)
 
 **Step 4**: A window will pop up as follows:&#x20;
 
 Choose the device (In the example below, our device is named Nano X) and then click "Connect".
 
-<figure><img src="../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1784).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: After your Ledger has been successfully found by SubWallet, click "Connect Ledger device".
 
@@ -53,19 +53,19 @@ Choose the device (In the example below, our device is named Nano X) and then cl
 Please remember that you have to turn on the corresponding app on the Ledger device.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1777).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: Choose the account you want to use then click "Connect Ledger device".
 
-<figure><img src="../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1779).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**: Your Ledger account is ready!
 
-<figure><img src="../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1780).png" alt=""><figcaption></figcaption></figure>
 
 If you get to the account list (repeat Step 2), you can see your Ledger account there.
 
-![](<../../.gitbook/assets/image (511).png>)
+![](<../../.gitbook/assets/image (1782).png>)
 
 {% hint style="info" %}
 If you have a Ledger account on the Substrate network (e.g., Polkadot, Acala, etc.), it is limited to handling assets within the corresponding network, such as tokens and NFTs.

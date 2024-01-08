@@ -8,7 +8,7 @@ description: The document will show you how to customize your networks on SubWal
 
 **Step 1**:  Open SubWallet homepage, and click this "Customize asset display" tab.
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Enable/disable the networks you want to manage by clicking the corresponding toggles.&#x20;
 
@@ -20,7 +20,7 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (156).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (501).png" alt="" width="302"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,15 +28,15 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 **Step 1**: Open SubWallet homepage and choose the Settings tab on the sidebar.
 
-<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, choose "Manage networks".
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Click on the "+" button in the upper right corner to add new network(s).
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Enter the Provider URL and click "Save".
 
@@ -44,7 +44,7 @@ SubWallet would automatically detect the network name, token name (symbol), and 
 
 If you want to input more information such as price ID, block explorer, and crowdloan URL, you're free to do so.&#x20;
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 SubWallet is currently supporting WSS provider for Substrate networks and HTTP provider for EVM networks. Please make sure that you are importing network(s) with these two types of providers.&#x20;
@@ -52,7 +52,7 @@ SubWallet is currently supporting WSS provider for Substrate networks and HTTP p
 
 The image below is an example of a complete input for importing network:
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
 
 In this example, we are importing a network named "Metaverse Dev". The network is a Substrate network with the token symbol named "NUUM".&#x20;
 
@@ -60,22 +60,22 @@ In this example, we are importing a network named "Metaverse Dev". The network i
 
 Once your network has been imported, you will be directed to the Manage networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
 
 ### Delete your customized network
 
 **Step 1**: Find the network you want to delete and click the corresponding toggle to disable it.
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Click the pencil icon to get to the network configuration.
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: In the Network detail section, click the trash bin icon in the upper right corner.
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Click the "Remove" button to confirm your action.
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>

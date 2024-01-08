@@ -10,7 +10,7 @@ Then click the three-dot item on the right-hand side of the stake you want to wi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (419).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1690).png" alt="" width="275"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ Then click the three-dot item on the right-hand side of the stake you want to wi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (420).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1691).png" alt="" width="286"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ Then click the three-dot item on the right-hand side of the stake you want to wi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (421).png" alt="" width="283"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1692).png" alt="" width="283"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ This is because the amount of rewards available for claiming has been determined
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (422).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1693).png" alt="" width="284"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,13 +52,13 @@ Click "Continue" to proceed with the action.&#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (423).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1694).png" alt="" width="284"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (159) (2).png>)
+![](<../../../.gitbook/assets/image (1199).png>)
 
 {% hint style="info" %}
 If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;

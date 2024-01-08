@@ -8,13 +8,13 @@ description: This document will show you how to connect a Keystone device to Sub
 
 **Step 2**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (108) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (694).png>)
 
 
 
 **Step 3**: In the account management screen, choose the "Attach account" icon in the lower right corner.
 
-![](<../../.gitbook/assets/image (109) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (695).png>)
 
 
 
@@ -31,11 +31,11 @@ description: This document will show you how to connect a Keystone device to Sub
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
 
-![](<../../.gitbook/assets/image (45) (2) (1).png>)\
+![](<../../.gitbook/assets/image (1139).png>)\
 \
 Click the "Go to Setting" button. You will be directed to our Security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
 
-![](<../../.gitbook/assets/image (110) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (47) (2).png>)
+![](<../../.gitbook/assets/image (696).png>) ![](<../../.gitbook/assets/image (944).png>)
 {% endhint %}
 
 
@@ -43,19 +43,19 @@ Click the "Go to Setting" button. You will be directed to our Security settings 
 {% hint style="info" %}
 If you use Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
 
-![](<../../.gitbook/assets/image (100) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (895).png>)
 {% endhint %}
 
 **Step 6**: Put your Keystone device (with QR code displayed) in front of your computer and scan with the computer's camera.
 
-![](<../../.gitbook/assets/image (42) (2).png>)
+![](<../../.gitbook/assets/image (1528).png>)
 
 
 
 **Step 7**: Your account is ready!&#x20;
 
-![](<../../.gitbook/assets/image (131) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (717).png>)
 
 You could find your Keystone device in the account list (follow Step 2 to get to the account list). You will notice that this account has been marked with a QR icon.&#x20;
 
-![](<../../.gitbook/assets/image (11) (3).png>)
+![](<../../.gitbook/assets/image (1109).png>)

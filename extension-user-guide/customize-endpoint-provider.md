@@ -6,7 +6,7 @@ description: The document will show you how to customize endpoint/provider on Su
 
 **Step 1**: Open SubWallet homepage and click on the list item on the upper left corner to get to Settings section.
 
-![](<../.gitbook/assets/image (228) (1).png>)
+![](<../.gitbook/assets/image (1432).png>)
 
 **Step 2**: In the Settings section, choose "Manage networks".
 
@@ -27,7 +27,7 @@ description: The document will show you how to customize endpoint/provider on Su
 {% hint style="info" %}
 If you want to use a provider outside of our suggested list, please click "Add new provider". The following screen would appear:
 
-![](<../.gitbook/assets/image (226) (1).png>)\
+![](<../.gitbook/assets/image (962).png>)\
 \
 Please enter the provider's URL and click "Save". If you need any further assistance, don't hesitate to contact us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 {% endhint %}

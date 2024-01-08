@@ -12,7 +12,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (150).png" alt="" width="341"><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (151).png" alt="" width="341"><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="339"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (152).png" alt="" width="339"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="339"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (153).png" alt="" width="339"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="339"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (154).png" alt="" width="339"><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ You would be directed to a list of accounts.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155).png" alt="" width="338"><figcaption></figcaption></figure>
 
 </div>
 

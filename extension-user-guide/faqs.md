@@ -24,7 +24,7 @@ This might result from a broken link to the nodes. Follow these steps:&#x20;
 
 **Step 1**: Reload the network using the **Reload** icon next to the network's account. If the network continues to load, move on to step 2.
 
-![](<../.gitbook/assets/Screen\_Shot\_2022-06-09\_at\_11.00.51 (3).png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 15.44.13.png>)
+![](<../.gitbook/assets/Screen\_Shot\_2022-06-09\_at\_11.00.51 (1).png>) ![](<../.gitbook/assets/Screen Shot 2022-06-09 at 15.44.13.png>)
 
 **Step 2:** Click on the **Edit** icon to edit the network endpoints. Under Provider URL, click on the drop-down menu and choose a different link. Hit **Save**, then hit **Done**.
 
@@ -46,7 +46,7 @@ Your account address should be visible under your account name. If you cannot se
 
 To choose an account, click on the round item on the upper right corner of the wallet, scroll and choose the specific account you want, and the address would be visible.&#x20;
 
-![](../.gitbook/assets/photo\_2022-07-12\_19-42-59.jpg)
+![](<../.gitbook/assets/photo\_2022-07-12\_19-42-59 (1).jpg>)
 
 
 
@@ -99,7 +99,7 @@ If some features on your homescreen such as Send funds, Receive, etc… are disa
 
 Please click the round item on the upper right corner of your wallet, scroll to see your accounts and choose the account you want to use. Once a specific account has been chosen, the buttons would be enabled.
 
-![](../.gitbook/assets/photo\_2022-07-12\_19-42-59.jpg)
+![](<../.gitbook/assets/photo\_2022-07-12\_19-42-59 (1).jpg>)
 
 ##
 
@@ -157,7 +157,7 @@ Before signing a transaction, please make sure that the remaining balance in you
 
 It might be the case that the endpoint (provider) are disconnected. Please follow these steps to change provider for such network:
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
+![](<../.gitbook/assets/image (1385).png>)![](<../.gitbook/assets/Screenshot 2022-12-15 142759.png>)
 
 
 
@@ -182,7 +182,7 @@ To get the corresponding EVM address for your SubWallet native account, please f
 
 **Step 2**: In the Astar Explorer site in SubScan, please choose Account Format Transform in Tools:
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 105911 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-30 105911 (2).png" alt=""><figcaption></figcaption></figure>
 
 Then, input the SubWallet native account address into the textbox, choose H160 as your Output type, and click the Transform button.&#x20;
 

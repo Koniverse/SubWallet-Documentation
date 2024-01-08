@@ -24,7 +24,7 @@ Below is the installation process on Google Chrome. The same process applies to 
 
 **Step 3**: Click on the extension icon and pin SubWallet Extension. You have successfully installed the ultimate Polkadot wallet extension!
 
-![](<../../.gitbook/assets/image (278).png>)
+![](<../../.gitbook/assets/image (1549).png>)
 
 ## Firefox
 

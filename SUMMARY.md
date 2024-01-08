@@ -10,7 +10,7 @@
     * [Apply master password](extension-user-guide/getting-started/create-a-master-password/apply-master-password.md)
     * [Change master password](extension-user-guide/getting-started/create-a-master-password/change-master-password.md)
     * [Forgot master password](extension-user-guide/getting-started/create-a-master-password/forgot-master-password.md)
-  * [Lock and unlock your wallet](extension-user-guide/getting-started/lock-and-unlock-your-wallet.md)
+  * [Lock and unlock your wallet](extension-user-guide/getting-started/lock-and-unlock-your-wallet/README.md)
     * [Change auto-lock time](extension-user-guide/getting-started/lock-and-unlock-your-wallet/change-auto-lock-time.md)
 * [Account management](extension-user-guide/account-management/README.md)
   * [Create a new account](extension-user-guide/account-management/create-a-new-account.md)
@@ -174,7 +174,7 @@
 * [Basic Safety](privacy-and-security/basic-safety.md)
 * [Security](privacy-and-security/security.md)
 * [Protect Yourself from Scam](privacy-and-security/protect-yourself-from-scam.md)
-* [Terms of Use](privacy-and-security/terms-of-service.md)
+* [Terms of Use](privacy-and-security/terms-of-use.md)
 
 ## 🔌 Integration
 

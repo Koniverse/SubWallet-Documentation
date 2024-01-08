@@ -8,11 +8,11 @@ Please follow the instruction below to get your wallet address.
 
 **Step 1**: Click the "Receive" button on your homescreen.
 
-![](<../../.gitbook/assets/image (14) (3) (1).png>)
+![](<../../.gitbook/assets/image (1444).png>)
 
 **Step 2**: Select your receiving account.
 
-![](<../../.gitbook/assets/image (19) (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (1512).png>)
 
 {% hint style="info" %}
 You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.
@@ -32,7 +32,7 @@ For example, let's say you want to receive DOT.&#x20;
 SubWallet support DOT on Polkadot, DOT on Astar, DOT on Acala, etc... so please be careful when choosing the token. Otherwise your sender might send assets to the wrong chain and you would need to do extra steps with additional fees to have it on your desired chain. &#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (6) (4).png>)
+![](<../../.gitbook/assets/image (1005).png>)
 
 {% hint style="info" %}
 Please notice the chain logo and the chain name under the token name.&#x20;
@@ -46,7 +46,7 @@ In this example, we want to receive DOT on Astar.
 
 You could share this QR code with your sender, or click the "copy" icon next to your address and send it to your sender.&#x20;
 
-![](<../../.gitbook/assets/image (3) (5).png>)
+![](<../../.gitbook/assets/image (1171).png>)
 
 As mentioned above, in this example we want to receive DOT on Astar, so the address should be an Astar address! You could double-check the address by viewing it on explorer.&#x20;
 

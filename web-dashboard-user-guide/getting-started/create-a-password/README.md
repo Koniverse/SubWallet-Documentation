@@ -8,7 +8,7 @@ description: >-
 
 At the start of your journey with us, we always ask you to create a password (such as when you [create a new account](../../account-management/create-a-new-account.md) or [import an existing account](../../account-management/import-an-account.md)).
 
-<figure><img src="../../../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1769).png" alt=""><figcaption></figcaption></figure>
 
 Once applied, you can also [change your password](change-password.md) if you so wish. Please note that you will need your current password to confirm the change.&#x20;
 

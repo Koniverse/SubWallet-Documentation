@@ -10,24 +10,24 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (355).png" alt="" width="354"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 2**: Choose "Stake more".
 
-![](<../../../.gitbook/assets/image (367).png>)
+![](<../../../.gitbook/assets/image (1638).png>)
 
 
 
 **Step 3**: Fill in the staking request.
 
-![](<../../../.gitbook/assets/image (170) (2).png>)
+![](<../../../.gitbook/assets/image (1422).png>)
 
 {% hint style="info" %}
 In the above example, we are in "All accounts" mode. If you are already in a single account mode, you would not have to select an account. Your staking request form would be like the following image:
 
-![](<../../../.gitbook/assets/image (163) (2).png>)  &#x20;
+![](<../../../.gitbook/assets/image (1323).png>)  &#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -38,7 +38,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (356).png" alt="" width="360"><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ To proceed, click the "Stake" button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (431).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1702).png" alt="" width="284"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,12 +58,12 @@ To proceed, click the "Stake" button.
 
 **Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (181) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1344).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (190) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1052).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

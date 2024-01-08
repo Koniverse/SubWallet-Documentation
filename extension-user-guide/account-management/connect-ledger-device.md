@@ -8,11 +8,11 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 **Step 2**:  Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
-![](<../../.gitbook/assets/image (106) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (692).png>)
 
 **Step 3**: Choose the attach account icon on the lower right corner.
 
-![](<../../.gitbook/assets/image (107) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (693).png>)
 
 
 
@@ -26,7 +26,7 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (19) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1474).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,23 +40,23 @@ description: This document will show you How to Connect a Ledger device to SubWa
 Please remember that you have to turn on the corresponding app on the Ledger device.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (14) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1111).png>)
 
 
 
 **Step 6**: Choose the account you want to use then click "Connect Ledger device"
 
-![](<../../.gitbook/assets/image (33) (2).png>)
+![](<../../.gitbook/assets/image (1421).png>)
 
 
 
 **Step 7**: Your Ledger account is ready!
 
-![](<../../.gitbook/assets/image (24) (2).png>)
+![](<../../.gitbook/assets/image (1121).png>)
 
 If you get to the account list (repeat Step 2) you can see your Ledger account there.
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (1100).png>)
 
 {% hint style="info" %}
 Note: If you have an account attached from Ledger, it can only handle assets like tokens and NFTs within the specific network associated with that account.&#x20;

@@ -8,19 +8,19 @@ Export your private key in different forms of backup file, and use such backup f
 
 **Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome) and click on the account name to get to the account management screen.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1745).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the account management screen, click the edit icon on the right-hand side of the account you want to export.&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="328"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1740).png" alt="" width="328"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 3**: In the Account details section, choose "Export Account".
 
-<figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1748).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Enter your password.&#x20;
 
@@ -30,7 +30,7 @@ You will notice that even if you correctly enter your password, the "Confirm" bu
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (478).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1749).png" alt="" width="338"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ You will notice that even if you correctly enter your password, the "Confirm" bu
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (479).png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1750).png" alt="" width="329"><figcaption></figcaption></figure>
 
 </div>
 

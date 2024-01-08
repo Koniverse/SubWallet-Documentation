@@ -8,7 +8,7 @@ description: Withdraw your previously unstaked funds after the unstaking period.
 
 Then click the three-dot item on the right-hand side of the stake you want to withdraw to see all the available options.
 
-![](<../../../.gitbook/assets/image (443).png>)
+![](<../../../.gitbook/assets/image (1714).png>)
 
 
 
@@ -16,7 +16,7 @@ Then click the three-dot item on the right-hand side of the stake you want to wi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (444).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1715).png" alt="" width="286"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,7 +32,7 @@ In any case, we are happy to support you via [Discord](https://discord.gg/CvVewv
 
 If you wish to proceed with the action, click "Continue".
 
-&#x20;![](<../../../.gitbook/assets/image (445).png>)
+&#x20;![](<../../../.gitbook/assets/image (1716).png>)
 
 {% hint style="info" %}
 You will notice that once an account is chosen, the withdrawal amount will be automatically filled in.&#x20;
@@ -48,18 +48,18 @@ In this example, we are in "All accounts" mode. If you are in a single-account m
 
 **Step 4**: Confirm withdrawal by clicking the "Approve" button.&#x20;
 
-![](<../../../.gitbook/assets/image (447).png>)
+![](<../../../.gitbook/assets/image (1718).png>)
 
 
 
 **Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (448).png>)
+![](<../../../.gitbook/assets/image (1719).png>)
 
 {% hint style="info" %}
 If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
-&#x20;![](<../../../.gitbook/assets/image (449).png>)
+&#x20;![](<../../../.gitbook/assets/image (1720).png>)
 {% endhint %}
 
 You can see your staking withdrawal transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).

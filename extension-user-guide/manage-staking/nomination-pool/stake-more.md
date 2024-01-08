@@ -8,13 +8,13 @@ description: >-
 
 **Step 1**: Open SubWallet and choose the "Staking" tab. Then click on the three-dot icon next to the stake you want to stake more for.
 
-![](<../../../.gitbook/assets/image (326).png>)
+![](<../../../.gitbook/assets/image (1597).png>)
 
 
 
 **Step 2**: Choose "Stake more".
 
-![](<../../../.gitbook/assets/image (189) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1298).png>)
 
 
 
@@ -22,12 +22,12 @@ description: >-
 
 **Step 3**: Fill in the staking request.
 
-![](<../../../.gitbook/assets/image (383).png>)
+![](<../../../.gitbook/assets/image (1654).png>)
 
 {% hint style="info" %}
 In the above example, we are in "All accounts" mode. If you are already in a single account mode, you would not have to select an account. Your staking request form would be like the following image:
 
-![](<../../../.gitbook/assets/image (163) (2).png>)
+![](<../../../.gitbook/assets/image (1323).png>)
 {% endhint %}
 
 {% hint style="info" %}
@@ -36,7 +36,7 @@ Please note that since this is a "stake more" action for a previously performed 
 
 An example of a completed stake more request would be the following:
 
-![](<../../../.gitbook/assets/image (330).png>)
+![](<../../../.gitbook/assets/image (1601).png>)
 
 To proceed, click the "Stake" button.
 
@@ -44,22 +44,22 @@ To proceed, click the "Stake" button.
 
 **Step 4**: Check the information and click "Approve" to confirm.
 
-![](<../../../.gitbook/assets/image (58) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (644).png>)
 
 
 
 **Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (67) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (653).png>)
 
 {% hint style="info" %}
 If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
 
-![](<../../../.gitbook/assets/image (68) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (654).png>)
 {% endhint %}
 
 To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
 
 After a successful transaction, the information in the pool details will be updated as you can see below:
 
-![](<../../../.gitbook/assets/image (66) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (69) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (652).png>)![](<../../../.gitbook/assets/image (655).png>)

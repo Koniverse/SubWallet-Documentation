@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**:  Open SubWallet Homepage, and click the fader icon at the top right corner of the screen.
 
-![](<../.gitbook/assets/image (221) (1).png>)
+![](<../.gitbook/assets/image (1509).png>)
 
 **Step 2**: Enable/disable the networks you want to manage by clicking the corresponding toggles.&#x20;
 
@@ -28,7 +28,7 @@ The "Show zero balance" toggle, if disabled, would make the wallet show balance 
 
 **Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
 
-![](<../.gitbook/assets/image (209) (1) (1).png>)
+![](<../.gitbook/assets/image (1505).png>)
 
 **Step 2**: In the Settings section, choose "Manage networks".
 
@@ -62,7 +62,7 @@ In this example, we are importing a chain named "Metaverse Dev". The network is 
 
 Once your network has been imported, you will be directed to the Manage Networks section. If you perform a search for your newly imported network, it shall be found.&#x20;
 
-![](<../.gitbook/assets/image (215) (1).png>)
+![](<../.gitbook/assets/image (1429).png>)
 
 
 

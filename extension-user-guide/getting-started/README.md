@@ -6,8 +6,8 @@ Here are the articles in this section:
 [install-subwallet.md](install-subwallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="lock-and-unlock-your-wallet.md" %}
-[lock-and-unlock-your-wallet.md](lock-and-unlock-your-wallet.md)
+{% content-ref url="lock-and-unlock-your-wallet/" %}
+[lock-and-unlock-your-wallet](lock-and-unlock-your-wallet/)
 {% endcontent-ref %}
 
 {% content-ref url="create-a-master-password/" %}

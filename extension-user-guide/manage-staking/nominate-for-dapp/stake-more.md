@@ -10,7 +10,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (424).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1695).png" alt="" width="275"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (425).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1696).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,14 +26,14 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (426).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1697).png" alt="" width="281"><figcaption></figcaption></figure>
 
 </div>
 
 {% hint style="info" %}
 In the above example, we are in "All accounts" mode. If you are already in a single account mode, you would not have to select an account. Your staking request form would be like the following image:
 
-![](<../../../.gitbook/assets/image (163) (2).png>)
+![](<../../../.gitbook/assets/image (1323).png>)
 {% endhint %}
 
 
@@ -42,7 +42,7 @@ An example of a completed stake more request would be the following:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (98) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (443).png" alt="" width="287"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,13 +54,13 @@ To proceed, click the "Stake" button.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (99) (1) (1).png" alt="" width="283"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (444).png" alt="" width="283"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 5**: Result is in!
 
-![](<../../../.gitbook/assets/image (181) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1344).png>)
 
 {% hint style="info" %}
 If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;

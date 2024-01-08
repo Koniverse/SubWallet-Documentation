@@ -18,17 +18,17 @@ You would need to open the Account management screen.
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (68) (2).png>)
+![](<../../.gitbook/assets/image (1483).png>)
 
 **Step 2**: Click the "Import" icon on the account management screen.
 
-![](<../../.gitbook/assets/image (18) (3).png>) ![](<../../.gitbook/assets/image (15) (3) (1).png>)
+![](<../../.gitbook/assets/image (1331).png>) ![](<../../.gitbook/assets/image (1412).png>)
 
 ## Import by Seed phrase
 
 **Step 1**: Enter your seed phrase and choose whether or not you want to import a Substrate account, an Ethereum account, or both by ticking the checkmark on the right-hand side of each account type. Then click "Import account".
 
-![](<../../.gitbook/assets/image (72) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (970).png>)
 
 In some cases, if you import an account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
 
@@ -38,7 +38,7 @@ Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 
 **Step 2**: Enter your password.
 
-![](<../../.gitbook/assets/image (79) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (977).png>)
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
@@ -52,11 +52,11 @@ SubWallet automatically enables Polkadot & Kusama networks for Substrate account
 
 **Step 1**: Enter your private key and click "Import account".
 
-![](<../../.gitbook/assets/image (2) (4).png>)
+![](<../../.gitbook/assets/image (1194).png>)
 
 **Step 2**: Enter your password and click "Apply".
 
-![](<../../.gitbook/assets/image (19) (3).png>)
+![](<../../.gitbook/assets/image (1204).png>)
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
@@ -70,15 +70,15 @@ SubWallet automatically enables Polkadot & Kusama networks for Substrate account
 
 **Step 1**: Click on the import field to choose a file from your device, or drag and drop your JSON backup file to import.
 
-![](<../../.gitbook/assets/image (61) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1128).png>)
 
 **Step 2**: Enter the password you have used with this file in Polkadot.{js}. Then click "Import account".&#x20;
 
-![](<../../.gitbook/assets/image (48) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (965).png>)
 
 **Step 3**: Enter your SubWallet password and click "Apply".
 
-![](<../../.gitbook/assets/image (75) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1140).png>)
 
 {% hint style="info" %}
 Please note that if you want to import multiple accounts simultaneously from a JSON file, you are required to enter the password for each account you want to import.
@@ -96,15 +96,15 @@ SubWallet automatically enables Polkadot & Kusama networks for Substrate account
 
 **Step 1**: Click the "Scan the QR code" button.
 
-![](<../../.gitbook/assets/image (49) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (964).png>)
 
 **Step 2**: Enter your SubWallet password and click "Apply" to continue.
 
-![](<../../.gitbook/assets/image (62) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1436).png>)
 
 **Step 3**: If you have not granted camera access to SubWallet before, please click "OK" to allow. Then scan with your mobile device.&#x20;
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (45) (2).png>)
+![](<../../.gitbook/assets/image (1466).png>) ![](<../../.gitbook/assets/image (1116).png>)
 
 {% hint style="info" %}
 In some cases, you will need to do more than one action to grant SubWallet camera access:\

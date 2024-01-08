@@ -10,13 +10,13 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (518).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1789).png" alt="" width="293"><figcaption></figcaption></figure>
 
 </div>
 
 **Step 2**: Choose "Manage address book".
 
-![](<../.gitbook/assets/image (113) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (699).png>)
 
 **Step 3**: You will be directed to a list of addresses. To add a new contact, click the "+" button in the upper right corner.
 
@@ -28,11 +28,11 @@ description: >-
 
 Your only necessary input is the address. You can name the contact according to your own will.
 
-![](<../.gitbook/assets/image (165) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1138).png>)
 
 An example of a complete input would be as follows:
 
-![](<../.gitbook/assets/image (166) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1067).png>)
 
 Click "Add contact" to proceed.&#x20;
 
@@ -40,8 +40,8 @@ Click "Add contact" to proceed.&#x20;
 
 This contact would be instantly available for you when making the transfer of tokens or NFT. You can also edit contact details or delete contact if you so wish.&#x20;
 
-![](<../.gitbook/assets/image (167) (1) (1).png>)
+![](<../.gitbook/assets/image (1281).png>)
 
 To edit contact or delete contact, click on the contact with your mouse/touchpad. The following screen would appear and you might proceed with the action.
 
-![](<../.gitbook/assets/image (157) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1196).png>)

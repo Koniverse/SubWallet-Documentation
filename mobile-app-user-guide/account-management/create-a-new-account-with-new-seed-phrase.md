@@ -8,7 +8,7 @@ description: This document will show you how to create a new account on SubWalle
 
 You can create a new account immediately from the welcome screen. You can create a new account using seed phrase.&#x20;
 
-![](<../../.gitbook/assets/image (17) (1).png>)&#x20;
+![](<../../.gitbook/assets/image (166).png>)&#x20;
 
 
 
@@ -20,15 +20,15 @@ In this case, we are introducing creating new account with seed phrase.&#x20;
 
 **Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
 
-![](<../../.gitbook/assets/image (28) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1093).png>)
 
 **Step 2**: In the account management screen, click **Create new account**.
 
-![](<../../.gitbook/assets/image (71) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1231).png>)
 
 **Step 3**: Choose "Create with new seed phrase".
 
-![](<../../.gitbook/assets/image (39) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1107).png>)
 
 
 
@@ -50,13 +50,13 @@ If, for instance, you forget your password, you will need your recovery phrase t
 
 **Step 2**: Enter your seed phrase in the correct order.
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
 
 
 **Step 3**: Enter your SubWallet password and click "Apply" to confirm the creation of your new account.
 
-![](<../../.gitbook/assets/image (14) (2).png>)
+![](<../../.gitbook/assets/image (1201).png>)
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 

@@ -8,13 +8,13 @@ description: This document will show you how to cancel a previous unstaking acti
 
 Then click the three-dot item on the right-hand side of the stake you want to withdraw to see all the available options.
 
-![](<../../../.gitbook/assets/image (451).png>)
+![](<../../../.gitbook/assets/image (1722).png>)
 
 
 
 **Step 2**: Choose "Cancel unstaking".
 
-![](<../../../.gitbook/assets/image (453).png>)
+![](<../../../.gitbook/assets/image (1724).png>)
 
 
 
@@ -22,7 +22,7 @@ Then click the three-dot item on the right-hand side of the stake you want to wi
 
 Click "Continue" to proceed.
 
-![](<../../../.gitbook/assets/image (455).png>)
+![](<../../../.gitbook/assets/image (1726).png>)
 
 {% hint style="info" %}
 In this example, we are in "All accounts" mode. If you are in a single-account mode, you would not have to go through Step 3.&#x20;
@@ -40,18 +40,18 @@ This is because the unstaking action and the corresponding unstaking amount have
 
 Note that you have to pay the transaction fee for canceling a previous unstake request.
 
-.![](<../../../.gitbook/assets/image (457).png>)
+.![](<../../../.gitbook/assets/image (1728).png>)
 
 
 
 **Step 5**: The result is in!
 
-![](<../../../.gitbook/assets/image (459).png>)
+![](<../../../.gitbook/assets/image (1730).png>)
 
 {% hint style="info" %}
 If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.
 
-&#x20;![](<../../../.gitbook/assets/image (460).png>)
+&#x20;![](<../../../.gitbook/assets/image (1731).png>)
 {% endhint %}
 
 You can see your staking withdrawal transaction in the History tab. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
