@@ -6,6 +6,8 @@ This Agreement is legally binding between you (“User”, “you” or “your�
 
 If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the SubWallet Application and Services. By accessing and using the SubWallet Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the SubWallet Application and Services.
 
+This Agreement is written in various languages. If there is any dispute, the English language shall prevail.
+
 ## **Accounts and membership**
 
 If you create a wallet in the SubWallet Application, you are responsible for maintaining the security of your wallet and you are fully responsible for all activities that occur with the wallet and any other actions taken in connection with it. You should understand that we do not have access to any wallet-related information on our side, nor are we able to send it to any other party.&#x20;
