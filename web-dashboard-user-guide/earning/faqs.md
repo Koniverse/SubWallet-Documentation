@@ -43,13 +43,13 @@ description: Frequently asked questions about SubWallet Earning feature.
 5.  **Can I use MetaMask?** \
     Yes, but the use of MetaMask and other EVM wallets is protocol-specific. If a protocol is EVM-compatible, there will be an option for you to connect to EVM wallets. If a protocol is Substrate-based only, you will need to use a Substrate wallet.
 
-    We recommend using SubWallet web dashboard, a non-custodial wallet compatible with both EVM and Substrate protocols. You can easily create or import an account and sign all transactions on the dashboard.
+    We recommend using SubWallet web dashboard and mobile app, a non-custodial wallet compatible with both EVM and Substrate protocols. You can easily create or import an account and sign all transactions.
 6.  **Can I use hardware wallets?**
 
     Yes, but the use of hardware wallets depends on each wallet’s support for specific actions. For example, Ledger already supports staking on Polkadot but hasn’t supported Bifrost yet, so you can use Ledger for Polkadot staking but not Bifrost liquid staking.
 7.  **What does APY mean?**
 
-    APY stands for annual percentage yield, which shows you the projected reward rate you will receive over a year and takes into account compound interest. Note that the projected values provided by our Earning calculator are not guarantees and actual results may vary.
+    APY stands for annual percentage yield, which shows you the projected reward rate you will receive over a year and takes into account compound interest. Note that the projected values provided by our Earning calculator are not guaranteed and actual results may vary.
 8.  **Are there fees incurred during my transactions？**
 
     Gas fees are incurred in each transaction that requires you to sign. Other than that, SubWallet doesn’t collect any fees from you.
@@ -104,35 +104,6 @@ description: Frequently asked questions about SubWallet Earning feature.
 
     You can find the list of selected validators [here](https://polkadot.subscan.io/account/15sr8Dvq3AT3Z2Z1y8FnQ4VipekAHhmQnrkgzegUr1tNgbcn?tab=vote).
 
-### Parallel
-
-1.  **What is liquid staking on Parallel?**
-
-    Parallel offers an efficient form of staking referred to as liquid staking, where you can stake DOT to receive sDOT as a representative of the staked DOT plus the staking yield continuously accruing.
-2.  **What is sDOT?**
-
-    sDOT is a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing.
-3.  **How long does it take to unstake my DOT?**
-
-    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
-4.  **Why doesn’t my sDOT balance increase over time?**
-
-    The amount of sDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from sDOT, your sDOT should be worth more than your originally staked DOT.
-5.  **Can I stake sDOT for extra rewards?**
-
-    Yes. You can either hold sDOT to accrue staking rewards or use it in [Parallel Money Market](https://app.parallel.fi/lendAndBorrow).
-6.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
-
-    No. You need PARA to pay transaction fees.
-7.  **What are the risks of sDOT?**
-
-    The liquid staking protocol by Parallel selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
-
-    However, if this happens, Parallel will pay for the loss.
-8.  **What is the current validator set?**
-
-    You can find the list of selected validators [here](https://analytics.parallel.fi/polkadot/staking).
-
 ### Bifrost
 
 1.  **What is liquid staking on Bifrost?**
@@ -162,6 +133,59 @@ description: Frequently asked questions about SubWallet Earning feature.
 
     You can find the list of selected validators [here](https://bifrost.app/vstaking/vDOT?tab=validators).
 
+### StellaSwap
+
+1.  **What is liquid staking on StellaSwap?**
+
+    Taking the baton from Lido, StellaSwap launches DOT liquid staking where you can stake DOT to receive stDOT as a representative of the staked DOT plus the staking yield continuously accruing.
+2.  **How long does it take to unstake my DOT?**
+
+    Currently, you can unstake your DOT immediately on SubWallet web dashboard and mobile app.
+3.  **Why doesn’t my stDOT balance increase over time?**
+
+    The amount of stDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to withdraw DOT from stDOT, your stDOT should be worth more than your originally staked DOT.
+4.  **Can I stake stDOT for extra rewards?**
+
+    Yes. You can either hold stDOT to accrue staking rewards or use it in stDOT pools to boost your earnings.
+5.  **I only have DOT in my wallet, can I pay transaction fees on StellaSwap?**
+
+    No, you need GLMR in your EVM account to pay transaction fees on StellaSwap.
+6.  **I only have DOT in my Polkadot account, how can I join liquid staking on StellaSwap?**
+
+    You need to first transfer your DOT from Polkadot to Moonbeam. Check out the instructions here.
+7.  **What are the risks of stDOT?**
+
+    The liquid staking protocol by StellaSwap selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
+
+### Parallel
+
+1.  **What is liquid staking on Parallel?**
+
+    Parallel offers an efficient form of staking referred to as liquid staking, where you can stake DOT to receive sDOT as a representative of the staked DOT plus the staking yield continuously accruing.
+2.  **What is sDOT?**
+
+    sDOT is a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing.
+3.  **How long does it take to unstake my DOT?**
+
+    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
+4.  **Why doesn’t my sDOT balance increase over time?**
+
+    The amount of sDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from sDOT, your sDOT should be worth more than your originally staked DOT.
+5.  **Can I stake sDOT for extra rewards?**
+
+    Yes. You can either hold sDOT to accrue staking rewards or use it in [Parallel Money Market](https://app.parallel.fi/lendAndBorrow).
+6.  **I only have DOT in my wallet, can I pay transaction fees on Parallel?**
+
+    No. You need PARA to pay transaction fees.
+7.  **What are the risks of sDOT?**
+
+    The liquid staking protocol by Parallel selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
+
+    However, if this happens, Parallel will pay for the loss.
+8.  **What is the current validator set?**
+
+    You can find the list of selected validators [here](https://analytics.parallel.fi/polkadot/staking).
+
 ### Interlay
 
 1.  **What is DOT lending on Interlay?**
@@ -179,43 +203,4 @@ description: Frequently asked questions about SubWallet Earning feature.
 5.  **I only have DOT in my wallet, can I pay transaction fees on Interlay?**
 
     Yes. Your DOT will be automatically swapped to INTR to pay transaction fees.
-
-### Moonwell
-
-1.  **What is DOT lending on Moonwell?**
-
-    Moonwell enables users to lend and borrow their digital assets in a trustless manner and begin accruing interest in addition to earning GLMR and WELL rewards. When supplying xcDOT on Moonwell, you will also receive mDOT in your wallet, which serves as a representation of your supplied balance.
-2.  **What is mDOT?**
-
-    mDOT is a representative of your lent DOT plus the interest continuously accruing.
-3.  **What is the minimum amount needed to lend DOT on Moonwell?**
-
-    There is no minimum amount required to start lending your DOT on Moonwell.
-4.  **Can I stake mDOT for extra rewards?**
-
-    No.
-5.  **I only have DOT in my wallet, can I pay transaction fees on Interlay?**
-
-    No. You need GLMR to pay transaction fees.
-6.  **How is the APY calculated?**
-
-    You can find the detailed explanations [here](https://docs.moonwell.fi/moonwell/moonwell-overview/lend/lend-faq).
-
-### Exclusive rewards
-
-Users who stake or supply to pools listed on SubWallet earning page from **Oct 24, 2 AM UTC to Nov 07, 11:59 PM** will have the chance to share a pool of exclusive rewards. Details:
-
-1.  For Acala stakers\
-    **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Acala pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **80K ACA**.\
-
-
-    **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
-2. For Bifrost stakers\
-   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Bifrost pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **5K BNC**. \
-   \
-   **Distribution rules**: Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
-3. For Parallel stakers\
-   **Terms**: Users’ rewards will be calculated based on their share in the total stake in the week of Oct 24, 2 AM UTC to Nov 07, 11:59 PM. For example, if their stake accounts for 10% of the total stake in Parallel pool on SubWallet dashboard from Oct 24, 2 AM UTC to Nov 07, 11:59 PM, they will receive 10% of the total reward of **1M PARA**. \
-   \
-   **Distribution rules:** Rewards will be distributed from Nov 15 with three-month vesting, specifically 30% in the first month, 30% in the second, and 40% in the third month.
 
