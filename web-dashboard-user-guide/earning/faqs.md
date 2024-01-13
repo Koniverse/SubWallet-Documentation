@@ -30,7 +30,7 @@ description: Frequently asked questions about SubWallet Earning feature.
 
 1.  **What is SubWallet Earning?**
 
-    Earning is a feature within the SubWallet web dashboard where you can see earning possibilities open for you and the assets you hold in the Polkadot & Ethereum ecosystem. At the moment, you can explore earning options for DOT token. Other tokens will follow shortly.
+    Earning is a feature within the SubWallet web dashboard and mobile app where you can see earning possibilities open for you and the assets you hold in the Polkadot & Ethereum ecosystem. At the moment, you can explore earning options for DOT token. Other tokens will follow shortly.
 2.  **How does SubWallet Earning work?**
 
     While each network and each protocol works differently, SubWallet generally uses API from partner protocols to calculate and display data for each earning option. We don’t deploy smart contracts for yield optimization but rather assemble data from existing protocols to give you a panoramic picture.
@@ -84,7 +84,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     LDOT stands for Liquid DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. lcDOT stands for Liquid Crowdloan DOT, a 1:1 representation of DOT locked in the Acala crowdloan.
 3.  **How long does it take to unstake my DOT?**
 
-    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
+    Currently, you can withdraw your DOT instantly using fast unstake or wait 28 days to withdraw with a lower fee.
 4.  **Why doesn’t my LDOT balance increase over time?**
 
     The amount of LDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from LDOT, your LDOT should be worth more than your originally staked DOT.
@@ -96,7 +96,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     If your unstaked amount is higher than the staking queue, choosing to unstake instantly will mean selling your LDOT into the pool. You can always check the amount able to be withdrawn instantly in the pool information.
 7.  **I only have DOT in my wallet, can I pay transaction fees on Acala?**
 
-    Yes. Your DOT will be automatically swapped to ACA to pay transaction fees.
+    Your DOT will be automatically swapped to ACA to pay staking fees, but for unstaking transactions you need ACA.
 8.  **What are the risks of LDOT?**
 
     The liquid staking protocol by Acala selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
@@ -114,7 +114,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     vDOT stands for voucher DOT, a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing. vsDOT is a 1:1 representation of DOT locked in the Bifrost liquid crowdloan solution.
 3.  **How long does it take to unstake my DOT?**
 
-    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
+    Currently, you can withdraw your DOT instantly using fast unstake or wait 28 days to withdraw with a lower fee.
 4.  **Why doesn’t my vDOT balance increase over time?**
 
     The amount of vDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from vDOT, your vDOT should be worth more than your originally staked DOT.
@@ -123,7 +123,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     Yes. You can either hold vDOT to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
 6.  **I only have DOT in my wallet, can I pay transaction fees on Bifrost?**
 
-    Yes. Your DOT will be automatically swapped to BNC to pay transaction fees.
+    Your DOT will be automatically swapped to BNC to pay staking fees, but for unstaking transactions you need BNC.
 7.  **What are the risks of vDOT?**
 
     The liquid staking protocol by Bifrost selects validators on your behalf. If a validator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Polkadot.
@@ -167,7 +167,7 @@ description: Frequently asked questions about SubWallet Earning feature.
     sDOT is a yield-bearing token that represents the staked DOT plus the staking yield continuously accruing.
 3.  **How long does it take to unstake my DOT?**
 
-    Currently, you can withdraw your DOT instantly on SubWallet web dashboard.
+    Currently, you can withdraw your DOT instantly using fast unstake or wait 28 days to withdraw with a lower fee.
 4.  **Why doesn’t my sDOT balance increase over time?**
 
     The amount of sDOT doesn’t increase over time, only its value in DOT does. This means that by the time you decide to redeem DOT from sDOT, your sDOT should be worth more than your originally staked DOT.
