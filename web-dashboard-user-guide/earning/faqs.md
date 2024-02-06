@@ -204,3 +204,26 @@ description: Frequently asked questions about SubWallet Earning feature.
 
     Yes. Your DOT will be automatically swapped to INTR to pay transaction fees.
 
+### vMANTA on Bifrost
+
+1.  **What is liquid staking on Bifrost?**
+
+    Bifrost offers an efficient form of staking referred to as liquid staking, where you can stake MANTA to receive vMANTA as a representative of the staked MANTA plus the staking yield continuously accruing.
+2.  **What is vMANTA?**
+
+    vMANTA stands for voucher MANTA, a yield-bearing token that represents the staked MANTA plus the staking yield continuously accruing.&#x20;
+3.  **How long does it take to unstake my MANTA?**
+
+    Currently, you can withdraw your DOT instantly using fast unstake or wait up to 7 days to withdraw with a lower fee.
+4.  **Why doesn’t my vMANTA balance increase over time?**
+
+    The amount of vMANTA doesn’t increase over time, only its value in MANTA does. This means that by the time you decide to redeem MANTA from vMANTA, your vMANTA should be worth more than your originally staked MANTA.
+5.  **Can I stake vMANTA for extra rewards?**
+
+    Yes. You can either hold vMANTA to accrue staking rewards or use it in other DeFi protocols to boost your earnings.
+6.  **I only have MANTA in my wallet, can I pay transaction fees on Bifrost?**
+
+    Your MANTA will be automatically swapped to BNC to pay staking fees, but for unstaking transactions you need BNC.
+7.  **What are the risks of vMANTA?**
+
+    The liquid staking protocol by Bifrost selects collators on your behalf. If a collator misbehaves and gets slashed, you face the risk of losing assets. The risk is also present when you stake natively on Manta.
