@@ -324,3 +324,5 @@ Note: After completing the transaction, users should delete the account from the
 * Step 2: In the confirm account removal screen, click the "Forget" button to complete the account deletion process.
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+## I see "connected existed" message when connect to dApp via WalletConnect
