@@ -325,4 +325,4 @@ Note: After completing the transaction, users should delete the account from the
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-## I see "connected existed" message when connect to dApp via WalletConnect
+## I see "connection existed" message when connecting to dApp via WalletConnect
