@@ -325,4 +325,4 @@ Note: After completing the transaction, users should delete the account from the
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-## I see "Connection unsuccessful" pop up when connecting to dApp via WalletConnect
+## I see "Connection unsuccessful" pop-up when connecting to dApp via WalletConnect
