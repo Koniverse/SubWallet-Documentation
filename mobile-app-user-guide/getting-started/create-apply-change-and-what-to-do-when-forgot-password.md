@@ -8,7 +8,7 @@ description: >-
 
 At the start of your journey with us, we always ask you to create a password (such as when you [create a new account](../account-management/create-a-new-account-with-new-seed-phrase.md) or [import and restore an existing account](../account-management/import-restore-an-account.md)).&#x20;
 
-If you have been using the current version of SubWallet extension wallet, when updating to the new official version, SubWallet will ask you to create and apply a master password to your existing accounts.&#x20;
+If you have been using the current version of the SubWallet extension wallet, when updating to the new official version, SubWallet will ask you to create and apply a master password to your existing accounts.&#x20;
 
 <div align="left">
 
@@ -74,7 +74,7 @@ You would need your old password to confirm the change.&#x20;
 ![](<../../.gitbook/assets/image (1235).png>)\
 
 
-### Forgot password
+## Forgot password
 
 {% hint style="info" %}
 If you forgot your account password, don't worry! You can continue the process by re-importing your account to the app. Simply ensure you have your seed phrase/JS backup file/private key/QR backup key, and you can easily regain access to your account.
@@ -82,7 +82,7 @@ If you forgot your account password, don't worry! You can continue the process b
 
 **Step 1**: At the welcome page, click **Forgot password?**.
 
-![](<../../.gitbook/assets/image (174).png>)
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="290"><figcaption></figcaption></figure>
 
 **Step 2:** Here, there will be 2 options provided:
 
@@ -91,36 +91,39 @@ If you forgot your account password, don't worry! You can continue the process b
 
 Choose the option you want to apply:
 
-![](<../../.gitbook/assets/image (172).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_28 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+
+#### **With the "Reset account" option**
+
+Once you have clicked this option, all the accounts you have imported/attached will be removed. You will be directed to the Welcome screen.
+
+<figure><img src="../../.gitbook/assets/Screenshot_26.png" alt="" width="365"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-With the option to Reset account:
+This action will reset your account to the initial settings when you first use the app.&#x20;
 
-This action will reset **some** information associated with the account, including:&#x20;
+The networks and tokens you have manually turned on/added will be automatically turned off/deleted. You will have to turn on or add your networks/tokens manually.
+{% endhint %}
 
-* Balance&#x20;
-* NFTs&#x20;
+#### With the "Erase all" option
+
+Like the "Reset account" option, all the accounts you have imported/attached will be removed, and you will be directed to the Welcome screen. But there are some differences!
+
+{% hint style="info" %}
+This action will **reset all** the information associated with your account, including your:
+
+* Balances & NFTs
 * Staking
 * Crowdloans
 * Transactions (History)
-* Auth URLs (Manage website access)
-{% endhint %}
-
-{% hint style="info" %}
-With the option to Erase all:
-
-This action will reset **all** the information in the wallet. Besides the information mentioned in the Reset account option, it also resets the following information:
-
-* List custom network
-* List custom token
-* Chain state&#x20;
-* Asset tate&#x20;
-* Setting: Pin code, Theme, Language...
-* Manage address book
+* List custom network and token
+* Chain state, asset state
+* Setting: PIN code, Security, Language, Website Access...
+* Manage address book.
 {% endhint %}
 
 **Step 3:** In this step, you will re-import your forgotten account using your seed phrase/JS backup file/private key/QR backup key. For instructions on how to import an account, click [here](../account-management/import-restore-an-account.md).
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Please note that SubWallet will lock automatically after 15 minutes of inactive or if you exit the app.&#x20;
 {% endhint %}
