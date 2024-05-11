@@ -13,7 +13,7 @@ To keep the security of your assets while you are away, you can use the **lock f
 
 ## Where can I get my account address?
 
-Your account address should be visible under your account name. If you cannot see the address, you are likely in the All Accounts mode. Since an address must go with a specific account, you would need to choose the exact account for which you want to get the address.
+Your account address should be visible under your account name. If you cannot see the address, you are likely in the "All accounts" mode. Since an address must go with a specific account, you would need to choose the exact account for which you want to get the address.
 
 To choose an account, click on the account name to get to the account management, select the specific account you want, and the address will be visible.&#x20;
 
@@ -218,7 +218,7 @@ In this FAQ, we will demonstrate the case where CFG is mistakenly transferred to
 {% endhint %}
 
 {% hint style="info" %}
-Note: This method also applies to the following networks: Acala, Ajuna Network Aleph Zero, Astar, Bifrost (Polkadot), Bifrost (Kusama), Centrifuge, Composable Finance, Darwinia2, Dock, Edgeware, Equilibrium, Genshiro, HydraDX, Interlay, Karura, Khala, Kusama, Nodle, OriginTrail, Parallel, Pendulum, Phala, Picasso, Polkadex, Polkadot, Polymesh Mainnet, QUARTZ by UNIQUE, AssetHub (Polkadot), AssetHub (Kusama), Ternoa, Unique Network, Zeitgeist, and SORA.
+Note: This method also applies to the following networks: Acala, Ajuna Network, Aleph Zero, Astar, Bifrost (Polkadot), Bifrost (Kusama), Centrifuge, Composable Finance, Darwinia2, Dock, Edgeware, Equilibrium, Genshiro, HydraDX, Interlay, Karura, Khala, Kusama, Nodle, OriginTrail, Parallel, Pendulum, Phala, Picasso, Polkadex, Polkadot, Polymesh Mainnet, QUARTZ by UNIQUE, AssetHub (Polkadot), AssetHub (Kusama), Ternoa, Unique Network, Zeitgeist, and SORA.
 {% endhint %}
 
 
@@ -265,4 +265,190 @@ Then, you send all your tokens to another account. You can follow the instructio
 
 That's how you can recover the tokens you mistakenly transferred to an unsupported network in your Ledger account. Should any issues arise, please reach out to us via [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).&#x20;
 
-## I see "Connection unsuccessful" pop-up when connecting to dApp via WalletConnect
+## I see the "Connection unsuccessful" pop-up when connecting to dApp via WalletConnect.
+
+In this case, please try re-connecting WalletConnect again using 1 of the 2 options below:
+
+#### **Option 1: Get the latest connection on WalletConnect and re-connect**
+
+**Step 1**: Open the dApp you want to connect and choose “WalletConnect”.
+
+Here, we are using Galxe as an example.
+
+<figure><img src="../.gitbook/assets/Screenshot_48.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Get the latest connection from the WalletConnect pop-up by selecting your preferred way to connect.
+
+{% hint style="info" %}
+Here, there will be 2 ways to connect your wallet:
+
+* Save the QR code and use it to connect.
+* Copy the URI link by clicking the copy icon and use it to connect.
+
+<img src="../.gitbook/assets/Screenshot_49.png" alt="" data-size="original">
+{% endhint %}
+
+**Step 3**: Open the SubWallet extension, go to Settings, choose WalletConnect, then select “New Connection”.
+
+#### **Option 2: Check the VPN connection and repeat the process as in Option 1**
+
+{% hint style="info" %}
+WalletConnect connection access can be restricted/blocked in some countries, as stated in Section (C) of [WalletConnect's Terms of Service](https://walletconnect.com/terms). As a result, before connecting dApp via WalletConnect, please ensure the VPN connection is not connected to the servers of these countries.
+
+Once done, you can repeat the process as in Option 1.
+{% endhint %}
+
+## I need to connect to a dApp, but it doesn't have a SubWallet option to connect.
+
+To connect to a dApp that does not have a SubWallet wallet option, you can connect via WalletConnect using this [guide](https://docs.subwallet.app/main/extension-user-guide/connect-dapps-and-manage-website-access/connect-dapp-with-walletconnect).
+
+If there is no WalletConnect option, please suggest it to us so we can work on integrating it as soon as possible.
+
+## I can’t send tokens. The pop-up message says “Transaction failed” / “Cannot get balance”.
+
+When you receive these messages, please do the following:
+
+**Step 1**: On the SubWallet homepage, click on the list item at the upper left corner to get to the Settings section.
+
+<figure><img src="../.gitbook/assets/Screenshot_50.png" alt="" width="294"><figcaption></figcaption></figure>
+
+**Step 2**: In the Settings section, choose "Manage networks".
+
+<figure><img src="../.gitbook/assets/Screenshot_51.png" alt="" width="293"><figcaption></figcaption></figure>
+
+**Step 3**: Search for the network that supports your token to check the network connection.&#x20;
+
+If the connect icon is yellow/grey → You need to turn off the network and enable it back or [change to another provider](customize-endpoint-provider.md) to restore the network connection.&#x20;
+
+If it still doesn’t work (due to all the RPCs not working at that moment), please come back another time and try again.
+
+## It kept loading forever and showed no information whenever I tried to open the SubWallet extension on the Firefox/Microsoft Edge browser.
+
+The reason it happened is that you have not yet enabled the configuration to display WebGL images (3D images) in the browser.
+
+To enable configuration in Firefox/Chrome/Microsoft Edge, please follow the instructions [here](https://help.constructiononline.com/en/scheduling-webgl-and-hardware-acceleration).
+
+## How can I import my Metamask account (or other wallet accounts) onto the SubWallet extension?
+
+SubWallet offers a variety of options for importing accounts from other wallets to SubWallet.
+
+You can import a Metamask account onto the SubWallet extension using the [Import by private key](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-by-private-key-currently-supported-with-evm-account) option, in which the private key is exported from the account.
+
+In addition, SubWallet also supports the following methods:
+
+* [Import by seed phrase](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-from-seed-phrase) (if you have a seed phrase)
+* [Import by JSON file](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-from-polkadot-js-import-by-json-file)
+* [Import by QR code](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-by-qr-code).
+
+## I can’t export the seed phrase of my account.
+
+The “**Export seed phrase**” feature is only available for accounts:
+
+* Imported onto the SubWallet extension by seed phrase after the release of [version v1.0.3](https://github.com/Koniverse/SubWallet-Extension/releases/tag/v1.0.3) **OR**
+* Created on the SubWallet extension after the release of [version v1.0.3](https://github.com/Koniverse/SubWallet-Extension/releases/tag/v1.0.3).
+
+## I forgot the password to open my wallet.
+
+SubWallet does not store any copy of your password. If you don't remember your password, you will need to reset your wallet by re-importing your account.
+
+To reset your wallet, please follow the instructions [here](https://docs.subwallet.app/main/extension-user-guide/getting-started/create-a-master-password/forgot-master-password).
+
+## What is “Derive account”?
+
+“Derive account” is a feature allowing you to create a new account from an original one. With one seed phrase, you can create many different accounts to use.
+
+{% hint style="info" %}
+Derivative accounts have the exact seed phrase and different paths.
+
+You can use a derivative account as the original account to make transactions.
+{% endhint %}
+
+## Which networks does SubWallet support staking?
+
+Subwallet lets you easily stake your tokens and receive staking rewards by directly nominating validators or joining a nomination pool.
+
+**With the direct nomination staking option, SubWallet is currently supporting the following networks:**
+
+* Polkadot
+* Kusama
+* Aleph Zero
+* Avail
+* Vara
+* Calamari
+* Turing
+* Polkadex
+* Amplitude
+* Bifrost Kusama
+* Bifrost Polkadot
+* Edgeware
+* Ternoa
+* Pendulum
+* Creditcoin Mainnet
+* Kilt
+* Astar
+* Shiden
+* Shibuya
+* Moonbeam
+* Moonriver
+
+**With the nomination pool staking option, SubWallet is currently supporting the following networks:**
+
+* Polkadot
+* Kusama
+* Aleph Zero
+* Avail
+* Vara
+
+## I can't sign transactions via Polkadot Vault on EVM networks.
+
+This is due to the latest update of the Polkadot Vault app, in which Polkadot Vault no longer supports signing transactions for the EVM networks (Moonbeam, Moonriver, Moonbase).
+
+If you have assets on these networks on Polkadot Vault, please follow the steps below to transfer them out of your Polkadot Vault account:
+
+{% hint style="info" %}
+In this example, we want to transfer GLMR on Moonbeam out of the account.
+{% endhint %}
+
+**Step 1**: On the homepage, click on the Moonbeam Key Set.
+
+<figure><img src="../.gitbook/assets/Screenshot_33.png" alt="" width="376"><figcaption></figcaption></figure>
+
+**Step 2**: Click on the 3-dot icon at the top right of the screen and select the "Share Private Key" option.
+
+<figure><img src="../.gitbook/assets/Screenshot_34.png" alt="" width="374"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_41.png" alt="" width="374"><figcaption></figcaption></figure>
+
+**Step 3**: Enter your passcode to authorize the action, then choose the "Export Private Key" button.
+
+<figure><img src="../.gitbook/assets/image (1967).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_35.png" alt="" width="377"><figcaption></figcaption></figure>
+
+The "Export Private Key" screen will pop up with the QR code of your private key. Screenshot and keep it in a safe place.
+
+<figure><img src="../.gitbook/assets/image (1968).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Step 4**: Open the SubWallet extension. On the SubWallet homepage, click on the account name at the top left of the screen to get to the account list.
+
+<figure><img src="../.gitbook/assets/Screenshot_63 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+
+**Step 5**: Click the "Import" icon at the bottom of the account list.
+
+<figure><img src="../.gitbook/assets/Screenshot_64.png" alt="" width="368"><figcaption></figcaption></figure>
+
+**Step 6**: Choose the "Import by QR code" option.
+
+<figure><img src="../.gitbook/assets/Screenshot_65.png" alt="" width="366"><figcaption></figcaption></figure>
+
+**Step 7**: Click the "Scan the QR code" button.
+
+<figure><img src="../.gitbook/assets/Screenshot_66.png" alt="" width="366"><figcaption></figcaption></figure>
+
+**Step 8**: If you have not previously granted camera access to SubWallet, please click "OK" to allow.
+
+Then, put your phone (with the QR code of your private key taken in **Step 3**) close to the screen to scan it with SubWallet.
+
+<figure><img src="../.gitbook/assets/Screenshot_67.png" alt="" width="366"><figcaption></figcaption></figure>
+
+**Step 9**: After successfully importing the account, you will be directed to the homepage. You can now transfer your GLMR to another account using the guide [here](https://docs.subwallet.app/main/extension-user-guide/receive-and-transfer-assets/transfer-tokens).
