@@ -2,11 +2,13 @@
 description: This document will show you how to export & backup an account on SubWallet.
 ---
 
-# Export & backup an account
+# Export & backup accounts
 
-Export your private key in different forms of backup file, and use such backup file to restore & import the account again if you so wish.
+Export your private key in different forms of backup files, and use such backup files to restore & import the account again if you so wish.
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+### Export & backup an account
+
+**Step 1**: Open the SubWallet homepage and click on the account name to get to the account management screen.&#x20;
 
 ![](<../../.gitbook/assets/image (697).png>)
 
@@ -21,7 +23,7 @@ Export your private key in different forms of backup file, and use such backup f
 **Step 4**: Enter your password.&#x20;
 
 {% hint style="info" %}
-You will notice that even if you correctly enter your password, the "Confirm" button is still not available. You would need to choose your preferred form of export file to continue.
+You will notice that even if you correctly enter your password, the "Confirm" button is still unavailable. You would need to choose your preferred form of export file to continue.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (1157).png>)
@@ -35,6 +37,7 @@ Please save and keep your backup files in a secure place.&#x20;
 
 Do not share these files because they contain your private key; anyone who has these files would be able to use your assets.
 
-Furthermore, you would need these backup file to restore your account in case you forget your SubWallet password.&#x20;
+Furthermore, you would need these backup files to restore your account in case you forget your SubWallet password.&#x20;
 {% endhint %}
 
+### Export all accounts

@@ -58,7 +58,7 @@
   * [Attach a Polkadot Vault (previously Parity-Signer) account](extension-user-guide/account-management/attach-a-polkadot-vault-previously-parity-signer-account.md)
   * [Connect Ledger device](extension-user-guide/account-management/connect-ledger-device.md)
   * [Connect Keystone device](extension-user-guide/account-management/connect-keystone-device.md)
-  * [Export & backup an account](extension-user-guide/account-management/export-and-backup-an-account.md)
+  * [Export & backup accounts](extension-user-guide/account-management/export-and-backup-accounts.md)
 * [Receive & transfer assets](extension-user-guide/receive-and-transfer-assets/README.md)
   * [Receive tokens and NFTs](extension-user-guide/receive-and-transfer-assets/receive-tokens-and-nfts.md)
   * [Transfer tokens](extension-user-guide/receive-and-transfer-assets/transfer-tokens/README.md)

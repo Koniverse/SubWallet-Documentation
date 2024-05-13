@@ -42,6 +42,6 @@ At the moment, there are 2 ways to create new accounts and 4 ways to import your
 [connect-keystone-device.md](connect-keystone-device.md)
 {% endcontent-ref %}
 
-{% content-ref url="export-and-backup-an-account.md" %}
-[export-and-backup-an-account.md](export-and-backup-an-account.md)
+{% content-ref url="export-and-backup-accounts.md" %}
+[export-and-backup-accounts.md](export-and-backup-accounts.md)
 {% endcontent-ref %}
