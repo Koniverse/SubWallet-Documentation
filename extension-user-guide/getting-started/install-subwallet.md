@@ -30,7 +30,7 @@ Below is the installation process on Google Chrome. The same process applies to 
 
 **Step 1**: Visit the Firefox Browser Add-ons and click **Add to Firefox**: [https://mzl.la/3AoAMmd](https://mzl.la/3AoAMmd)&#x20;
 
-![](../../.gitbook/assets/Screenshot\_16.png)
+![](<../../.gitbook/assets/Screenshot\_16 (1).png>)
 
 **Step 2**: When prompted, click **Add**. If you would like to use SubWallet in private windows, tick A**llow this extension to run in Private Windows.**&#x20;
 
