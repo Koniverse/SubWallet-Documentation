@@ -16,23 +16,23 @@ You can import and restore your account immediately from the "Welcome" screen.&#
 
 You would need to open the Account management screen.
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
+**Step 1**: Open the SubWallet homepage and click on the account name to get to the account selection tab.
 
 ![](<../../.gitbook/assets/image (1483).png>)
 
-**Step 2**: Click the "Import" icon on the account management screen.
+**Step 2**: Click the "Import" icon on the account selection tab.
 
 ![](<../../.gitbook/assets/image (1331).png>) ![](<../../.gitbook/assets/image (1412).png>)
 
 ## Import by Seed phrase
 
-**Step 1**: Enter your seed phrase and choose whether or not you want to import a Substrate account, an Ethereum account, or both by ticking the checkmark on the right-hand side of each account type. Then click "Import account".
+**Step 1**: Enter your seed phrase and choose whether or not you want to import a Polkadot account, an Ethereum account, or both by ticking the checkmark on the right-hand side of each account type. Then click "Import account".
 
 ![](<../../.gitbook/assets/image (970).png>)
 
-In some cases, if you import an account by seedphrase, problems can arise if the seedphrase of your original wallet is not compatible with SubWallet.&#x20;
+In some cases, if you import an account by seed phrase, problems can arise if the seed phrase of your original wallet is not compatible with SubWallet.&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 {% endhint %}
 
@@ -43,9 +43,9 @@ Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}
 
 ## Import by private key from MetaMask (currently supported with EVM account)
@@ -63,7 +63,7 @@ After importing the new account into the wallet, you might want to change the ac
 {% hint style="info" %}
 Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}
 
 ## Import from Polkadot.{js} (Import by JSON file)
@@ -129,5 +129,5 @@ After importing the new account into the wallet, you might want to change the ac
 {% hint style="info" %}
 Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}

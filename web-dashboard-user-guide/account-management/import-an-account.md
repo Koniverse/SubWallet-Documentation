@@ -36,13 +36,13 @@ After creating the password, users will be directed to the step of creating/impo
 
 ### If you have already used SubWallet before
 
-If you have secret phrase (seed phrase), private key, JSON backup file, or QR code you can import/restore your account and manage them with SubWallet.
+If you have a secret phrase (seed phrase), private key, JSON backup file, or QR code, you can import/restore your account and manage it with SubWallet.
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+**Step 1**: Open the SubWallet homepage and click on the account name to get to the account selection tab.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the account management screen, click the import icon.
+**Step 2**: In the account selection tab, click the import icon.
 
 <figure><img src="../../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,34 +68,34 @@ If you want to import from seed phrase, please choose the corresponding way of i
 
 At this step, you will enter your seed phrase and click "Import account".&#x20;
 
-You could choose between importing either a Substrate (Polkadot) account or EVM (Ethereum) account, or both.&#x20;
+You could choose between importing either a Polkadot (Substrate) account, an Ethereum (EVM) account, or both.&#x20;
 
 {% hint style="info" %}
 For each seed phrase created with SubWallet, you would have a Substrate account and an EVM account.&#x20;
 
-Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, and Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
+Polkadot accounts would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, and Acala), while Ethereum accounts would display your assets on EVM chains (such as Moonbeam).&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
 
 In some cases, if you import an account by seed phrase, problems can arise if the seed phrase of your original wallet is not compatible with SubWallet.&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 {% endhint %}
 
 In this case, we would suggest you create a new wallet account with SubWallet and transfer your assets from your original wallet to this new account.&#x20;
 
-## Import by (MetaMask) private key (currently supported with EVM account)
+## Import by private key (currently supported with Ethereum account)
 
 After following this [guide](import-an-account.md#if-you-have-not-had-any-accounts-with-subwallet) to choose your preferred way to import an account, if you want to import by private key, please enter your private key and click "Import account".
 
 <figure><img src="../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ethereum network will be automatically turned on for EVM accounts.
+Ethereum network will be automatically turned on for Ethereum accounts.
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+SubWallet automatically enables Polkadot & Kusama networks for Polkadot accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}
 
 ## Import from Polkadot {js} (Import by JSON file)
@@ -144,7 +144,7 @@ If you use the Brave browser, there will be multiple options that allow us to ac
 
 
 
-**Step 2**: Present your QR code and scan it with SubWallet, using your device's camera.&#x20;
+**Step 2**: Present your QR code and scan it with SubWallet using your device's camera.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure>
 
@@ -159,7 +159,7 @@ SubWallet automatically enables Polkadot & Kusama networks for Substrate account
 After importing by QR code, if you want to revoke the permission for SubWallet to use your camera, please go to the Security settings section to do so.
 
 {% hint style="info" %}
-**Step 1**: Open SubWallet homepage, and choose the Settings tab on the sidebar.
+**Step 1**: Open the SubWallet homepage and choose the Settings tab on the sidebar.
 
 ![](<../../.gitbook/assets/image (1675).png>)\
 

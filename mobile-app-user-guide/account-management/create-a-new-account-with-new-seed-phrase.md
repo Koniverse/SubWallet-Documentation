@@ -18,11 +18,11 @@ You might create a new account with a new seed phrase, or [derive a new account 
 
 In this case, we are introducing creating new account with seed phrase.&#x20;
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
+**Step 1**: Open the SubWallet homepage and click on the account name to get to the account selection tab.
 
 ![](<../../.gitbook/assets/image (1093).png>)
 
-**Step 2**: In the account management screen, click **Create new account**.
+**Step 2**: In the account selection tab, click **Create a new account**.
 
 ![](<../../.gitbook/assets/image (1231).png>)
 
@@ -60,11 +60,11 @@ If, for instance, you forget your password, you will need your recovery phrase t
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
-For each seed phrase created with SubWallet, you would have a Substrate account and an EVM account. Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, and Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
+For each seed phrase created with SubWallet, you would have a Polkadot (Substrate) account and an Ethereum (EVM) account. Substrate account would display your assets on Substrate-native blockchains (such as Polkadot, Kusama, and Acala), while EVM account would display your assets on EVM chains (such as Moonbeam).&#x20;
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
+SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you wish.&#x20;
 {% endhint %}
 
