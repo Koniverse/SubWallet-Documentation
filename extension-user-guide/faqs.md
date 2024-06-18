@@ -452,3 +452,5 @@ Then, put your phone (with the QR code of your private key taken in **Step 3**) 
 <figure><img src="../.gitbook/assets/Screenshot_67.png" alt="" width="366"><figcaption></figcaption></figure>
 
 **Step 9**: After successfully importing the account, you will be directed to the homepage. You can now transfer your GLMR to another account using the guide [here](https://docs.subwallet.app/main/extension-user-guide/receive-and-transfer-assets/transfer-tokens).
+
+## I can't connect my accounts to any dApps on Firefox. What should I do?
