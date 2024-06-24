@@ -25,9 +25,9 @@ To choose an account, click on the account name to get to the account management
 
 You can change the endpoint/provider or add a new endpoint/provider by following the instructions [here](customize-endpoint-provider.md).
 
-In case you have changed your provider but still cannot see the asset, you should restart the wallet or check again later. Some providers have slow processing speeds and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
+In case you have changed your provider but still cannot see the asset, you should restart the wallet or check again later. Some providers have slow processing speeds, and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 
-## I imported an account from another wallet and now I cannot see my assets. What is the problem?
+## I imported an account from another wallet, and I cannot see my assets. What is the problem?
 
 Please make sure that you have activated the network on which you have the assets.
 
@@ -130,7 +130,7 @@ If you stake with a validator, your staking rewards will be automatically claime
 
 <figure><img src="../.gitbook/assets/image (1919).png" alt="" width="434"><figcaption></figcaption></figure>
 
-## My transaction was successful but cannot see it in the History tab
+## My transaction was successful, but I cannot see it in the History tab
 
 In this case, you might want to select the network corresponding to the transactions you made on that network.&#x20;
 
@@ -144,7 +144,7 @@ In order to change your account, you can click on the account name to get to the
 
 </div>
 
-SubWallet supports two types of accounts, which are EVM and Substrate. We choose a _Substrate account_ for this example.
+SubWallet supports two types of accounts: EVM and Substrate. We choose a _Substrate account_ for this example.
 
 <div align="center">
 

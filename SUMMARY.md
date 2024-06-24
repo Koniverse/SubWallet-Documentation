@@ -14,7 +14,7 @@
   * [Derive a new account from an existing account](mobile-app-user-guide/account-management/derive-a-new-account-from-an-existing-account.md)
   * [Import/restore an account](mobile-app-user-guide/account-management/import-restore-an-account.md)
   * [Switch between accounts and change account name](mobile-app-user-guide/account-management/switch-between-accounts-and-change-account-name.md)
-  * [Export & backup an account](mobile-app-user-guide/account-management/export-and-backup-an-account.md)
+  * [Export & backup accounts](mobile-app-user-guide/account-management/export-and-backup-accounts.md)
   * [Attach a watch-only account](mobile-app-user-guide/account-management/attach-a-watch-only-account.md)
   * [Attach a Polkadot Vault (previously Parity-Signer) account](mobile-app-user-guide/account-management/attach-a-polkadot-vault-previously-parity-signer-account.md)
   * [Connect Keystone device](mobile-app-user-guide/account-management/connect-keystone-device.md)
