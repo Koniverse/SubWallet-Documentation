@@ -66,3 +66,15 @@ Then, choose the "**Upload from photos**" option and select the screenshot you h
 <figure><img src="../.gitbook/assets/image (1973).png" alt="" width="374"><figcaption></figcaption></figure>
 
 **Step 9**: After successfully importing the account, you will be directed to the homepage. You can now transfer your GLMR to another account using the guide [here](https://docs.subwallet.app/main/mobile-app-user-guide/receive-and-transfer-assets/transfer-tokens).
+
+### How do I sync my account on the mobile app to the extension using the QR code?
+
+You can easily sync your account on mobile to the extension by exporting your account's QR code. If you have multiple accounts, repeat the instructions below for each account.
+
+**Step 1:** Export your account's QR code by following this [guide](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/export-and-backup-accounts). Please note that in Step 4 of the guide, select "**Export QR code**" only.
+
+You can either screenshot it or keep your mobile on the export screen.
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lh39Kwxa1xxZM9WX\_Bs%2Fuploads%2FCE5om6nO1QjKqx3LqEYt%2Fphoto\_2024-06-24\_17-50-05%20\(3\).jpg?alt=media\&token=88f8fd2a-682d-47bb-92b9-7d4974a9f8a8)
+
+**Step 2**: Import your newly exported account onto the extension by following this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-by-qr-code).

@@ -454,3 +454,21 @@ Then, put your phone (with the QR code of your private key taken in **Step 3**) 
 **Step 9**: After successfully importing the account, you will be directed to the homepage. You can now transfer your GLMR to another account using the guide [here](https://docs.subwallet.app/main/extension-user-guide/receive-and-transfer-assets/transfer-tokens).
 
 ## I can't connect my accounts to any dApps on Firefox. What should I do?
+
+## How do I sync my account on the extension to the mobile app using the QR code?
+
+You can easily sync your account on mobile to the extension by exporting your account's QR code. If you have multiple accounts, repeat the instructions below for each account.
+
+**Step 1:** Export your account's QR code by following this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-and-backup-an-account). Please note that in Step 4 of the guide, select "**Export QR code**" only.
+
+You can either screenshot it or keep the export screen.
+
+<figure><img src="../.gitbook/assets/Screenshot_271 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+
+**Step 2**: Import your newly exported account onto the mobile app by following this [guide](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/import-restore-an-account#import-by-qr-code).
+
+{% hint style="info" %}
+You can also export all your accounts on the extension using this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-multiple-accounts) and import them onto the mobile app by [importing the JSON file](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/export-and-backup-accounts#export-multiple-accounts).
+
+This is the quickest way to sync your accounts on the extension to mobile, but transferring the JSON file from the computer/PC to your mobile will require a bit of time.
+{% endhint %}
