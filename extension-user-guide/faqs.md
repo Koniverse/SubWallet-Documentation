@@ -476,3 +476,7 @@ This is the quickest way to sync your accounts on the extension to mobile, but t
 {% hint style="info" %}
 If you have not yet installed the SubWallet mobile, you can do so by following this [guide](https://docs.subwallet.app/main/mobile-app-user-guide/getting-started/install-subwallet-mobile).
 {% endhint %}
+
+## How do I re-attach a new Polkadot account on Ledger?
+
+## How do I move assets from a Substrate network to the new Polkadot account on Ledger?
