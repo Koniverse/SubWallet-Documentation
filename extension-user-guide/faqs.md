@@ -480,3 +480,5 @@ If you have not yet installed the SubWallet mobile, you can do so by following t
 ## How do I re-attach a new Polkadot account on Ledger?
 
 ## How do I move assets from a Substrate network to the new Polkadot account on Ledger?
+
+## How do I update network metadata?
