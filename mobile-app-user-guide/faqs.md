@@ -78,3 +78,10 @@ You can either screenshot it or keep your mobile on the export screen.
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lh39Kwxa1xxZM9WX\_Bs%2Fuploads%2FCE5om6nO1QjKqx3LqEYt%2Fphoto\_2024-06-24\_17-50-05%20\(3\).jpg?alt=media\&token=88f8fd2a-682d-47bb-92b9-7d4974a9f8a8)
 
 **Step 2**: Import your newly exported account onto the extension by following this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-by-qr-code).
+
+{% hint style="info" %}
+If you have not yet installed the SubWallet extension, you can do so by clicking on the relevant link for your browser:&#x20;
+
+* For Google Chrome, Brave & MS Edge users, click [here](https://chrome.google.com/webstore/detail/subwallet-polkadot-extens/onhogfjeacnfoofkfgppdlbmlmnplgbn).&#x20;
+* For Firefox users, click [here](https://mzl.la/3AoAMmd).
+{% endhint %}

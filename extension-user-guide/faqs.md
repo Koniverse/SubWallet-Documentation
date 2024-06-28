@@ -470,5 +470,9 @@ You can either screenshot it or keep the export screen.
 {% hint style="info" %}
 You can also export all your accounts on the extension using this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-multiple-accounts) and import them onto the mobile app by [importing the JSON file](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/export-and-backup-accounts#export-multiple-accounts).
 
-This is the quickest way to sync your accounts on the extension to mobile, but transferring the JSON file from the computer/PC to your mobile will require a bit of time.
+This is the quickest way to sync your accounts on the extension to mobile, but transferring the JSON file from the computer/PC to your mobile will require some time.
+{% endhint %}
+
+{% hint style="info" %}
+If you have not yet installed the SubWallet mobile, you can do so by following this [guide](https://docs.subwallet.app/main/mobile-app-user-guide/getting-started/install-subwallet-mobile).
 {% endhint %}
