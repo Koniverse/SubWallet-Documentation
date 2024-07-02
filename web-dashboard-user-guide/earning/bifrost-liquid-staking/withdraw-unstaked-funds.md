@@ -8,7 +8,7 @@ description: >-
 
 **Step 1:** Open SubWallet web dashboard, choose the Earning tab on the sidebar, and then click on the "Withdraw" symbol at **Bifrost Liquid Staking.**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Enter the amount of vDOT or BNC you want to withdraw.
 

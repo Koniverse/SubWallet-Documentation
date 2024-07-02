@@ -14,11 +14,11 @@ Depending on the type of account you want to export, SubWallet supports differen
 
 **Step 1**: On the SubWallet homepage, click on the account name to get to the account selection tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the edit icon on the right-hand side of the account you wish to export.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="365"><figcaption><p>In this example, we chose account "Andy" - a Polkadot account - to export.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="365"><figcaption><p>In this example, we chose account "Andy" - a Polkadot account - to export.</p></figcaption></figure>
 
 **Step 3**: In the Account details section, choose "**Export**".
 
