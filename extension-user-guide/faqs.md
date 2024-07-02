@@ -479,6 +479,117 @@ If you have not yet installed the SubWallet mobile, you can do so by following t
 
 ## How do I re-attach a new Polkadot account on Ledger?
 
+If you have previously created a Polkadot account with Ledger, you'll need to re-attach that account by selecting the "**Polkadot (new)**" network when connecting your Ledger to the SubWallet extension.&#x20;
+
+The new Polkadot app version will become the main app for all substrate-based networks in the future.
+
+{% hint style="info" %}
+The new Polkadot app will enable your Ledger device to sign transactions on **all Substrate-based networks** without facing app disruptions due to runtime upgrades.&#x20;
+
+In contrast, the old Polkadot app only allows your Ledger to sign transactions **on the Polkadot network**.
+{% endhint %}
+
+To re-attach a new Polkadot account, please follow the instructions below:
+
+**Step 1**: Have your Ledger device ready & connected to your computer. Choose the **Polkadot** app on your Ledger.
+
+<figure><img src="../.gitbook/assets/IMG_0015 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+**Step 2**: Update the **Polkadot** app in your Ledger to the latest version.
+
+**Step 3**: Connect your Ledger using this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/connect-ledger-device). Please note that in Step 4 of the guide, you need to select "**Polkadot (new)**" to match the Polkadot app on your Ledger.
+
+<figure><img src="../.gitbook/assets/Screenshot_317.png" alt=""><figcaption></figcaption></figure>
+
+**Step 4**: You have successfully re-attached the new Polkadot account!
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot_319.png" alt="" width="363"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot_320.png" alt="" width="365"><figcaption></figcaption></figure>
+
+</div>
+
 ## How do I move assets from a Substrate network to the new Polkadot account on Ledger?
 
+{% hint style="info" %}
+You'll only need to do this action if your assets **are not** on the 2 networks:&#x20;
+
+* Polkadot (displayed as "**Polkadot**" in your Ledger)
+* Polkadot Asset Hub (displayed as "**Statemint**" in your Ledger).
+{% endhint %}
+
+**Step 1**: Connect your Ledger device to the SubWallet extension following this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/connect-ledger-device). Please note that in Step 4 of the guide, you need to select a Substrate network that is not from the 2 networks mentioned above.
+
+_In this example, we will transfer the funds from the Ledger Kusama account to the new Polkadot account. Select "**Kusama**" and click "**Connect Ledger device**"._
+
+<figure><img src="../.gitbook/assets/Screenshot_321.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Transfer your assets in that network to the new Polkadot account using this [guide](https://docs.subwallet.app/main/extension-user-guide/receive-and-transfer-assets/transfer-tokens/cross-chain-transfer). Make sure you already have the network address of your new Polkadot account to paste into the _Send to_ field.
+
+{% hint style="info" %}
+If you see the pop-up message "**Network's metadata out of date**", consider updating the network metadata to its latest spec to continue with the transaction.&#x20;
+
+Check out this [guide](faqs.md#how-do-i-update-network-metadata) if you want to update the network metadata.
+{% endhint %}
+
+{% hint style="warning" %}
+You will need to use the **Polkadot Migration** app to sign the transaction.
+{% endhint %}
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot_322 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot_336.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% hint style="warning" %}
+If you have funds being staked on the network, please unlock them by unstaking them first, then withdraw.&#x20;
+
+After that, you can transfer the funds to your new Polkadot account.
+{% endhint %}
+
 ## How do I update network metadata?
+
+To update network metadata on Ledger, you can choose one of the following options:
+
+#### Option 1: Turn off and on the network on the SubWallet extension using this [guide](https://docs.subwallet.app/main/extension-user-guide/customize-your-networks), or reload the extension.
+
+#### Option 2: Update the network metadata using the Polkadot.js app
+
+Please follow the instructions below. In this instruction, we will update the Kusama metadata on the new Polkadot account.
+
+**Step 1:** Head to [the Polkadot.js app site](https://polkadot.js.org/apps/#/accounts) and connect your new Polkadot account.
+
+<figure><img src="../.gitbook/assets/Screenshot_324.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Click on the Polkadot button at the top left of the screen to switch to the Kusama network.
+
+<figure><img src="../.gitbook/assets/Screenshot_327.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_328.png" alt=""><figcaption></figcaption></figure>
+
+Choose your preferred provider and then click "**Switch**".
+
+<figure><img src="../.gitbook/assets/Screenshot_330.png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: Once done, click "**Settings**" on the taskbar and select the "**Metadata**" tab.
+
+<figure><img src="../.gitbook/assets/Screenshot_331.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_332.png" alt=""><figcaption></figcaption></figure>
+
+In the Metadata tab, choose "**Update metadata**" to update the Kusama metadata.
+
+<figure><img src="../.gitbook/assets/Screenshot_333.png" alt=""><figcaption></figcaption></figure>
+
+**Step 4**: The SubWallet extension pop-up will appear, asking you to approve this update. Click "**Approve**" to proceed.
+
+<figure><img src="../.gitbook/assets/Screenshot_334.png" alt=""><figcaption></figcaption></figure>
