@@ -21,7 +21,7 @@ If you forgot your account password, don't worry! You can still continue the pro
 
 Choose the option you want to apply:
 
-<figure><img src="../../../.gitbook/assets/Screenshot_28 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_28 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **With the "Reset account" option**
 

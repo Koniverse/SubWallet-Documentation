@@ -1,6 +1,6 @@
 ---
 description: >-
-  We round up frequently asked questions, along with their solutions, in this
+  We round up frequently asked questions, along with their solutions in this
   section. Should any other issues arise, you can always visit us on Discord and
   Telegram.
 ---
