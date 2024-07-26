@@ -360,11 +360,51 @@ If it still doesn't work (due to all the RPCs not working at that moment), pleas
 
 <details>
 
-<summary>It kept loading forever and showed no information whenever I tried to open the SubWallet extension on the Firefox/Chrome/Microsoft Edge browser</summary>
+<summary>It kept loading forever and showed no information whenever I tried to open the SubWallet extension on the Firefox/Chrome/Brave/Microsoft Edge browser</summary>
+
+#### If you haven't enabled WebGL yet&#x20;
 
 The reason it happened is that you have not yet enabled the configuration to display WebGL images (3D images) in the browser.
 
 To enable configuration in Firefox/Chrome/Microsoft Edge, please follow the instructions [here](https://help.constructiononline.com/en/scheduling-webgl-and-hardware-acceleration).
+
+#### If you have enabled WebGL beforehand
+
+In this case, you will need to clear the extension's database.&#x20;
+
+:warning:  **Please note that by doing this, some account-related data may be lost, **<mark style="background-color:yellow;">**but the seed phrase will not be affected.**</mark>** This includes:**
+
+* **Custom networks/tokens added**
+* **Networks that are manually turned on/off**
+* **Transaction history of networks that don't have indexers.**
+
+Please follow the instructions below if you are using Chrome/MS Edge/Brave browser:
+
+**Step 1**: Open the SubWallet extension, right-click on the extension screen, and click "**Inspect**".
+
+<img src="../.gitbook/assets/Screenshot_12 (2).png" alt="" data-size="original">
+
+**Step 2**: The browser's DevTools window will appear. Select the "**Application**" tab to open the Application panel.
+
+<img src="../.gitbook/assets/Screenshot_13 (2).png" alt="" data-size="original">
+
+**Step 3**: In the tab, expand the IndexDB menu, then select the "**SubWalletDB\_v2**" database.
+
+<img src="../.gitbook/assets/Screenshot_14 (2).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_15 (2).png" alt="" data-size="original">
+
+Once done, choose "**Delete database**", then click "**OK**" to confirm the request and then close the window.
+
+<img src="../.gitbook/assets/Screenshot_16 (2).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1).png" alt="" data-size="original">
+
+**Step 4**: Click on the 3-dot icon at the top right of the screen, then select "**Extension**" and click "**Manage extension**" to open the Extension panel.
+
+<img src="../.gitbook/assets/Screenshot_18 (2).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_19 (2).png" alt="" data-size="original">
+
+**Step 5**: Find the SubWallet extension in the extension list, then **turn off and on** the toggle.
+
+<img src="../.gitbook/assets/Screenshot_20 (1).png" alt="" data-size="original">
+
+**Step 6**: You have successfully cleared the extension data. Now, you can use the extension normally.
 
 </details>
 
