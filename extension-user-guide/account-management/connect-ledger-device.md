@@ -4,25 +4,23 @@ description: This document will show you How to Connect a Ledger device to SubWa
 
 # Connect Ledger device
 
-**Step 1**: Have your Ledger device ready & connected to your computer. Choose the dApp on your Ledger.
+### Connect via Legacy Ledger apps
 
-**Step 2**:  Open SubWallet homepage and click on the account name to get to the account management screen.&#x20;
+**Step 1**: Have your Ledger device ready & connected to your computer. Choose the App on your Ledger.
+
+**Step 2**:  Open the SubWallet extension and click on the account name to get to the account selection tab.&#x20;
 
 ![](<../../.gitbook/assets/image (692).png>)
 
-**Step 3**: Choose the attach account icon on the lower right corner.
+**Step 3**: Choose the attach account icon at the bottom right corner.
 
 ![](<../../.gitbook/assets/image (693).png>)
 
-
-
-**Step 3**: Choose "Connect Ledger device".
+**Step 4**: Choose "Connect Ledger device".
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FB3rlchJNfMRA7dtaBbYd%2FScreenshot\_8.png?alt=media\&token=b6d2e1c4-32c3-46de-bb5c-80312cd0a7f9)
 
-
-
-**Step 4**: Select the network according to the current dApp on your Ledger and click "Connect". Your extension would display the following pop-up:
+**Step 4**: Select the app according to the current dApp on your Ledger and click "Connect". Your extension will display the following pop-up:
 
 <div align="left">
 
@@ -31,8 +29,6 @@ description: This document will show you How to Connect a Ledger device to SubWa
 </div>
 
 \`Click on the device name (Nano X in this case) and click "Connect".
-
-
 
 **Step 5**: After your Ledger has been successfully found by SubWallet, click "Connect Ledger device".
 
@@ -64,5 +60,6 @@ Note: If you have an account attached from Ledger, it can only handle assets lik
 For instance: If you have an account attached from Ledger with the Polkadot network, you can only manage assets within the Polkadot network using SubWallet.
 {% endhint %}
 
+### Connect via the Polkadot Migration Ledger app
 
-
+### Connect via the Polkadot Generic Ledger app
