@@ -680,3 +680,25 @@ In the Metadata tab, choose "**Update metadata**" to update the Kusama metadata.
 <img src="../.gitbook/assets/Screenshot_334.png" alt="" data-size="original">
 
 </details>
+
+<details>
+
+<summary>I can't sign transactions on the Avail network using Ledger.</summary>
+
+:information\_source: SubWallet has integrated the Avail Ledger app on version v1.2.22 to fix this issue. Update your extension to this version or the later one before you start doing this.
+
+:warning: If you are using the SubWallet extension on Firefox, you will need to export and import your accounts to another browser (Brave, Chrome recommended). The SubWallet extension on Firefox cannot be updated at the moment due to compatibility issues with Manifest V3, which means you won't be able to transfer/withdraw any tokens, including AVAIL.&#x20;
+
+In order to sign transactions on the Avail network using Ledger, follow this [guide](account-management/connect-ledger-device.md#connect-via-legacy-ledger-apps). Please note that you need to **select and open the Avail app** in your Ledger (not the Polkadot app) and **choose the Avail option** in the dropdown list when connecting your Ledger to SubWallet.&#x20;
+
+<img src="../.gitbook/assets/2.jpg" alt="" data-size="original">![](<../.gitbook/assets/1 (1).jpg>)
+
+<img src="../.gitbook/assets/Screenshot_101.png" alt="" data-size="original">![](../.gitbook/assets/Screenshot\_102.png)
+
+Once connected, you'll be able to make AVAIL-related transactions on Ledger.
+
+:warning: **If you've previously used the Polkadot app to claim AVAIL, the problem will still remain**. The Avail network is not compatible with the Polkadot app on Ledger; therefore, your AVAIL tokens are trapped. In this case, the only way is to use the [Ledger Account Recovery Tool](https://github.com/Koniverse/Ledger-Account-Recovery-Tool) to be able to transfer your AVAIL out of your Ledger Polkadot account. Detailed instructions on migrating your assets using this tool can be found [here](faqs.md#what-if-i-mistakenly-transfer-an-unsupported-networks-token-into-my-ledger-account).
+
+:warning: **Using the tool exposes your seed phrase; you are recommended to create new and move assets. Use it at your own risk!**
+
+</details>

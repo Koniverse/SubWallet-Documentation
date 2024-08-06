@@ -30,7 +30,7 @@ With each campaign, we provide all the information needed so you can decide whet
 * <img src="../.gitbook/assets/Screenshot_6.png" alt="" data-size="line">: Project website
 * <img src="../.gitbook/assets/Screenshot_7.png" alt="" data-size="line">: Project Twitter (X) page.
 
-<img src="../.gitbook/assets/1 (2).jpg" alt="" data-size="original"><img src="../.gitbook/assets/2 (2).jpg" alt="" data-size="original">
+<img src="../.gitbook/assets/1 (2) (1).jpg" alt="" data-size="original"><img src="../.gitbook/assets/2 (2).jpg" alt="" data-size="original">
 {% endhint %}
 
 Once you have chosen a campaign, click "**Join now**".&#x20;
