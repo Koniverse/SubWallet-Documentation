@@ -28,27 +28,27 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 **Step 1:** Open the SubWallet extension and click on the list item at the left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** In the Settings section, click “General settings”.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_12 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After that, choose the “Currency” option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** In the Currency list, either scroll down or type the currency in the search bar to select your preferred currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this example, we chose "BRL - Brazilian Real" as the displayed currency. Once done, you will be redirected back to the General settings screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_15 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_15 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** You are done! Please return to the SubWallet homepage to see your balance in your chosen currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The next time you open the extension, your portfolio balance will be displayed with your chosen currency.

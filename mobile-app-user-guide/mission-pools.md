@@ -18,7 +18,7 @@ This feature allows you to participate in various live and upcoming airdrop camp
 
 **Step 3**: Select the campaign you want to join from the list.
 
-<figure><img src="../.gitbook/assets/Screenshot_11.png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_11 (1).png" alt="" width="294"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 With each campaign, we provide all the information needed so you can decide whether to participate or not. This includes:
