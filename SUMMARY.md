@@ -59,7 +59,7 @@
   * [Import and restore an account](extension-user-guide/account-management/import-and-restore-an-account.md)
   * [Attach a watch-only account](extension-user-guide/account-management/attach-a-watch-only-account.md)
   * [Attach a Polkadot Vault (previously Parity-Signer) account](extension-user-guide/account-management/attach-a-polkadot-vault-previously-parity-signer-account.md)
-  * [Connect Ledger device](extension-user-guide/account-management/connect-ledger-device/README.md)
+  * [Connect Ledger device](extension-user-guide/account-management/connect-ledger-device.md)
     * [Connect via network-specific apps](extension-user-guide/account-management/connect-ledger-device/connect-via-network-specific-apps.md)
     * [Connect via EVM apps](extension-user-guide/account-management/connect-ledger-device/connect-via-evm-apps.md)
     * [Connect via the Polkadot app](extension-user-guide/account-management/connect-ledger-device/connect-via-the-polkadot-app.md)

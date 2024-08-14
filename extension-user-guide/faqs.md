@@ -689,7 +689,7 @@ In the Metadata tab, choose "**Update metadata**" to update the Kusama metadata.
 
 :warning: If you are using the SubWallet extension on Firefox, you will need to export and import your accounts to another browser (Brave, Chrome recommended). The SubWallet extension on Firefox cannot be updated at the moment due to compatibility issues with Manifest V3, which means you won't be able to transfer/withdraw any tokens, including AVAIL.&#x20;
 
-In order to sign transactions on the Avail network using Ledger, follow this [guide](account-management/connect-ledger-device/#connect-via-legacy-ledger-apps). Please note that you need to **select and open the Avail app** in your Ledger (not the Polkadot app) and **choose the Avail option** in the dropdown list when connecting your Ledger to SubWallet.&#x20;
+In order to sign transactions on the Avail network using Ledger, follow this [guide](account-management/connect-ledger-device.md#connect-via-legacy-ledger-apps). Please note that you need to **select and open the Avail app** in your Ledger (not the Polkadot app) and **choose the Avail option** in the dropdown list when connecting your Ledger to SubWallet.&#x20;
 
 <img src="../.gitbook/assets/2.jpg" alt="" data-size="original">![](<../.gitbook/assets/1 (1).jpg>)
 
