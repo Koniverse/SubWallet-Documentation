@@ -28,19 +28,19 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 **Step 1:** On the SubWallet homepage, click the "Settings" tab on the sidebar to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_17 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_17 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** In the Settings section, click “General settings”.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_18 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_18 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After that, choose the “Currency” option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_19 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_19 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** A screen will appear on the right side. Either scroll down or type in the search bar to select your preferred currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20 (1).png" alt=""><figcaption></figcaption></figure>
 
 In this example, we chose "CNY - Chinese Yuan" as the displayed currency. Once done, the screen will be closed, and your chosen currency will be displayed in the General settings section.
 

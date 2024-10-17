@@ -12,7 +12,7 @@ In this part, there are 4 guidelines for the following sections:
 
 [nomination-pool](nomination-pool/ "mention")
 
-[nominate-for-validator](nominate-for-validator/ "mention")
+[direct-nomination](direct-nomination/ "mention")
 
 [nominate-for-collator](nominate-for-collator/ "mention")
 

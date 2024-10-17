@@ -23,7 +23,7 @@ Your account address should be visible under your account name. If you cannot se
 
 To choose an account, click on the account name to get to the account selection tab, select the specific account you want, and the address will be visible.&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 <img src="../.gitbook/assets/image (1951).png" alt="" data-size="original">
 
@@ -394,7 +394,7 @@ Please follow the instructions below if you are using Chrome/MS Edge/Brave brows
 
 Once done, choose "**Delete database**", then click "**OK**" to confirm the request and then close the window.
 
-<img src="../.gitbook/assets/Screenshot_16 (2) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_16 (2) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1) (1).png" alt="" data-size="original">
 
 **Step 4**: Click on the 3-dot icon at the top right of the screen, then select "**Extension**" and click "**Manage extension**" to open the Extension panel.
 
@@ -402,7 +402,7 @@ Once done, choose "**Delete database**", then click "**OK**" to confirm the requ
 
 **Step 5**: Find the SubWallet extension in the extension list, then **turn off and on** the toggle.
 
-<img src="../.gitbook/assets/Screenshot_20 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_20 (1) (1).png" alt="" data-size="original">
 
 **Step 6**: You have successfully cleared the extension data. Now, you can use the extension normally.
 
