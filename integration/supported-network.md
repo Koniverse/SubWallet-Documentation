@@ -1,185 +1,236 @@
 ---
 description: >-
   SubWallet already supports all Relaychains and Parachains in the Polkadot and
-  Kusama ecosystems while constantly adding new networks to this list....
+  Kusama ecosystems, EVM popular networks, TON network while constantly adding
+  new networks to this list....
 ---
 
 # Supported Network
 
 ## Relaychain
 
-1. [Polkadot](https://polkadot.io/)
-2. [Kusama](https://kusama.network/)
+1. Polkadot&#x20;
+2. Kusama
 
-## Polkadot Parachains
+## Parachain
 
-1. [Statemint - Parity Technologies’ generic assets parachain](https://polkadot.network/blog/statemint-becomes-first-common-good-parachain-on-polkadot/)
-2. [Acala - The DeFi Hub of Polkadot](https://acala.network/)
-3. [Moonbeam - A Fully Ethereum-Compatible Environment on Polkadot](https://moonbeam.network/)
-4. [Astar - Multi Chain Polkadot DApp Hub](https://astar.network/)
-5. [Parallel Finance - A decentralized lending, staking, and borrowing built on Polkadot](https://parallel.fi/)
-6. [Clover - A Foundational Layer for Cross-chain Compatibility](https://clover.finance/)
-7. [Efinity - A next-generation highway for the NFT industry](https://efinity.io/)
-8. [Composable - Liquidity infrastructure for DeFi assets powered by Layer 2 Ethereum and Polkadot](https://www.composable.finance/)
-9. [Centrifuge - A Decentralized Asset Finance](https://centrifuge.io/)
-10. [HydraDX - The Multi-headed Liquidity Omnipool](https://hydradx.io/)
-11. [Interlay - A Trustless Bitcoin for Polkadot's DeFi Ecosystem](https://interlay.io/)
-12. [Equilibrium - The first decentralized interoperable money market on Polkadot](https://equilibrium.io/en)
-13. [Nodle Network - Nodle is a crowdsourced decentralized IoT network built on Polkadot](https://www.nodle.com/)
-14. [Litentry - A Decentralized Cross-Chain Identity Aggregator Built on Substrate](https://www.litentry.com/)
-15. [Darwinia - A Web3.0 cross-chain bridge hub built on Substrate.](https://darwinia.network/)
-16. [Phala Network - A Blockchain Confidentiality by Trusted Computing](https://phala.network/en/)
-17. [Crust Network - Crust provides a decentralized storage network of Web3 ecosystem](https://crust.network/)
-18. [Coinversation - A synthetic asset issuance protocol and DEX based on the Polkadot](https://www.coinversation.io/)
-19. [SubGame - A public chain development team based on the Polkadot Para chain](https://www.subgame.org/#/)
-20. [Manta Network - On-Chain Privacy for for Web 3, DeFi](https://www.manta.network/)
-21. [Ares Protocol - Decentralized Cross-Chain Oracle Platform](https://www.aresprotocol.io/)
-22. [Polkadex - The trading engine for Web3 and DeFi](https://www.polkadex.trade/)
-23. [Unique Network - Build Next Generation NFTs](https://unique.network/)
-24. [OriginTrail - The world's first Decentralized Knowledge Gap](https://origintrail.io/)
-25. [Integritee](https://integritee.network/)
-26. [Aventus](https://www.aventus.io/aventus-network-to-bring-enhanced-blockchain-offering-to-businesses-with-polkadot-parachain-slot-bid/)
-27. [Bifrost](https://bifrost.finance/)
-28. [Edgeware](https://www.edgeware.io/)
-29. [Chain X](https://chainx.org/)
-30. [Pendulum](https://pendulumchain.org/)
-31. [Watr Network](https://watr.org/)
-32. Polkadot Collectives
-33. [SwapDEX](https://swapdex.network/)
-34. [RioChain](https://riochain.io/)
-35. [Bitgreen](https://bitgreen.org/wallet)
-36. [Ajuna Network ](https://ajuna.io/)
-37. [Frequency](https://www.frequency.xyz/)
-38. [Kapex](https://totem.live/)
-39. [Kylin Network](https://www.kylin.network/)
-40. [Crown Sterling ](https://www.crownsterling.io/)
+1. Moonbeam &#x20;
+2. Astar&#x20;
+3. Mythos&#x20;
+4. peaq &#x20;
+5. Hyperbridge&#x20;
+6. Polkadot Asset Hub&#x20;
+7. Acala&#x20;
+8. Bifrost Kusama&#x20;
+9. Bifrost Polkadot&#x20;
+10. Shiden&#x20;
+11. Aventus Polkadot&#x20;
+12. Moonriver&#x20;
+13. Turing&#x20;
+14. Calamari&#x20;
+15. Amplitude&#x20;
+16. Parallel&#x20;
+17. Clover&#x20;
+18. Hydration&#x20;
+19. Centrifuge&#x20;
+20. Interlay&#x20;
+21. Nodle&#x20;
+22. Darwinia 2&#x20;
+23. SORA Kusama&#x20;
+24. Composable Finance&#x20;
+25. Phala&#x20;
+26. Crust&#x20;
+27. Kusama Asset Hub&#x20;
+28. Karura&#x20;
+29. Khala&#x20;
+30. KILT&#x20;
+31. Spiritnet&#x20;
+32. Basilisk&#x20;
+33. Altair&#x20;
+34. Heiko&#x20;
+35. Kintsugi&#x20;
+36. Picasso&#x20;
+37. Quartz&#x20;
+38. Unique&#x20;
+39. Subsocial&#x20;
+40. Zeitgeist&#x20;
+41. Crust&#x20;
+42. Shadow&#x20;
+43. Robonomics&#x20;
+44. Integritee Network&#x20;
+45. Integritee Shell&#x20;
+46. Crab2 Parachain&#x20;
+47. Mangata X&#x20;
+48. Encointer&#x20;
+49. Litmus&#x20;
+50. Litentry&#x20;
+51. Imbue Kusama&#x20;
+52. NeuroWeb Mainnet&#x20;
+53. Bajun Kusama&#x20;
+54. Kabocha&#x20;
+55. Pendulum&#x20;
+56. Polkadot Collectives&#x20;
+57. Ajuna Network&#x20;
+58. Bitgreen&#x20;
+59. Frequency&#x20;
+60. Hashed Network&#x20;
+61. DAO IPCI&#x20;
+62. Logion&#x20;
+63. Polkadot Bridge Hub&#x20;
+64. Kusama Bridge Hub&#x20;
+65. Krest Network
+66. Energy Web X&#x20;
+67. InvArch Network&#x20;
+68. Manta Atlantic&#x20;
+69. Polimec
+70. Watr Mainnet&#x20;
+71. Enjin Matrixchain&#x20;
+72. Polkadex Polkadot&#x20;
+73. Continuum Network&#x20;
+74. Acurast Canary&#x20;
+75. Curio&#x20;
+76. Kusama People&#x20;
+77. Kreivo&#x20;
+78. Pioneer Network
 
+## Solochain
 
+1. Aleph Zero&#x20;
+2. Avail&#x20;
+3. Bittensor&#x20;
+4. Vara Network&#x20;
+5. Creditcoin Native
+6. Enjin Relaychain&#x20;
+7. Edgeware&#x20;
+8. Polkadex&#x20;
+9. Sakura&#x20;
+10. Chain X&#x20;
+11. Ternoa&#x20;
+12. XX Network&#x20;
+13. Fusotao&#x20;
+14. Discovol&#x20;
+15. Atocha&#x20;
+16. Myriad&#x20;
+17. DeBio&#x20;
+18. Automata&#x20;
+19. CC Enterprise&#x20;
+20. Crown&#x20;
+21. Sterling&#x20;
+22. Dock&#x20;
+23. Neatcoin&#x20;
+24. NFTMart&#x20;
+25. Polymesh Mainnet&#x20;
+26. SORA&#x20;
+27. 3DPass&#x20;
+28. Kulupu&#x20;
+29. Joystream&#x20;
+30. Deeper Network&#x20;
+31. Jur Network&#x20;
+32. Crust Mainnet&#x20;
+33. Liberland&#x20;
+34. DENTNet&#x20;
+35. Humanode&#x20;
+36. Commune AI&#x20;
+37. DBC Mainnet&#x20;
+38. Cere Network&#x20;
+39. Ares Odyssey
 
-## Kusama&#x20;
+## EVM network
 
-1. [Statemine - Statemine is the Kusama instance of Polkadot’s _Statemint_ parachain](https://polkadot.network/blog/statemine-upgrade-launches-new-phase-of-parachain-functionality/)
-2. [Karura - The DeFi Hub of Kusama](https://acala.network/karura)
-3. [Moonriver - As a decentralized smart contract platform, Moonriver requires the MOVR token to function.](https://moonbeam.network/networks/moonriver/)
-4. [Shiden Network - A canary network of Astar, Multi Chain dApp Hub on Kusama](https://shiden.astar.network/)
-5. [Khala Network - K-PHA will be Khala’s native token, swappable with ERC20-PHA and Phala native PHA at 1:1](https://phala.network/khala/)
-6. [Bifrost - Polkadot DeFi protocol that aims to provide staking liquidity with PoS Network.](https://bifrost.finance/)
-7. [KILT Protocol - Blockchain protocol for issuing self-sovereign, anonymous, verifiable credentials](https://www.kilt.io/)
-8. [Calamari Network - The only on-chain privacy technology for $KSM | Powered by MantaNetwork](https://www.calamari.network/)
-9. [Basilisk - A Liquidity Bootstrapping Protocol built for Kusama](https://bsx.fi/)
-10. [Altair - Spinning real-world assets into Kusama](https://centrifuge.io/altair/)
-11. [Heiko Finance - A Decentralized Lending Protocol](https://parallel.fi/)
-12. [Kintsugi BTC - Radically open Bitcoin on Kusama Network](https://kintsugi.interlay.io/)
-13. [Picasso - A Cross-chain interoperability infrastructure and a Comprehensive Defi ecosystem powered by Polkadot](https://www.composable.finance/)
-14. [Pioneer Network - Metaverse Hub of Kusama - the canary network of Bit Country](https://bit.country/)
-15. [Quartz - Gives the Kusama community the essential and advanced NFT tools to unleash innovation.](https://unique.network/quartz/)
-16. [The SORA Kusama Parachain](https://sora.org/)
-17. [Genshiro - A Canary Network of Equilibrium that shares the experimental spirit of Kusama](https://genshiro.equilibrium.io/en)
-18. [SubSocial - Open protocol for social + finance on Polkadot and IPFS](https://subsocial.network/)
-19. [Zeitgeist - An evolving blockchain for prediction markets and futarchy](https://zeitgeist.pm/)
-20. [Sakura - Sakura is the foundational layer for cross-chain DeFi, built to serve Kusama.](https://clover.finance/sakura)
-21. [Crust Shadow - A Canary Network of Crust, Chain to Decentralized Cloud](https://crust.network/)
-22. [Robonomics - A build economy of robots under Polkadot and Ethereum control.](https://robonomics.network/)
-23. [Integritee Network - A Decentralized Platform for Trusted Execution.](https://integritee.network/)
-24. [Darwinia Crab - Darwinia Crab Testnet is a canary network with real economics for Darwinia.](https://crab.network/)
-25. [Pichiu - The canary network of Kylin on Kusama.](https://kylin.network/)
-26. [Turing Network - Secure and Trustless Automation Payments and finance infrastructure for the Web 3.0](https://oak.tech/)
-27. [Encointer - Money by the people, for the people](https://encointer.org/)
-28. [Litmus - We're building a Web3 identity hub on Kusama Kusama Logo](https://kusama-crowdloan.litentry.com/)
-29. [Dora Factory - The DAO infrastructure of the Kusama ecosystem](https://dorafactory.org/kusama/)
-30. [Bajuna Network - The Kusama parachain of Ajuna Network](https://ajuna.io/)
-31. [Listen - Listen more, Think more](https://listen.io/)
-32. [Kabocha - Playground of possibilities](https://www.kabocha.network/)
-33. [Imbue Network - The future of crowdfunding on Polkadot](https://www.imbue.network/)
-34. [Amplitude](https://pendulumchain.org/amplitude)
-35. [GM Parachain](https://www.gmordie.com/)
-36. [Tanganika ](https://www.datahighway.com/)
-37. [Tinkernet - The Bleeding-Edge Layer-1 for the Creator Economy](https://invarch.network/tinkernet)
-38. [SNOW Network](https://icenetwork.io/snow/)
-39. [Mangata](https://www.mangata.finance/)
-40. [InvArch Tinker](https://invarch.network/tinkernet)
-
-## Solochains
-
-1. [Edgeware - Edgeware is a smart contract chain with a community-managed treasury](https://edgewa.re/)
-2. [Aleph Zero](https://alephzero.org/)
-3. [ChainX - Build the trust of Bitcoin on Layer2 Networks](https://chainx.org/)
-4. [Subsocial Solochain](https://subsocial.network/)
-5. [Subspace - Infrastructure for Web3](https://subspace.network/)
-6. [Ternoa - NFT-Centric Blockchain](https://www.ternoa.com/)
-7. [XX Network ](https://xx.network/)
-8. [Fusotao](https://www.fusotao.org/#/)
-9. [Joystream](https://www.joystream.org/)
-10. [Kulupu](https://kulupu.network/)
-11. [Discovol](https://discovol.org/)
-12. [Atocha](https://atocha.io/)
-13. [Myria](https://myria.com/)
-14. [3DPass](https://3dpass.org/)
-15. [Polymesh](https://polymesh.network/blog/what-is-polyx-used-for-on-polymesh)
-16. [Logion Standalon](https://logion.network/)
-17. [Hashed Network](https://hashed.network/)
-18. [Dock](https://www.dock.io/web3id)
-19. [RioDeFi](https://riochain.io/)
-20. [NFTMart](https://riochain.io/)
-21. [DAO IPCI](https://ipci.io/)
-
-
-
-## EVM chains
-
-1. Ethereum Mainet
+1. Ethereum&#x20;
 2. Binance Smart Chain
-3. Boba Network
-4. Bobabeam
-5. Astar - EVM
-6. Polygon
-7. Arbitrum One
-8. Optimism&#x20;
-9. TomoChain
-10. Shiden - EVM
-11. Clover
-12. Pangoli
-13. Watr Network
-14. SherpaX
-15. Kusari
-16. Creditcoin
-17. Automata
+3. Linea &#x20;
+4. Manta Pacific&#x20;
+5. Polygon&#x20;
+6. Polygon zkEVM&#x20;
+7. Base Mainnet&#x20;
+8. Arbitrum One&#x20;
+9. Optimism&#x20;
+10. Viction&#x20;
+11. Aleph Zero - EVM&#x20;
+12. Mantle Network&#x20;
+13. Astar - EVM&#x20;
+14. Shiden - EVM&#x20;
+15. Clover - EVM&#x20;
+16. Boba Network&#x20;
+17. Fantom&#x20;
+18. Avalanche C-Chain&#x20;
+19. Acala - EVM&#x20;
+20. Karura - EVM&#x20;
+21. Watr Mainnet - EVM&#x20;
+22. Energy Web Chain&#x20;
+23. Astar zkEVM X Layer&#x20;
+24. Humanode - EVM&#x20;
+25. Bitlayer BÂ² Network&#x20;
+26. BOB&#x20;
+27. BounceBit&#x20;
+28. Aura Network&#x20;
+29. Exosama&#x20;
+30. Blast Mainnet&#x20;
+31. 5ireChain Mainnet&#x20;
+32. Immutable zkEVM Mainnet&#x20;
+33. Creditcoin EVM&#x20;
+34. RARI Chain&#x20;
+35. Scroll
+
+## TON network
 
 ## Testnet
 
-* Rococo Testnet
-* Westend Testnet
-* AlephZero Testnet
-* Bit.Country Alphanet
-* Dolphin Testnet (Manta Network)
-* Kintsugi Testnet
-* MangataX Public Testnet
-* Moonbase Alpha (Moonbeam Network)
-* Neumann Network (Oak Network)
-* Opal Network (Unique Network)
-* Bifrost Testnet
-* Gear Staging Tesnet
-* RMRK Devnet
-* KILT Spiritnet
-* Genshiro Testnet
-* Acala Mandala
-* Shibuya Tesnet
-* Bobabase Testnet
-* Boba Rinkeby Testnet
-* Ethereum Testnet (Goerli)
-* Shibuya Testnet
-* Shibuya Testnet - EVM
-* Westend
-* Turing Staging
-* Amplitude Testnet
-* Binance Smart Chain Testnet
-* Polkadex Testnet&#x20;
-* Unique TestNet 2.0
-* Acala Mandala TC7
-* Subspace Testney
-* Arctic Testnet
-* KILT Peregrine
-* Aventus Testnet
-* Discovol Testnet
-* Barnacle
-* Aleph Zero Smartnet
+1. Aleph Zero Testnet&#x20;
+2. Shibuya Testnet&#x20;
+3. Shibuya Testnet - EVM&#x20;
+4. Westend&#x20;
+5. Rococo&#x20;
+6. Moonbase Alpha&#x20;
+7. Turing Staging&#x20;
+8. Bifrost Testnet&#x20;
+9. Amplitude Testnet&#x20;
+10. Binance Smart Chain (Testnet)&#x20;
+11. Opal&#x20;
+12. Kintsugi Testnet&#x20;
+13. Pangolin&#x20;
+14. Acala Mandala TC7&#x20;
+15. Subspace Gemini 3g Dancebox&#x20;
+16. Ternoa Alphanet&#x20;
+17. Calamari Staging&#x20;
+18. KILT Peregrine&#x20;
+19. Watr Testnet&#x20;
+20. Watr Testnet - EVM&#x20;
+21. Aventus Testnet&#x20;
+22. Fantom Testnet&#x20;
+23. ZetaChain Testnet&#x20;
+24. Vara Network Testnet&#x20;
+25. EWX Staging Parachain&#x20;
+26. Energy Web X Rococo&#x20;
+27. Subspace Gemini 3h&#x20;
+28. Rococo Asset Hub&#x20;
+29. X Layer testnet&#x20;
+30. Liberland Testnet&#x20;
+31. Polkadot Chainflip Testnet&#x20;
+32. Tangle Testnet&#x20;
+33. Phyken Network Testnet
+34. Creditcoin EVM Testnet&#x20;
+35. Ethereum Sepolia&#x20;
+36. Hydration Rococo&#x20;
+37. Creditcoin Native Testnet&#x20;
+38. Paseo Testnet&#x20;
+39. Avail Turing Testnet&#x20;
+40. Bitlayer Testnet&#x20;
+41. CESS Testnet&#x20;
+42. Bitcoin Testnet&#x20;
+43. Analog Testnet&#x20;
+44. Berachain bArtio&#x20;
+45. Atleta Olympia&#x20;
+46. BÂ² Network Testnet&#x20;
+47. Unique - EVM&#x20;
+48. Aleph Zero Testnet - EVM&#x20;
+49. TON Testnet&#x20;
+50. Story Public Testnet&#x20;
+51. Soneium Minato&#x20;
+52. Base Sepolia&#x20;
+53. Arbitrum Sepolia&#x20;
+54. Ternoa zkEVM+ Testnet&#x20;
+55. Bittensor devnet&#x20;
+56. zkVerify Testnet&#x20;
+57. &#x20;Unichain Sepolia
