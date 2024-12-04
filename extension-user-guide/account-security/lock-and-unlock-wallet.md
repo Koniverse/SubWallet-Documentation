@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (4).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, scroll down to the end to see the "**Lock**" button and then click it to lock your wallet.
 
@@ -34,7 +34,7 @@ Auto-lock is a security feature that locks your wallet after a period of inactiv
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (4).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (5).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select “**Security settings**”.
 

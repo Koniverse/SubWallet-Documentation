@@ -11,7 +11,7 @@ description: >-
 
 <summary>I want to log off my wallet when I’m not at my computer. Can I do this with SubWallet?</summary>
 
-To keep the security of your assets while you are away, you can use the **lock function** of SubWallet. Please follow the instructions [here](getting-started/lock-and-unlock-your-wallet/).
+To keep the security of your assets while you are away, you can use the **lock function** of SubWallet. Please follow the instructions [here](broken-reference).
 
 </details>
 
@@ -372,7 +372,7 @@ To enable configuration in Firefox/Chrome/Microsoft Edge, please follow the inst
 
 In this case, you will need to clear the extension's database.&#x20;
 
-:warning:  **Please note that by doing this, some account-related data may be lost, **<mark style="background-color:yellow;">**but the seed phrase will not be affected.**</mark>** This includes:**
+:warning:  **Please note that by doing this, some account-related data may be lost,&#x20;**<mark style="background-color:yellow;">**but the seed phrase will not be affected.**</mark>**&#x20;This includes:**
 
 * **Custom networks/tokens added**
 * **Networks that are manually turned on/off**
@@ -693,7 +693,7 @@ In order to sign transactions on the Avail network using Ledger, follow this [gu
 
 <img src="../.gitbook/assets/2.jpg" alt="" data-size="original">![](<../.gitbook/assets/1 (1).jpg>)
 
-<img src="../.gitbook/assets/Screenshot_101.png" alt="" data-size="original">![](../.gitbook/assets/Screenshot\_102.png)
+<img src="../.gitbook/assets/Screenshot_101.png" alt="" data-size="original">![](../.gitbook/assets/Screenshot_102.png)
 
 Once connected, you'll be able to make AVAIL-related transactions on Ledger.
 

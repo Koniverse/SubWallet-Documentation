@@ -12,37 +12,21 @@ description: Stake TAO on SubWallet!
 
 **Step 1**: Open the SubWallet extension and choose the "**Earning**" tab.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_10.png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_10 (2).png" alt="" width="350"><figcaption></figcaption></figure>
 
 **Step 2**: In the Earning options screen, choose the TAO token by searching through the list or typing the token name on the search bar.
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/image (1974).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (1974).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you have previously staked funds on the account, after choosing the "**Earning**" tab, you will be directed to the Your earning positions screen. From there, click the "**+**" icon at the upper right corner to get to the Earning options screen.
 
-<img src="../../../../.gitbook/assets/Screenshot_11.png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/Screenshot_11 (2).png" alt="" data-size="original">
 {% endhint %}
 
 A pop-up will appear. Read carefully, then choose "**Stake to earn**" to proceed.
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/Screenshot_14.png" alt="" width="350"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/Screenshot_15.png" alt="" width="348"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot_14 (3).png" alt="" width="350"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_15 (3).png" alt="" width="348"><figcaption></figcaption></figure></div>
 
 You will be directed to the following Start earning screen.
 
@@ -54,24 +38,16 @@ Make sure you have more than 0.1 TAO in your transferable balance to be able to 
 
 **Step 3**: Enter the required staking information.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_16.png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_16 (3).png" alt="" width="350"><figcaption></figcaption></figure>
 
 A completed staking request will look like the following picture. Click "**Stake**" to proceed.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_17.png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_17 (2).png" alt="" width="350"><figcaption></figcaption></figure>
 
 **Step 4**: Check the information and confirm your staking request by clicking "**Approve**".
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_18.png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_18 (3).png" alt="" width="350"><figcaption></figcaption></figure>
 
 **Step 5**: You have successfully staked TAO!
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/Screenshot_19.png" alt="" width="350"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/Screenshot_20.png" alt="" width="350"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot_19 (3).png" alt="" width="350"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20.png" alt="" width="350"><figcaption></figcaption></figure></div>

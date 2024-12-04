@@ -1,3 +1,7 @@
+---
+description: Let's get started with the SubWallet extension right away!
+---
+
 # Getting started
 
 Here are the articles in this section:
@@ -6,14 +10,15 @@ Here are the articles in this section:
 [install-subwallet.md](install-subwallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="lock-and-unlock-your-wallet/" %}
-[lock-and-unlock-your-wallet](lock-and-unlock-your-wallet/)
+{% content-ref url="create-a-master-password.md" %}
+[create-a-master-password.md](create-a-master-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-master-password/" %}
-[create-a-master-password](create-a-master-password/)
+{% content-ref url="customize-language-display.md" %}
+[customize-language-display.md](customize-language-display.md)
 {% endcontent-ref %}
 
 {% content-ref url="customize-currency-display.md" %}
 [customize-currency-display.md](customize-currency-display.md)
 {% endcontent-ref %}
+
