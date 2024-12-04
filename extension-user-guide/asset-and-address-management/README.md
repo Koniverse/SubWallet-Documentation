@@ -14,8 +14,8 @@ Here are the articles in this section:
 [show-hide-balances.md](show-hide-balances.md)
 {% endcontent-ref %}
 
-{% content-ref url="manage-address-book.md" %}
-[manage-address-book.md](manage-address-book.md)
+{% content-ref url="../manage-address-book.md" %}
+[manage-address-book.md](../manage-address-book.md)
 {% endcontent-ref %}
 
 {% content-ref url="customize-your-assets/" %}

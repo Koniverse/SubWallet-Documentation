@@ -81,7 +81,7 @@ In this case, we would suggest you create a new wallet account with SubWallet an
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../network-management/customize-your-networks/) to enable the networks you want to use.
 
 Ethereum network will be automatically turned on for Ethereum accounts.
 
@@ -97,7 +97,7 @@ If you want to import by private key, please enter your private key and click "I
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../network-management/customize-your-networks/) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Polkadot accounts, but you can disable them if you so wish.
 {% endhint %}
@@ -121,7 +121,7 @@ Please note that if you want to import multiple accounts simultaneously from a J
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../network-management/customize-your-networks/) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Polkadot accounts, but you can disable them if you wish.
 {% endhint %}
@@ -132,7 +132,7 @@ If you want to import by QR code, please present your QR code backup of your acc
 
 **Step 1**: Click the "Scan the QR code" button.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FaegDNDckWS5Pm0iHXNzy%2FScreenshot\_20.png?alt=media\&token=730ceed9-3975-4f66-b14f-4f3e03fd83f0)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FaegDNDckWS5Pm0iHXNzy%2FScreenshot_20.png?alt=media\&token=730ceed9-3975-4f66-b14f-4f3e03fd83f0)
 
 {% hint style="info" %}
 Please note that you would need to grant the SubWallet extension permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
@@ -154,24 +154,16 @@ If you use the Brave browser, there will be multiple options that allow us to ac
 
 **Step 2**: Present your QR code and scan it with SubWallet using your device's camera.&#x20;
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/image (1574).png" alt="" width="290"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (1574).png" alt="" width="290"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fo0LyV3teoGd7K13E4p9S%2Fimage.png?alt=media&#x26;token=487b39c8-2c48-4c67-a496-897714b2549e" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2Fo0LyV3teoGd7K13E4p9S%2Fimage.png?alt=media&#x26;token=487b39c8-2c48-4c67-a496-897714b2549e" alt="" width="375"><figcaption></figcaption></figure></div>
 
 After the successful import of your account by QR code, you will be directed to the homepage.&#x20;
 
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-networks.md) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../network-management/customize-your-networks/) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you wish.
 {% endhint %}

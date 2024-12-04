@@ -31,7 +31,7 @@ By clicking the book icon on the right-hand side of the address field, you will 
 
 ![](<../../../.gitbook/assets/image (850).png>)![](<../../../.gitbook/assets/image (704).png>)
 
-To manage your address book, please follow this [guide](../../asset-and-address-management/manage-address-book.md)
+To manage your address book, please follow this [guide](../../manage-address-book.md)
 {% endhint %}
 
 

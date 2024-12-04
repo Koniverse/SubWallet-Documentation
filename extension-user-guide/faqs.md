@@ -33,7 +33,7 @@ To choose an account, click on the account name to get to the account selection 
 
 <summary>I cannot see my assets. What’s the problem?</summary>
 
-You can change the endpoint/provider or add a new endpoint/provider by following the instructions [here](customize-endpoint-provider.md).
+You can change the endpoint/provider or add a new endpoint/provider by following the instructions [here](network-management/customize-endpoint-provider.md).
 
 In case you have changed your provider but still cannot see the asset, you should restart the wallet or check again later. Some providers have slow processing speeds, and sometimes nodes can be unstable. If you need extra support, you can always visit us on [Discord](https://discord.gg/CvVewvApry) and [Telegram](https://t.me/subwallet).
 
@@ -352,7 +352,7 @@ When you receive these messages, please do the following:
 
 **Step 3**: Search for the network that supports your token to check the network connection.&#x20;
 
-If the connect icon is yellow/grey → You need to turn off the network and enable it back or [change to another provider](customize-endpoint-provider.md) to restore the network connection.&#x20;
+If the connect icon is yellow/grey → You need to turn off the network and enable it back or [change to another provider](network-management/customize-endpoint-provider.md) to restore the network connection.&#x20;
 
 If it still doesn't work (due to all the RPCs not working at that moment), please come back another time and try again.
 
