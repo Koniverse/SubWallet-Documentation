@@ -35,5 +35,5 @@ After following the above steps, you should click on to Manage tokens setting an
 {% endhint %}
 
 {% hint style="info" %}
-If you want to manage tokens in your wallet, you can follow this [instruction.](../import-and-manage-customized-assets/)
+If you want to manage tokens in your wallet, you can follow this [instruction.](broken-reference)
 {% endhint %}

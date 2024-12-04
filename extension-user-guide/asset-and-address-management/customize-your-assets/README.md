@@ -16,6 +16,6 @@ SubWallet now supports 400+ tokens in the Polkadot, Ethereum & TON ecosystem. Yo
 [import-and-manage-customized-tokens.md](import-and-manage-customized-tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../import-and-manage-customized-assets/import-nfts.md" %}
-[import-nfts.md](../../import-and-manage-customized-assets/import-nfts.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
