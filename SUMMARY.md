@@ -45,7 +45,7 @@
 
 * [Getting started](extension-user-guide/getting-started/README.md)
   * [Install SubWallet](extension-user-guide/getting-started/install-subwallet.md)
-  * [Create a master password](extension-user-guide/getting-started/create-a-master-password.md)
+  * [Create a master password](extension-user-guide/getting-started/create-a-master-password/README.md)
   * [Customize language display](extension-user-guide/getting-started/customize-language-display.md)
   * [Customize currency display](extension-user-guide/getting-started/customize-currency-display.md)
 * [Account security](extension-user-guide/account-security/README.md)

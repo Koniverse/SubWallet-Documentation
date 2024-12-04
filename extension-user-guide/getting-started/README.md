@@ -10,8 +10,8 @@ Here are the articles in this section:
 [install-subwallet.md](install-subwallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-master-password.md" %}
-[create-a-master-password.md](create-a-master-password.md)
+{% content-ref url="create-a-master-password/" %}
+[create-a-master-password](create-a-master-password/)
 {% endcontent-ref %}
 
 {% content-ref url="customize-language-display.md" %}
