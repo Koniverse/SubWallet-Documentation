@@ -10,27 +10,19 @@ description: >-
 
 _In this example, we will connect Ledger accounts to SubWallet by choosing the Avail app on the Ledger Nano S Plus device._
 
-<div>
+<div><figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-50.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-42.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-50.jpg" alt="" width="563"><figcaption></figcaption></figure>
+**Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
- 
+<figure><img src="../../../.gitbook/assets/Screenshot_214 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-42.jpg" alt="" width="563"><figcaption></figcaption></figure>
+**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-</div>
-
-**Step 2**:  Open the SubWallet extension and click on the account name to get to the account selection tab.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot_11 (1).png" alt="" width="363"><figcaption></figcaption></figure>
-
-**Step 3**: Choose the attach account icon at the bottom right corner.
-
-<figure><img src="../../../.gitbook/assets/Screenshot_12 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_192 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_213.png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 5**: Select the app corresponding to the current App on your Ledger and click "**Connect**". Your extension will display the following pop-up:
 
@@ -46,15 +38,15 @@ Don't forget to turn on the corresponding app on the Ledger device.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_14 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**"
+**Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_15 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_215.png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 8**: Your Ledger account is ready!
 
-If you get to the account list (repeat Step 2), you can see your Ledger account there. You will also see the Ledger icon next to your linked account(s) (see the image below), as this is to differentiate it from other account types.
+If you repeat the action in **Step 2**, you will see your newly connected Ledger Polkadot accounts displayed in the "**Ledger Account**" section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_16 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_216.png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: With these apps, their corresponding Ledger accounts can only handle assets like tokens and NFTs within the specific network associated with that account.&#x20;

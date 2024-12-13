@@ -28,21 +28,13 @@ If you still don't see the "Connect extension wallet" button, please try to refr
 
 <figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:** An extension's pop-up will appear. At this step, you will have to create a new account in extension following this [guide](../../extension-user-guide/account-management/create-a-new-account.md).
+**Step 4:** An extension's pop-up will appear. At this step, you will have to create a new account in extension following this [guide](../../extension-user-guide/account-management/create-a-new-account-with-a-new-seed-phrase.md).
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (348).png" alt="" width="296"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (348).png" alt="" width="296"><figcaption></figcaption></figure></div>
 
 After successfully creating a new account, this pop-up will appear. Let's choose the account(s) you want to connect with the web dashboard. Then click "Connect".
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (347).png" alt="" width="359"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (347).png" alt="" width="359"><figcaption></figcaption></figure></div>
 
 **Step 5:** Now, let's create a password in your web dashboard.
 
@@ -64,11 +56,7 @@ Now your account is ready to use:&#x20;
 
 **Step 2:** A pop-up window will appear. Choose the account(s) you want to connect and click "Connect".
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (353).png" alt="" width="356"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (353).png" alt="" width="356"><figcaption></figcaption></figure></div>
 
 Now your account is ready to use:&#x20;
 

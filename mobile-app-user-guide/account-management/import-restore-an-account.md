@@ -10,7 +10,7 @@ description: >-
 
 You can import and restore your account immediately from the "Welcome" screen.&#x20;
 
-![](<../../.gitbook/assets/image (17).png>) ![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (17) (1).png>) ![](<../../.gitbook/assets/image (18) (1).png>)
 
 ## If you have already had an account with SubWallet
 

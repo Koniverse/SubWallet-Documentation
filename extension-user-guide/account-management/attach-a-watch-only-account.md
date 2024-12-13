@@ -1,36 +1,33 @@
 ---
-description: This document will show you how to attach a watch-only account on SubWallet.
+description: >-
+  Attach an account to monitor its activity without having full access or
+  control over its funds on SubWallet.
 ---
 
 # Attach a watch-only account
 
-This feature allows you to view an account you do not own (i.e do not have private key for) with SubWallet. All you need is an account address.
+This feature allows you to view an account you do not own (i.e., don't own any backup information) with SubWallet. All you need is an account address.
 
-**Step 1**: Open SubWallet and click on the account name to get to the list of your accounts. Then click on the "Attach account" item in the lower right corner.
+**Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-![](<../../.gitbook/assets/image (686).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_135.png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: Choose "Attach watch-only account".
+**Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> icon at the bottom right of the screen.
 
-![](<../../.gitbook/assets/image (825).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_192 (5).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 3**: Enter the address (known as public key) of the account you want to track. Then click "Attach a watch-only account".
+**Step 3**: Choose "**Attach watch-only account**".
 
-![](<../../.gitbook/assets/image (829).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_193 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 4**: You will be redirected to the homepage. In this example, your watch-only account has been named "Account 6".
+**Step 3**: Enter the address (known as the public key) or the public QR code of the account you want to attach. If the address is valid, enter the name for that account, then click "**Attach watch-only account**".
 
-![](<../../.gitbook/assets/image (826).png>)
+<div><figure><img src="../../.gitbook/assets/Screenshot_194.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_196.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
-As the name suggests, this type of account is watch-only. You would not be able to transfer funds or actively participate in any activities with this type of account.&#x20;
+**Step 4**: You will be redirected to the homepage. In this example, your watch-only account has been named "_SubWallet is the best_".
 
-If you open your list of accounts again (see Step 1), you will see your watch-only account and can [rename](switch-between-accounts-and-change-account-name.md) it as you wish.
-
-![](<../../.gitbook/assets/image (687).png>)
+<div><figure><img src="../../.gitbook/assets/Screenshot_198.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_199.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-SubWallet helps you identify your watch-only accounts with the eye symbol as shown in the picture above, so even if you are creative when naming this account, you can still identify it. Please make sure that you are not in a watch-only account if you want to make transactions.
+As the name suggests, this type of account is watch-only. You could not transfer funds or actively participate in any activities with this type of account.&#x20;
 {% endhint %}
-
-
-

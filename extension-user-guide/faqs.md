@@ -23,7 +23,7 @@ Your account address should be visible under your account name. If you cannot se
 
 To choose an account, click on the account name to get to the account selection tab, select the specific account you want, and the address will be visible.&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 <img src="../.gitbook/assets/image (1951).png" alt="" data-size="original">
 
@@ -279,7 +279,7 @@ We use _Chrome_ for this example.
 
 **Step 7: Import the JSON file into SubWallet and recover the funds by sending all tokens to another account**
 
-You can see how to import the JSON file into SubWallet [here](account-management/import-and-restore-an-account.md).
+You can see how to import the JSON file into SubWallet [here](account-management/import-accounts/).
 
 <img src="../.gitbook/assets/image (1929).png" alt="" data-size="original">
 

@@ -34,11 +34,7 @@ Depending on the type of account you want to export, SubWallet supports differen
 
 As "Rosie" is a Polkadot account, there are 3 options to export the account, as listed in the table above.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/Screenshot_264.png" alt="" width="314"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/Screenshot_264.png" alt="" width="314"><figcaption></figcaption></figure></div>
 
 &#x20;**Step 5**: Enter your password and click "**Confirm**".&#x20;
 
@@ -48,15 +44,7 @@ As "Rosie" is a Polkadot account, there are 3 options to export the account, as 
 
 Scroll to see all your backups and click the "**Finish**" button below to return to the homepage.&#x20;
 
-<div>
-
-<figure><img src="../../.gitbook/assets/photo_2024-06-24_19-31-10 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/photo_2024-06-24_19-31-10 (2) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/photo_2024-06-24_19-31-10 (1) (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/photo_2024-06-24_19-31-10 (2) (1) (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Please save and keep your backup files secure.&#x20;
@@ -78,7 +66,7 @@ This feature allows users to export the backup information of multiple accounts 
 
 **Step 1**: Open SubWallet and click on the account name to get to the account selection tab.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt="" width="314"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click on the export icon <img src="https://docs.subwallet.app/~gitbook/image?url=https%3A%2F%2F631687399-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lh39Kwxa1xxZM9WX_Bs%252Fuploads%252FdKmdfoqM7gH6IU79pzNH%252FScreenshot_14.png%3Falt%3Dmedia%26token%3D9f00f378-2891-41dd-a831-a49f1de995f7&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=24271389&#x26;sv=1" alt="" data-size="line"> at the top right of the screen.
 
