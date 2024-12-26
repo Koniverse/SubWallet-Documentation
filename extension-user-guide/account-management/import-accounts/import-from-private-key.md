@@ -16,11 +16,11 @@ Currently, SubWallet allows you to use private key to  import solo accounts:
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_164.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_164 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_165.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_165 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from private key**" as the chosen method to import your account.
 
@@ -28,7 +28,7 @@ Currently, SubWallet allows you to use private key to  import solo accounts:
 
 **Step 4**: Enter the private key and the name of your account. Once done, click "**Continue**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_188.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_189.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_188 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_189 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 You have successfully imported your account!
 
@@ -36,11 +36,11 @@ You have successfully imported your account!
 
 **Step 1**: Open the SubWallet extension and choose "**Import an account**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_160.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_160 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: Choose your preferred way to import account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_161.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_161 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3:** Create a master password with at least 8 characters and tick "**I understand that SubWallet can't recover the password**".&#x20;
 
@@ -50,6 +50,6 @@ SubWallet is non-custodial, so you will be the only person who knows your passwo
 
 Once done, click "**Continue**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_162.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_163.png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_162 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_163 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 Once you create a master password, you can follow the importing procedure provided in[#if-you-are-currently-using-subwallet](import-from-private-key.md#if-you-are-currently-using-subwallet "mention"), starting from **Step 3.**

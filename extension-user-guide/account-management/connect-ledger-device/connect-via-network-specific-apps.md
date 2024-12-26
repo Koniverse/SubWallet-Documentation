@@ -14,15 +14,15 @@ _In this example, we will connect Ledger accounts to SubWallet by choosing the A
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_214 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_214 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
+**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191 (1).png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_192 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_213.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_213 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 5**: Select the app corresponding to the current App on your Ledger and click "**Connect**". Your extension will display the following pop-up:
 
@@ -40,13 +40,13 @@ Don't forget to turn on the corresponding app on the Ledger device.
 
 **Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_215.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_215 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 8**: Your Ledger account is ready!
 
 If you repeat the action in **Step 2**, you will see your newly connected Ledger Polkadot accounts displayed in the "**Ledger Account**" section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_216.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_216 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: With these apps, their corresponding Ledger accounts can only handle assets like tokens and NFTs within the specific network associated with that account.&#x20;

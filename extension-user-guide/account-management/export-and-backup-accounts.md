@@ -18,17 +18,17 @@ _(\*): The exported JSON file **cannot be imported** into EVM-compatible wallets
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_220.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_220 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_219.png" alt="" data-size="line"> icon on the right-hand side of the account you wish to export.&#x20;
+**Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_219 (1).png" alt="" data-size="line"> icon on the right-hand side of the account you wish to export.&#x20;
 
 _In this example, we will export the backup information of "SubWallet Unified 01" - a unified account._
 
-<figure><img src="../../.gitbook/assets/Screenshot_221.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_221 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: In the Account details section, choose "**Export**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_222.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_222 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Enter your password.&#x20;
 
@@ -42,7 +42,7 @@ As "SubWallet Unified 01" is a unified account, there are 2 options to export th
 
 **Step 5**: Choose your preferred way(s) to export your account. Then, click "**Confirm**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_224.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_224 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please save and keep your backup files secure.&#x20;
@@ -66,21 +66,21 @@ _In this example, we will export multiple accounts on the SubWallet extension on
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_220 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_220 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_231.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_231 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: In the Export account screen, select as many accounts to export as you wish.
 
 _In this example, we want to export 4 accounts. Once done, click on the "**Export 4 accounts**" button._
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_226.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_227.png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_226 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_227 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 **Step 4**: Enter your password to confirm, then click "**Submit**" to proceed.
 
-<figure><img src="../../.gitbook/assets/Screenshot_228.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_228 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Once clicked, the Chrome browser will download a JSON file. Click **Ctrl + J** to locate the file.
 

@@ -24,19 +24,19 @@ If your Polkadot app is on a lower version than 100.0.5, you're required to upda
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_214.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_214 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom left corner of the screen.
+**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191 (1).png" alt="" data-size="line"> button at the bottom left corner of the screen.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_192 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_213.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_213 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 5**: You will be directed to a new window. Select the Polkadot app, and your extension will display the following pop-up:
 
-<figure><img src="../../../.gitbook/assets/Screenshot_212.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_212 (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the device name (Nano X in this case) and click "**Connect**".
 
@@ -46,14 +46,14 @@ Click on the device name (Nano X in this case) and click "**Connect**".
 Don't forget to turn on the corresponding app on the Ledger device.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_209.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_209 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_210.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_210 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 8**: Your Ledger account is ready!
 
 If you repeat the action in **Step 2**, you will see your newly connected Ledger Polkadot accounts displayed in the "**Ledger Account**" section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_211.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_211 (2).png" alt="" width="363"><figcaption></figcaption></figure>
