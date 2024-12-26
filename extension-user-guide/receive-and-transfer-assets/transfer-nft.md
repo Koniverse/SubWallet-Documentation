@@ -17,6 +17,10 @@ description: Send your NFT to another wallet with ease on SubWallet.
 <div><figure><img src="../../.gitbook/assets/Screenshot_53 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_54 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
+Not all NFTs are transferable.
+{% endhint %}
+
+{% hint style="info" %}
 Notice the network your NFT is on because you could only send an NFT to the account type that supports this network.&#x20;
 
 In this example, the NFT is on the Polygon network, which is an EVM network, so the recipient account must be either an EVM solo account or a unified account.
