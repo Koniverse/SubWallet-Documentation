@@ -18,7 +18,7 @@ description: >-
 You can also switch between the "**All accounts**" and single-account modes here.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot_156 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_156.png" alt="" width="363"><figcaption></figcaption></figure>
 
 ### Change your account name
 
@@ -28,10 +28,10 @@ You can also switch between the "**All accounts**" and single-account modes here
 
 **Step 2**: In the account selection tab, click the pen icon next to the account you want to change its name.
 
-<figure><img src="../../.gitbook/assets/Screenshot_157 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_157.png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Click on the account name field and change it. We will automatically save the new name if it's not one of the used account names in your account list.&#x20;
 
 Once done, click the "**X**' button or the left-arrow icon at the top left corner to return to the homepage.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_158 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_159 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_158.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_159.png" alt="" width="363"><figcaption></figcaption></figure></div>

@@ -1,27 +1,32 @@
+---
+description: Sending and receiving tokens with SubWallet is as easy as a walk in the park!
+---
+
 # Receive & transfer assets
 
-Receiving & transferring assets on Polkadot, Subtrate & Ethereum networks has never been easier with SubWallet. Whether you transfer tokens on single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
+Receiving & transferring assets on Substrate (Polkadot), EVM (Ethereum) & TON networks has never been easier with SubWallet. Whether you transfer tokens on single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
 
-SubWallet now supports 150+ networks in the Polkadot, Subtrate & Ethereum ecosystems with 380+ tokens. Those include:&#x20;
+SubWallet now supports 200+ networks in the Polkadot, Ethereum & TON ecosystems with 450+ tokens. Those include:&#x20;
 
 * Polkadot (DOT)
 * Kusama (KSM)
 * Ethereum (ETH)
+* TON Network (TON)
 * Binance Smart Chain (BNB)
 * Moonbeam (GLMR)
 * Moonriver (MOVR)
-* Pioneer Network (NEER)
+* Avail (AVAIL)
 * Aleph Zero (AZERO)
 * Astar (ASTR)
+* Bittensor (TAO)
 * Shiden (SDN)
 * Bifrost (BNC)
 * Polygon (MATIC)
-* Arbitrum (ARB)
+* Arbitrum One (ARB)
 * Optimism (OP)
-* TomoChain (TOMO)
-* Composable Finance (LAYR)
 * Phala (PHA)
-* HydraDX (HDX)
+* Mythos (MYTH)
+* Hydration (HDX)
 * Picasso (PICA)
 * Litentry (LIT)
 * Ajuna Network (BAJU)

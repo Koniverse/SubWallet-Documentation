@@ -85,11 +85,11 @@ If you want to store seed your phrase, you can either:
 
 Step 4: Enter a name for your newly created account. Once done, click "**Continue**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_139 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_139.png" alt="" width="363"><figcaption></figcaption></figure>
 
 You will be redirected to the homepage, where you can see your newly created account.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_141 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_140 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_141 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_140 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 For each seed phrase generated with the SubWallet extension, a unified account will be created and used to manage assets and make transactions across all ecosystems.

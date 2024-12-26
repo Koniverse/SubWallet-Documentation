@@ -1,73 +1,65 @@
 ---
 description: >-
-  This document will show you how to transfer tokens on single-chain with
-  SubWallet.
+  Single-chain token transfer keeps it simple—move your tokens between accounts
+  in the same network.
 ---
 
 # Single-chain transfer
 
 {% hint style="info" %}
-"Single-chain transfer" refers to the process of transferring tokens within the same blockchain network. It does not involve moving assets across different blockchains.
+"**Single-chain transfer**" refers to the process of transferring tokens within the same network.
 {% endhint %}
 
-**Step 1**: Open SubWallet homepage and click the "Send" button.
+**Step 1**: Open the SubWallet extension and click the "**Send tokens**" button on the homepage.
 
-![](<../../../.gitbook/assets/image (702).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot_22 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-You will be directed to a transaction request screen.
+You will be directed to the Transfer screen.
 
-## **If you are in Single-account mode**
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2:** Enter the information for the transaction and click the "Transfer" button.&#x20;
-
-![](<../../../.gitbook/assets/image (703).png>)
-
-{% hint style="info" %}
-In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
-
-This feature would save you a lot of time when entering address for transaction.&#x20;
-
-By clicking the book icon on the right-hand side of the address field, you will be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.
-
-![](<../../../.gitbook/assets/image (850).png>)![](<../../../.gitbook/assets/image (704).png>)
-
-To manage your address book, please follow this [guide](../../manage-address-book.md)
+{% hint style="warning" %}
+If you are in Single-account mode, make sure the account you initially chose is not watch-only.
 {% endhint %}
 
+**Step 2:** Enter the required information in the corresponding fields.
 
+In the "**To**" field, you can select one account from the account list or paste the valid address.
 
-**Step 3**: Check your transaction details, then click "Approve" if you want to proceed.&#x20;
-
-
-
-**Step 4**: Transaction result is in.
-
-You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.&#x20;
-
-![](<../../../.gitbook/assets/image (1278).png>)
+<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-If you click "View transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+From version v1.3.3 onwards, we have introduced a new feature: **Advanced address detection**.
+
+This feature, when enabled, will allow you to enter any Substrate-based address for transactions. This means you are no longer restricted to using only the fixed addresses from your account list; for example, you can input an Acala address as the recipient address when transferring VARA tokens rather than just using the VARA address.
+
+{% hint style="warning" %}
+However, we strongly recommend not to use this feature if you aren't an expert in transactions on the Polkadot ecosystem, as transferring to the wrong address will result in loss of funds.
 {% endhint %}
 
-In this case, as we are sending to an account also managed by SubWallet, there would be two (2) records corresponding with this action: one is a send record from "Phoebe" to "SubWallet" and the other is a receive record of "SubWallet" from "Phoebe".&#x20;
-
-{% hint style="info" %}
-If you click the "View transaction" button, SubWallet will display the receive record, because it was recorded after the send record.&#x20;
+<img src="../../../.gitbook/assets/Screenshot_303.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_302.png" alt="" data-size="original">
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (853).png>)
+{% hint style="info" %}
+If you are in the "**All accounts**" mode, in addition to the above information, you will also need to choose the sender's address.
 
-However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
+<img src="../../../.gitbook/assets/Screenshot_27 (2).png" alt="" data-size="original">
+{% endhint %}
 
-![](<../../../.gitbook/assets/image (854).png>)
+Once done, click "**Transfer**".
 
-![](<../../../.gitbook/assets/image (855).png>) ![](<../../../.gitbook/assets/image (705).png>)
+**Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-## **If you are in "All accounts" mode**
+<figure><img src="../../../.gitbook/assets/Screenshot_28 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+
+**Step 4**: Transaction result is in!
+
+<figure><img src="../../../.gitbook/assets/Screenshot_29 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+
+You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
 
 {% hint style="info" %}
-In "All accounts" mode, most transaction steps are identical to the "Single-account mode". The only additional step that users need to perform is selecting the "Sender".
+If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-![](<../../../.gitbook/assets/image (816).png>)
+<img src="../../../.gitbook/assets/Screenshot_30 (2).png" alt="" data-size="original">
 {% endhint %}

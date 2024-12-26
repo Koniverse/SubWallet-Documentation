@@ -38,15 +38,15 @@ After that, choose the “**Currency**” option.
 
 **Step 3:** In the Currency list, either scroll down or type the currency in the search bar to select your preferred currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_17.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_17 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 In this example, we chose "**EUR - Euro**" as the displayed currency. Once done, you will be redirected back to the General settings screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_18.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_18 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4:** You are done! Please return to the SubWallet homepage to see your balance in your chosen currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_19.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_19 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The next time you open the extension, your balance will be displayed with your chosen currency.

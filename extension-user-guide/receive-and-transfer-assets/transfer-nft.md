@@ -1,85 +1,49 @@
 ---
-description: This document will show you how to transfer NFT with SubWallet.
+description: Send your NFT to another wallet with ease on SubWallet.
 ---
 
 # Transfer NFT
 
-**Step 1**: Open SubWallet homepage and scroll with your mouse/touchpad to see your NFT collections.
+**Step 1**: Open the SubWallet extension and select the "**NFTs**" tab at the bottom of the screen.
 
-![](<../../.gitbook/assets/image (857).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_42 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
+**Step 2**: In the Your collections screen, scroll down to choose the collection you want to transfer.
 
+<div><figure><img src="../../.gitbook/assets/Screenshot_51 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_52 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
-**Step 2**: Choose a collection.
+**Step 3**: Scroll to see details of the NFT, then click "**Send**".
 
-![](<../../.gitbook/assets/image (1148).png>)
-
-
-
-**Step 3**: Choose NFT in the collection, scroll to see the details, and click "Send".
-
-![](<../../.gitbook/assets/image (1475).png>) ![](<../../.gitbook/assets/image (1206).png>)
+<div><figure><img src="../../.gitbook/assets/Screenshot_53 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_54 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Please notice the chain in which you have the NFT, because you could only send an NFT to an account that is of the same type as the chain. In this example, the NFT is on the Kusama chain - a Substrate chain, so you know that the receiving account must be a Substrate account.&#x20;
+Notice the network your NFT is on because you could only send an NFT to the account type that supports this network.&#x20;
+
+In this example, the NFT is on the Polygon network, which is an EVM network, so the recipient account must be either an EVM solo account or a unified account.
 {% endhint %}
 
+**Step 4**: Select the recipient account. Since we are transferring an NFT on Polygon, you will need to select either an EVM solo account or a unified account. Once done, click "**Next**".
 
-
-**Step 4**: Enter the receiving account address. Since we are sending an NFT that exists on Kusama, you would need to enter a Substrate account. Then click "Next".
-
-![](<../../.gitbook/assets/image (1102).png>)
+<div><figure><img src="../../.gitbook/assets/Screenshot_55 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_56 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
+Guess how? Since NFT is non-fungible and unique, a particular NFT can only be held by a particular account. This differs from fungible tokens, say, DOT, which can be held in many account types.&#x20;
 
-This feature would save you a lot of time when entering the address for a transaction.&#x20;
-
-By clicking the book icon on the right-hand side of the address field, you will be directed to a list of addresses including the addresses of your accounts and other addresses (contacts) you have manually saved before.&#x20;
-
-![](<../../.gitbook/assets/image (1387).png>) ![](<../../.gitbook/assets/image (1276).png>)
-
-In this case, "Eugene" is my manually saved contact. I might want to save this contact because I have to transfer to them frequently and I do not want to manually enter the address every time I make the transfer.&#x20;
-
-
-
-To manage your address book, please follow this [guide](../manage-address-book.md).
+Due to this non-fungible attribute of the asset, we can detect the valid recipient account(s) automatically.&#x20;
 {% endhint %}
 
-The image below is an example of a complete input:
+**Step 5**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-![](<../../.gitbook/assets/image (1113).png>)
-
-In this case, we are sending an NFT that exists on Kusama network to an account named "Stove". Whether you are in "All accounts" mode or single account mode, SubWallet automatically detects your sender account so you do not have to manually input that information when making a transaction request.&#x20;
-
-{% hint style="info" %}
-Guess how? Since NFT is non-fungible and unique, a particular NFT can only be held by a particular account. This is very different from fungible tokens, say, DOT, which can be held by many accounts. Due to this non-fungible attribute of the asset, we can detect the sending account automatically.&#x20;
-{% endhint %}
-
-
-
-**Step 5**: Check the transaction details and click "Approve" if you want to proceed.
-
-![](<../../.gitbook/assets/image (1066).png>)
-
-
+<figure><img src="../../.gitbook/assets/Screenshot_57 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: Transaction result is in!
 
-You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.&#x20;
+<figure><img src="../../.gitbook/assets/Screenshot_29 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (1037).png>)
+You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
+
+<img src="../../.gitbook/assets/Screenshot_58 (2).png" alt="" data-size="original">
 {% endhint %}
-
-In this case, as we are sending to an account also managed by SubWallet, there would be two (2) records corresponding with this action: one is a send record from "Arrange" to "Stove" and the other is a receive record of "Stove" from "Arrange".&#x20;
-
-If you click the "View transaction" button, SubWallet will display the receive record, because it was recorded after the send record.
-
-![](<../../.gitbook/assets/image (1020).png>)
-
-However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](broken-reference).
-
-![](<../../.gitbook/assets/image (1345).png>)

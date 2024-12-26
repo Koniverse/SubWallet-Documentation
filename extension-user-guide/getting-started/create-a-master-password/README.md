@@ -24,11 +24,11 @@ Once done, click "**Continue**".
 Password should contain **at least** 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_9 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_9 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_10.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_10 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 You've successfully created a master password in SubWallet! Now, you have the power to manage multiple accounts with just one master password effortlessly.
 

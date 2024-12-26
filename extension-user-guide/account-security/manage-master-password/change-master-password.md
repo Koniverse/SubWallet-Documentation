@@ -20,7 +20,7 @@ You can't change the password if you forgot it. Check out [this article](forgot-
 
 **Step 3**: Choose "**Change wallet password**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_21 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_21 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: In the Change password screen, fill in the required information and tick "**I understand that SubWallet can't recover the password**". Once done, click "**Save**".
 

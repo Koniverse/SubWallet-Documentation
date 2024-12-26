@@ -1,81 +1,81 @@
 ---
-description: >-
-  This document will show you how to transfer tokens on cross-chain with
-  SubWallet.
+description: Effortlessly send tokens across networks on SubWallet.
 ---
 
 # Cross-chain transfer
 
 {% hint style="info" %}
-willCross-chain transfer refers to the process of transferring assets between different blockchains for enhanced collaboration and decentralized exchange.
+"**Cross-chain transfer**" refers to the process of transferring tokens between different networks for enhanced collaboration and decentralized exchange.
 {% endhint %}
 
-**Step 1**: Open SubWallet homepage and click the "Send" button.
+**Step 1**: Open the SubWallet extension and click the "**Send tokens**" button on the homepage.
 
-![](<../../../.gitbook/assets/image (706).png>)
+<figure><img src="../../../.gitbook/assets/Screenshot_22 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-You will be directed to a transaction request screen.
+You will be directed to the Transfer screen.
 
-## **If you are in Single-account mode**
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2:** Enter the information for the transaction.
-
-To make a **cross-chain transfer**, click on "Select destination chain".
-
-![](<../../../.gitbook/assets/image (802).png>)
-
-Next, choose the chain you want to transfer tokens to.
-
-![](<../../../.gitbook/assets/image (805).png>)
-
-Enter the amount and the recipient's address, then click on "Transfer."
-
-![](<../../../.gitbook/assets/image (806).png>)
-
-{% hint style="info" %}
-In this new version of SubWallet, we introduced a new feature: Address book.&#x20;
-
-This feature would save you a lot of time when entering address for transaction.&#x20;
-
-By clicking the book icon on the right-hand side of the address field, you will be directed to a list of addresses including: the addresses of your accounts and other addresses (contacts) you have manually saved before.
-
-![](<../../../.gitbook/assets/image (850).png>)![](<../../../.gitbook/assets/image (707).png>)
-
-To manage your address book, please follow this [guide](../../manage-address-book.md)
+{% hint style="warning" %}
+If you are in Single-account mode, make sure the account you initially chose is not watch-only.
 {% endhint %}
 
+**Step 2:** Enter the required information in the corresponding fields.
 
+_In this example, we will transfer DOT tokens on the Polkadot network to the Polkadot Asset Hub network within account "Andy 4"._
 
-**Step 3**: Check your transaction details carefully, then click "Approve" if you want to proceed.&#x20;
+<figure><img src="../../../.gitbook/assets/Screenshot_32 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (808).png>)
+To make the cross-chain transfer, you first need to select the token you want to transfer by clicking on the top-left field (in this example, DOT).
 
-**Step 4**: Transaction result is in.
+<div><figure><img src="../../../.gitbook/assets/Screenshot_33 (4).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_34 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
-You can either go back to the homepage or view the "receipt" of your transaction in the transaction history.&#x20;
+Next, select the destination network (the network you want to transfer tokens to) by clicking on the top-right field.
 
-![](<../../../.gitbook/assets/image (1278).png>)
+<div><figure><img src="../../../.gitbook/assets/Screenshot_35 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_36 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+
+Enter the amount and the recipient's address, then click "**Transfer**".
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you click "view transaction", the wallet will show you the latest transaction record in your transaction history which corresponds with the extrinsic hash of this action.&#x20;
+With this type of transfer, you can select the same account for both the sender and recipient.
 {% endhint %}
 
-In this case, as we are sending to an account also managed by SubWallet, there would be two (2) records corresponding with this action: one is a send record from "SubWallet Demo" to "SubWallet-EVM Demo" and the other is a receive record of "SubWallet-EVM Demo" from "SubWallet Demo".&#x20;
+{% hint style="warning" %}
+Note that transferring tokens cross-chain to a centralized exchange (CEX) address will result in loss of funds. This is because these CEXs may not recognize or properly credit deposits made to their wallet addresses.
 
-![](<../../../.gitbook/assets/image (810).png>)
+<img src="../../../.gitbook/assets/Screenshot_39 (1).png" alt="" data-size="original">
 
-{% hint style="info" %}
-If you click the "View transaction" button, SubWallet will display the receive record, because it was recorded after the send record.&#x20;
+If you face this situation, it is recommended that you contact their support team as soon as possible.
 {% endhint %}
 
-However, in the History tab, you would see both records and their extrinsic hash should be identical. To get to the transaction history tab, please follow this [guide](../../view-transaction-history.md).
+{% hint style="info" %}
+If you're in the "All accounts" mode, note that from version v1.3.3 onwards, we have introduced a new feature: **Advanced address detection**.
 
-![](<../../../.gitbook/assets/image (811).png>)![](<../../../.gitbook/assets/image (812).png>)
+This feature, when enabled, will allow you to enter any Substrate-based address for transactions. This means you are no longer restricted to using only the fixed addresses from your account list; for example, you can input an Acala address as the recipient address when transferring VARA tokens rather than just using the VARA address.
 
-## **If you are in "All accounts" mode**
+{% hint style="warning" %}
+However, we strongly recommend not to use this feature if you aren't an expert in transactions on the Polkadot ecosystem, as transferring to the wrong address will result in loss of funds.
+{% endhint %}
+
+<img src="../../../.gitbook/assets/Screenshot_303 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_302 (1).png" alt="" data-size="original">
+{% endhint %}
+
+Once done, click "**Transfer**".
+
+**Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot_40 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+
+**Step 4**: Transaction result is in!
+
+<figure><img src="../../../.gitbook/assets/Screenshot_29 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+
+You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
 
 {% hint style="info" %}
-In "All accounts" mode, most transaction steps are identical to the "Single-account mode". The only additional step that users need to perform is selecting the "Sender".
+If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-![](<../../../.gitbook/assets/image (815).png>)
+<img src="../../../.gitbook/assets/Screenshot_41 (2).png" alt="" data-size="original">
 {% endhint %}

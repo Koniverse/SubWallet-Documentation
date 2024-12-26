@@ -121,7 +121,7 @@ The unstake feature can be unavailable if you haven't yet withdrawn the amount y
 
 <summary>Where can I withdraw my unstaked amount?</summary>
 
-Before withdrawing your unstaked assets, please make sure that you are **NOT** in "All accounts" mode, since this is a read-only mode. Then please follow the instructions for unstaking & withdrawing [here](earning/).&#x20;
+Before withdrawing your unstaked assets, please make sure that you are **NOT** in "All accounts" mode, since this is a read-only mode. Then please follow the instructions for unstaking & withdrawing [here](manage-staking/).&#x20;
 
 </details>
 

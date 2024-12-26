@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document will show you how to transfer tokens on single-chain and
-  cross-chain with SubWallet.
+  Send fungible tokens to friends, exchanges, or other wallets through
+  single-chain and cross-chain transfer.
 ---
 
 # Transfer tokens

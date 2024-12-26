@@ -44,7 +44,7 @@ After that, choose the “Currency” option.
 
 In this example, we chose "CNY - Chinese Yuan" as the displayed currency. Once done, the screen will be closed, and your chosen currency will be displayed in the General settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_21 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** Click the "Portfolio" tab on the sidebar to return to the SubWallet homepage.&#x20;
 
