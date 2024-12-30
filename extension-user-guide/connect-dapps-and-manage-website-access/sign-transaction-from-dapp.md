@@ -29,6 +29,6 @@ _In this example, we will swap ETH for WETH on the Ethereum Sepolia network. Thi
 
 <figure><img src="../../.gitbook/assets/Screenshot_345.png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 4**: You've successfully signed a transaction on a dApp! If the transaction is successful, you'll see the fluctuation in the balance of each token.
+**Step 4**: You've successfully signed a transaction on a dApp! If the transaction is successful, you'll see the change in the balance of each token.
 
 <figure><img src="../../.gitbook/assets/Screenshot_346.png" alt=""><figcaption></figcaption></figure>

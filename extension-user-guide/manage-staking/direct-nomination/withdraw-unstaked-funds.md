@@ -32,9 +32,21 @@ The unstaking period varies depending on each token and network you've previousl
 
 **Step 2**: In the Earning position details screen, click the "**Withdraw**" button under the Withdraw info section to start the withdrawal.
 
+<figure><img src="../../../.gitbook/assets/Screenshot_384.png" alt="" width="363"><figcaption></figcaption></figure>
+
 **Step 3:** Click "**Continue**" to proceed.
 
+<figure><img src="../../../.gitbook/assets/Screenshot_385.png" alt="" width="363"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you are in "**All accounts**" mode, you will need to select the account you want to withdraw.
+
+<img src="../../../.gitbook/assets/Screenshot_387.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_388.png" alt="" data-size="original">
+{% endhint %}
+
 **Step 4**: Check the information and confirm your request by clicking "**Approve**".&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot_386.png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 5:** Your request has been submitted!
 
@@ -44,4 +56,6 @@ You can either click "**Back to home**" to return to the homepage or "**View tra
 
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
+
+<img src="../../../.gitbook/assets/Screenshot_390.png" alt="" data-size="original">
 {% endhint %}

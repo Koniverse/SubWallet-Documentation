@@ -79,7 +79,7 @@ _In this case, we've previously connected to Uniswap via 1 account (Andy 1). You
 <div><figure><img src="../../.gitbook/assets/Screenshot_314.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_315.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Additionally, if you click on the <img src="../../.gitbook/assets/Screenshot_316.png" alt="" data-size="line"> icon at the top right corner of the screen, you will see other options to manage website access, such as:
+Additionally, if you click on the <img src="../../.gitbook/assets/Screenshot_316 (1).png" alt="" data-size="line"> icon at the top right corner of the screen, you will see other options to manage website access, such as:
 
 * _Block this site_: when clicked, the dApp/website will be blocked and can't be connected again unless you decide to unblock it.
 * _Forget this site_: when clicked, the dApp/website will be excluded from the website list, but you can re-connect the site again by following the procedure displayed on  [#connect-dapps](./#connect-dapps "mention")

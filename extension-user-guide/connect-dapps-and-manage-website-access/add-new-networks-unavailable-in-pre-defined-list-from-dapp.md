@@ -18,7 +18,7 @@ Here, we are using [ChainList](https://chainlist.org/) as an example.
 As ChainList is a list of EVM networks, MetaMask will be its default wallet for connecting. Therefore, if you want to connect via SubWallet, disable the MetaMask extension first.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1984).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1989).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Select the network you want to add and click "**Connect Wallet**".
 

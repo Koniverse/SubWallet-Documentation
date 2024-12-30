@@ -162,9 +162,9 @@ Please be aware that even though the transaction status indicates "**Completed**
 If you transfer ETH from Ethereum to Polygon zkEVM, you won't need to follow the steps below, as the tokens will be credited to the destination network after the bridging time ends.
 {% endhint %}
 
-**Step 5**: On the SubWallet homepage, click on the <img src="../../../.gitbook/assets/Screenshot_287.png" alt="" data-size="line"> button at the top right of the screen.
+**Step 5**: On the SubWallet homepage, click on the <img src="../../../.gitbook/assets/Screenshot_287 (1).png" alt="" data-size="line"> button at the top right of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_288.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_288 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 In the Notifications screen, look for the notification related to claiming bridged tokens, then click on that notification.
 
