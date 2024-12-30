@@ -1,81 +1,90 @@
 ---
 description: >-
-  This document will show how to connect dApps & manage website access with
+  Explore a wide array of dApps and manage website access with ease using
   SubWallet.
 ---
 
 # Connect dApps & manage website access
 
-### **Connect dApps**
-
-**Step 1**: Launch the dApps and find the "Connect Wallet" button.&#x20;
-
-In this example, we are using Beamswap.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (777).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-**Step 2**: After clicking "Connect Wallet", you will see various wallet options. Choose SubWallet.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (778).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-{% hint style="warning" %}
-Please note that sometimes extension wallets might override each other and thus create issues while connecting. We would suggest you disable other extension wallets if you wish to proceed the action with SubWallet.&#x20;
-{% endhint %}
-
-
-
-**Step 3**: A pop-up will appear. Please choose the account you want to connect to and click the "Connect" button.
-
-![](<../../.gitbook/assets/image (1252).png>)
+With SubWallet, you can seamlessly connect to virtually any dApp within the Ethereum and Polkadot ecosystems.&#x20;
 
 {% hint style="info" %}
-Please note that you can check the connect status right in wallet's homepage by moving or scrolling the mouse to the Connecting symbol in the left corner:&#x20;
-
-If it turns green, then you're successfully connected.
-
-![](<../../.gitbook/assets/image (783).png>)
-
-If the Connecting symbol remains grey, it indicates an unsuccessful connection. In that case, you may need to double-check your connection settings.
-
-![](<../../.gitbook/assets/image (674).png>)
+Support for TON dApps/websites will be available soon - stay tuned :wink:
 {% endhint %}
 
-###
+{% hint style="warning" %}
+Substrate solo accounts will not be able to connect to EVM dApps/websites due to their incompatibility.
+
+EVM solo accounts will not be able to connect to Substrate dApps/websites due to their incompatibility.
+{% endhint %}
+
+If you encounter any connection issues, don't hesitate to contact us on [Telegram](https://t.me/subwallet) or [Discord](https://discord.com/invite/EkFNgaBwpy) for assistance or get in touch with the dApp developers directly. We're here to help you make the most of your experience!
+
+If you use multiple wallets other than SubWallet, we recommend disabling all of them while using ours to ensure the best user experience and prevent any wallet overrides.
+
+### **Connect dApps**
+
+**Step 1**: Launch the dApp you want to connect to and find the Connect button.&#x20;
+
+{% hint style="info" %}
+Depending on each dApp, you will see different buttons, but they are mostly labeled "**Connect**" or "**Connect Wallet**".
+{% endhint %}
+
+_In this example, we are connecting to Uniswap. The "**Connect**" button will be at the top right of the screen._
+
+<figure><img src="../../.gitbook/assets/Screenshot_304.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: After clicking the button, you will see various wallet connect options. Choose "**SubWallet**".
+
+<figure><img src="../../.gitbook/assets/Screenshot_305.png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: A popup will appear. Choose the account(s) you want to connect to and click the "**Connect**" button.
+
+<figure><img src="../../.gitbook/assets/Screenshot_306.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Some dApps may require verifying your account ownership before you connect to them.&#x20;
+
+In such instances, another popup will appear. Choose the "**Approve**" option to complete the process.
+
+<img src="../../.gitbook/assets/Screenshot_308.png" alt="" data-size="original">
+{% endhint %}
+
+**Step 4**: You have successfully connected your account(s) to a dApp! You can check the connection status directly on the wallet by hovering your mouse over the connecting symbol next to the account name.
+
+<figure><img src="../../.gitbook/assets/Screenshot_307.png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_310.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_309.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 ### Manage websites access
 
-After successfully connecting to dApps, you can manage the connected dApps/websites with your wallet by following these steps:
+After successfully connecting to dApps, you can manage the connected dApps/websites from the wallet by following these steps:
 
-**Step 1**: Open SubWallet and click on the list item in the upper left corner to get to the Settings section.
+**Step 1**: Open the SubWallet extension and click on the list item at the top left corner of the screen to get to the Settings section.
 
-![](<../../.gitbook/assets/image (675).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_311.png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: Choose "Security settings".
+**Step 2**: In the Settings screen, select "**Manage website access**".
 
-![](<../../.gitbook/assets/image (780).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_312.png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 3**: Click "Manage website access".
+**Step 3**: You will see a list of websites connected to SubWallet and the corresponding number of accounts connecting.&#x20;
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2zseowhOCGE5xsJFb2z5%2Fuploads%2FhllGAoB2iKJ9PoSoBGYh%2FScreenshot\_10.png?alt=media\&token=174ef0ba-5484-4d85-9a4c-5d8ce74c30b2)
+<figure><img src="../../.gitbook/assets/Screenshot_313.png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 4**: You will see a list of websites connected with SubWallet and the corresponding number of accounts connecting.&#x20;
+Click on the website/dApp you want to manage access.
 
-Click on the website you want to change access. In this case, we use Beamswap as an example:
+_In this case, we've previously connected to Uniswap via 1 account (Andy 1). You could manually enable/disable access to this website by switching the toggle corresponding to each account._&#x20;
 
-![](<../../.gitbook/assets/image (1439).png>)
+<div><figure><img src="../../.gitbook/assets/Screenshot_314.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_315.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
-In this case, we are connecting to Beamswap using 1 account (Arrange - EVM). You could manually enable/disable access to this website by switching the toggle corresponding to each account.&#x20;
+{% hint style="info" %}
+Additionally, if you click on the <img src="../../.gitbook/assets/Screenshot_316.png" alt="" data-size="line"> icon at the top right corner of the screen, you will see other options to manage website access, such as:
 
-![](<../../.gitbook/assets/image (781).png>)
+* _Block this site_: when clicked, the dApp/website will be blocked and can't be connected again unless you decide to unblock it.
+* _Forget this site_: when clicked, the dApp/website will be excluded from the website list, but you can re-connect the site again by following the procedure displayed on  [#connect-dapps](./#connect-dapps "mention")
+* _Disconnect all accounts_: this action, when clicked, will disconnect every account you've connected. To reconnect, switch the toggle next to the account name.
+* _Connect all accounts_: this action, when clicked, will connect all eligible accounts.
 
-Furthermore, if you click on the gear icon on the upper right corner of the screen, there are other options such as disconnect all, connect all, forget site, and block site. We think this feature would be useful if you manage a large number of accounts and a large number of dApps.&#x20;
-
-![](<../../.gitbook/assets/image (676).png>)
+<img src="../../.gitbook/assets/Screenshot_317 (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_318.png" alt="" data-size="original">
+{% endhint %}
