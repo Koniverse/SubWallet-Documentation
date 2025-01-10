@@ -1,5 +1,5 @@
 ---
-description: This document will show you how to manage Pooled Staking.
+description: Stake your tokens via nominating for pools with ease on SubWallet.
 ---
 
 # Nomination pool

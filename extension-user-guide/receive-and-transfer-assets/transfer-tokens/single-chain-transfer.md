@@ -26,7 +26,7 @@ If you are in Single-account mode, make sure the account you initially chose is 
 
 In the "**To**" field, you can select one account from the account list or paste the valid address.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 From version v1.3.3 onwards, we have introduced a new feature: **Advanced address detection**.

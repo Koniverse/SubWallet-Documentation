@@ -24,7 +24,7 @@ You can choose to either unveil your balances to get a clear view of your assets
 
 ### To hide your balances
 
-**Step 1**: Open the OpenBit extension and click the hide icon.
+**Step 1**: Open the SubWallet extension and click the hide icon.
 
 <figure><img src="../../.gitbook/assets/Screenshot_62.png" alt="" width="363"><figcaption></figcaption></figure>
 

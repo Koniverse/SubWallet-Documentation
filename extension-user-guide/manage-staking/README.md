@@ -1,7 +1,5 @@
 ---
-description: >-
-  This part will show you how to manage staking on SubWallet by joining pools
-  and nominating.
+description: Stake-to-earn tokens with SubWallet's Earning feature.
 ---
 
 # Earning
