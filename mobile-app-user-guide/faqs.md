@@ -29,7 +29,7 @@ In this example, we want to transfer GLMR on Moonbeam out of the account using a
 
 **Step 2**: Click on the 3-dot icon at the top right of the screen and click the "**Share Private Key**" option.
 
-<figure><img src="../.gitbook/assets/Screenshot_34.png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_34 (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot_41.png" alt="" width="374"><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ In this example, we want to transfer GLMR on Moonbeam out of the account using a
 
 <figure><img src="../.gitbook/assets/image (1967).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_35.png" alt="" width="377"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_35 (1).png" alt="" width="377"><figcaption></figcaption></figure>
 
 The "**Export Private Key**" screen will pop up with the QR code of your private key. Screenshot and keep it in a safe place.
 
@@ -75,7 +75,7 @@ You can easily sync your account on mobile to the extension by exporting your ac
 
 You can either screenshot it or keep your mobile on the export screen.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lh39Kwxa1xxZM9WX\_Bs%2Fuploads%2FCE5om6nO1QjKqx3LqEYt%2Fphoto\_2024-06-24\_17-50-05%20\(3\).jpg?alt=media\&token=88f8fd2a-682d-47bb-92b9-7d4974a9f8a8)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lh39Kwxa1xxZM9WX_Bs%2Fuploads%2FCE5om6nO1QjKqx3LqEYt%2Fphoto_2024-06-24_17-50-05%20\(3\).jpg?alt=media\&token=88f8fd2a-682d-47bb-92b9-7d4974a9f8a8)
 
 **Step 2**: Import your newly exported account onto the extension by following this [guide](https://docs.subwallet.app/main/extension-user-guide/account-management/import-and-restore-an-account#import-by-qr-code).
 

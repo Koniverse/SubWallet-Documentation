@@ -12,13 +12,13 @@ If you forgot your password, don't worry! You can quickly regain access to your 
 
 **Step 1**: On the Welcome screen, click "**Don't remember your password?**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_24.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_24 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2:** A pop-up message will appear with 2 options provided: "**Reset account**" and "**Erase all**".
 
 Choose the option you want to apply:
 
-<figure><img src="../../../.gitbook/assets/Screenshot_25.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_25 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 #### **With the "Reset account" option**
 

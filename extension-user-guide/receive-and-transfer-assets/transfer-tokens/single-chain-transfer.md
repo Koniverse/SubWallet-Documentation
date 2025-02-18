@@ -26,7 +26,7 @@ If you are in Single-account mode, make sure the account you initially chose is 
 
 In the "**To**" field, you can select one account from the account list or paste the valid address.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 From version v1.3.3 onwards, we have introduced a new feature: **Advanced address detection**.
@@ -43,7 +43,7 @@ However, we strongly recommend not to use this feature if you aren't an expert i
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, in addition to the above information, you will also need to choose the sender's address.
 
-<img src="../../../.gitbook/assets/Screenshot_27 (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_27 (2) (1).png" alt="" data-size="original">
 {% endhint %}
 
 Once done, click "**Transfer**".
@@ -61,5 +61,5 @@ You can either click "**Back to home**" to return to the homepage or "**View tra
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-<img src="../../../.gitbook/assets/Screenshot_30 (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_30 (2) (1).png" alt="" data-size="original">
 {% endhint %}

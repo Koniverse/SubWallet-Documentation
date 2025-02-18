@@ -22,7 +22,7 @@ To add more networks, you can scan a **trusted** spec QR code and metadata QR fo
 
 This should be done on a device that is **not** your Polkadot Vault device (PC recommended).
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose the network you want to add in the **Network** tab on the sidebar.&#x20;
 
@@ -131,7 +131,7 @@ To enable this permission, please follow these steps:
 {% hint style="info" %}
 If you use the Brave browser, there will be multiple options that allow you to access the camera for different durations. You can choose the time option that best fits your personal preferences.&#x20;
 
-![](<../../.gitbook/assets/image (1) (3).png>)
+![](<../../.gitbook/assets/image (1) (3) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}

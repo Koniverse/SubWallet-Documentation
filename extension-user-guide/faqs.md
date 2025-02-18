@@ -314,7 +314,7 @@ _Here, we are using Galxe as an example._
 * Save the QR code and use it to connect.
 * Copy the URI link by clicking the copy icon and use it to connect.
 
-<img src="../.gitbook/assets/Screenshot_49.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_49 (1).png" alt="" data-size="original">
 
 **Step 3**: Open the SubWallet extension, go to Settings, choose WalletConnect, then select “**New Connection**”.
 
@@ -344,11 +344,11 @@ When you receive these messages, please do the following:
 
 **Step 1**: On the SubWallet homepage, click on the list item at the upper left corner to get to the Settings section.
 
-<img src="../.gitbook/assets/Screenshot_50.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_50 (1).png" alt="" data-size="original">
 
 **Step 2**: In the Settings section, choose "Manage networks".
 
-<img src="../.gitbook/assets/Screenshot_51.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_51 (1).png" alt="" data-size="original">
 
 **Step 3**: Search for the network that supports your token to check the network connection.&#x20;
 
@@ -398,11 +398,11 @@ Once done, choose "**Delete database**", then click "**OK**" to confirm the requ
 
 **Step 4**: Click on the 3-dot icon at the top right of the screen, then select "**Extension**" and click "**Manage extension**" to open the Extension panel.
 
-<img src="../.gitbook/assets/Screenshot_18 (2).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_19 (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_18 (2) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_19 (2).png" alt="" data-size="original">
 
 **Step 5**: Find the SubWallet extension in the extension list, then **turn off and on** the toggle.
 
-<img src="../.gitbook/assets/Screenshot_20 (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_20 (1) (1) (1).png" alt="" data-size="original">
 
 **Step 6**: You have successfully cleared the extension data. Now, you can use the extension normally.
 
@@ -512,7 +512,7 @@ _In this example, we want to transfer GLMR on Moonbeam out of the account._
 
 **Step 2**: Click on the 3-dot icon at the top right of the screen and select the "**Share Private Key**" option.
 
-<img src="../.gitbook/assets/Screenshot_34.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_34 (1).png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/Screenshot_41.png" alt="" data-size="original">
 
@@ -520,7 +520,7 @@ _In this example, we want to transfer GLMR on Moonbeam out of the account._
 
 <img src="../.gitbook/assets/image (1967).png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/Screenshot_35.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_35 (1).png" alt="" data-size="original">
 
 The "**Export Private Key**" screen will pop up with the QR code of your private key. Screenshot and keep it in a safe place.
 
@@ -528,25 +528,25 @@ The "**Export Private Key**" screen will pop up with the QR code of your private
 
 **Step 4**: Open the SubWallet extension. On the SubWallet homepage, click on the account name at the top left of the screen to get to the account list.
 
-<img src="../.gitbook/assets/Screenshot_63 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_63 (1) (1).png" alt="" data-size="original">
 
 **Step 5**: Click the "**Import**" icon at the bottom of the account list.
 
-<img src="../.gitbook/assets/Screenshot_64.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_64 (1).png" alt="" data-size="original">
 
 **Step 6**: Choose the "**Import by QR code**" option.
 
-<img src="../.gitbook/assets/Screenshot_65.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_65 (1).png" alt="" data-size="original">
 
 **Step 7**: Click the "**Scan the QR code**" button.
 
-<img src="../.gitbook/assets/Screenshot_66.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_66 (1).png" alt="" data-size="original">
 
 **Step 8**: If you have not previously granted camera access to SubWallet, please click "**OK**" to allow.
 
 Then, put your phone (with the QR code of your private key taken in **Step 3**) close to the screen to scan it with SubWallet.
 
-<img src="../.gitbook/assets/Screenshot_67.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_67 (1).png" alt="" data-size="original">
 
 **Step 9**: After successfully importing the account, you will be directed to the homepage. You can now transfer your GLMR to another account using the guide [here](https://docs.subwallet.app/main/extension-user-guide/receive-and-transfer-assets/transfer-tokens).
 

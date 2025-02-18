@@ -64,7 +64,7 @@ _(\*\*): Level 3 accounts and onwards will not be supported on any wallets_
 * Click the "**Create a new account**" button
 * Click the **pen icon** next to the account you want to derive
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Choose your preferred tab to continue.
 

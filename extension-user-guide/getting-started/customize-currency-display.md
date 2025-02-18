@@ -26,7 +26,7 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 **Step 1:** Open the SubWallet extension and click on the list item at the left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_15.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_15 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2:** In the Settings section, click “**General settings**”.&#x20;
 
@@ -34,7 +34,7 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 After that, choose the “**Currency**” option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_16.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3:** In the Currency list, either scroll down or type the currency in the search bar to select your preferred currency.
 

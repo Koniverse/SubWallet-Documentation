@@ -1,7 +1,5 @@
 ---
-description: >-
-  This document will show you how to watch your balance in different currencies
-  with SubWallet
+description: Watch your balance in different currencies.
 ---
 
 # Customize currency display
@@ -26,29 +24,29 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 ### Customize your currency preferences
 
-**Step 1:** On the SubWallet homepage, click on the list item at the top left corner to get to the Settings section.
+**Step 1:** On the SubWallet homepage, tap the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_6 (2).png" alt="" width="383"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_21.png" alt="" width="282"><figcaption></figcaption></figure>
 
-**Step 2:** In the Settings section, click “General settings”.&#x20;
+**Step 2:** In the Settings section, choose “**General settings**”.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_7 (1) (1).png" alt="" width="382"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16.png" alt="" width="282"><figcaption></figcaption></figure>
 
-After that, choose the “Currency” option.
+After that, choose the “**Currency**” option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_8 (1).png" alt="" width="384"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_18 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 3:** In the Currency list, select your preferred currency.
 
-<figure><img src="../../.gitbook/assets/IMG_0055.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_22.png" alt="" width="282"><figcaption></figcaption></figure>
 
-In this example, we chose "EUR - Euro" as the displayed currency. Once done, you will be redirected back to the General settings screen.
+_In this example, we chose "VND - Vietnamese Dong" as the displayed currency_. Once done, you will be redirected back to the General settings screen.
 
-<figure><img src="../../.gitbook/assets/IMG_0056.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23.png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 4:** You are done! Please return to the homepage to see your balance in your chosen currency.
 
-<figure><img src="../../.gitbook/assets/IMG_0057.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_24.png" alt="" width="282"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The next time you open the app, your portfolio balance will be displayed with your chosen currency.

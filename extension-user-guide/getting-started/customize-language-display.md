@@ -24,7 +24,7 @@ More languages will be supported in the future. Stay tuned!
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select "**General settings**".
 
@@ -32,10 +32,10 @@ More languages will be supported in the future. Stay tuned!
 
 Next, choose "**Language**" to view supported languages.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Select your preferred language from the drop-down list.
 
-<figure><img src="../../.gitbook/assets/Screenshot_14.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Get ready to explore new horizons and make your journey smooth and enjoyable with SubWallet, no matter where you are!

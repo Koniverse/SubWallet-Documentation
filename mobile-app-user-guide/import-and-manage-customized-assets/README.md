@@ -1,2 +1,0 @@
-# Import & manage customized assets
-

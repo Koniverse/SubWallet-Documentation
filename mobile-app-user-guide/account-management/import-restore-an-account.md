@@ -43,7 +43,7 @@ Trust Wallet and Safepal are among the wallets not compatible with us.&#x20;
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that to see your assets after importing your account, you need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}
@@ -61,7 +61,7 @@ SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substra
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}
@@ -87,7 +87,7 @@ Please note that if you want to import multiple accounts simultaneously from a J
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}
@@ -127,7 +127,7 @@ Now, you can use your camera to scan the QR code and import your account(s).
 After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Polkadot (Substrate) accounts, but you can disable them if you wish.&#x20;
 {% endhint %}

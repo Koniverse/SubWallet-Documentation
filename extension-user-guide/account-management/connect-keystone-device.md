@@ -27,7 +27,7 @@ To enable this permission, please follow these steps:
 {% hint style="info" %}
 If you use the Brave browser, there will be multiple options that allow you to access the camera for different durations. You can choose the time option that best fits your personal preferences.&#x20;
 
-![](<../../.gitbook/assets/image (1) (3).png>)
+![](<../../.gitbook/assets/image (1) (3) (1).png>)
 {% endhint %}
 
 {% hint style="info" %}

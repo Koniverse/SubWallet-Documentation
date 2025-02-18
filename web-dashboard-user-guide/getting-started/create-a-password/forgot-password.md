@@ -27,7 +27,7 @@ Once you have clicked this option, all the accounts you have imported/attached w
 
 You will be directed to the Welcome screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_27 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This action will reset your account to the initial settings when you first use the app.&#x20;

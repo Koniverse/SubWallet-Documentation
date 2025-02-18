@@ -10,56 +10,32 @@ description: >-
 
 You would be directed to a list of accounts.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (150).png" alt="" width="341"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (150).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
 **Step 2**: In the account list, click on the **Attach account** item in the lower right corner.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (151).png" alt="" width="341"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (151).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
 **Step 3**: Choose **Connect a Polkadot Vault account**.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (152).png" alt="" width="339"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (152).png" alt="" width="339"><figcaption></figcaption></figure></div>
 
 **Step 4**: Click **Scan QR code**.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (153).png" alt="" width="339"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (153).png" alt="" width="339"><figcaption></figcaption></figure></div>
 
 **Step 5**: Scan the QR code provided by Polkadot Vault (previously Parity Signer) to continue.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (154).png" alt="" width="339"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (154).png" alt="" width="339"><figcaption></figcaption></figure></div>
 
 **Step 7**: Your account is ready!&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (155).png" alt="" width="338"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (155).png" alt="" width="338"><figcaption></figcaption></figure></div>
 
 After importing the account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
 
 {% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](../customize-your-blockchains.md) to enable the networks you want to use.
+Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
 
 SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
 {% endhint %}

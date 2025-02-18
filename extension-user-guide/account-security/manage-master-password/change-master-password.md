@@ -12,19 +12,19 @@ You can't change the password if you forgot it. Check out [this article](forgot-
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_11 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_11 (3) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select "**Security settings**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_46.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_46 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Change wallet password**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_21 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_21 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: In the Change password screen, fill in the required information and tick "**I understand that SubWallet can't recover the password**". Once done, click "**Save**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_22 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_23 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_22 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_23 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Make sure your master password is **well-kept**.

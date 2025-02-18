@@ -48,14 +48,14 @@ You only have to go through Step 3 if you are in "**All accounts**" mode. If you
 
 You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
 
-<figure><img src="../../.gitbook/assets/Screenshot_5.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_5 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
 As mentioned above, we want to receive DOT on Polkadot in this example, so the address should be a Polkadot address! You could double-check the address by clicking on "**View on explorer**".&#x20;
 
 {% hint style="info" %}
 The "**View on explorer**" button will be greyed out if the network your token is on hasn't had its block explorer yet.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -92,13 +92,13 @@ Since all tokens on the same network share the same address, you can get the add
 * Typing the network name in the search bar&#x20;
 * Type the address prefix (this method can only be used if you want to get address of a Substrate or TON network)
 
-<figure><img src="../../.gitbook/assets/Screenshot_20.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 _In this example, we want to get the TAO address_. As the TAO token is on the Bittensor network, type the network name in the search bar.
 
 Once you find the desired address, click the "**Copy**" button or the QR button to get address.
 
-<figure><img src="../../.gitbook/assets/Screenshot_21.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_21 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
 ### Change wallet address for TON-supported account
 
@@ -139,9 +139,9 @@ You only have to go through Step 3 if you are in "**All accounts**" mode. If you
 
 <figure><img src="../../.gitbook/assets/Screenshot_66 (2).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18.png" alt="" data-size="line"> icon to change wallet address.
+**Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18 (2).png" alt="" data-size="line"> icon to change wallet address.
 
-<figure><img src="../../.gitbook/assets/Screenshot_62 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_62 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 6**: Select a wallet version and then click "**Confirm**".
 

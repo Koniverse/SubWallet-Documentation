@@ -10,7 +10,7 @@ description: >-
 
 **We have integrated phishing lists from Polkadot {.js} and ChainPatrol to protect you from scams.** When you encounter a potentially malicious website, you will receive a prominent warning notification like this:
 
-<figure><img src="../../.gitbook/assets/Screenshot_30 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_30 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can either click:
 
@@ -29,10 +29,10 @@ Please be aware that we won't take responsibility for any action once you click 
 
 **Step 2**: In the Settings section, select “**Security settings**”.
 
-<figure><img src="../../.gitbook/assets/Screenshot_46.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_46 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Enable the toggle next to the "**Advanced phishing detection**" option.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_31.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_32 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_31 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_32 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 You have successfully enhanced the security of your wallet with an additional layer of protection!
