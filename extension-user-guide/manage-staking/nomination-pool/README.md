@@ -8,7 +8,7 @@ description: Stake your tokens via nominating for pools with ease on SubWallet.
 
 #### Mainnet
 
-<table><thead><tr><th width="211">Token</th><th width="175">Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>DOT (Polkadot)</td><td>1 DOT</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>KSM (Kusama)</td><td>0.002 KSM</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>VARA (Vara)</td><td>1 VARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>AZERO (Aleph Zero)</td><td>10 AZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail)</td><td>100 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr></tbody></table>
+<table><thead><tr><th width="211">Token</th><th width="175">Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>DOT (Polkadot)</td><td>1 DOT</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>KSM (Kusama)</td><td>0.002 KSM</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>VARA (Vara)</td><td>1 VARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>AZERO (Aleph Zero)</td><td>10 AZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail)</td><td>100 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>ANLOG (Analog Timechain)</td><td>1 ANLOG</td><td>Every 12 hours</td><td>Approx. 21 days</td></tr><tr><td>CERE (Cere Network)</td><td>250 CERE</td><td>Every 24 hours</td><td>Approx. 3 days</td></tr></tbody></table>
 
 #### Testnet
 

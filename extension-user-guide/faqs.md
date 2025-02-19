@@ -702,3 +702,28 @@ Once connected, you'll be able to make AVAIL-related transactions on Ledger.
 :warning: **Using the tool exposes your seed phrase; you are recommended to create new and move assets. Use it at your own risk!**
 
 </details>
+
+<details>
+
+<summary>How do I update the extension manually?</summary>
+
+Once a new version of the SubWallet extension is released, your browser will perform the update for you automatically, but if it doesn't and you're stuck on an older version, follow these steps to update the SubWallet extension manually:
+
+**Step 1**: Open the browser and click on the <img src="../.gitbook/assets/image (1995).png" alt="" data-size="line"> icon at the upper right of your screen.
+
+<img src="../.gitbook/assets/Screenshot_2 (4).png" alt="" data-size="original">
+
+Select "**Manage extensions**" to open the Extensions page.
+
+![](<../.gitbook/assets/image (1996).png>)
+
+**Step 2**: On the Extensions page, enable the "**Developer mode**" toggle at the top right corner.
+
+<img src="../.gitbook/assets/Screenshot_3 (1) (2).png" alt="" data-size="original">
+
+**Step 3**: Click the "**Update**" button to manually update your extension.
+
+<img src="../.gitbook/assets/Screenshot_4 (1) (2).png" alt="" data-size="original">
+
+</details>
+
