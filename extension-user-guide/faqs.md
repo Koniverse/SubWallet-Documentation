@@ -9,14 +9,6 @@ description: >-
 
 <details>
 
-<summary>I want to log off my wallet when I’m not at my computer. Can I do this with SubWallet?</summary>
-
-To keep the security of your assets while you are away, you can use the **lock function** of SubWallet. Please follow the instructions [here](broken-reference).
-
-</details>
-
-<details>
-
 <summary>Where can I get my account address?</summary>
 
 Your account address should be visible under your account name. If you cannot see the address, you are likely in the "All accounts" mode. Since an address must go with a specific account, you would need to choose the exact account for which you want to get the address.
@@ -683,7 +675,7 @@ In the Metadata tab, choose "**Update metadata**" to update the Kusama metadata.
 
 <details>
 
-<summary>I can't sign transactions on the Avail network using Ledger.</summary>
+<summary>I can't sign transactions on the Avail network using Ledger</summary>
 
 :information\_source: SubWallet has integrated the Avail Ledger app on version v1.2.22 to fix this issue. Update your extension to this version or the later one before you start doing this.
 
@@ -705,9 +697,9 @@ Once connected, you'll be able to make AVAIL-related transactions on Ledger.
 
 <details>
 
-<summary>How do I update the extension manually?</summary>
+<summary>How do I manually update the extension?</summary>
 
-Once a new version of the SubWallet extension is released, your browser will perform the update for you automatically, but if it doesn't and you're stuck on an older version, follow these steps to update the SubWallet extension manually:
+Once a new version of the SubWallet extension is released, your browser will automatically perform the update for you, but if it doesn't and you're stuck on an older version, follow these steps to update the SubWallet extension manually:
 
 **Step 1**: Open the browser and click on the <img src="../.gitbook/assets/image (1995).png" alt="" data-size="line"> icon at the upper right of your screen.
 
@@ -724,6 +716,14 @@ Select "**Manage extensions**" to open the Extensions page.
 **Step 3**: Click the "**Update**" button to manually update your extension.
 
 <img src="../.gitbook/assets/Screenshot_4 (1) (2).png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>The Transfer confirmation screen displayed a different recipient address than the address I entered. Will I lose my funds?</summary>
+
+
 
 </details>
 
