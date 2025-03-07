@@ -40,7 +40,7 @@ Make sure you have more than 0.1 TAO in your transferable balance to be able to 
 
 A completed staking request will look like the following picture. Click "**Stake**" to proceed.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_17 (2) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_17 (2) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 **Step 4**: Check the information and confirm your staking request by clicking "**Approve**".
 
@@ -48,4 +48,4 @@ A completed staking request will look like the following picture. Click "**Stake
 
 **Step 5**: You have successfully staked TAO!
 
-<div><figure><img src="../../../../.gitbook/assets/Screenshot_19 (3) (1).png" alt="" width="350"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20 (2).png" alt="" width="350"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot_19 (3) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20 (2) (1).png" alt="" width="350"><figcaption></figcaption></figure></div>

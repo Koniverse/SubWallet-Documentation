@@ -26,7 +26,7 @@ You can choose to either unveil your balances to get a clear view of your assets
 
 **Step 1**: Open the SubWallet extension and click the hide icon.
 
-<figure><img src="../../.gitbook/assets/Screenshot_62 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_62 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: All information regarding your balances will be hidden once you click.
 
@@ -35,5 +35,5 @@ You can choose to either unveil your balances to get a clear view of your assets
 {% hint style="info" %}
 While hidden, you can still view your balances individually by clicking on the token you want to unveil.
 
-<img src="../../.gitbook/assets/Screenshot_65 (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_65 (1) (1) (1).png" alt="" data-size="original">
 {% endhint %}

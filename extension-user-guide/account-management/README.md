@@ -8,7 +8,7 @@ description: This part will show you how to manage your accounts on SubWallet.
 How to create a new account with SubWallet
 {% endembed %}
 
-At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot) accounts, EVM (Ethereum) accounts, and TON accounts on SubWallet. In addition, the security of your assets is enhanced with 3 cold wallet connection options, including Ledger, Keystone, and Polkadot Vault (previously Parity Signer). Your privacy and security are our top priorities as always!
+At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot), EVM (Ethereum), TON, and Cardano accounts on SubWallet. In addition, the security of your assets is enhanced with 3 cold wallet connection options, including Ledger, Keystone, and Polkadot Vault (previously Parity Signer). Your privacy and security are our top priorities as always!
 
 Here are the articles in this section:
 
@@ -20,12 +20,16 @@ Here are the articles in this section:
 [derive-a-new-account-from-an-existing-account.md](derive-a-new-account-from-an-existing-account.md)
 {% endcontent-ref %}
 
+{% content-ref url="switch-between-accounts-and-change-account-name.md" %}
+[switch-between-accounts-and-change-account-name.md](switch-between-accounts-and-change-account-name.md)
+{% endcontent-ref %}
+
 {% content-ref url="import-accounts/" %}
 [import-accounts](import-accounts/)
 {% endcontent-ref %}
 
-{% content-ref url="switch-between-accounts-and-change-account-name.md" %}
-[switch-between-accounts-and-change-account-name.md](switch-between-accounts-and-change-account-name.md)
+{% content-ref url="migrate-solo-accounts-to-unified-accounts.md" %}
+[migrate-solo-accounts-to-unified-accounts.md](migrate-solo-accounts-to-unified-accounts.md)
 {% endcontent-ref %}
 
 {% content-ref url="attach-a-watch-only-account.md" %}

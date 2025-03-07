@@ -4,15 +4,15 @@ description: This document will show you how to export & backup accounts on SubW
 
 # Export & backup accounts
 
-### Supported import methods
+### Supported export methods
 
 Export your backup information in different forms of backup files, and use these files to restore & import the account again if you so wish.
 
 Depending on the type of account you want to export, SubWallet supports different export methods:
 
-<table><thead><tr><th width="224">Account type</th><th data-type="checkbox">Seed phrase</th><th data-type="checkbox">JSON file*</th><th data-type="checkbox">Private key</th><th data-type="checkbox">QR code</th></tr></thead><tbody><tr><td><strong>Unified account</strong></td><td>true</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Substrate account</strong></td><td>true</td><td>true</td><td>false</td><td>true</td></tr><tr><td><strong>EVM account</strong></td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td><strong>TON account</strong></td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td><strong>Ledger account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>QR-signer account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="224">Account type</th><th data-type="checkbox">Seed phrase</th><th data-type="checkbox">JSON file*</th><th data-type="checkbox">Private key</th><th data-type="checkbox">QR code</th></tr></thead><tbody><tr><td><strong>Unified account</strong></td><td>true</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Substrate account</strong></td><td>true</td><td>true</td><td>false</td><td>true</td></tr><tr><td><strong>EVM account</strong></td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td><strong>TON account</strong></td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td><strong>Cardano account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Ledger account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>QR-signer account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
 
-_(\*): The exported JSON file **cannot be imported** into EVM-compatible wallets (Metamask, Phantom, Rabby, etc.)._
+_(\*): The exported JSON file **cannot be imported** into EVM-compatible wallets (Metamask, Phantom, Rabby, etc.) or Cardano-native wallets (Typhoon)._
 
 ### Export & backup an account
 
@@ -68,7 +68,7 @@ _In this example, we will export multiple accounts on the SubWallet extension on
 
 <figure><img src="../../.gitbook/assets/Screenshot_220 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
+**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
 
 <figure><img src="../../.gitbook/assets/Screenshot_231.png" alt="" width="363"><figcaption></figcaption></figure>
 

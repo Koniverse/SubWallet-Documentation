@@ -28,7 +28,7 @@ _(\*\*\*):_ _If you only have MANTA on Manta Atlantic, make sure you have more t
 
 ### 3. StellaSwap liquid staking
 
-<table><thead><tr><th width="181">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0 xcDOT (Moonbeam)****</td></tr><tr><td>Minted token</td><td><strong>stDOT</strong>: a liquid token representing your share of the total xcDOT pool deposited with StellaSwap.</td></tr><tr><td>Unstake time</td><td>Instant withdrawal (once unstaked, you will receive xcDOT immediately)</td></tr><tr><td>Stake &#x26; unstake fees</td><td>Fees will be paid in GLMR</td></tr></tbody></table>
+<table><thead><tr><th width="181">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0 xcDOT (Moonbeam)****</td></tr><tr><td>Minted token</td><td><strong>stDOT</strong>: a liquid token representing your share of the total xcDOT pool deposited with StellaSwap.</td></tr><tr><td>Unstake time</td><td><ul><li>Fast unstake: unstake withdraw your xcDOT instantly with a higher fee</li><li>Normal unstake: wait up to 28 days to withdraw with a lower fee. You will need to withdraw manually to complete the process</li></ul></td></tr><tr><td>Stake &#x26; unstake fees</td><td>Fees will be paid in GLMR</td></tr></tbody></table>
 
 _(\*\*\*\*): If you only have DOT on Polkadot, you need to cross-chain them to Moonbeam first, then stake._
 

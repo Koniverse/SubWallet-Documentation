@@ -14,15 +14,15 @@ _In this example, we will connect Ledger accounts to SubWallet by choosing the A
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-13.jpg" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (4).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-25.jpg" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_55.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-29.jpg" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_56.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 5**: You will be directed to a new window. Select the Polkadot Migration app and the network you want to use. Once done, the extension will display the following pop-up:
 

@@ -44,7 +44,7 @@ Here is the completed input screen for importing a token. Once done, click "**Ad
 
 **Step 3**: In the token list, search for your customized token. Once found, hit the pencil icon on the right-hand side of the token name.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_85 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_85 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also tap the fader icon in the search bar, then select "**Custom tokens**" to filter the customized tokens from the initial list.
@@ -66,7 +66,7 @@ You can read more information about Coingecko API via [this article](https://doc
 
 **Step 4**: In the Token details screen, scroll down to see the "**Price ID**" field. Paste the API ID of your tokens (taken from Coingecko) and hit "**Save**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_86 (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_87 (3).png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_86 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_87 (3).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 **Step 5**: Once done, return to the homepage and scroll down the list to see your customized token and its price.
 

@@ -8,7 +8,7 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and choose the "**Earning**" tab at the bottom of the screen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_88 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_88 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Earning options screen, choose the token you want to stake by searching the list or typing the token name on the search bar.
 
@@ -28,7 +28,7 @@ If you have previously staked funds on the account, after choosing the "**Earnin
 
 A pop-up will appear. Read carefully, scroll down, then choose "**Stake to earn**" to proceed.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_92 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_93 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_92 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_93 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 You will be directed to the following Start earning screen.
 
@@ -38,14 +38,14 @@ Make sure you have more than the minimum amount required for staking in your tra
 
 **Step 4**: Enter the required earning information.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_94 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_94 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 We suggest you pay close attention to the pool you are choosing. When selecting a pool, SubWallet supports you with the latest record of pool details.&#x20;
 
 Click the three-dot icon on each pool's right side to see the details.
 
-<img src="../../../.gitbook/assets/Screenshot_95 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_96 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_95 (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_96 (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
@@ -53,12 +53,12 @@ We can also identify destroyed/inactive pools. **We suggest that you always choo
 
 To filter out the open pool(s), click the fader icon on the right-hand side of the search bar. Click the checkbox "**Open**", then click "**Apply filter**" to start filtering.&#x20;
 
-<img src="../../../.gitbook/assets/Screenshot_97 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_99 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_97 (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_99 (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 A completed earning request will look like the following picture. Click "**Stake**" to proceed.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_100 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_101 (5).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_100 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_101 (5).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, in addition to the above information, you will also need to select the staking account.

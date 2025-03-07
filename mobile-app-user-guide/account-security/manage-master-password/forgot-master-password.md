@@ -12,11 +12,11 @@ If you forgot your password, don't worry! You can quickly regain access to your 
 
 **Step 1**: Open the SubWallet app. On the Welcome screen, hit "**Forgot password**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_39.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_39 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2:** A pop-up message will appear with 2 options provided: "**Reset account**" and "**Erase all**".
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="282"><figcaption></figcaption></figure>
 
 #### **With the "Reset account" option**
 
@@ -45,6 +45,6 @@ Besides resetting the information listed like when you click "**Reset account**"
 
 **Step 3**: Once you choose either of these options, all the accounts you have previously imported will be removed. You will be directed to the Welcome screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_27 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_27 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 In this step, you will need to re-import your accounts again. For instructions on how to import an account, click here.

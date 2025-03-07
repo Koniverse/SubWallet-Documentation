@@ -57,3 +57,35 @@ With "**Fast Unstake**" you'll see a field labeled "**Minimum receivables**" on 
 <figure><img src="../../../.gitbook/assets/image (1983).png" alt="" width="363"><figcaption></figcaption></figure>
 
 You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
+
+### Withdraw unstaked xcDOT
+
+{% hint style="info" %}
+This action is needed only in StellaSwap liquid staking (xcDOT staking). After choosing to unstake normally, you will need to wait **up to 28 days** for your turn in the unstaking queue. Note that the wait time is not fixed and may vary depending on the current queue status.
+
+Once it's your turn, you need to withdraw the funds manually to redeem xcDOT.
+{% endhint %}
+
+**Step 1**: Open the SubWallet extension and choose the "**Earning**" tab at the bottom of the screen. In the Your earning positions screen, select the funds you've previously unstaked.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_98.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_99.png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+**Step 2**: In the Earning position details screen, click the "**Withdraw**" button under the Withdraw info section to start the withdrawal.
+
+<figure><img src="../../../.gitbook/assets/Screenshot_100.png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 3:** Click "**Continue**" to proceed.
+
+<figure><img src="../../../.gitbook/assets/Screenshot_101.png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 4**: Check the information and confirm your request by clicking "**Approve**".&#x20;
+
+**Step 5:** Your request has been submitted!
+
+<figure><img src="../../../.gitbook/assets/image (1983).png" alt="" width="363"><figcaption></figcaption></figure>
+
+You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
+
+{% hint style="info" %}
+If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
+{% endhint %}

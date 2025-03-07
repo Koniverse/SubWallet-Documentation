@@ -41,7 +41,7 @@ To add another provider URL, tap the "**+**" button at the upper right corner of
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_11 (13).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_12 (5).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot_13 (4).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_13 (4) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 To add the network's block explorer, enter the corresponding explorer's site in the **Block explorer** field. Once done, hit "**Save**".
 

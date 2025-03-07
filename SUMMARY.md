@@ -127,6 +127,7 @@
   * [Parachain (Collator) staking](extension-user-guide/manage-staking/nominate-for-collator/README.md)
     * [Start staking](extension-user-guide/manage-staking/nominate-for-collator/start-staking.md)
     * [Stake more](extension-user-guide/manage-staking/nominate-for-collator/stake-more.md)
+    * [Claim staking rewards](extension-user-guide/earning/parachain-collator-staking/claim-staking-rewards.md)
     * [Unstake](extension-user-guide/manage-staking/nominate-for-collator/unstake.md)
     * [Cancel a previous unstaking action](extension-user-guide/manage-staking/nominate-for-collator/cancel-a-previous-unstaking-action.md)
     * [Withdraw unstaked funds](extension-user-guide/manage-staking/nominate-for-collator/withdraw-unstaked-funds.md)

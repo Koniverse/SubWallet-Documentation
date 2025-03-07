@@ -10,28 +10,28 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_135.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, choose the account you want to use.
+**Step 2**: Choose the account you want to use in the account selection tab.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also switch between the "**All accounts**" and single-account modes here.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot_156.png" alt="" width="363"><figcaption></figcaption></figure>
-
 ### Change your account name
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_135.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, click the pen icon next to the account you want to change its name.
+**Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_67 (2).png" alt="" data-size="line"> icon next to the account you want to change its name.
 
-<figure><img src="../../.gitbook/assets/Screenshot_157.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_64.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Click on the account name field and change it. We will automatically save the new name if it's not one of the used account names in your account list.&#x20;
 
-Once done, click the "**X**' button or the left-arrow icon at the top left corner to return to the homepage.
+<div><figure><img src="../../.gitbook/assets/Screenshot_53.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_54.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_158.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_159.png" alt="" width="363"><figcaption></figcaption></figure></div>
+Once done, click the "**X**' button or the left-arrow icon at the top left corner to return to the homepage.

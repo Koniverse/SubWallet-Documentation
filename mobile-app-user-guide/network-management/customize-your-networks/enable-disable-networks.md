@@ -8,11 +8,11 @@ description: Seamlessly control network access with a flick of a switch.
 
 **Step 1**: On the SubWallet homepage, tap the fader icon at the top of the screen to get to the Customize asset display screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_96 (2).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_96 (2) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: Scroll down the list or type the network name in the search bar to find the network. Enable/disable that network by pressing the corresponding toggles.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_97 (2).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_98 (2).png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_97 (2) (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_98 (2).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 **Step 3**: Once done, tap the "**X**" button at the top left corner to exit the screen and return to the homepage.
 

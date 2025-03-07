@@ -10,13 +10,13 @@ The connection of a network will not always be stable. When a network experience
 
 For each network, there are 3 network statuses that can occur. At SubWallet, we differentiate these statuses by displaying them with different wifi icon colors.
 
-<table><thead><tr><th width="165">Wifi icon color</th><th width="176" align="center">Displayed in wallet</th><th>Meaning &#x26; Action needed</th></tr></thead><tbody><tr><td>Grey</td><td align="center"><img src="../../.gitbook/assets/Screenshot_97.png" alt=""></td><td>The network connection is <strong>unavailable</strong>. Please turn off the network and enable it back or change to another provider to restore network connection.</td></tr><tr><td><mark style="color:yellow;">Yellow</mark></td><td align="center"><img src="../../.gitbook/assets/Screenshot_96.png" alt=""></td><td>The network connection is <strong>unstable</strong>. Please turn off the network and enable it back or change to another provider to restore network connection.</td></tr><tr><td><mark style="color:green;">Green</mark></td><td align="center"><img src="../../.gitbook/assets/Screenshot_98.png" alt="" data-size="original"></td><td>The network connection is <strong>normal</strong>. </td></tr></tbody></table>
+<table><thead><tr><th width="165">Wifi icon color</th><th width="176" align="center">Displayed in wallet</th><th>Meaning &#x26; Action needed</th></tr></thead><tbody><tr><td>Grey</td><td align="center"><img src="../../.gitbook/assets/Screenshot_97 (2).png" alt=""></td><td>The network connection is <strong>unavailable</strong>. Please turn off the network and enable it back or change to another provider to restore network connection.</td></tr><tr><td><mark style="color:yellow;">Yellow</mark></td><td align="center"><img src="../../.gitbook/assets/Screenshot_96 (2).png" alt=""></td><td>The network connection is <strong>unstable</strong>. Please turn off the network and enable it back or change to another provider to restore network connection.</td></tr><tr><td><mark style="color:green;">Green</mark></td><td align="center"><img src="../../.gitbook/assets/Screenshot_98 (1).png" alt="" data-size="original"></td><td>The network connection is <strong>normal</strong>. </td></tr></tbody></table>
 
 ### Personalize your network's endpoint/provider
 
-**Step 1**: Open the SubWallet extension and click on the list item at the top left corner of the screen to get to the Settings section.
+**Step 1**: Open the SubWallet extension and click on the <img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (11).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, choose "**Manage networks**".
 

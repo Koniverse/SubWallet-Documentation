@@ -35,6 +35,6 @@ You've successfully created a master password in SubWallet! Now, you have the po
 {% hint style="info" %}
 Depending on the option you chose in Step 1, read the corresponding guide after creating a master password to complete the setup:
 
-* If you chose "**Create a new account**", read this guide.
-* If you chose "**Import an account**", read this guide.
+* If you chose "**Create a new account**", read this [guide](../../account-management/create-a-new-account-with-a-new-seed-phrase.md).
+* If you chose "**Import an account**", read this [guide](../../account-management/import-accounts/).
 {% endhint %}

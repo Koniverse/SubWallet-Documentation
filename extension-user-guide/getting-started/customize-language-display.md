@@ -22,17 +22,17 @@ More languages will be supported in the future. Stay tuned!
 
 ### **Customize language display** <a href="#customize-language-display" id="customize-language-display"></a>
 
-**Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
+**Step 1**: Open the SubWallet extension and click on the <img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select "**General settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_47.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_69.png" alt="" width="362"><figcaption></figcaption></figure>
 
 Next, choose "**Language**" to view supported languages.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (3) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Select your preferred language from the drop-down list.
 

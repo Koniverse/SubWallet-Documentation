@@ -8,31 +8,35 @@ description: Effortlessly import your account(s) by uploading a JSON file.
 Currently, this is the only method in which you can import multiple accounts simultaneously.
 {% endhint %}
 
+{% hint style="warning" %}
+Currently, SubWallet doesn't support importing JSON files created from Cardano-native wallets (Yoroi, Typhoon, Lace, etc.).
+{% endhint %}
+
 ### If you are currently using SubWallet
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_164.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_165.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_44.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from JSON file**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_186.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_46.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: You'll be redirected to a new window. Click on the import field to choose a file from your device, or drag and drop your JSON backup file to import.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_172.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_50.png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: Enter the file's password (created when you set up the wallet for the first time) and click "**Unlock file**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_173 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_51 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: Select the accounts you wish to import, then click "**Import {x} accounts**", where {x} represents the number of accounts selected for import.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_174.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_52 (1).png" alt=""><figcaption></figcaption></figure>
 
 You've successfully imported your account(s)!
 

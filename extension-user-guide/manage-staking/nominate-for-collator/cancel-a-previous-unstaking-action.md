@@ -30,7 +30,7 @@ You can see an option to cancel the unstaking action right below the withdrawal 
 This action is only available for tokens that are staked via:
 
 * Direct nomination
-* Parachain (Collator) staking
+* Parachain (Collator) staking (except MYTH on Mythos)
 {% endhint %}
 
 **Step 3**: Select the "**Cancel unstaking**" option.

@@ -10,12 +10,15 @@ description: >-
 
 SubWallet currently supports seed phrases created from words in the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt). Supported seed phrase types include:
 
-| Seed phrase type      | Corresponding imported account type                   |
-| --------------------- | ----------------------------------------------------- |
-| 12-word seed phrase   | Unified account                                       |
-| 24-word seed phrase\* | <ul><li>Unified account</li><li>TON account</li></ul> |
+| Seed phrase type        | Corresponding imported account type                   |
+| ----------------------- | ----------------------------------------------------- |
+| 12-word seed phrase     | Unified account                                       |
+| 15-word seed phrase\*   | Unified account                                       |
+| 24-word seed phrase\*\* | <ul><li>Unified account</li><li>TON account</li></ul> |
 
-_(\*): If you import a seed phrase created from a non-native TON wallet into SubWallet, SubWallet will generate a unified account for you. If seed phrase is from a TON-native wallet, SubWallet will restore your existing TON account._
+_(\*): SubWallet only supports importing 15-word seed phrases from Cardano-native wallets (Yoroi, Typhoon, Lace, etc.). After importing, SubWallet will generate a unified account for you, ensuring that its Cardano address matches the address displayed from those native wallets._
+
+_(\*\*): If you import the seed phrase created from a non-native TON wallet into SubWallet, SubWallet will generate a unified account for you. If the seed phrase is from a TON-native wallet, SubWallet will restore your existing TON account._
 
 {% hint style="warning" %}
 If you import a seed phrase incompatible with SubWallet, you may be unable to import the account, or the imported account may not be the one you intended to import.
@@ -29,19 +32,31 @@ If you import a seed phrase incompatible with SubWallet, you may be unable to im
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_164.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_165.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_44.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from seed phrase**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_185.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_45.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter your seed phrase by filling in the blank fields. Once done, click "**Import account**".&#x20;
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_167.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_168 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+
+<details>
+
+<summary>To choose the seed phrase type you want to import</summary>
+
+Besides the 12-word seed phrase, SubWallet also allows you to import the 15 and 24-word seed phrases.&#x20;
+
+To do that, click on the drop-down button next to "12 words" and then select the seed phrase type you want to import.
+
+<img src="../../../.gitbook/assets/Screenshot_49.png" alt="" data-size="original">
+
+</details>
 
 {% hint style="warning" %}
 When you import a seed phrase generated from a non-native TON wallet into SubWallet, a popup will appear informing you that this phrase is incompatible with TON-native wallets:

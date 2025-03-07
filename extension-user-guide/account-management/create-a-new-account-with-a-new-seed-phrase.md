@@ -73,11 +73,11 @@ If you want to store seed your phrase, you can either:
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_135.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click "**Create a new account**". Then choose "**Create with a new seed phrase**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_136.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_137.png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_79.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_80.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 3**: Keep your seed phrase in a safe place by clicking "**Copy to clipboard**" or "**Download seed phrase**". Then, click "**I have kept it somewhere safe**".
 
@@ -89,10 +89,10 @@ Step 4: Enter a name for your newly created account. Once done, click "**Continu
 
 You will be redirected to the homepage, where you can see your newly created account.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_141 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_140 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_28.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-For each seed phrase generated with the SubWallet extension, a unified account will be created and used to manage assets and make transactions across all ecosystems.
+For each seed phrase generated from SubWallet, a unified account will be created and used to manage assets and perform transactions across **all** ecosystems.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -100,4 +100,3 @@ Note that in order to see your assets, you will need to manually enable the netw
 
 Follow [this instruction](../network-management/customize-your-networks/enable-disable-networks.md) to enable the networks you want to use.
 {% endhint %}
-

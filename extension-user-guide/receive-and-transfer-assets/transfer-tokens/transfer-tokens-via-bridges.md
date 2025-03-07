@@ -36,7 +36,7 @@ _(\*\*): The same applies to its testnet channel._
 
 You will be directed to the Transfer screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are in Single-account mode, make sure the account you initially chose is not watch-only.
@@ -48,20 +48,20 @@ _In this example, we will transfer MYTH tokens on the Polkadot Asset Hub network
 
 First, select the token you want to transfer by clicking on the top-left field (_in this example, MYTH on Polkadot Asset Hub_).
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_78 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_79 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_78 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_79 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 Next, select the destination network (the network you want to transfer tokens to) by clicking on the top-right field.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_80 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_81 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_80 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_81 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 Enter the amount and the recipient's address, then click "**Transfer**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_82 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_82 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, in addition to the above information, you will also need to choose the sender's address.
 
-<img src="../../../.gitbook/assets/Screenshot_83 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_83 (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 **Step 3**: Read the popup message carefully, then click "**Continue**" to proceed.
@@ -70,11 +70,11 @@ If you are in the "**All accounts**" mode, in addition to the above information,
 The cross-chain transaction on Snowbridge usually incurs a high fee and can take from 20 minutes to more than 2 hours to complete, depending on the bridge's status. Transfer at your own risk!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_84 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_84 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_85.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_85 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in!
 

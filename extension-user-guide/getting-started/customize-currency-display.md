@@ -24,13 +24,13 @@ Currently, SubWallet supports 9 fiat currencies, those include:
 
 ### Customize your currency preferences
 
-**Step 1:** Open the SubWallet extension and click on the list item at the left corner to get to the Settings section.
+**Step 1**: Open the SubWallet extension and click on the <img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_15 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 2:** In the Settings section, click “**General settings**”.&#x20;
+**Step 2**: In the Settings section, select "**General settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_47.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_69.png" alt="" width="362"><figcaption></figcaption></figure>
 
 After that, choose the “**Currency**” option.
 
@@ -38,7 +38,7 @@ After that, choose the “**Currency**” option.
 
 **Step 3:** In the Currency list, either scroll down or type the currency in the search bar to select your preferred currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_17 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_17 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 In this example, we chose "**EUR - Euro**" as the displayed currency. Once done, you will be redirected back to the General settings screen.
 
@@ -46,7 +46,7 @@ In this example, we chose "**EUR - Euro**" as the displayed currency. Once done,
 
 **Step 4:** You are done! Please return to the SubWallet homepage to see your balance in your chosen currency.
 
-<figure><img src="../../.gitbook/assets/Screenshot_19 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The next time you open the extension, your balance will be displayed with your chosen currency.

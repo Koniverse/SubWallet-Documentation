@@ -4,7 +4,7 @@ description: This document will show you how to connect your Ledger device to Su
 
 # Connect Ledger device
 
-### Supported Ledger devices
+## Supported Ledger devices
 
 Currently, SubWallet supports these Ledger devices via **USB portal** only:
 
@@ -14,11 +14,11 @@ Currently, SubWallet supports these Ledger devices via **USB portal** only:
 * Ledger Stax
 * Ledger Flex
 
-### Types of Ledger apps
+## Types of Ledger apps
 
 Currently, there are 4 types of Ledger apps available for connecting your Ledger device. Review and select the relevant article based on the type that best fits your needs.
 
-#### Network-specific apps
+### Network-specific apps
 
 To connect your Ledger via these apps, choose the network's app on your Ledger and select the corresponding network on SubWallet.
 
@@ -28,7 +28,7 @@ For example, to connect Ledger Avail account(s) to SubWallet, you need to choose
 [connect-via-network-specific-apps.md](connect-ledger-device/connect-via-network-specific-apps.md)
 {% endcontent-ref %}
 
-#### EVM apps
+### EVM apps
 
 To connect your Ledger via these apps, choose the network's app on your Ledger and select the "**EVM networks**" option on SubWallet.
 
@@ -38,7 +38,7 @@ For example, to connect Ledger Moonbeam account(s) to SubWallet, you need to cho
 [connect-via-evm-apps.md](connect-ledger-device/connect-via-evm-apps.md)
 {% endcontent-ref %}
 
-#### Polkadot app
+### Polkadot app
 
 The Polkadot app lets your Ledger device to sign transactions on **all Substrate-based networks** as long as they have undergone runtime updates (e.g. Polkadot, Polkadot Asset Hub - Statemint).
 
@@ -50,7 +50,7 @@ To use this app, make sure that the Polkadot app installed in your Ledger is on 
 [connect-via-the-polkadot-app.md](connect-ledger-device/connect-via-the-polkadot-app.md)
 {% endcontent-ref %}
 
-#### Polkadot Migration app
+### Polkadot Migration app
 
 Before using this app, make sure the network you want to connect to has undergone runtime updates. To check if a network has performed this action, visit the [Parachains Metadata dashboard](https://dashboards.data.paritytech.io/metadata.html). If it hasn't, continue using the corresponding Ledger app.
 

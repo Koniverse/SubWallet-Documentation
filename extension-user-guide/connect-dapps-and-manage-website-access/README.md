@@ -62,11 +62,11 @@ After successfully connecting to dApps, you can manage the connected dApps/websi
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner of the screen to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_311.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings screen, select "**Manage website access**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_312.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_77.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: You will see a list of websites connected to SubWallet and the corresponding number of accounts connecting.&#x20;
 

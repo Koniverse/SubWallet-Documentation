@@ -63,7 +63,7 @@ In such instances, another popup will appear. Choose the "**Approve**" option to
 
 **Step 1:** Open the SubWallet extension and click on the list item at the top left corner of the screen to get to the Settings section, then select "**WalletConnect**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_311 (3).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_319 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_13 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_78.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 2:** You will see a list of websites connected to SubWallet and the corresponding number of accounts connecting.&#x20;
 

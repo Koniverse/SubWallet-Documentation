@@ -16,19 +16,19 @@ You can't change the password if you forgot it. Check out this article if you fo
 
 **Step 2**: In the Settings section, select "**Security settings**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_30.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_30 (2).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Change password**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_37.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_37 (2).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 4**: In the Change password screen, enter your current password. Once done, hit "**Next**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_34.png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_35.png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_34 (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_35 (2).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 **Step 5**: Set up your new password and then tap on the "**I understand that SubWallet can't recover the password for me**" box. Once done, hit "**Finish**" to complete the change.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_36.png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_38.png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_36 (2).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_38 (2).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Make sure your password is **well-kept**.

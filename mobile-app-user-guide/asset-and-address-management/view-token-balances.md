@@ -21,16 +21,16 @@ In SubWallet, with each token, there are 2 types of balances depending on the ac
 
 _In this example, we want to view ACA's balance on the Acala network. Tap "ACA" to proceed._
 
-<figure><img src="../../.gitbook/assets/Screenshot_42.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_42 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: In the Token screen, click ACA on the Acala network to get to the Token details screen. You'll see detailed information about your token balances.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_44.png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_45.png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_44 (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_45 (1).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, you can also click the "**Account details**" tab to see detailed token balance information on each account.
 
-<img src="../../.gitbook/assets/Screenshot_46.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_46 (1).png" alt="" data-size="original">
 {% endhint %}
 
 ### Show/hide zero balances <a href="#show-hide-zero-balances" id="show-hide-zero-balances"></a>
@@ -43,13 +43,13 @@ This feature is enabled by default when you first use the wallet, but you can tu
 
 **Step 1**: On the SubWallet homepage, tap the fader icon to get to the Customize asset display screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_51.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_51 (2).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: Turn on/off the "**Show zero balance**" toggle to hide/show all the tokens with zero balances.
 
 _In this example, we want to enable the toggle._
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_53.png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_52.png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_53 (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_52 (2).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can enable/disable the toggle back at any time.
@@ -57,4 +57,4 @@ You can enable/disable the toggle back at any time.
 
 **Step 3**: Voila! Now, the wallet will only display tokens that have a balance.
 
-<figure><img src="../../.gitbook/assets/Screenshot_54.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_54 (1).png" alt="" width="282"><figcaption></figcaption></figure>

@@ -16,24 +16,24 @@ You can choose to either unveil your balances to get a clear view of your assets
 
 **Step 1**: On the SubWallet homepage, tap the hide icon to unveil your balance.
 
-<figure><img src="../../.gitbook/assets/Screenshot_55.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_55 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: Your balances will be displayed once you tap.
 
-<figure><img src="../../.gitbook/assets/Screenshot_57.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_57 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 ### To hide your balances <a href="#to-hide-your-balances" id="to-hide-your-balances"></a>
 
 **Step 1**: On the SubWallet homepage, tap the eye symbol.
 
-<figure><img src="../../.gitbook/assets/Screenshot_56.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_56 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: All information regarding your balances will be hidden once you tap.
 
-<figure><img src="../../.gitbook/assets/Screenshot_58.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_58 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 While hidden, you can still view your balances individually by tapping on the token you want to unveil.
 
-<img src="../../.gitbook/assets/Screenshot_59.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_59 (1).png" alt="" data-size="original">
 {% endhint %}

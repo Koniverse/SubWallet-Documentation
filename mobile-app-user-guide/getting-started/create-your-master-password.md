@@ -10,7 +10,7 @@ At the start of your journey with us, we always ask you to create a master passw
 
 **Step 1**: After installing SubWallet, open the app. On the Welcome screen, select your preferred option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_27 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you choose "**Import an account**" or "**Attach an account**", you will need to select your preferred option.
@@ -24,11 +24,11 @@ If you choose "**Import an account**" or "**Attach an account**", you will need 
 The password should contain numbers & letters.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot_26.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_26 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 Once done, hit "**Continue**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_25.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_25 (2).png" alt="" width="282"><figcaption></figcaption></figure>
 
 You've successfully created a master password in SubWallet! Now, you have the power to manage multiple accounts with just one master password effortlessly.
 

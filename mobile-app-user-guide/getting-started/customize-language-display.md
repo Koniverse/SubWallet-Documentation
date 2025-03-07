@@ -28,14 +28,14 @@ More languages will be supported in the future. Stay tuned!
 
 **Step 2**: In the Settings section, select "**General settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_16.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 Next, choose "**Language**" to view supported languages.
 
-<figure><img src="../../.gitbook/assets/Screenshot_18.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_18 (2).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 3**: Select your preferred language from the list. Once selected, hit "**Apply**" to change the language you want to use.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_19.png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20.png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_19 (3).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20 (3).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 Get ready to explore new horizons and make your journey smooth and enjoyable with SubWallet, no matter where you are!

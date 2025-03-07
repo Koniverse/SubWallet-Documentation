@@ -8,13 +8,13 @@ description: >-
 
 ### Import customized tokens
 
-**Step 1**: Open the SubWallet extension and click on the list item at the top left of the screen to get to the Settings section.
+**Step 1**: Open the SubWallet extension and click on the <img src="../../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_11 (7).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings screen, choose "**Manage tokens**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_78 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_78 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 3**: In the token list, click the "**+**" icon at the top right of the screen to add your customized tokens.
 
@@ -22,15 +22,15 @@ description: >-
 
 **Step 4**: Enter the required information.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_82.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_82 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Here is the completed input screen for importing a token. Once done, click "**Import token**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_83.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_83 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 5**: You can find the token in the search bar after successfully importing it.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_84.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_84 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 ### Manage your custom tokens
 
@@ -48,7 +48,7 @@ Here is the completed input screen for importing a token. Once done, click "**Im
 You can also click on the fader icon in the search bar, then select "**Custom tokens**" to filter the customized tokens from the initial list.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_86.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_86 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 At this point, you can either edit the token's information or remove it. Choose the appropriate tab to suit your needs.
 
@@ -66,7 +66,7 @@ You can read more information about Coingecko API via [this article](https://doc
 
 **Step 4**: In the Token details screen, scroll down to see the "**Price ID**" field. Paste the API ID of your tokens (taken from Coingecko) and click "**Save**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_87.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_88.png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_87 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_88 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 **Step 5**: Once done, return to the homepage and scroll down the list to see your customized token and its price.
 

@@ -14,7 +14,7 @@ description: Effortlessly send tokens across networks on SubWallet.
 
 You will be directed to the Transfer screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_23 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are in Single-account mode, make sure the account you initially chose is not watch-only.
@@ -32,7 +32,7 @@ To make the cross-chain transfer, you first need to select the token you want to
 
 Next, select the destination network (the network you want to transfer tokens to) by clicking on the top-right field.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_35 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_36 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_35 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_36 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 Enter the amount and the recipient's address, then click "**Transfer**".
 
@@ -45,7 +45,7 @@ With this type of transfer, you can select the same account for both the sender 
 {% hint style="warning" %}
 Note that transferring tokens cross-chain to a centralized exchange (CEX) address will result in loss of funds. This is because these CEXs may not recognize or properly credit deposits made to their wallet addresses.
 
-<img src="../../../.gitbook/assets/Screenshot_39 (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_39 (1) (1) (1).png" alt="" data-size="original">
 
 If you face this situation, it is recommended that you contact their support team as soon as possible.
 {% endhint %}
@@ -66,7 +66,7 @@ Once done, click "**Transfer**".
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_40 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_40 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in!
 

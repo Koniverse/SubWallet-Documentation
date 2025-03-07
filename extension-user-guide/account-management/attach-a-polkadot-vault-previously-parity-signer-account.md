@@ -26,19 +26,19 @@ This should be done on a device that is **not** your Polkadot Vault device (PC r
 
 **Step 2**: Choose the network you want to add in the **Network** tab on the sidebar.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To make it easier, type the network you want to update in the **Search** bar.
 
 _In this case, we want to add the Avail network._
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (3).png>)
 {% endhint %}
 
 You will see a QR code, which will be used to add the corresponding network to your account.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Open the Polkadot Vault app and click on the "**Scan QR code**" button at the bottom of the screen.
 
@@ -85,7 +85,7 @@ In this case, we are using a PC.
 {% hint style="info" %}
 To make it easier, type the network you want to update in the "**Search**" bar.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (3).png>)
 {% endhint %}
 
 **Step 3**: Go to the "**Metadata**" tab.
@@ -118,26 +118,26 @@ To enable this permission, please follow these steps:
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left of the screen to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (12).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (6).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings screen, choose "**Security settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_20 (4).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_66.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the Security settings, switch the toggle next to "**Camera access for QR**" and approve the browser's popup to enable camera access.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_176 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_177.png" alt="" width="293"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_72.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_177.png" alt="" width="293"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you use the Brave browser, there will be multiple options that allow you to access the camera for different durations. You can choose the time option that best fits your personal preferences.&#x20;
 
-![](<../../.gitbook/assets/image (1) (3) (1).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 {% endhint %}
 
 {% hint style="info" %}
 If you want to disable this permission, you can switch the toggle back.
 
-<img src="../../.gitbook/assets/Screenshot_182.png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_183.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_70.png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_71.png" alt="" data-size="original">
 {% endhint %}
 
 #### **Attach your account**
@@ -146,15 +146,15 @@ If you want to disable this permission, you can switch the toggle back.
 
 **Step 2:** On the SubWallet homepage, click on the account name at the top of the screen to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_164 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom left corner of the screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_192.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_55.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Polkadot Vault account**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_201.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_57.png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you are on the SubWallet welcome page, select the "**Attach an account**" option, then click  "**Connect a Polkadot Vault account**".
@@ -176,4 +176,4 @@ If you are on the SubWallet welcome page, select the "**Attach an account**" opt
 
 You've successfully attached a Polkadot Vault account! If you repeat the action in **Step 2**, you will see your Polkadot Vault account displayed in the "**QR signer account**" section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_206.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_65.png" alt="" width="362"><figcaption></figcaption></figure>

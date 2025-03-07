@@ -25,19 +25,19 @@ In this example, we want to transfer GLMR on Moonbeam out of the account using a
 
 **Step 1**: On the homepage, click on the Moonbeam Key Set.
 
-<figure><img src="../.gitbook/assets/Screenshot_33.png" alt="" width="376"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_33 (1).png" alt="" width="376"><figcaption></figcaption></figure>
 
 **Step 2**: Click on the 3-dot icon at the top right of the screen and click the "**Share Private Key**" option.
 
-<figure><img src="../.gitbook/assets/Screenshot_34 (1).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_34 (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_41.png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_41 (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
 **Step 3**: Enter your passcode to authorize the action, then choose the "**Export Private Key**" button.
 
 <figure><img src="../.gitbook/assets/image (1967).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_35 (1).png" alt="" width="377"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_35 (1) (1).png" alt="" width="377"><figcaption></figcaption></figure>
 
 The "**Export Private Key**" screen will pop up with the QR code of your private key. Screenshot and keep it in a safe place.
 
