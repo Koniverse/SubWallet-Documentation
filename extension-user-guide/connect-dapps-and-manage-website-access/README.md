@@ -6,7 +6,7 @@ description: >-
 
 # Connect dApps & manage website access
 
-With SubWallet, you can seamlessly connect to virtually any dApp within the Ethereum and Polkadot ecosystems.&#x20;
+With SubWallet, you can seamlessly connect to virtually any dApp within the Ethereum and Polkadot ecosystems. Se
 
 {% hint style="info" %}
 Support for TON dApps/websites will be available soon - stay tuned :wink:
