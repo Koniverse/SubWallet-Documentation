@@ -66,7 +66,7 @@ To check the status of your staked funds, after selecting "**Back to home**", cl
 {% endtab %}
 
 {% tab title="If your tokens aren't on the required network" %}
-{% hint style="info" %}
+{% hint style="warning" %}
 You need to have more than 1.5 DOT on the Polkadot network to be able to cross-chain them to Bifrost Polkadot and pay the gas fee for staking (if you don't have BNC).
 {% endhint %}
 

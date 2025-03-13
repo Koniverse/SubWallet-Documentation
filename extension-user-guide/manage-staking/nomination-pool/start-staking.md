@@ -1,7 +1,5 @@
 ---
-description: >-
-  This document will show you how to start staking (also known as bonding)
-  tokens on SubWallet.
+description: Start earning by staking tokens via nomination pool on SubWallet.
 ---
 
 # Start staking
