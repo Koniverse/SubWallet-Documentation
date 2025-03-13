@@ -18,20 +18,20 @@ Even though we try our best to select and display reliable earning options, as w
 
 Currently, SubWallet offers the most diverse earning options in Polkadot & Ethereum ecosystems with 4 types of earning, including:
 
-{% content-ref url="nomination-pool/" %}
-[nomination-pool](nomination-pool/)
+{% content-ref url="../earning/nomination-pool/" %}
+[nomination-pool](../earning/nomination-pool/)
 {% endcontent-ref %}
 
-{% content-ref url="direct-nomination/" %}
-[direct-nomination](direct-nomination/)
+{% content-ref url="../earning/direct-nomination/" %}
+[direct-nomination](../earning/direct-nomination/)
 {% endcontent-ref %}
 
-{% content-ref url="parachain-collator-staking/" %}
-[parachain-collator-staking](parachain-collator-staking/)
+{% content-ref url="../earning/parachain-collator-staking/" %}
+[parachain-collator-staking](../earning/parachain-collator-staking/)
 {% endcontent-ref %}
 
-{% content-ref url="liquid-staking/" %}
-[liquid-staking](liquid-staking/)
+{% content-ref url="../earning/liquid-staking/" %}
+[liquid-staking](../earning/liquid-staking/)
 {% endcontent-ref %}
 
 As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
