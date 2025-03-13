@@ -2,7 +2,7 @@
 description: >-
   Welcome to SubWallet’s Wiki & Documentation! Here you can find all kinds of
   useful resources when using SubWallet, the comprehensive non-custodial wallet
-  for Polkadot, Substrate & Ethereum ecosystems.
+  for Polkadot, Ethereum & TON ecosystems.
 ---
 
 # Introduction
@@ -14,7 +14,7 @@ SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Subst
 {% embed url="https://www.youtube.com/watch?v=xY9NyrqMY6E" %}
 
 Built on top of Polkadot {.js}, SubWallet focuses on improving UX & UI. We envision a crypto wallet as a Web3 multiverse gateway through which users can enjoy multi-chain services with utmost ease and absolute security. \
-Connecting and using blockchain-based applications in Polkadot, Substrate & Ethereum ecosystems is smoother than ever with SubWallet Browser Extension & SubWallet Mobile App (Android & iOS). Our web wallet is coming soon!
+Connecting and using blockchain-based applications in Polkadot, Ethereum & TON ecosystems is smoother than ever with SubWallet Browser Extension & SubWallet Mobile App (Android & iOS). Our web wallet is coming soon!
 
 ## SubWallet Crypto Wallet Key Features
 
@@ -46,6 +46,7 @@ ERC-20, ERC-721, PSP-34, PSP-22
 * Polkadot (DOT)
 * Kusama (KSM)
 * Ethereum (ETH)
+* TON Network (TON)
 * Binance Smart Chain (BNB)
 * Moonbeam (GLMR)
 * Moonriver (MOVR)

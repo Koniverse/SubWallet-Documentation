@@ -10,6 +10,10 @@ description: >-
 
 **Step 1**: Open the App Store app and select the Search tab. Search for SubWallet, then select "**Get**".
 
+{% hint style="info" %}
+You can also download SubWallet via this link: [https://apps.apple.com/us/app/subwallet-polkadot-wallet/id1633050285](https://apps.apple.com/us/app/subwallet-polkadot-wallet/id1633050285)
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: A popup will appear. Hit "**Install**" to install the app.
@@ -19,6 +23,10 @@ description: >-
 ### If you are using an Android device
 
 Open the Play Store app and select the Search tab at the bottom of the screen. Search for SubWallet, then hit "**Install**".
+
+{% hint style="info" %}
+You can also download the app via this link: [https://play.google.com/store/apps/details?id=app.subwallet.mobile\&pli=1](https://play.google.com/store/apps/details?id=app.subwallet.mobile\&pli=1)
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

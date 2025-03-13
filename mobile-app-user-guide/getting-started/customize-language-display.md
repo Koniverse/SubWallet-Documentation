@@ -32,7 +32,7 @@ More languages will be supported in the future. Stay tuned!
 
 Next, choose "**Language**" to view supported languages.
 
-<figure><img src="../../.gitbook/assets/Screenshot_18 (2).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_34 (7).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 3**: Select your preferred language from the list. Once selected, hit "**Apply**" to change the language you want to use.
 

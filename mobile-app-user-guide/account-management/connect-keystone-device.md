@@ -4,29 +4,44 @@ description: This document will show you how to connect a Keystone device to Sub
 
 # Connect Keystone device
 
-**Step 1**: Open SubWallet and click the account name to get to the account list.
+**Step 1**: Open your Keystone device and have the QR code ready.
 
-You will be directed to a list of accounts.
+**Step 2:** On the SubWallet homepage, hit the account name at the top of the screen to access the account selection tab.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (103).png" alt="" width="341"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (7).png" alt="" width="270"><figcaption></figcaption></figure>
 
-**Step 2**: In the account list, choose the **Attach account** icon in the lower right corner.
+**Step 3**: In the account selection tab, hit the <img src="https://docs.subwallet.app/~gitbook/image?url=https%3A%2F%2F631687399-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lh39Kwxa1xxZM9WX_Bs%252Fuploads%252FFiGMDTOg9S8t9pK5Ty8A%252FScreenshot_191.png%3Falt%3Dmedia%26token%3D0a583318-92e6-4dcc-a747-c92f918addcb&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=c2666f64&#x26;sv=2" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (104).png" alt="" width="341"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Screenshot_17 (5).png" alt="" width="272"><figcaption></figcaption></figure>
 
-**Step 3**: Choose **Connect a Keystone device**.
+**Step 4**: Choose "**Connect a Keystone device**".
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (105).png" alt="" width="338"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (7).png" alt="" width="272"><figcaption></figcaption></figure>
 
-**Step 4**: Open your account on the Keystone device and have the QR code ready. Then click the **Scan the QR code** button on SubWallet and scan the QR code displayed on Keystone.
+**Step 5**: Press "**Scan QR code**".
 
-![](<../../.gitbook/assets/image (108).png>) ![](<../../.gitbook/assets/image (107).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_2 (7).png" alt="" width="272"><figcaption></figcaption></figure>
 
-After importing the new account into the wallet, you might want to change the account name. Please follow this [guide](switch-between-accounts-and-change-account-name.md).
+<details>
 
-{% hint style="info" %}
-Please note that in order to see your assets after importing your account, you would need to manually enable the networks you want to use & have assets on. Please follow [this instruction](broken-reference) to enable the networks you want to use.
+<summary>If you haven't granted camera access to SubWallet yet</summary>
 
-SubWallet automatically enables Polkadot & Kusama networks for Substrate accounts, but you can disable them if you so wish.&#x20;
-{% endhint %}
+In this case, once you hit the button, your device will show the following message:
 
+<img src="../../.gitbook/assets/Screenshot_3 (11).png" alt="" data-size="original">
+
+Click "**Go to Settings**" to open your phone's settings.&#x20;
+
+On the settings screen, switch the toggle next to "**Camera**" to allow the camera access to the app.
+
+<img src="../../.gitbook/assets/Screenshot_4 (5).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_5 (7).png" alt="" data-size="original">
+
+</details>
+
+**Step 6**: Scan the QR code you have in **Step 1**, or upload an image containing this QR code using the "**Upload from photos**" option.
+
+<figure><img src="../../.gitbook/assets/Screenshot_6 (9).png" alt="" width="272"><figcaption></figcaption></figure>
+
+**Step 7:** Once the app recognizes the QR code, a popup will appear, asking you to enter the name of your account. Once done, hit "**Confirm**".
+
+Your account is ready!
