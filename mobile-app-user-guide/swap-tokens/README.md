@@ -12,9 +12,7 @@ SubWallet currently enables token swaps within the same network (_single-chain s
 
 With SubWallet, you can now swap tokens via these swap providers:
 
-<table><thead><tr><th width="206">Swap provider</th><th width="170" data-type="checkbox">Single-chain swap</th><th width="175" data-type="checkbox">Cross-chain swap</th><th>Swap time</th></tr></thead><tbody><tr><td><strong>ChainFlip</strong></td><td>true</td><td>true</td><td>Up to 3 minutes</td></tr><tr><td><strong>SimpleSwap</strong></td><td>true</td><td>true</td><td>From 5 to 60 minutes</td></tr><tr><td><strong>Hydration</strong></td><td>true</td><td>false</td><td>Instant</td></tr><tr><td><strong>Polkadot Asset Hub</strong></td><td>true</td><td>false</td><td>Instant</td></tr><tr><td><strong>Uniswap*</strong></td><td>true</td><td>false</td><td>Instant</td></tr></tbody></table>
-
-_(\*): The swapping process on Uniswap differs slightly from other providers. Refer to this_ [_guide_](single-chain-swap.md) _for the complete procedure._
+<table><thead><tr><th width="206">Swap provider</th><th width="172" data-type="checkbox">Single-chain swap</th><th width="172" data-type="checkbox">Cross-chain swap</th><th>Swap time</th></tr></thead><tbody><tr><td>ChainFlip</td><td>true</td><td>true</td><td>Up to 3 minutes</td></tr><tr><td>SimpleSwap</td><td>true</td><td>true</td><td>From 5 to 60 minutes</td></tr><tr><td>Hydration</td><td>true</td><td>false</td><td>Instant</td></tr><tr><td>Polkadot Asset Hub</td><td>true</td><td>false</td><td>Instant</td></tr></tbody></table>
 
 {% hint style="info" %}
 When swapping DOT & ASTR via Hydration, SubWallet allows you to swap these tokens even if you don't have any funds on Hydration. This means that if you only have DOT on Polkadot & ASTR on Astar, you can still swap them for other tokens on Hydration directly on the Swap screen.
