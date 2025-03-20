@@ -2,18 +2,14 @@
 description: This document will show you how to connect a Ledger device to SubWallet.
 ---
 
-# Connect Ledger device
+# Connect Ledger devices
 
 ### Set up Ledger device
 
 **Step 1**:  Connect Ledger device to your computer using the USB cable. Please make sure to enter your PIN code.\
 Press the right button to go up, the left button to go down, and both buttons simultaneously to validate.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (157).png" alt="" width="298"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (157).png" alt="" width="298"><figcaption></figcaption></figure></div>
 
 **Step 2:** Choose the network you want to connect by clicking on the right button to go up, the left button to go down, and both buttons simultaneously to validate.\
 ![](<../../.gitbook/assets/image (158).png>)
@@ -33,7 +29,7 @@ The screen will display as follows if you have set it up successfully.\
 
 **Step 2**: Choose the "Attach account" icon in the lower right corner.
 
-![](https://lh3.googleusercontent.com/rq2yafAuu5jklJAlN0uj4wjWMpj4ZfWxIVOpzWdY\_xPrNb-pf3R5vRvWCrOAO8lkL0lKovLEh6o2LL8NVschWcqlKhnh7zyM7qCXATsKmvIe28J7by5RZ2Kt6Y-8fCnRnNEabTD7CAE\_ZoAZX\_-F4yg)
+![](https://lh3.googleusercontent.com/rq2yafAuu5jklJAlN0uj4wjWMpj4ZfWxIVOpzWdY_xPrNb-pf3R5vRvWCrOAO8lkL0lKovLEh6o2LL8NVschWcqlKhnh7zyM7qCXATsKmvIe28J7by5RZ2Kt6Y-8fCnRnNEabTD7CAE_ZoAZX_-F4yg)
 
 
 

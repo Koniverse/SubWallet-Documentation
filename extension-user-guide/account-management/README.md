@@ -36,16 +36,16 @@ Here are the articles in this section:
 [attach-a-watch-only-account.md](attach-a-watch-only-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="attach-a-polkadot-vault-previously-parity-signer-account.md" %}
-[attach-a-polkadot-vault-previously-parity-signer-account.md](attach-a-polkadot-vault-previously-parity-signer-account.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="connect-ledger-device.md" %}
-[connect-ledger-device.md](connect-ledger-device.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="connect-keystone-device.md" %}
-[connect-keystone-device.md](connect-keystone-device.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="export-and-backup-accounts.md" %}

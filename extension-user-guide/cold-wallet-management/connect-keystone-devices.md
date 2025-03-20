@@ -4,7 +4,7 @@ description: >-
   SubWallet.
 ---
 
-# Connect Keystone device
+# Connect Keystone devices
 
 ### **Enable/disable your permission for camera access**
 
@@ -61,7 +61,7 @@ If you haven't enabled the "Camera access for QR" toggle in Security settings, S
 
 <img src="../../.gitbook/assets/Screenshot_175.png" alt="" data-size="original">
 
-To enable access, click on "Go to Setting" and then follow the steps provided in[#enable-disable-your-permission-for-camera-access](connect-keystone-device.md#enable-disable-your-permission-for-camera-access "mention").
+To enable access, click on "Go to Setting" and then follow the steps provided in[#enable-disable-your-permission-for-camera-access](connect-keystone-devices.md#enable-disable-your-permission-for-camera-access "mention").
 
 Once done, repeat the connecting procedure.
 {% endhint %}
