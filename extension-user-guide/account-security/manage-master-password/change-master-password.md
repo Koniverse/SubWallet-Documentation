@@ -12,7 +12,7 @@ You can't change the password if you forgot it. Check out [this article](forgot-
 
 **Step 1**: Open the SubWallet extension and click on the <img src="../../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_13.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select "**Security settings**".
 

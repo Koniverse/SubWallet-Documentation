@@ -6,7 +6,7 @@ description: Get a handle on organizing and running your customized networks wit
 
 **Step 1**: Open the SubWallet extension and click on the <img src="../../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_13 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, choose "**Manage networks**".
 

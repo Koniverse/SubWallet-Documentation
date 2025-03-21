@@ -12,11 +12,11 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and click the "**Send tokens**" button on the homepage.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_22 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_4.png" alt="" width="362"><figcaption></figcaption></figure>
 
 You will be directed to the Transfer screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_5.png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are in Single-account mode, make sure the account you initially chose is not watch-only.
@@ -26,7 +26,17 @@ If you are in Single-account mode, make sure the account you initially chose is 
 
 In the "**To**" field, you can select one account from the account list or paste the valid address.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_31 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_26 (3).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+<details>
+
+<summary>If you are in the "All accounts" mode</summary>
+
+In this case, in addition to the above information, you will also need to choose the sender's address.
+
+<img src="../../../.gitbook/assets/Screenshot_10.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_11.png" alt="" data-size="original">
+
+</details>
 
 {% hint style="info" %}
 From version v1.3.3 onwards, we have introduced a new feature: **Advanced address detection**.
@@ -40,17 +50,57 @@ However, we strongly recommend not to use this feature if you aren't an expert i
 <img src="../../../.gitbook/assets/Screenshot_303.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_302.png" alt="" data-size="original">
 {% endhint %}
 
-{% hint style="info" %}
-If you are in the "**All accounts**" mode, in addition to the above information, you will also need to choose the sender's address.
+<details>
 
-<img src="../../../.gitbook/assets/Screenshot_27 (2) (1).png" alt="" data-size="original">
+<summary>Customize gas fee for EVM transactions</summary>
+
+{% hint style="info" %}
+With EVM networks, high traffic can result in slower transaction processing times. As a result, the optimal transaction fee required to incentivize miners to validate transactions may fluctuate based on changes in network usage and conditions.
 {% endhint %}
+
+From version 1.3.24, SubWallet allows you to customize the transaction fee for transactions performed on any EVM network. This means you can set the fee amount to whatever you desire rather than being limited to a fixed fee, as in previous versions.
+
+To customize the fee, once you input the needed information, click the <img src="../../../.gitbook/assets/Screenshot_67.png" alt="" data-size="line"> in the "**Estimated fee**" field. In the Edit fee popup, you can select between 3 fee options: "**Low**", "**Medium**", and "**High**". These options are dynamic and offer suggestions based on network congestion during transactions.
+
+Choose the option you prefer.
+
+<img src="../../../.gitbook/assets/Screenshot_16.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_17.png" alt="" data-size="original">
+
+{% hint style="info" %}
+You can also set your custom fee by selecting the "**Custom**" tab, entering the Max & Priority fees you prefer, and then clicking "**Apply fee**".
+
+<mark style="color:red;">Please note that the Priority fee cannot be higher than the Max fee.</mark>
+
+<img src="../../../.gitbook/assets/Screenshot_18 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_19 (1).png" alt="" data-size="original">
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>Select a non-native token to pay gas fees for transactions on some Substrate (Polkadot) networks</summary>
+
+{% hint style="success" %}
+Currently, SubWallet supports customizing payment tokens for single-chain transactions on these networks:
+
+* **Polkadot Asset Hub** (starting from version 1.3.18)
+* **Kusama Asset Hub** (starting from version 1.3.18)
+* **Hydration** (starting from version 1.3.24)
+
+Instead of requiring native tokens to cover gas fees, you now have a variety of tokens to choose from for this fee.
+{% endhint %}
+
+To customize the payment token, once you input the required information, click the <img src="../../../.gitbook/assets/Screenshot_67.png" alt="" data-size="line"> in the "**Estimated fee**" field. Select any tokens you have balances to pay the gas fee.
+
+<img src="../../../.gitbook/assets/Screenshot_12.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_13.png" alt="" data-size="original">
+
+</details>
 
 Once done, click "**Transfer**".
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_28 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_8.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in!
 
@@ -61,5 +111,5 @@ You can either click "**Back to home**" to return to the homepage or "**View tra
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-<img src="../../../.gitbook/assets/Screenshot_30 (2) (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_9.png" alt="" data-size="original">
 {% endhint %}

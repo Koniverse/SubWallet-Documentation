@@ -38,7 +38,7 @@ SubWallet supports DOT on many networks, such as Polkadot, Acala, Hydration, etc
 
 _In this example, we want to get address of the account named "Andy 1"._
 
-<figure><img src="../../.gitbook/assets/Screenshot_4.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_4 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.

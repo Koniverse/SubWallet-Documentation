@@ -10,7 +10,7 @@ This feature allows you to participate in various live and upcoming airdrop camp
 
 **Step 1**: On the SubWallet homepage, click the "**Mission Pools**" tab on the sidebar.
 
-<figure><img src="../.gitbook/assets/Screenshot_12 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_12 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: The list of campaigns will appear. Select the campaign you want to join from the list.
 
@@ -27,8 +27,8 @@ With each campaign, we provide all the information needed so you can decide whet
 * Total rewards
 * Timeline
 * Total winners
-* <img src="../.gitbook/assets/Screenshot_6 (1).png" alt="" data-size="line">: Project website
-* <img src="../.gitbook/assets/Screenshot_7 (1) (1).png" alt="" data-size="line">: Project Twitter (X) page.
+* <img src="../.gitbook/assets/Screenshot_6 (1) (1).png" alt="" data-size="line">: Project website
+* <img src="../.gitbook/assets/Screenshot_7 (1) (1) (1).png" alt="" data-size="line">: Project Twitter (X) page.
 
 <img src="../.gitbook/assets/Screenshot_32 (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_33 (2).png" alt="" data-size="original">
 {% endhint %}

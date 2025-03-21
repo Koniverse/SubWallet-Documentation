@@ -44,7 +44,7 @@ Select "**DOT (Polkadot)**" as the token you want to swap.
 
 Select "**ETH (Ethereum)**" as the token you wish to receive.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_18 (4).png" alt="" width="267"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_19 (4).png" alt="" width="267"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_18 (4) (1).png" alt="" width="267"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_19 (4).png" alt="" width="267"><figcaption></figcaption></figure></div>
 
 <details>
 

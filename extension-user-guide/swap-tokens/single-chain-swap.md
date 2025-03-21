@@ -161,7 +161,7 @@ Ensure the token you want to swap and the token you wish to receive are on the s
 
 In this case, you will need to select the swapping account.
 
-<img src="../../.gitbook/assets/Screenshot_30 (3).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_16 (5).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_30 (3).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_16 (5) (1).png" alt="" data-size="original">
 
 </details>
 

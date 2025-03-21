@@ -46,7 +46,7 @@ If, for instance, you forget your password, you will need your seed phrase to im
 
 **Step 5**: Your seed phrase will be shown to you. Select "**I have kept it somewhere safe**" to proceed.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (1) (2).png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1) (2) (1).png" alt="" width="270"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you want to store seed your phrase, you can either:
@@ -79,7 +79,7 @@ If you want to store seed your phrase, you can either:
 
 **Step 3**: Keep your seed phrase in a safe place by hitting "**Copy to clipboard**" or "**Download seed phrase**". Then, tap "**I have kept it somewhere safe**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_19 (1) (2).png" alt="" width="270"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20 (1) (2).png" alt="" width="270"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_19 (1) (2) (1).png" alt="" width="270"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20 (1) (2).png" alt="" width="270"><figcaption></figcaption></figure></div>
 
 **Step 4:** Verify the seed phrase by putting each word in the phrase in its right order. If all the words are in the right order, tap "**Finish**" to proceed.
 

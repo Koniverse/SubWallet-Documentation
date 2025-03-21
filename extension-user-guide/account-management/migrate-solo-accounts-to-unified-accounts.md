@@ -46,7 +46,7 @@ You can also open the Settings screen by clicking on the account name to access 
 
 **Step 4**: The migration popup will appear, informing you of how the migration works. Read carefully, then select "**Migrate now**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_16.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (5).png" alt="" width="362"><figcaption></figcaption></figure>
 
 <details>
 
@@ -60,13 +60,13 @@ In this case, once you click "**Migrate now**", you will be directed to the Fini
 
 **Step 5**: Enter your SubWallet password to start the migration.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_17 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_18 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_17 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_18 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 6**: At the top of the screen, you will see the progress and number of unified accounts that will be created from the migration.
 
 Enter a name for your account and then click "**Approve**" to proceed. Repeat the process until all accounts have been migrated.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_19 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_19 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_20 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 <details>
 

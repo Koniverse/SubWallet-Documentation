@@ -18,13 +18,12 @@ The ED exists so that accounts with very small balances or completely empty do n
 
 Here's the information about the existential deposit for native tokens on popular networks:
 
-| Network            | Native token | Existential deposit |
-| ------------------ | ------------ | ------------------- |
-| Polkadot           | DOT          | 1 DOT               |
-| Polkadot Asset Hub | DOT          | 0.01 DOT            |
-| Kusama             | KSM          | 0.000333333 KSM     |
-| Hydration          | HDX          | 1 HDX               |
-| Vara               | VARA         | 1 VARA              |
-| Acala              | ACA          | 0.1 ACA             |
-| Bifrost Polkadot   | BNC          | 0.01 BNC            |
-| Bittensor          | TAO          | 0.0000005 TAO       |
+| Network          | Native token | Existential deposit |
+| ---------------- | ------------ | ------------------- |
+| Polkadot         | DOT          | 1 DOT               |
+| Kusama           | KSM          | 0.000333333 KSM     |
+| Hydration        | HDX          | 1 HDX               |
+| Vara             | VARA         | 1 VARA              |
+| Acala            | ACA          | 0.1 ACA             |
+| Bifrost Polkadot | BNC          | 0.01 BNC            |
+| Bittensor        | TAO          | 0.0000005 TAO       |

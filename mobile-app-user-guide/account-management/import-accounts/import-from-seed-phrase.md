@@ -41,7 +41,7 @@ If you import a seed phrase incompatible with SubWallet, you may be unable to im
 
 **Step 4**: Enter your seed phrase by filling in the blank fields. Once done, hit "**Import account**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_17 (7).png" alt="" width="272"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_18 (1) (2).png" alt="" width="272"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_17 (7).png" alt="" width="272"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_18 (1) (2) (1).png" alt="" width="272"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 When you import a seed phrase generated from a non-native TON wallet into SubWallet, a popup will appear informing you that this phrase is incompatible with TON-native wallets:
