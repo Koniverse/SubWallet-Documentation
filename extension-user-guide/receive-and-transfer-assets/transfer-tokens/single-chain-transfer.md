@@ -12,11 +12,11 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and click the "**Send tokens**" button on the homepage.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_4.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_4 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 You will be directed to the Transfer screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_5.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_5 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are in Single-account mode, make sure the account you initially chose is not watch-only.
@@ -26,7 +26,7 @@ If you are in Single-account mode, make sure the account you initially chose is 
 
 In the "**To**" field, you can select one account from the account list or paste the valid address.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 <details>
 

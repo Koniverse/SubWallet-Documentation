@@ -20,11 +20,11 @@ If you have previously staked funds on the account, after choosing the "**Earnin
 
 **Step 3**: In the TAO earning options screen, choose the subnet you want to stake by searching the list or typing the subnet name on the search bar.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_5 (24).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (30).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_5 (24).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_2.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 A pop-up will appear. Read carefully, scroll down, then choose "**Stake to earn**" to proceed.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_8 (27).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_9 (20).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image2.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 You will be directed to the following Start earning screen.
 
@@ -34,7 +34,7 @@ Make sure you have more than the minimum amount required for staking in your tra
 
 **Step 4**: Enter the required earning information.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_10 (19).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_3.png" alt="" width="362"><figcaption></figcaption></figure>
 
 <details>
 
@@ -60,7 +60,7 @@ You can use the **Sort** function to find the most suitable validator that fits 
 
 A completed earning request will look like the following picture. Click "**Stake**" to proceed.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_15 (20).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_16 (22).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_7.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_1.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, in addition to the above information, you will also need to select the staking account.
@@ -74,10 +74,14 @@ Make sure you leave enough tokens to pay gas fees for staking & unstaking.
 
 **Step 5**: Check the information and confirm your staking request by clicking "**Approve**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_17 (18).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_4.png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 6:** Your staking request has been submitted!
 
 <figure><img src="../../../.gitbook/assets/image (1980).png" alt="" width="363"><figcaption></figcaption></figure>
 
 You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
+
+To check the status of your staked funds, after selecting "**Back to home**", click the Earning tab as per **Step 1**. In the Your earning positions screen, scroll down, then click on your newly staked funds.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_5.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_6.png" alt="" width="362"><figcaption></figcaption></figure></div>

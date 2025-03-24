@@ -20,7 +20,7 @@ Below is the installation process on Google Chrome. The same process applies to 
 
 **Step 2**: A pop-up will appear. Click "**Add extension**" to continue.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_2 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2 (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 3**: Click on the extension icon and pin SubWallet extension. You have successfully installed the ultimate Polkadot, Substrate, TON & Ethereum wallet extension!
 

@@ -12,13 +12,13 @@ Choose your preferred method and follow the instructions below to get your walle
 
 **Step 1**: Open the SubWallet extension and click the "**Get address**" button on the homepage.
 
-<figure><img src="../../.gitbook/assets/Screenshot_3.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: Choose the token you want to receive by scrolling down the token list or typing the token symbol in the search bar.
 
 _In this example, we want to get the address of the DOT token on Polkadot._
 
-<figure><img src="../../.gitbook/assets/Screenshot_2.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2 (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Notice the network logo and the network name under the token name.&#x20;
@@ -31,14 +31,14 @@ _For example, let's say you want to receive DOT._&#x20;
 
 SubWallet supports DOT on many networks, such as Polkadot, Acala, Hydration, etc., so please be careful when choosing the token. Otherwise, your sender might send funds to the wrong network, and you will need to take extra steps with additional fees to have it on your desired network.
 
-<img src="../../.gitbook/assets/Screenshot_1.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_1 (1).png" alt="" data-size="original">
 {% endhint %}
 
 **Step 3**: Select the account you want to get an address.
 
 _In this example, we want to get address of the account named "Andy 1"._
 
-<figure><img src="../../.gitbook/assets/Screenshot_4 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_4 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.

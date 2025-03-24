@@ -44,7 +44,7 @@ in dTao staking, all subnets will have a token for staking. The subnet tokens ar
 Alpha tokens can only be purchased with TAO tokens (i.e., swap TAO for alpha).
 
 {% hint style="info" %}
-**SubWallet currently supports all 79 alpha tokens on the Bittensor network.**
+**SubWallet currently supports 70+ alpha tokens on the Bittensor network.**
 {% endhint %}
 
 ### **4. dTAO staking information & parameters**

@@ -16,7 +16,7 @@ Even though we try our best to select and display reliable earning options, as w
 
 ### Supported Earning options
 
-Currently, SubWallet offers the most diverse earning options in Polkadot & Ethereum ecosystems with 4 types of earning, including:
+Currently, SubWallet offers the most diverse earning options in Polkadot & Ethereum ecosystems with 5 types of earning, including:
 
 {% content-ref url="nomination-pool/" %}
 [nomination-pool](nomination-pool/)
@@ -33,6 +33,12 @@ Currently, SubWallet offers the most diverse earning options in Polkadot & Ether
 {% content-ref url="nominate-for-dapp/" %}
 [nominate-for-dapp](nominate-for-dapp/)
 {% endcontent-ref %}
+
+{% content-ref url="../earning/subnet-staking-dtao-staking/" %}
+[subnet-staking-dtao-staking](../earning/subnet-staking-dtao-staking/)
+{% endcontent-ref %}
+
+
 
 As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
 

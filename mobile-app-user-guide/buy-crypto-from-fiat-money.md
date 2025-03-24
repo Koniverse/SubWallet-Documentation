@@ -12,7 +12,7 @@ SubWallet has partnered with Transak, Banxa, and Coinbase Pay to provide you wit
 
 **Step 1**: Open the SubWallet app. On the homepage, hit the "**Buy**" icon.
 
-<figure><img src="../.gitbook/assets/Screenshot_5 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_5 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: Select the token and the corresponding supplier you want to buy from. There will be a list for you to choose from. Once done, hit "**Buy now**".
 

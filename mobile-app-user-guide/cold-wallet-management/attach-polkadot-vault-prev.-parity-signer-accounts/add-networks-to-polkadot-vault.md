@@ -36,7 +36,7 @@ You will see a QR code, which will be used to add the corresponding network to y
 
 **Step 5**: After approving the addition of the new network, you'll be prompted to create a new key (account) for that network. It will be added to the main tab under the selected key set.
 
-<div><figure><img src="../../../.gitbook/assets/image (2) (4).png" alt="" width="333"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (1) (4).png" alt="" width="332"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (4).png" alt="" width="333"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt="" width="332"><figcaption></figcaption></figure></div>
 
 **Step 6**: You have successfully added the network!
 

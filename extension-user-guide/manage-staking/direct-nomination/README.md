@@ -16,8 +16,8 @@ description: Stake your tokens via nominating for validator(s) with ease on SubW
 
 ### Here are articles in this section:&#x20;
 
-{% content-ref url="start-staking/" %}
-[start-staking](start-staking/)
+{% content-ref url="../../earning/direct-nomination/start-staking.md" %}
+[start-staking.md](../../earning/direct-nomination/start-staking.md)
 {% endcontent-ref %}
 
 {% content-ref url="stake-more.md" %}
