@@ -1,0 +1,83 @@
+---
+description: Start earning by staking TAO in subnets!
+---
+
+# Start staking
+
+**Step 1**: Open the SubWallet extension and choose the "**Earning**" tab at the bottom of the screen.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot_1 (26).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 2**: In the Earning options screen, choose TAO in the earning option list.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_3 (30).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_4 (23).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+If you have previously staked funds on the account, after choosing the "**Earning**" tab, you will be directed to the Your earning positions screen. From there, click the "**+**" icon at the upper right corner to get to the Earning options screen.
+
+<img src="../../../.gitbook/assets/Screenshot_2 (25).png" alt="" data-size="original">
+{% endhint %}
+
+**Step 3**: In the TAO earning options screen, choose the subnet you want to stake by searching the list or typing the subnet name on the search bar.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_5 (24).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (30).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+A pop-up will appear. Read carefully, scroll down, then choose "**Stake to earn**" to proceed.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_8 (27).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_9 (20).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+You will be directed to the following Start earning screen.
+
+{% hint style="warning" %}
+Make sure you have more than the minimum amount required for staking in your transferable balance to start staking and earning.
+{% endhint %}
+
+**Step 4**: Enter the required earning information.
+
+<figure><img src="../../../.gitbook/assets/Screenshot_10 (19).png" alt="" width="362"><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Tips on selecting a validator in a subnet</summary>
+
+We suggest you pay close attention to the validator you are choosing. When selecting a validator, SubWallet supports you with the latest record of validator details.&#x20;
+
+Click the three-dot icon on each validator's right side to see the details.
+
+<img src="../../../.gitbook/assets/Screenshot_11 (28).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_12 (20).png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Sort validators from the list</summary>
+
+You can use the **Sort** function to find the most suitable validator that fits your needs. Please click the <img src="../../../.gitbook/assets/Screenshot_159 (1).png" alt="" data-size="line"> icon at the top right corner and choose your sorting criteria.
+
+<img src="../../../.gitbook/assets/Screenshot_13 (21).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_14 (21).png" alt="" data-size="original">
+
+</details>
+
+A completed earning request will look like the following picture. Click "**Stake**" to proceed.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_15 (20).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_16 (22).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+If you are in the "**All accounts**" mode, in addition to the above information, you will also need to select the staking account.
+
+<img src="../../../.gitbook/assets/Screenshot_18 (19).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_19 (18).png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="warning" %}
+Make sure you leave enough tokens to pay gas fees for staking & unstaking.
+{% endhint %}
+
+**Step 5**: Check the information and confirm your staking request by clicking "**Approve**".&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot_17 (18).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 6:** Your staking request has been submitted!
+
+<figure><img src="../../../.gitbook/assets/image (1980).png" alt="" width="363"><figcaption></figcaption></figure>
+
+You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
