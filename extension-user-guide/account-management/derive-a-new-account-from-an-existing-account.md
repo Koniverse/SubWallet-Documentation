@@ -60,14 +60,14 @@ _(\*\*): Level 3 accounts and onwards will not be supported on any wallets_
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_29.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_29 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, you can choose to create a derived account using either of the following ways:
 
 * Click the "**Create a new account**" button
 * Click the pen i**con** next to the account you want to derive
 
-<figure><img src="../../.gitbook/assets/Screenshot_30 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_30 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 Choose your preferred tab to continue.
 
@@ -75,45 +75,45 @@ Choose your preferred tab to continue.
 {% tab title="Click the pen icon" %}
 **Step 3**: In the Account details tab, click the "**Derive**" button at the bottom of the screen to start deriving a new account.
 
-<figure><img src="../../.gitbook/assets/Screenshot_41.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_41 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter a valid derivation path and a name for your derived account. Once done, click "**Create account**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_42.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_43.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_42 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_43 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 5**: You've successfully created a derived account! Head over to your account list to see it.
-
-<div><figure><img src="../../.gitbook/assets/Screenshot_35.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_36.png" alt="" width="362"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-You can create solo derivative accounts from a unified account by customizing the derivation path to align with the ecosystem's formatted derivative path.
-
-<img src="../../.gitbook/assets/Screenshot_40.png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_38.png" alt="" data-size="original">\
-![](../../.gitbook/assets/Screenshot_39.png)
-{% endhint %}
-{% endtab %}
-
-{% tab title="Click the button" %}
-**Step 3**: Choose the "**Derive from an existing account**" button to derive a new account.
-
-<figure><img src="../../.gitbook/assets/Screenshot_31.png" alt="" width="362"><figcaption></figcaption></figure>
-
-**Step 4**: Choose the account you want to derive from.
-
-<figure><img src="../../.gitbook/assets/Screenshot_32.png" alt="" width="362"><figcaption></figcaption></figure>
-
-**Step 5**: Enter a valid derivation path and a name for your derived account. Once done, click "**Create account**".
-
-<div><figure><img src="../../.gitbook/assets/Screenshot_33.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_34.png" alt="" width="362"><figcaption></figcaption></figure></div>
-
-**Step 6**: You've successfully created a derived account! Head over to your account list to see it.
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_35 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_36 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can create solo derivative accounts from a unified account by customizing the derivation path to align with the ecosystem's formatted derivative path.
 
-<img src="../../.gitbook/assets/Screenshot_37 (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_38 (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_39.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_40 (2).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_38 (1).png" alt="" data-size="original">\
+![](<../../.gitbook/assets/Screenshot_39 (2).png>)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Click the button" %}
+**Step 3**: Choose the "**Derive from an existing account**" button to derive a new account.
+
+<figure><img src="../../.gitbook/assets/Screenshot_31 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 4**: Choose the account you want to derive from.
+
+<figure><img src="../../.gitbook/assets/Screenshot_32 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 5**: Enter a valid derivation path and a name for your derived account. Once done, click "**Create account**".
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_33 (5).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_34 (4).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+**Step 6**: You've successfully created a derived account! Head over to your account list to see it.
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_35 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_36 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+You can create solo derivative accounts from a unified account by customizing the derivation path to align with the ecosystem's formatted derivative path.
+
+<img src="../../.gitbook/assets/Screenshot_37 (1) (2).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_38 (1) (2).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_39 (2).png" alt="" data-size="original">
 {% endhint %}
 {% endtab %}
 {% endtabs %}

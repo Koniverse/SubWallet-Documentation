@@ -89,7 +89,7 @@ Step 4: Enter a name for your newly created account. Once done, click "**Continu
 
 You will be redirected to the homepage, where you can see your newly created account.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_28.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_28 (4).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 For each seed phrase generated from SubWallet, a unified account will be created and used to manage assets and perform transactions across **all** ecosystems.

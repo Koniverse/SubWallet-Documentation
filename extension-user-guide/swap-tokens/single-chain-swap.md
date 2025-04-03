@@ -149,7 +149,7 @@ Select "ARB **(Arbitrum One)**" as the token you want to swap.
 
 Select "**ETH (Arbitrum One)**" as the token you wish to receive.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_28 (4).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_29 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_28 (4) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_29 (3) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Ensure the token you want to swap and the token you wish to receive are on the same network; otherwise, check out this [guide](https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX_Bs/~/changes/705/extension-user-guide/swap-tokens/cross-chain-swap#swap-tokens).
@@ -167,7 +167,7 @@ In this case, you will need to select the swapping account.
 
 Enter the amount you want to swap. Once done, the swap quote (with the related information) will appear.
 
-<figure><img src="../../.gitbook/assets/Screenshot_31 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_31 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 <details>
 
@@ -179,7 +179,7 @@ To change the slippage tolerance, hit the "**View swap quote**" button.&#x20;
 
 In the Swap quote detail screen, click on the green-colored "**Slippage**" field, then select or enter your desired slippage tolerance and click "**Apply**".
 
-<img src="../../.gitbook/assets/Screenshot_32 (3).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_34 (5).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_32 (3) (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_34 (5).png" alt="" data-size="original">
 
 Once applied, you can see the new quote with the applied slippage tolerance.&#x20;
 
@@ -197,7 +197,7 @@ A completed swapping request would look like the following image. Click "**Swap*
 
 Once checked, close the view and click "**Approve**" to swap.
 
-<figure><img src="../../.gitbook/assets/Screenshot_39 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_39 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Your swapping request has been submitted!
 
@@ -211,6 +211,6 @@ DO NOT close this view until the swap is complete. Closing it before completion 
 
 If you select "**View progress**", you'll be directed to the Notifications screen. Click the swap-related notification to view progress.
 
-<figure><img src="../../.gitbook/assets/Screenshot_43 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_43 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_41 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_41 (3) (1).png" alt=""><figcaption></figcaption></figure>

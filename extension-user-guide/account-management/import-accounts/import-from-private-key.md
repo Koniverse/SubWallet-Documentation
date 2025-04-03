@@ -20,11 +20,11 @@ Currently, SubWallet allows you to use private key to import solo accounts:
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_44.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_44 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from private key**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_47.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_47 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter the private key and the name of your account. Once done, click "**Continue**".
 

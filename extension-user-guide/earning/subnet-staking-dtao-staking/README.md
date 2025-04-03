@@ -44,12 +44,12 @@ in dTao staking, all subnets will have a token for staking. The subnet tokens ar
 Alpha tokens can only be purchased with TAO tokens (i.e., swap TAO for alpha).
 
 {% hint style="info" %}
-**SubWallet currently supports 70+ alpha tokens on the Bittensor network.**
+**SubWallet currently supports 80+ alpha tokens on the Bittensor network.**
 {% endhint %}
 
 ### **4. dTAO staking information & parameters**
 
-<table><thead><tr><th width="249">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0.1 TAO</td></tr><tr><td>Existential deposit (ED)</td><td>0.0000005 TAO</td></tr><tr><td>Unstaking period</td><td>Up to 1.2 hours (your funds will be instantly withdrawn to your account)</td></tr><tr><td>Rewards payout</td><td><p>At the end of each era ( 1 era ~ 24 hours). </p><p>Rewards will be <strong>automatically compounded</strong>.</p></td></tr><tr><td>Nominating mechanism</td><td>Stake TAO in subnets to receive derivative alpha tokens</td></tr></tbody></table>
+<table><thead><tr><th width="249">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0.0006 TAO</td></tr><tr><td>Existential deposit (ED)</td><td>0.0000005 TAO</td></tr><tr><td>Unstaking period</td><td>None - Instant withdrawal after unstaking</td></tr><tr><td>Rewards payout</td><td><p>At the end of each era ( 1 era ~ 24 hours). </p><p>Rewards will be <strong>automatically compounded</strong>.</p></td></tr><tr><td>Nominating mechanism</td><td>Stake TAO in subnets to receive derivative alpha tokens</td></tr></tbody></table>
 
 ## Here are the articles in this section:
 

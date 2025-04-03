@@ -46,7 +46,7 @@ In this example, we chose "**EUR - Euro**" as the displayed currency. Once done,
 
 **Step 4:** You are done! Please return to the SubWallet homepage to see your balance in your chosen currency.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The next time you open the extension, your balance will be displayed with your chosen currency.

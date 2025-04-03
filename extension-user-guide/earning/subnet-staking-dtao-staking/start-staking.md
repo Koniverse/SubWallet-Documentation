@@ -10,7 +10,7 @@ description: Start earning by staking TAO in subnets!
 
 **Step 2**: In the Earning options screen, choose TAO in the earning option list.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_3 (30).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_4 (23).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_48.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_47.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you have previously staked funds on the account, after choosing the "**Earning**" tab, you will be directed to the Your earning positions screen. From there, click the "**+**" icon at the upper right corner to get to the Earning options screen.
@@ -24,7 +24,7 @@ If you have previously staked funds on the account, after choosing the "**Earnin
 
 A pop-up will appear. Read carefully, scroll down, then choose "**Stake to earn**" to proceed.
 
-<div><figure><img src="../../../.gitbook/assets/image2.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_38.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_39.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 You will be directed to the following Start earning screen.
 
@@ -34,7 +34,13 @@ Make sure you have more than the minimum amount required for staking in your tra
 
 **Step 4**: Enter the required earning information.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_3.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_40.png" alt="" width="362"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you are in the "**All accounts**" mode, in addition to the above information, you will also need to select the staking account.
+
+<img src="../../../.gitbook/assets/Screenshot_45.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_46.png" alt="" data-size="original">
+{% endhint %}
 
 <details>
 
@@ -58,23 +64,39 @@ You can use the **Sort** function to find the most suitable validator that fits 
 
 </details>
 
-A completed earning request will look like the following picture. Click "**Stake**" to proceed.
+<details>
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_7.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_1.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<summary>If you're unable to stake due to exceeding maximum slippage tolerance</summary>
+
+When staking on any subnet (alpha), there is an inherent loss of value during the transaction called **slippage**. SubWallet will calculate this number once you enter the stake amount and validator.
 
 {% hint style="info" %}
-If you are in the "**All accounts**" mode, in addition to the above information, you will also need to select the staking account.
-
-<img src="../../../.gitbook/assets/Screenshot_18 (19).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_19 (18).png" alt="" data-size="original">
+The maximum slippage tolerance SubWallet set for any staking action is 0.5%.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-Make sure you leave enough tokens to pay gas fees for staking & unstaking.
+If the slippage calculated by SubWallet for your transaction exceeds 0.5%, you will not be able to proceed with your stake. In this case, you will need to adjust your slippage tolerance to a higher percentage than what we calculated to proceed.
+
+<img src="../../../.gitbook/assets/Screenshot_44.png" alt="" data-size="original">
 {% endhint %}
+
+</details>
+
+A completed earning request will look like the following picture. Click "**Stake**" to proceed.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_41.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_42.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 5**: Check the information and confirm your staking request by clicking "**Approve**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_4.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_43.png" alt="" width="362"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+A staking fee of 0.00005 TAO will be deducted from your stake once the transaction is complete.&#x20;
+
+_For example, if you enter 1 TAO in the Amount field, after the transaction is complete, your staked amount will be 1 - 0.00005, which equals 0.99995 TAO._
+
+![](../../../.gitbook/assets/image.png)
+{% endhint %}
 
 **Step 6:** Your staking request has been submitted!
 

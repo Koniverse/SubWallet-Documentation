@@ -20,11 +20,11 @@ Currently, SubWallet doesn't support importing JSON files created from Cardano-n
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_44.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_44 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from JSON file**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_46.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_46 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: You'll be redirected to a new window. Click on the import field to choose a file from your device, or drag and drop your JSON backup file to import.
 
