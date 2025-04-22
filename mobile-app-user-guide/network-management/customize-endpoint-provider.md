@@ -20,7 +20,7 @@ For each network, there are 3 network statuses that can occur. At SubWallet, we 
 
 **Step 2**: In the Settings section, choose "**Manage networks**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_77 (2).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_49 (3).png" alt="" width="302"><figcaption></figcaption></figure>
 
 **Step 3**: Customize your provider by pressing the pencil icon next to the network for which you want to customize the provider.
 
