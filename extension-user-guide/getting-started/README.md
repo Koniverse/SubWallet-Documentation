@@ -22,3 +22,6 @@ Here are the articles in this section:
 [customize-currency-display.md](customize-currency-display.md)
 {% endcontent-ref %}
 
+{% content-ref url="manage-in-app-notifications.md" %}
+[manage-in-app-notifications.md](manage-in-app-notifications.md)
+{% endcontent-ref %}
