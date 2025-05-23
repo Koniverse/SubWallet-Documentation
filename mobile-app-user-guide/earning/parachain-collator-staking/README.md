@@ -8,9 +8,11 @@ description: Stake your tokens via nominating for collator(s) with ease on SubWa
 
 #### Mainnet
 
-<table><thead><tr><th width="239">Token</th><th width="175">Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>MANTA (Manta Atlantic)</td><td>500 MANTA</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>BNC (Bifrost Kusama)</td><td>0 BNC</td><td>Every 2 hours 10 minutes</td><td>Approx. 7 days</td></tr><tr><td>KMA (Calamari)*</td><td>5,000 KMA</td><td>Every 6 hours</td><td>Approx. 7 <a data-footnote-ref href="#user-content-fn-1">day</a></td></tr><tr><td>GLMR (Moonbeam)</td><td>0 GLMR</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>MOVR (Moonriver)</td><td>5 MOVR</td><td>Every 6 hours</td><td>Approx. 2 days</td></tr><tr><td>AMPE (Amplitude)</td><td>10 AMPE</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>KILT (KILT Protocol)</td><td>20 KILT</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>KREST (Krest Network)</td><td>100 KREST</td><td>Every 4 hours</td><td>Approx. 7 days</td></tr><tr><td>PEN (Pendulum)</td><td>10 PEN</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>PLMC (Polimec)</td><td>50 PEN</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>TUR (Turing)</td><td>50 TUR</td><td>Every 2 hours</td><td>Approx. 2 days</td></tr></tbody></table>
+<table><thead><tr><th width="239">Token</th><th width="175">Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>MANTA (Manta Atlantic)</td><td>500 MANTA</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>BNC (Bifrost Kusama)</td><td>0 BNC</td><td>Every 2 hours 10 minutes</td><td>Approx. 7 days</td></tr><tr><td>KMA (Calamari)*</td><td>5,000 KMA</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>GLMR (Moonbeam)</td><td>0 GLMR</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>MOVR (Moonriver)</td><td>5 MOVR</td><td>Every 6 hours</td><td>Approx. 2 days</td></tr><tr><td>AMPE (Amplitude)</td><td>10 AMPE</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>KILT (KILT Protocol)</td><td>20 KILT</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>KREST (Krest Network)</td><td>100 KREST</td><td>Every 4 hours</td><td>Approx. 7 days</td></tr><tr><td>PEN (Pendulum)</td><td>10 PEN</td><td>Every 2 hours</td><td>Approx. 7 days</td></tr><tr><td>PLMC (Polimec)</td><td>50 PEN</td><td>Every 6 hours</td><td>Approx. 7 days</td></tr><tr><td>TUR (Turing)**</td><td>50 TUR</td><td>Every 2 hours</td><td>Approx. 2 days</td></tr><tr><td>MYTH (Mythos)</td><td>500 MYTH</td><td>Every 24 hours</td><td>0 minutes</td></tr></tbody></table>
 
-_(\*): KMA tokens will soon be migrated to Manta Network – check out_ [_this announcement_](https://app.manta.network/calamari/migrate-landing)_. The migration is ongoing, and you will have until February 22, 2025, to migrate your KMA tokens. Once this deadline is over, all KMA tokens on the Calamari Network will be permanently destroyed._
+_(\*): KMA tokens will soon be migrated to Manta Network – check out_ [_this announcement_](https://app.manta.network/calamari/migrate-landing)_. The migration is ongoing, and you will have until March 17, 2025, to migrate your KMA tokens to Manta Pacific. Once this deadline is over, all KMA tokens on the Calamari Network will be permanently destroyed._
+
+_(\*\*): Turing Network has been paused. TUR holders can now convert their tokens to Ava Protocol (AP) ERC-20 tokens on Ethereum following_ [_this announcement_](https://avaprotocol.org/blog/secure-your-spot-ava-protocol-legacy-token-conversion-now-open-ahead-of-tge)_._
 
 #### Testnet
 
@@ -37,5 +39,3 @@ _(\*): KMA tokens will soon be migrated to Manta Network – check out_ [_this a
 {% content-ref url="withdraw-unstaked-funds.md" %}
 [withdraw-unstaked-funds.md](withdraw-unstaked-funds.md)
 {% endcontent-ref %}
-
-[^1]: days
