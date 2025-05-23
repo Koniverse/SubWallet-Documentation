@@ -34,6 +34,8 @@ Currently, SubWallet offers the most diverse earning options in Polkadot & Ether
 [liquid-staking](../earning/liquid-staking/)
 {% endcontent-ref %}
 
+{% embed url="https://www.youtube.com/watch?v=AfMasgaEMV8" %}
+
 As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
 
 1. Download the latest version from our official website: [https://www.subwallet.app/](https://www.subwallet.app/)

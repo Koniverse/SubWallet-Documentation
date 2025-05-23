@@ -39,3 +39,7 @@ Below is the installation process on Google Chrome. The same process applies to 
 **Step 3**: You have successfully installed the ultimate Polkadot, Substrate, TON & Ethereum wallet extension!
 
 <figure><img src="../../.gitbook/assets/Screenshot_3 (3).png" alt="" width="363"><figcaption></figcaption></figure>
+
+## Video instructions
+
+{% embed url="https://www.youtube.com/watch?v=CJD-IU9u9Hg" %}

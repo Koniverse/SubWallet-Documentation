@@ -4,6 +4,8 @@ description: Stake your tokens while maintaining liquidity and earn your LSTs on
 
 # Liquid staking
 
+{% embed url="https://www.youtube.com/shorts/0wkMWus_Dcs" %}
+
 ## Earning information & parameters for supported liquid staking options
 
 ### &#x20;1. Acala liquid staking

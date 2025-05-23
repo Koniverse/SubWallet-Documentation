@@ -8,7 +8,7 @@ description: Start earning by staking tokens via nomination pool on SubWallet.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_88 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: In the Earning options screen, choose the token you want to stake by searching the list or typing the token name on the search bar.
+**Step 2**: In the Earning options screen, choose the token you want to stake by searching the list or typing the token name in the search bar.
 
 _In this example, we want to stake WND tokens._
 
@@ -87,3 +87,15 @@ If you click "**View transaction**", SubWallet will show you the latest transact
 To check the status of your staked funds, after selecting "**Back to home**", click the Earning tab as per Step 1. In the Your earning positions screen, click on your newly staked funds.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_106 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_107 (2).png" alt="" width="363"><figcaption></figcaption></figure></div>
+
+### **Video instruction**
+
+{% tabs %}
+{% tab title="For non-hardware accounts" %}
+{% embed url="https://www.youtube.com/watch?v=_4HK18d1F1I" %}
+{% endtab %}
+
+{% tab title="For hardware accounts" %}
+{% embed url="https://www.youtube.com/watch?v=KPdRhVLA5oU" %}
+{% endtab %}
+{% endtabs %}

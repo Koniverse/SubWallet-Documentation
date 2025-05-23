@@ -32,6 +32,8 @@ _(\*\*\*):_ _If you only have MANTA on Manta Atlantic, make sure you have more t
 
 _(\*\*\*\*): If you only have DOT on Polkadot, you need to cross-chain them to Moonbeam first, then stake._
 
+{% embed url="https://www.youtube.com/watch?v=nZXblqwzAvQ" %}
+
 ## Here are articles in this section:
 
 {% content-ref url="start-staking.md" %}

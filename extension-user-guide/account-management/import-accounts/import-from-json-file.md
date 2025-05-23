@@ -9,7 +9,7 @@ Currently, this is the only method in which you can import multiple accounts sim
 {% endhint %}
 
 {% hint style="warning" %}
-Currently, SubWallet doesn't support importing JSON files created from Cardano-native wallets (Yoroi, Typhoon, Lace, etc.).
+SubWallet doesn't support importing JSON files created from Cardano-native wallets (Yoroi, Typhoon, Lace, etc.).
 {% endhint %}
 
 ### If you are currently using SubWallet
@@ -61,3 +61,7 @@ Once done, click "**Continue**".
 <div><figure><img src="../../../.gitbook/assets/Screenshot_162.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_163.png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 Once you create a master password, you can follow the importing procedure provided in[#if-you-are-currently-using-subwallet](import-from-json-file.md#if-you-are-currently-using-subwallet "mention"), starting from **Step 3.**
+
+Check out the step-by-step video instructions on how to import an account from JSON file below:
+
+{% embed url="https://www.youtube.com/watch?v=B6yQN-Jw0pk" %}

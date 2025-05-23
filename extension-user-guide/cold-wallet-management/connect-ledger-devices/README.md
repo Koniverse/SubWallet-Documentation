@@ -14,6 +14,8 @@ Currently, SubWallet supports these Ledger devices via **USB portal** only:
 * Ledger Stax
 * Ledger Flex
 
+{% embed url="https://www.youtube.com/watch?v=RnLHT_tQ0yA" %}
+
 ## Types of Ledger apps
 
 Currently, there are 4 types of Ledger apps available for connecting your Ledger device. Review and select the relevant article based on the type that best fits your needs.

@@ -95,3 +95,7 @@ If you click "**View transaction**", SubWallet will show you the latest transact
 To check the status of your staked funds, after selecting "**Back to home**", click the Earning tab as per Step 1. In the Your earning positions screen, tap your newly staked funds.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_18 (9).png" alt="" width="272"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_19 (8).png" alt="" width="272"><figcaption></figcaption></figure></div>
+
+Check out this step-by-step video on how to stake DOT via Nomination pool with SubWallet mobile app:
+
+{% embed url="https://www.youtube.com/watch?v=_4HK18d1F1I" %}

@@ -19,3 +19,7 @@ Here are the articles in this section:
 {% content-ref url="claim-staking-rewards.md" %}
 [claim-staking-rewards.md](claim-staking-rewards.md)
 {% endcontent-ref %}
+
+Check out this step-by-step video on how to stake DOT via Nomination pool with SubWallet web dashboard (from 2:20 until the end):
+
+{% embed url="https://www.youtube.com/watch?v=_4HK18d1F1I" %}

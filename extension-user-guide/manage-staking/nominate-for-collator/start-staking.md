@@ -81,3 +81,7 @@ If you click "**View transaction**", SubWallet will show you the latest transact
 To check the status of your staked funds, after selecting "**Back to home**", click the Earning tab as per **Step 1**. In the Your earning positions screen, scroll down, then click on your newly staked funds.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_205 (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_206 (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+
+Check out this step-by-step video on how to stake MYTH on SubWallet extension:
+
+{% embed url="https://www.youtube.com/shorts/mAdfxGpGYkc" %}

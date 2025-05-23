@@ -2,6 +2,8 @@
 
 With SubWallet, you can seamlessly connect to virtually any dApp within the Ethereum and Polkadot ecosystems.&#x20;
 
+{% embed url="https://www.youtube.com/shorts/HPks6c0X_ag" fullWidth="false" %}
+
 {% hint style="info" %}
 Support for TON dApps/websites will be available soon - stay tuned :wink:
 {% endhint %}

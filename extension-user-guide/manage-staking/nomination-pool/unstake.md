@@ -37,3 +37,9 @@ If you click "**View transaction**", SubWallet will show you the latest transact
 
 <img src="../../../.gitbook/assets/Screenshot_135 (1).png" alt="" data-size="original">
 {% endhint %}
+
+### **Unstake on hardware accounts (accounts created via cold wallets)**
+
+**Check out this step-by-step video on how to unstake DOT on Ledger with SubWallet:**
+
+{% embed url="https://www.youtube.com/watch?pp=0gcJCY0JAYcqIYzv&v=cuzOJtoq7Ug" %}
