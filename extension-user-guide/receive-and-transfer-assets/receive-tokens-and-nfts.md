@@ -100,6 +100,8 @@ Once you find the desired address, click the "**Copy**" button or the QR button 
 
 <figure><img src="../../.gitbook/assets/Screenshot_21 (3).png" alt="" width="363"><figcaption></figcaption></figure>
 
+### Select your preferred Bitcoin address
+
 ### Change wallet address for TON-supported account
 
 {% hint style="info" %}
