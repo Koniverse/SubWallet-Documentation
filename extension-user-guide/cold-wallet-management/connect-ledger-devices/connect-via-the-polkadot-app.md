@@ -38,6 +38,14 @@ If your Polkadot app is on a lower version than 100.0.5, you're required to upda
 
 <figure><img src="../../../.gitbook/assets/Screenshot_212.png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>Choose the correct account type for use when connecting via the Polkadot app</summary>
+
+
+
+</details>
+
 Click on the device name (Nano X in this case) and click "**Connect**".
 
 **Step 6**: After SubWallet has successfully found your Ledger, click "**Connect Ledger device**".
