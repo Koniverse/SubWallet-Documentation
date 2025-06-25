@@ -13,8 +13,16 @@ On July 1, 2024, the new Polkadot app was released (version 100.0.5). With this 
 To ensure compatibility with the new Polkadot app, all Substrate-based networks need to update their runtime logic. To check if a network has performed this action, visit the [Parachains Metadata dashboard](https://dashboards.data.paritytech.io/metadata.html). If it hasn't, continue using the corresponding Ledger app.
 
 {% hint style="warning" %}
-If your Polkadot app is on a lower version than 100.0.5, you're required to update the app in order to continue using and connecting to SubWallet.
+If your Polkadot app is on a version lower than 100.0.5, you're required to update the app in order to continue using and connecting to SubWallet.
 {% endhint %}
+
+### Select the right account type for use when connecting via Polkadot app
+
+Starting from version [100.0.14](https://github.com/LedgerHQ/app-polkadot/releases/tag/v100.0.14), users will be able to connect and perform transactions on Substrate-based networks that use EVM addresses (e.g., _Mythos, Moonbeam, Moonriver_) through the Polkadot app. As these networks use a different signing method from those who fully Substrate-based, you will need to select a different account type to connect.
+
+In particular, after selecting the Polkadot app option, depending on your needs, you will need to choose the account type you want:
+
+<table><thead><tr><th width="232.13336181640625">Account type</th><th>Compatibility</th></tr></thead><tbody><tr><td>Polkadot account</td><td>Manage, receive &#x26; transfer assets on <strong>fully Substrate-based networks</strong> (i.e., networks that use Substrate address format - starting with 5)</td></tr><tr><td>Ethereum account</td><td>Manage, receive &#x26; transfer assets on <strong>Substrate-based networks that are EVM-compatible</strong> (i.e., networks that use EVM address format - starting with 0x)</td></tr></tbody></table>
 
 ### Connect your accounts via Polkadot app
 
@@ -37,14 +45,6 @@ If your Polkadot app is on a lower version than 100.0.5, you're required to upda
 **Step 5**: You will be directed to a new window. Select the Polkadot app, and your extension will display the following pop-up:
 
 <figure><img src="../../../.gitbook/assets/Screenshot_212.png" alt=""><figcaption></figcaption></figure>
-
-<details>
-
-<summary>Choose the correct account type for use when connecting via the Polkadot app</summary>
-
-
-
-</details>
 
 Click on the device name (Nano X in this case) and click "**Connect**".
 

@@ -12,13 +12,13 @@ Choose your preferred method and follow the instructions below to get your walle
 
 **Step 1**: Open the SubWallet extension and click the "**Get address**" button on the homepage.
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_157 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: Choose the token you want to receive by scrolling down the token list or typing the token symbol in the search bar.
 
 _In this example, we want to get the address of the DOT token on Polkadot._
 
-<figure><img src="../../.gitbook/assets/Screenshot_2 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/Screenshot_158 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_159 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Notice the network logo and the network name under the token name.&#x20;
@@ -36,9 +36,9 @@ SubWallet supports DOT on many networks, such as Polkadot, Acala, Hydration, etc
 
 **Step 3**: Select the account you want to get an address.
 
-_In this example, we want to get address of the account named "Andy 1"._
+_In this example, we want to get the DOT address of the account named "Andy 2"._
 
-<figure><img src="../../.gitbook/assets/Screenshot_4 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_160 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.
@@ -48,20 +48,20 @@ You only have to go through Step 3 if you are in "**All accounts**" mode. If you
 
 You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
 
-<figure><img src="../../.gitbook/assets/Screenshot_5 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_161 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 As mentioned above, we want to receive DOT on Polkadot in this example, so the address should be a Polkadot address! You could double-check the address by clicking on "**View on explorer**".&#x20;
 
 {% hint style="info" %}
 The "**View on explorer**" button will be greyed out if the network your token is on hasn't had its block explorer yet.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/Screenshot_164 (3).png>)
 {% endhint %}
 
 {% hint style="warning" %}
 With Ledger accounts, when you want to get the address of tokens from a network that hasn't undergone runtime upgrade yet, you will receive the following popup:
 
-<img src="../../.gitbook/assets/Screenshot_273.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_165 (2).png" alt="" data-size="original">
 
 Read it carefully, then if you still want to get the token's address in this case, hit "**Get address**".&#x20;
 {% endhint %}
@@ -74,7 +74,7 @@ Since all tokens on the same network share the same address, you can get the add
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_220.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_77 (7).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: Click on the <img src="../../.gitbook/assets/Screenshot_275 (1).png" alt="" data-size="line"> icon or the <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> icon next to the account you want to get address.
 
@@ -102,6 +102,86 @@ Once you find the desired address, click the "**Copy**" button or the QR button 
 
 ### Select your preferred Bitcoin address
 
+Currently, SubWallet supports 3 Bitcoin address types, each designed to receive specific kinds of Bitcoin token types. Here's how they differ:
+
+<table><thead><tr><th width="261" align="center">Address type</th><th data-type="checkbox">BTC</th><th data-type="checkbox">Rune</th><th data-type="checkbox">BRC-20</th><th data-type="checkbox">Inscription</th></tr></thead><tbody><tr><td align="center">Legacy</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td align="center">Native SegWit</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td align="center">Taproot</td><td>true</td><td>true</td><td>true</td><td>true</td></tr></tbody></table>
+
+{% hint style="info" %}
+**Rune, BRC-20 & Inscription will be supported soon on SubWallet!**
+{% endhint %}
+
+{% hint style="warning" %}
+Sending non-BTC tokens to a Legacy or Native SegWit address will result in loss of funds.
+{% endhint %}
+
+To select the Bitcoin address you want to use, simply follow one of the 2 instructions below:
+
+{% tabs %}
+{% tab title="Get address via the "Get address" button" %}
+**Step 1**: Open the SubWallet extension and click the "**Get address**" button on the homepage.
+
+<figure><img src="../../.gitbook/assets/Screenshot_78 (5).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 2**: Choose "**BTC**" as the token you want to receive. Make sure it's on the Bitcoin network.
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_79 (3).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_80 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+**Step 3**: Select the address type you want to get.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot_81 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you're in "All accounts" mode, the account list will appear, with the address displayed under each account name being the Native SegWit address (as this is the most popular address used in Bitcoin).
+
+<img src="../../.gitbook/assets/Screenshot_166 (2).png" alt="" data-size="original">
+{% endhint %}
+
+**Step 4**: Get your address.
+
+You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
+
+<figure><img src="../../.gitbook/assets/Screenshot_82 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Get address via selecting Bitcoin in the network address" %}
+**Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
+
+<figure><img src="../../.gitbook/assets/Screenshot_77 (7).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 2**: Click on the <img src="../../.gitbook/assets/Screenshot_275 (1).png" alt="" data-size="line"> icon or the <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> icon next to the account you want to get address.
+
+<figure><img src="../../.gitbook/assets/Screenshot_90 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+
+* _If you click on the_ <img src="../../.gitbook/assets/Screenshot_275.png" alt="" data-size="line"> _icon:_
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_84 (3).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_91 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+* _If you click on the_ <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> _icon:_
+
+<div><figure><img src="../../.gitbook/assets/Screenshot_85 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_92 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+**Step 3**: Search for Bitcoin network in the network list.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot_93 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+
+Once done, click the Info button or the QR button to get address.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot_94 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you hover the mouse over the Info button, you will notice a message informing you that this network has 3 address types.
+
+<img src="../../.gitbook/assets/Screenshot (68).png" alt="" data-size="original">
+{% endhint %}
+
+**Step 4**: Get your address.
+
+You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
+
+<figure><img src="../../.gitbook/assets/Screenshot_82 (4).png" alt="" width="362"><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 ### Change wallet address for TON-supported account
 
 {% hint style="info" %}
@@ -119,40 +199,40 @@ Currently, SubWallet supports 4 wallet versions for each TON-supported account: 
 
 **Step 1**: Open the SubWallet extension and click the "**Get address**" button on the homepage.
 
-<figure><img src="../../.gitbook/assets/Screenshot_67 (3) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_157 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: Choose the token you want to receive by scrolling down the token list or typing the token symbol in the search bar.
 
 _In this example, we want to get the address of the TON token on the TON Network._
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_59 (2).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_60 (2).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_158 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_167 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 3**: Select the account you want to get an address.
 
-_In this example, we want to get address of the account named "SubWallet Unified 01"._
+_In this example, we want to get the TON address of the account named "Andy 5"._
 
-<figure><img src="../../.gitbook/assets/Screenshot_61 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_168 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.
 {% endhint %}
 
-**Step 4**: A popup message will show that seed phrase of the TON address you are about to get is incompatible with TON-native wallets. To continue getting the address, choose "**Get address**".
+**Step 4**: A popup message will show that the seed phrase of the TON address you are about to get is incompatible with TON-native wallets. To continue getting the address, choose "**Get address**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_66 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_169 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18 (2) (1).png" alt="" data-size="line"> icon to change wallet address.
 
-<figure><img src="../../.gitbook/assets/Screenshot_62 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_170 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 6**: Select a wallet version and then click "**Confirm**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_63 (3).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_64 (2).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_172 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_173 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
-By default, SubWallet shows the **`v5r1`** address for each token on the TON ecosystem as it's the widely-used wallet version.
+By default, SubWallet shows the **`v5r1`** address for each token on the TON ecosystem as it's the widely used wallet version.
 
 **Step 7**: Get your address.
 
 You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
 
-<figure><img src="../../.gitbook/assets/Screenshot_65 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_174 (2).png" alt="" width="362"><figcaption></figcaption></figure>

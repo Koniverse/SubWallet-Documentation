@@ -24,7 +24,19 @@ If you are in Single-account mode, make sure the account you initially chose is 
 
 **Step 2:** Enter the required information in the corresponding fields.
 
-In the "**To**" field, you can select one account from the account list or paste the valid address.
+<details>
+
+<summary>With BTC transfer</summary>
+
+SubWallet currently supports BTC transfers for all Bitcoin address types, including transfers of BTC between them (e.g., you can transfer BTC from a Native SegWit address to a Taproot address).&#x20;
+
+This means that even if you are in the Single-account mode, you will still need to select the sender address, as each address has its own balance.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot_95 (3).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_96 (3).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_97 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+
+</details>
+
+In the "**To**" field, you can select one account from the account list or paste a valid address.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 

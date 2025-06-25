@@ -8,7 +8,7 @@ description: >-
 
 ### Supported cold wallets
 
-Currently, the SubWallet extension supports 3 cold wallet connection options, including Ledger, Keystone, and Polkadot Vault (previously Parity Signer).&#x20;
+Currently, the SubWallet browser extension supports 3 cold wallet connection options, including Ledger, Keystone, and Polkadot Vault (previously Parity Signer).&#x20;
 
 ### Check out these articles for a full & detailed guide:&#x20;
 

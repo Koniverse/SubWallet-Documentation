@@ -32,15 +32,15 @@ If you import a seed phrase incompatible with SubWallet, you may be unable to im
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_8 (28).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_44 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_14 (22).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from seed phrase**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_45 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_15 (21).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter your seed phrase by filling in the blank fields. Once done, click "**Import account**".&#x20;
 

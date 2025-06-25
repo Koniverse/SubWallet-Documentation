@@ -10,21 +10,25 @@ Currently, SubWallet allows you to use private key to import solo accounts:
 
 <table data-full-width="false"><thead><tr><th>Solo account type</th><th>Private key compatibility</th></tr></thead><tbody><tr><td>EVM account</td><td>Can be used for EVM-compatible wallets (Metamask, Phantom, Rabby, etc.)</td></tr><tr><td>TON account</td><td>Can only be used within SubWallet (i.e., not compatible with any other wallets)</td></tr></tbody></table>
 
+{% hint style="warning" %}
+SubWallet doesn't support importing private keys created from Bitcoin-native wallets (Unisat Wallet).
+{% endhint %}
+
 ### Import your account via private key
 
 #### If you are currently using SubWallet
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_8 (28).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_44 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_14 (22).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from private key**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_47 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_17 (19).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter the private key and the name of your account. Once done, click "**Continue**".
 

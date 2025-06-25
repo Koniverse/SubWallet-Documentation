@@ -39,12 +39,12 @@ If you prefer to stake TAO via the traditional staking method, refer to this [gu
 
 ### 3. Alpha tokens&#x20;
 
-in dTao staking, all subnets will have a token for staking. The subnet tokens are given a letter from an alphabet (greek, hebrew, arabic, etc.) but are generically defined as "_**Alpha**_". (Alpha is also the token of Subnet 1, as it is the first letter in the Greek alphabet).
+In dTao staking, all subnets will have a token for staking. The subnet tokens are given a letter from an alphabet (Greek, Hebrew, Arabic, etc.) but are generically defined as "Alpha". (Alpha is also the token of Subnet 1, as it is the first letter in the Greek alphabet).
 
 Alpha tokens can only be purchased with TAO tokens (i.e., swap TAO for alpha).
 
 {% hint style="info" %}
-**SubWallet currently supports 80+ alpha tokens on the Bittensor network.**
+**SubWallet currently supports 95+ alpha tokens on the Bittensor network.**
 {% endhint %}
 
 ### **4. dTAO staking information & parameters**

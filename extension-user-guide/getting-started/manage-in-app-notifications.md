@@ -8,11 +8,11 @@ description: With in-app notifications, you'll always be in the know.
 
 Currently, SubWallet supports these notification types:
 
-| Notification type       | Supported range                                                                                                                                                                                    |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Claim staking rewards   | Funds staked via [nomination pool](../manage-staking/nomination-pool/)                                                                                                                             |
-| Withdraw unstaked funds | <p>Funds previously staked via:</p><ul><li><a href="../manage-staking/nomination-pool/">Nomination pool</a></li><li><a href="../manage-staking/direct-nomination/">Direct nomination</a></li></ul> |
-| Claim bridged tokens    | <p>Funds bridged via these bridges:</p><ul><li>Avail Bridge</li><li>Unified Bridge</li></ul>                                                                                                       |
+| Notification type       | Supported range                                                                                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Claim staking rewards   | <p>Funds staked via:</p><ul><li><a href="../manage-staking/nomination-pool/">Nomination pool</a></li><li><a href="../earning/parachain-collator-staking/claim-staking-rewards.md">MYTH staking</a></li></ul> |
+| Withdraw unstaked funds | <p>Funds previously staked via:</p><ul><li><a href="../manage-staking/nomination-pool/">Nomination pool</a></li><li><a href="../manage-staking/direct-nomination/">Direct nomination</a></li></ul>           |
+| Claim bridged tokens    | <p>Funds bridged via these bridges:</p><ul><li>Avail Bridge</li><li>Unified Bridge</li></ul>                                                                                                                 |
 
 ### Customize notifications display
 

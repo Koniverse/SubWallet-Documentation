@@ -10,11 +10,11 @@ description: >-
 
 SubWallet supports single-chain token swaps on the following networks:
 
-<table><thead><tr><th width="198">Network name</th><th>Swap provider</th><th width="340">Supported swap pair</th></tr></thead><tbody><tr><td>Hydration</td><td>Hydration</td><td>200+ swap pairs from 23+ tokens (including DOT, GLMR, HDX, etc.)</td></tr><tr><td>Polkadot Asset Hub</td><td>Polkadot Asset Hub</td><td><ul><li>DOT &#x3C;> USDC</li><li>DOT &#x3C;> USDT</li><li>USDC &#x3C;> USDT</li></ul></td></tr><tr><td>Ethereum</td><td><ul><li>ChainFlip</li><li>SimpleSwap*</li><li>Uniswap*</li></ul></td><td><ul><li>ETH &#x3C;> USDC</li><li>ETH &#x3C;> USDT</li><li>USDC &#x3C;> USDT</li><li>ETH &#x3C;> FLIP</li><li>USDC &#x3C;> FLIP</li><li>USDT &#x3C;> FLIP</li><li>WBTC &#x3C;> ETH**</li></ul></td></tr><tr><td>Arbitrum One</td><td><ul><li>ChainFlip</li><li>Uniswap</li></ul></td><td><ul><li>ETH &#x3C;> USDC</li><li>ETH &#x3C;> USDT**</li><li>ETH &#x3C;> ARB**</li><li>ETH &#x3C;> WBTC**</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="198">Network name</th><th>Swap provider</th><th width="340">Supported swap pair</th></tr></thead><tbody><tr><td>Hydration</td><td>Hydration</td><td>200+ swap pairs from 23+ tokens (including DOT, GLMR, HDX, etc.)</td></tr><tr><td>Polkadot Asset Hub</td><td>Polkadot Asset Hub</td><td><ul><li>DOT &#x3C;> USDC</li><li>DOT &#x3C;> USDT</li><li>USDC &#x3C;> USDT</li></ul></td></tr><tr><td>Ethereum</td><td><ul><li>ChainFlip</li><li>SimpleSwap*</li><li>Uniswap*</li></ul></td><td><ul><li>ETH &#x3C;> USDC</li><li>ETH &#x3C;> USDT</li><li>USDC &#x3C;> USDT</li><li>ETH &#x3C;> FLIP</li><li>USDC &#x3C;> FLIP</li><li>USDT &#x3C;> FLIP</li><li>WBTC &#x3C;> ETH**</li></ul></td></tr><tr><td>Arbitrum One</td><td><ul><li>ChainFlip</li><li>Uniswap</li></ul></td><td><ul><li>ETH &#x3C;> USDC</li><li>ETH &#x3C;> USDT**</li><li>ETH &#x3C;> ARB**</li><li>ETH &#x3C;> WBTC**</li></ul></td></tr><tr><td>13 networks</td><td>Uniswap Labs Trading API</td><td>1000+ swap pairs across 13 networks</td></tr></tbody></table>
 
-_(\*): SimpleSwap & Uniswap doesn't support swap pairs involving the FLIP token._
+_(\*): SimpleSwap doesn't support swap pairs involving the FLIP token._
 
-_(\*\*): Available **only** for swapping via Uniswap._
+_(\*\*): Available **only** for swapping via Uniswap Trading Labs API._
 
 {% hint style="info" %}
 With single-chain swap, you can only swap tokens within the account you want to swap (i.e., tokens can't be swapped from one account to another).

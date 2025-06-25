@@ -73,11 +73,11 @@ If you want to store seed your phrase, you can either:
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_8 (28).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click "**Create a new account**". Then choose "**Create with a new seed phrase**".
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_79.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_80.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_2 (26).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_3 (31).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 3**: Keep your seed phrase in a safe place by clicking "**Copy to clipboard**" or "**Download seed phrase**". Then, click "**I have kept it somewhere safe**".
 
@@ -85,13 +85,13 @@ If you want to store seed your phrase, you can either:
 
 Step 4: Enter a name for your newly created account. Once done, click "**Continue**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_139.png" alt="" width="363"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/Screenshot_4 (24).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_5 (25).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 You will be redirected to the homepage, where you can see your newly created account.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_28 (4).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_6 (27).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_7 (31).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
+{% hint style="success" %}
 For each seed phrase generated from SubWallet, a unified account will be created and used to manage assets and perform transactions across **all** ecosystems.
 {% endhint %}
 

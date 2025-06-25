@@ -5,7 +5,7 @@ description: Effortlessly import your account(s) by uploading a JSON file.
 # Import from JSON file
 
 {% hint style="info" %}
-Currently, this is the only method in which you can import multiple accounts simultaneously.
+Currently, this is the only method by which you can import multiple accounts simultaneously.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -16,15 +16,15 @@ SubWallet doesn't support importing JSON files created from Cardano-native walle
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_8 (28).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_232.png" alt="" data-size="line"> icon at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_44 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_14 (22).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: Choose "**Import from JSON file**" as the chosen method to import your account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_46 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_16 (23).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: You'll be redirected to a new window. Click on the import field to choose a file from your device, or drag and drop your JSON backup file to import.
 
@@ -36,7 +36,7 @@ SubWallet doesn't support importing JSON files created from Cardano-native walle
 
 **Step 6**: Select the accounts you wish to import, then click "**Import {x} accounts**", where {x} represents the number of accounts selected for import.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_52 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2024).png" alt=""><figcaption></figcaption></figure>
 
 You've successfully imported your account(s)!
 
@@ -63,5 +63,3 @@ Once done, click "**Continue**".
 Once you create a master password, you can follow the importing procedure provided in[#if-you-are-currently-using-subwallet](import-from-json-file.md#if-you-are-currently-using-subwallet "mention"), starting from **Step 3.**
 
 Check out the step-by-step video instructions on how to import an account from JSON file below:
-
-{% embed url="https://www.youtube.com/watch?v=B6yQN-Jw0pk" %}

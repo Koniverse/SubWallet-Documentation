@@ -10,7 +10,7 @@ Export your backup information in different forms of backup files, and use these
 
 Depending on the type of account you want to export, SubWallet supports different export methods:
 
-<table><thead><tr><th width="224">Account type</th><th data-type="checkbox">Seed phrase</th><th data-type="checkbox">JSON file*</th><th data-type="checkbox">Private key</th><th data-type="checkbox">QR code</th></tr></thead><tbody><tr><td><strong>Unified account</strong></td><td>true</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Substrate account</strong></td><td>true</td><td>true</td><td>false</td><td>true</td></tr><tr><td><strong>EVM account</strong></td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td><strong>TON account</strong></td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td><strong>Cardano account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Ledger account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>QR-signer account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="224">Account type</th><th data-type="checkbox">Seed phrase</th><th data-type="checkbox">JSON file*</th><th data-type="checkbox">Private key</th><th data-type="checkbox">QR code</th></tr></thead><tbody><tr><td><strong>Unified account</strong></td><td>true</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Substrate account</strong></td><td>true</td><td>true</td><td>false</td><td>true</td></tr><tr><td><strong>EVM account</strong></td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td><strong>TON account</strong></td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td><strong>Cardano account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Bitcoin account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>Ledger account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td><strong>QR-signer account</strong></td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
 
 _(\*): The exported JSON file **cannot be imported** into EVM-compatible wallets (Metamask, Phantom, Rabby, etc.) or Cardano-native wallets (Typhoon)._
 
@@ -18,17 +18,17 @@ _(\*): The exported JSON file **cannot be imported** into EVM-compatible wallets
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/Screenshot_220 (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_19 (20).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_219 (1).png" alt="" data-size="line"> icon on the right-hand side of the account you wish to export.&#x20;
 
-_In this example, we will export the backup information of "SubWallet Unified 01" - a unified account._
+_In this example, we will export the backup information of "Andy T" - a unified account._
 
-<figure><img src="../../.gitbook/assets/Screenshot_221.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20 (25).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the Account details section, choose "**Export**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_222.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_21 (23).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter your password.&#x20;
 
@@ -42,7 +42,7 @@ As "SubWallet Unified 01" is a unified account, there are 2 options to export th
 
 **Step 5**: Choose your preferred way(s) to export your account. Then, click "**Confirm**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_224.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (19).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Please save and keep your backup files secure.&#x20;
@@ -66,21 +66,21 @@ _In this example, we will export multiple accounts on the SubWallet extension on
 
 **Step 1**: Open the SubWallet extension and click on the account name to access the account selection tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot_220 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_19 (20).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_231.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_27 (11).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the Export account screen, select as many accounts to export as you wish.
 
-_In this example, we want to export 4 accounts. Once done, click on the "**Export 4 accounts**" button._
+_In this example, we want to export 3 accounts. Once done, click on the "**Export 3 accounts**" button._
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_226.png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_227.png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_28 (12).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_29 (13).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 4**: Enter your password to confirm, then click "**Submit**" to proceed.
 
-<figure><img src="../../.gitbook/assets/Screenshot_228.png" alt="" width="363"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/Screenshot_30 (10).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_31 (13).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 Once clicked, the Chrome browser will download a JSON file. Click **Ctrl + J** to locate the file.
 

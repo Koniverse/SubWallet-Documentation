@@ -8,16 +8,22 @@ description: This part will show you how to manage your accounts on SubWallet.
 How to create a new account with SubWallet
 {% endembed %}
 
-At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot), EVM (Ethereum), TON, and Cardano accounts on SubWallet. In addition, the security of your assets is enhanced with 3 cold wallet connection options, including Ledger, Keystone, and Polkadot Vault (previously Parity Signer). Your privacy and security are our top priorities as always!
+At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot), EVM (Ethereum), TON, Cardano and Bitcoin accounts on SubWallet.&#x20;
+
+Your privacy and security are our top priorities as always!
 
 Here are the articles in this section:
+
+{% content-ref url="understand-account-types.md" %}
+[understand-account-types.md](understand-account-types.md)
+{% endcontent-ref %}
 
 {% content-ref url="create-a-new-account-with-a-new-seed-phrase.md" %}
 [create-a-new-account-with-a-new-seed-phrase.md](create-a-new-account-with-a-new-seed-phrase.md)
 {% endcontent-ref %}
 
-{% content-ref url="derive-a-new-account-from-an-existing-account.md" %}
-[derive-a-new-account-from-an-existing-account.md](derive-a-new-account-from-an-existing-account.md)
+{% content-ref url="derive-a-new-account-from-an-existing-account/" %}
+[derive-a-new-account-from-an-existing-account](derive-a-new-account-from-an-existing-account/)
 {% endcontent-ref %}
 
 {% content-ref url="switch-between-accounts-and-change-account-name.md" %}
@@ -34,18 +40,6 @@ Here are the articles in this section:
 
 {% content-ref url="attach-a-watch-only-account.md" %}
 [attach-a-watch-only-account.md](attach-a-watch-only-account.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="export-and-backup-accounts.md" %}
