@@ -10,27 +10,27 @@ description: >-
 
 _In this example, we will connect Ledger accounts to SubWallet by choosing the Avail app on the Ledger Nano X device._
 
-<div><figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-35.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-38 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-35.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-38 (1).jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (4).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20 (27).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_55.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_21 (25).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_56.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_22 (18).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 5**: You will be directed to a new window. Select the Polkadot Migration app and the network you want to use. Once done, the extension will display the following pop-up:
+**Step 5**: You will be directed to a new window. Select the app corresponding to the current App on your Ledger and click "**Connect**". Your extension will display the following pop-up:
 
 <figure><img src="../../../.gitbook/assets/Screenshot_208 (1).png" alt=""><figcaption></figcaption></figure>
 
-Click on the device name (Nano X in this case) and click "**Connect**".
+Click on the device name (Nano X) and click "**Connect**".
 
-**Step 6**: After your Ledger has been successfully found by SubWallet, click "**Connect Ledger device**".
+**Step 6**: Select the network you want to use with the Polkadot Migration app. After your Ledger has been successfully found by SubWallet, click "**Connect Ledger device**".
 
 {% hint style="info" %}
 Don't forget to turn on the corresponding app on the Ledger device.
@@ -38,12 +38,12 @@ Don't forget to turn on the corresponding app on the Ledger device.
 
 <figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-45.jpg" alt="" width="287"><figcaption></figcaption></figure>
 
-**Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**"
+**Step 7**: Choose the account(s) you want to use, then click "**Connect Ledger device**".
 
 <figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-58-49.jpg" alt="" width="285"><figcaption></figcaption></figure>
 
 **Step 8**: Your Ledger account is ready!
 
-If you get to the account list (repeat Step 2), you can see your Ledger account there. You will also see the Ledger icon next to your linked account(s) (see the image below), as this is to differentiate it from other account types.
+If you repeat the action in **Step 2**, you will see your newly connected Ledger Polkadot accounts displayed in the "**Ledger Account**" section.
 
 <figure><img src="../../../.gitbook/assets/photo_2024-12-04_03-59-01.jpg" alt="" width="289"><figcaption></figcaption></figure>

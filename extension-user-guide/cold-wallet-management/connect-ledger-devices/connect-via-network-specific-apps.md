@@ -14,19 +14,19 @@ Currently, SubWallet doesn't support Cardano on Ledger.
 
 _In this example, we will connect Ledger accounts to SubWallet by choosing the Avail app on the Ledger Nano S Plus device._
 
-<div><figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-50.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/photo_2024-08-14_15-26-42.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/IMG_0945.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_0946.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (4).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20 (27).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_55.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_21 (25).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_56.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_22 (18).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 5**: Select the app corresponding to the current App on your Ledger and click "**Connect**". Your extension will display the following pop-up:
 

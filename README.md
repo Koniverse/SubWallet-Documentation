@@ -64,7 +64,7 @@ ERC-20, ERC-721, PSP-34, PSP-22, ERC-1155, VFT
 * Ternoa (CAPS)
 * Polimec (PLMC)
 * Polygon (POL)
-* KILT Protocol (KILT)
+* Story Protocol (IP)
 * Arbitrum One (ARB)
 * OriginTrail (TRAC)
 * Optimism (OP)

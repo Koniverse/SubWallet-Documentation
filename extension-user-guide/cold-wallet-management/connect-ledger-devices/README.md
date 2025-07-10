@@ -8,11 +8,11 @@ description: This document will show you how to connect your Ledger device to Su
 
 Currently, SubWallet supports these Ledger devices via **USB portal** only:
 
-* Ledger Nano S
+* Ledger Nano S\*
 * Ledger Nano S Plus
 * Ledger Nano X
-* Ledger Stax
-* Ledger Flex
+
+_(\*): Ledger Nano S is being phased out by Ledger (read this_ [_article_](https://support.ledger.com/article/Ledger-Nano-S-Limitations)_). If you're having this device, upgrade it to the newer Ledger devices for a more seamless experience, with the latest and future features and security improvements._
 
 {% embed url="https://www.youtube.com/watch?v=RnLHT_tQ0yA" %}
 
@@ -42,7 +42,7 @@ For example, to connect Ledger Moonbeam account(s) to SubWallet, you need to cho
 
 ### Polkadot app
 
-The Polkadot app lets your Ledger device to sign transactions on **all Substrate-based networks** as long as they have undergone runtime updates (e.g. Polkadot, Polkadot Asset Hub - Statemint).
+The Polkadot app lets your Ledger device sign transactions on all Substrate-based networks as long as they have undergone runtime updates (e.g., Polkadot, Polkadot Asset Hub - Statemint).
 
 {% hint style="warning" %}
 To use this app, make sure that the Polkadot app installed in your Ledger is on version v100.0.5 and above.
