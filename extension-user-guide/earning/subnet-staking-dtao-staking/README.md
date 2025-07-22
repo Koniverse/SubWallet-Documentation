@@ -49,7 +49,7 @@ Alpha tokens can only be purchased with TAO tokens (i.e., swap TAO for alpha).
 
 ### **4. dTAO staking information & parameters**
 
-<table><thead><tr><th width="249">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0.0006 TAO</td></tr><tr><td>Existential deposit (ED)</td><td>0.0000005 TAO</td></tr><tr><td>Unstaking period</td><td>None - Instant withdrawal after unstaking</td></tr><tr><td>Rewards payout</td><td><p>At the end of each era ( 1 era ~ 24 hours). </p><p>Rewards will be <strong>automatically compounded</strong>.</p></td></tr><tr><td>Nominating mechanism</td><td>Stake TAO in subnets to receive derivative alpha tokens</td></tr></tbody></table>
+<table><thead><tr><th width="249">Parameter</th><th>Information</th></tr></thead><tbody><tr><td>Minimum stake</td><td>0.0006 TAO</td></tr><tr><td>Existential deposit (ED)</td><td>0.0000005 TAO</td></tr><tr><td>Unstaking period</td><td>Up to 1.2 hours (~72 minutes)</td></tr><tr><td>Rewards payout</td><td><p>At the end of each era ( 1 era ~ 24 hours). </p><p>Rewards will be <strong>automatically compounded</strong>.</p></td></tr><tr><td>Nominating mechanism</td><td>Stake TAO in subnets to receive derivative alpha tokens</td></tr></tbody></table>
 
 ## Here are the articles in this section:
 
@@ -59,6 +59,10 @@ Alpha tokens can only be purchased with TAO tokens (i.e., swap TAO for alpha).
 
 {% content-ref url="stake-more.md" %}
 [stake-more.md](stake-more.md)
+{% endcontent-ref %}
+
+{% content-ref url="change-validator.md" %}
+[change-validator.md](change-validator.md)
 {% endcontent-ref %}
 
 {% content-ref url="unstake-and-redeem-tao.md" %}

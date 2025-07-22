@@ -24,6 +24,10 @@ description: Stake your tokens via nominating for validator(s) with ease on SubW
 [stake-more.md](stake-more.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../earning/direct-nomination/change-validators.md" %}
+[change-validators.md](../../earning/direct-nomination/change-validators.md)
+{% endcontent-ref %}
+
 {% content-ref url="unstake.md" %}
 [unstake.md](unstake.md)
 {% endcontent-ref %}
@@ -35,4 +39,3 @@ description: Stake your tokens via nominating for validator(s) with ease on SubW
 {% content-ref url="withdraw-unstaked-funds.md" %}
 [withdraw-unstaked-funds.md](withdraw-unstaked-funds.md)
 {% endcontent-ref %}
-
