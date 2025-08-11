@@ -26,11 +26,11 @@ If you have previously staked for certain protocols, when you choose the Earning
 
 On the right panel, all the steps involved in the process are listed clearly for you to see. After completing each step, you will be automatically directed to the next step.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: To begin the process, please enter the required staking information.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you are in all-accounts mode like the current example, you would need to choose the staking account.&#x20;

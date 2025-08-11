@@ -8,7 +8,7 @@ description: >-
 
 ### Supported cold wallets
 
-Currently, the SubWallet web dashboard supports 2 cold wallet connection options: Ledger and Polkadot Vault (previously Parity Signer).&#x20;
+Currently, the SubWallet web dashboard supports 2 cold wallet connection options: Ledger and Keystone.&#x20;
 
 ### Check out these articles for a full & detailed guide:&#x20;
 

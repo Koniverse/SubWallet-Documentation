@@ -25,7 +25,7 @@ Since you want to stake for **Bifrost Liquid Staking**, click on the "Stake now"
 {% hint style="info" %}
 If you have previously staked for certain protocols, when you choose the **Earning tab** on the sidebar, the screen will be displayed in the following manner. Don't worry, just simply click on the "+" icon or "Add more fund" button to access the same screen as the picture above.
 
-![](<../../../.gitbook/assets/image (45).png>)![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (45) (1).png>)![](<../../../.gitbook/assets/image (44) (1).png>)
 {% endhint %}
 
 **Step 3**: At this step, you will be directed to the **Earn** screen.&#x20;

@@ -18,7 +18,7 @@ SubWallet currently supports importing Polkadot (Substrate) and Ethereum (EVM) n
 
 **Step 3**: Click on the "**+**" button at the top right corner of the screen to import a new network.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_101 (2).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2058).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter the provider URL. Once done, SubWallet will automatically detect the network name, token name (symbol), and network type.&#x20;
 

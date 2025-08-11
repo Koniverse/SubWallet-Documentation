@@ -61,7 +61,7 @@ You can also open the Settings screen by clicking on the account name to access 
 
 In this case, once you click "**Migrate now**", you will be directed to the Finish screen. Select "**Back to home**" to return to the homepage.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (4).png>)
 
 </details>
 

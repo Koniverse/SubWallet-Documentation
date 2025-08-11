@@ -35,7 +35,7 @@ A staking fee of 0.00005 TAO will be deducted from your stake once the transacti
 
 _For example, if you enter 1 TAO in the Amount field, after the transaction is complete, your staked amount will be 1 - 0.00005, which equals 0.99995 TAO._
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (54).png>)
 {% endhint %}
 
 **Step 5:** Your request has been submitted!

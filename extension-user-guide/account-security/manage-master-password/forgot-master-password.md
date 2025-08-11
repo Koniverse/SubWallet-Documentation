@@ -49,4 +49,4 @@ Besides resetting the information listed like when you click "**Reset account**"
 
 <figure><img src="../../../.gitbook/assets/Screenshot_3 (5).png" alt="" width="363"><figcaption></figcaption></figure>
 
-In this step, you will need to re-import your account again using your seed phrase. For instructions on how to import an account, click here.
+In this step, you will need to re-import your account using your seed phrase. For instructions on how to import an account, click here.

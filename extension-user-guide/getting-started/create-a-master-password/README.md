@@ -37,4 +37,5 @@ Depending on the option you chose in Step 1, read the corresponding guide after 
 
 * If you chose "**Create a new account**", read this [guide](../../account-management/create-a-new-account-with-a-new-seed-phrase.md).
 * If you chose "**Import an account**", read this [guide](../../account-management/import-accounts/).
+* If you chose "**Attach an account**" and did not choose "_Attach watch-only account_", read this [guide](../../cold-wallet-management/).
 {% endhint %}

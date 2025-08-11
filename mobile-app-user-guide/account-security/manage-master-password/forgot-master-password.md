@@ -16,7 +16,7 @@ If you forgot your password, don't worry! You can quickly regain access to your 
 
 **Step 2:** A pop-up message will appear with 2 options provided: "**Reset account**" and "**Erase all**".
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 #### **With the "Reset account" option**
 

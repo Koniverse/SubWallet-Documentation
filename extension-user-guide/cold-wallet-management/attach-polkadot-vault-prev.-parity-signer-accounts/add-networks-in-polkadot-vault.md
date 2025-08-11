@@ -28,16 +28,16 @@ You will see a QR code, which will be used to add the corresponding network to y
 
 **Step 3**: Open the Polkadot Vault app and click on the "**Scan QR code**" button at the bottom of the screen.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (3).png" alt="" width="332"><figcaption></figcaption></figure>
 
 **Step 4**: Scan the QR code in Step 2 to add the network. Once you've completed, review the verifier certificate and select **"Approve**".
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (3).png" alt="" width="331"><figcaption></figcaption></figure>
 
 **Step 5**: After approving the addition of the new network, you'll be prompted to create a new key (account) for that network. It will be added to the main tab under the selected key set.
 
-<div><figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="333"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/images.png" alt="" width="332"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (11) (3).png" alt="" width="333"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/images.png" alt="" width="332"><figcaption></figcaption></figure></div>
 
 **Step 6**: You have successfully added the network!
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt="" width="332"><figcaption></figcaption></figure>

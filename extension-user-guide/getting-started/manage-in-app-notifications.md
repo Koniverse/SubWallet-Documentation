@@ -24,7 +24,7 @@ Currently, SubWallet supports these notification types:
 
 <figure><img src="../../.gitbook/assets/Screenshot_391.png" alt="" width="363"><figcaption></figcaption></figure>
 
-Step 3: In the Notifications settings screen, enable/disable the toggle. Once done, click "**Save settings**".
+**Step 3**: In the Notifications settings screen, enable/disable the toggle. Once done, click "**Save settings**".
 
 {% hint style="info" %}
 By default, SubWallet enables every notification type so you can keep track of and manage your assets more easily.

@@ -15,7 +15,7 @@ Your account address should be visible under your account name. If you cannot se
 
 To choose an account, click on the account name to get to the account selection tab, select the specific account you want, and the address will be visible.&#x20;
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (2).png>)
 
 <img src="../.gitbook/assets/image (1951).png" alt="" data-size="original">
 

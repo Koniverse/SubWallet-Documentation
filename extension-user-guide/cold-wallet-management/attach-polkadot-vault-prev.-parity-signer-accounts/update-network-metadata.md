@@ -18,11 +18,11 @@ This should be done on a device that is **not** your Polkadot Vault device (PC r
 
 In this case, we are using a PC.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Choose the network you need to update in the "**Network**" tab on the sidebar.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To make it easier, type the network you want to update in the "**Search**" bar.
@@ -32,20 +32,20 @@ To make it easier, type the network you want to update in the "**Search**" bar.
 
 **Step 3**: Go to the "**Metadata**" tab.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Scan the Metadata Animated QR code using your Polkadot Vault device.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Make sure your device remains stationary while the scanning process is in progress. This may take a few minutes to complete.
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (2).png>)
 {% endhint %}
 
 **Step 5**: Once you've completed, review the verifier certificate and select **"Approve**".
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (2).png" alt="" width="332"><figcaption></figcaption></figure>
 
 Now, you have successfully updated the network's metadata!

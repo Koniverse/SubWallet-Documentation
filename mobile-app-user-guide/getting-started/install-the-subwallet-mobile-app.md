@@ -14,11 +14,11 @@ description: >-
 You can also download SubWallet via this link: [https://apps.apple.com/us/app/subwallet-polkadot-wallet/id1633050285](https://apps.apple.com/us/app/subwallet-polkadot-wallet/id1633050285)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: A popup will appear. Hit "**Install**" to install the app.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### If you are using an Android device
 
