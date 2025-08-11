@@ -1,83 +1,53 @@
 ---
-description: This document will show you how to connect a Keystone device to SubWallet.
+description: >-
+  This document will show you how to connect your account on Keystone device to
+  SubWallet.
 ---
 
-# Connect Keystone device
+# Connect Keystone devices
 
-### Set up your Keystone device
+### **Enable/disable your permission for camera access**
 
-**Step 1**: Open your Keystone and enter your password.
+You will need to grant the SubWallet extension permission to use your camera in order to import via this method.
 
-\
-![](<../../.gitbook/assets/image (161).png>)
+To enable this permission, please follow these steps:
 
+**Step 1**: Open the SubWallet extension and click on the list item at the top left of the screen to get to the Settings section.
 
+**Step 2**: In the Settings screen, choose "**Security settings**".
 
-**Step 2:** Choose the network you want to connect.
-
-
-
-&#x20;![](<../../.gitbook/assets/image (162).png>)\
-
-
-**Step 3:** Click on the three-dot icon to go to the more options.
-
-\
-![](<../../.gitbook/assets/image (163).png>)
-
-\
-**Step 4**: Choose "Connect Software Wallet".
-
-\
-![](<../../.gitbook/assets/image (164).png>)
-
-\
-Then, the Keystone will display a QR code that help you connect to SubWallet.
-
-### Connect Keystone to your wallet
-
-**Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
-
-**Step 2**: In the account management screen, choose the "Attach account" icon in the lower right corner.
-
-![](<../../.gitbook/assets/image (321).png>)
-
-**Step 3:** Choose "Connect Keystone device".
-
-![](<../../.gitbook/assets/image (322).png>)
-
-**Step 4:** Click "Scan the QR code".
-
-<figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
+**Step 3**: In the Security settings, switch the toggle next to "**Camera access for QR**" and approve the browser's popup to enable camera access.
 
 {% hint style="info" %}
-Please note that you would need to grant SubWallet permission to use your camera in order to import by QR code. If you have not yet granted this permission, SubWallet will show the following message:
+If you use the Brave browser, there will be multiple options that allow you to access the camera for different durations. You can choose the time option that best fits your personal preferences.&#x20;
 
-![](<../../.gitbook/assets/image (533).png>)\
-\
-Click the "Go to Setting" button. You will be directed to our security settings screen. Please switch the toggle and approve the browser pop-up to enable camera access.
-
-![](<../../.gitbook/assets/image (534).png>) ![](<../../.gitbook/assets/image (535).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 {% endhint %}
+
+### **Connect to your Keystone device**
+
+**Step 1**: Open your Keystone and have the QR code ready.
+
+**Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
+
+<figure><img src="../../.gitbook/assets/Screenshot_23 (4).png" alt="" width="362"><figcaption></figcaption></figure>
+
+**Step 3**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
+
+**Step 4**: Choose "**Connect a Ledger device**".
+
+**Step 5**: Click "Scan the QR code".
 
 {% hint style="info" %}
-If you use the Brave browser, there will be multiple options that allow us to access the camera for different durations. You can choose the time option that best fits your personal preferences. However, to ensure a seamless experience with our system, we recommend selecting the "forever" option.
+If you haven't enabled the "Camera access for QR" toggle in Security settings, SubWallet will show the following message:
 
-![](<../../.gitbook/assets/image (543).png>)&#x20;
+To enable access, click on "Go to Setting" and then follow the steps provided in[#enable-disable-your-permission-for-camera-access](connect-keystone-devices.md#enable-disable-your-permission-for-camera-access "mention").
+
+Once done, repeat the connecting procedure.
 {% endhint %}
 
-**Step 5:** Get the QR code in your Keystone device ready.
+**Step 6**: Put your Keystone device (with the QR code displayed) in front of your computer and scan it with the computer's camera, or upload an image containing this QR code using the "**Upload from photos**" option.
 
-**Step 6:** Put your Keystone device (with the QR code displayed) in front of your computer and scan with the computer's camera.
+**Step 7:** Once your computer recognizes the QR code, a popup will appear, asking you to enter the name of your account. Once done, click "**Confirm**".
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
-
-**Step 7**: Your account is ready!&#x20;
-
-<figure><img src="../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
-
-You can find your Keystone device in the account list (follow Step 2 to get to the account list). You will notice that this account has been marked with a QR icon.&#x20;
-
-![](<../../.gitbook/assets/image (327).png>)
+**Step 8**: Your account is ready!&#x20;

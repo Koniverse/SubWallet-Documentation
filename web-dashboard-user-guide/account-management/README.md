@@ -30,8 +30,8 @@ Here are the articles in this section:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../cold-wallet-management/connect-keystone-devices.md" %}
-[connect-keystone-devices.md](../cold-wallet-management/connect-keystone-devices.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="switch-between-accounts-and-change-account-name.md" %}
