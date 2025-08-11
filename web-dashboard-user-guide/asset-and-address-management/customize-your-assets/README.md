@@ -6,7 +6,7 @@ description: >-
 
 # Customize your assets
 
-SubWallet now supports 400+ tokens in the **Polkadot, Bitcoin, Ethereum, TON & Cardano** ecosystems. You can effortlessly customize them to fit your needs by reading the articles below:
+SubWallet now supports 400+ tokens in the **Polkadot, Ethereum, TON & Cardano** ecosystems. You can effortlessly customize them to fit your needs by reading the articles below:
 
 {% content-ref url="enable-disable-tokens.md" %}
 [enable-disable-tokens.md](enable-disable-tokens.md)

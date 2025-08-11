@@ -33,7 +33,7 @@ _In this example, we will swap ETH for WETH on the Ethereum Sepolia network. Thi
 
 <figure><img src="../../.gitbook/assets/Screenshot_147 (2).png" alt=""><figcaption></figcaption></figure>
 
-## Sign transactions on Cardano dApps
+### Sign transactions on Cardano dApps
 
 **Step 1:** Open the dApp and connect your account(s) to it from either one of these options:&#x20;
 
