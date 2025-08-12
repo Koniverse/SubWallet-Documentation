@@ -6,7 +6,7 @@ description: Easily swap your tokens in just 1 click — fast, simple, and hassl
 
 This feature allows users to easily swap multiple cryptocurrencies directly within the wallet interface, streamlining the process significantly.
 
-SubWallet currently enables token swaps within the same network (_single-chain swap_) and between different networks (_cross-chain swap_) across the Polkadot & Ethereum ecosystems.
+SubWallet currently enables token swaps within the same network (_single-chain swap_) and between different networks (_cross-chain swap_) across the Polkadot, Ethereum & Bitcoin ecosystems.
 
 {% embed url="https://www.youtube.com/watch?pp=0gcJCY0JAYcqIYzv&v=GNrDEHiiPiY" %}
 

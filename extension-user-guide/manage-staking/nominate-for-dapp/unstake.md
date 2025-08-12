@@ -68,7 +68,7 @@ Once it's your turn, you need to withdraw the funds manually to redeem xcDOT.
 
 **Step 1**: Open the SubWallet extension and choose the "**Earning**" tab at the bottom of the screen. In the Your earning positions screen, select the funds you've previously unstaked.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_98.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_99.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_98 (3).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_99.png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 2**: In the Earning position details screen, click the "**Withdraw**" button under the Withdraw info section to start the withdrawal.
 

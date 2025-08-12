@@ -38,6 +38,10 @@ If you want to disable this permission, you can switch the toggle back.
 
 ### **Connect to your Keystone device**
 
+{% hint style="warning" %}
+Keystone 3 Pro does not support Polkadot; therefore, if you want to connect to Polkadot, use an older Keystone device.
+{% endhint %}
+
 **Step 1**: Open your Keystone and have the QR code ready.
 
 **Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.

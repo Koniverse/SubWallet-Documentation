@@ -50,5 +50,5 @@ You can either click "**Back to home**" to return to the homepage or "**View tra
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-<img src="../../../.gitbook/assets/Screenshot_97 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_97 (1) (2).png" alt="" data-size="original">
 {% endhint %}

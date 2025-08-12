@@ -23,7 +23,7 @@ In SubWallet, with each token, there are 2 types of balances depending on the ac
 
 _In this example, we want to view MYTH balance on the Hydration network._
 
-<figure><img src="../../.gitbook/assets/Screenshot_98 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_98 (3) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Token screen, click MYTH on the Hydration network to get to the Token details screen. You'll see detailed information about your token balances.
 

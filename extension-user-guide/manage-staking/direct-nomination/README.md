@@ -12,7 +12,7 @@ description: Stake your tokens via nominating for validator(s) with ease on SubW
 
 #### Testnet
 
-<table><thead><tr><th width="212">Token</th><th>Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>TZERO (Aleph Zero Testnet)</td><td>100 TZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail Turing Testnet)</td><td>1,000 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>TVARA (Vara Testnet)</td><td>50 TVARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>TAO (Bittensor Testnet)</td><td>0 TAO</td><td>Every 1.2 hours</td><td>Instant withdrawal</td></tr></tbody></table>
+<table><thead><tr><th width="212">Token</th><th>Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>TZERO (Aleph Zero Testnet)</td><td>100 TZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail Turing Testnet)</td><td>1,000 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>TVARA (Vara Testnet)</td><td>50 TVARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>TAO (Bittensor Testnet)</td><td>0 TAO</td><td>Every 1.2 hours</td><td>Instant withdrawal</td></tr><tr><td>WND (Westend Asset Hub)</td><td>2.85 WND</td><td>Every 24 hours</td><td>Approx. 2 days</td></tr></tbody></table>
 
 ### Here are articles in this section:&#x20;
 

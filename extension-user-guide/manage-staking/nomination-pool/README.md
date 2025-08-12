@@ -12,7 +12,7 @@ description: Stake your tokens via nominating for pools with ease on SubWallet.
 
 #### Testnet
 
-<table><thead><tr><th width="212">Token</th><th>Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>TZERO (Aleph Zero Testnet)</td><td>0 TZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail Turing Testnet)</td><td>100 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>TVARA (Vara Testnet)</td><td>1 TVARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>WND (Westend)</td><td>0.1 WND</td><td>Every 6 hours</td><td>Approx. 12 hours</td></tr></tbody></table>
+<table><thead><tr><th width="212">Token</th><th>Minimum stake</th><th>Rewards payout</th><th>Unstaking period</th></tr></thead><tbody><tr><td>TZERO (Aleph Zero Testnet)</td><td>0 TZERO</td><td>Every 24 hours</td><td>Approx. 14 days</td></tr><tr><td>AVAIL (Avail Turing Testnet)</td><td>100 AVAIL</td><td>Every 24 hours</td><td>Approx. 28 days</td></tr><tr><td>TVARA (Vara Testnet)</td><td>1 TVARA</td><td>Every 12 hours</td><td>Approx. 7 days</td></tr><tr><td>WND (Westend Asset Hub)</td><td>0.1 WND</td><td>Every 24 hours</td><td>Approx. 2 days</td></tr></tbody></table>
 
 ### Here are articles in this section:&#x20;
 

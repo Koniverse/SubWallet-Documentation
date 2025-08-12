@@ -16,7 +16,7 @@ _(\*\*): KILT staking is no longer producing rewards following the enactment of 
 
 (\*\*\*): _Turing Network has been paused. TUR holders can now convert their tokens to Ava Protocol (AP) ERC-20 tokens on Ethereum following_ [_this announcement_](https://avaprotocol.org/blog/secure-your-spot-ava-protocol-legacy-token-conversion-now-open-ahead-of-tge)_._
 
-(\*\*\*\*): With MYTH staking, you will need to claim rewards manually. Check out this [guide](https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX_Bs/~/changes/718/extension-user-guide/earning/parachain-collator-staking/claim-staking-rewards) for more details.
+(\*\*\*\*): _With MYTH staking, you will need to claim rewards manually. Check out this_ [_guide_](https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX_Bs/~/changes/718/extension-user-guide/earning/parachain-collator-staking/claim-staking-rewards) _for more details._
 
 #### Testnet
 

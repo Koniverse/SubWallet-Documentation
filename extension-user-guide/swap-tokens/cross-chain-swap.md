@@ -6,20 +6,29 @@ description: Easily swap tokens across different networks directly on SubWallet 
 
 ## Supported swap pairs & swap providers
 
-### Cross-chain swap on the Polkadot ecosystem
+### Cross-chain swap on the Polkadot ecosystems
 
 <table><thead><tr><th>Swap provider</th><th width="412">Supported swap pair</th></tr></thead><tbody><tr><td><ul><li>SimpleSwap</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> TAO (Bittensor)</li></ul></td></tr></tbody></table>
 
-### Cross-chain swap on the Ethereum ecosystem
+### Cross-chain swap on the Ethereum ecosystems
 
 <table><thead><tr><th>Swap provider</th><th width="413">Supported swap pair</th></tr></thead><tbody><tr><td><ul><li>ChainFlip</li></ul></td><td><ul><li>ETH (Ethereum) &#x3C;> USDC (Arbitrum One)</li><li>USDT (Ethereum) &#x3C;> USDC (Arbitrum One)</li><li>ETH (Arbitrum One) &#x3C;> USDC (Ethereum)</li><li>ETH (Arbitrum One) &#x3C;> USDT (Ethereum)</li><li>FLIP (Ethereum) &#x3C;> ETH (Arbitrum One)</li><li>FLIP (Ethereum) &#x3C;> USDC (Arbitrum One)</li></ul></td></tr><tr><td><ul><li>KyberSwap</li></ul></td><td><ul><li>1000+ swap pairs across 10+ networks</li></ul></td></tr></tbody></table>
 
-### Cross-chain swap between Polkadot & Ethereum ecosystem
+### Cross-chain swap between Polkadot & Ethereum ecosystems
 
-<table><thead><tr><th>Swap provider</th><th width="413">Supported swap pair</th></tr></thead><tbody><tr><td><ul><li>ChainFlip</li><li>SimpleSwap</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> ETH (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDC (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDT (Ethereum)</li></ul></td></tr><tr><td><ul><li>ChainFlip</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> FLIP (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDC (Arbitrum One)</li><li>DOT (Polkadot) &#x3C;> ETH (Arbitrum One)</li></ul></td></tr><tr><td><ul><li>SimpleSwap</li></ul></td><td><ul><li>TAO (Bittensor) &#x3C;> ETH (Ethereum)</li><li>TAO (Bittensor) &#x3C;> USDC (Ethereum)</li><li>TAO (Bittensor) &#x3C;> USDT (Ethereum)</li></ul></td></tr></tbody></table>
+<table><thead><tr><th>Swap provider</th><th width="413">Supported swap pair</th></tr></thead><tbody><tr><td><ul><li>ChainFlip</li><li>SimpleSwap</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> ETH (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDC (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDT (Ethereum)</li></ul></td></tr><tr><td><ul><li>ChainFlip</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> FLIP (Ethereum)</li><li>DOT (Polkadot) &#x3C;> USDC/ETH (Arbitrum One)</li></ul><ul><li>USDT, USDC, WETH (Polkadot Asset Hub) &#x3C;>  ETH/USDT/USDC (Ethereum)</li><li>USDT, USDC, WETH (Polkadot Asset Hub) &#x3C;>  ETH/USDT/USDC (Arbitrum One)</li></ul></td></tr><tr><td><ul><li>SimpleSwap</li></ul></td><td><ul><li>TAO (Bittensor) &#x3C;> ETH (Ethereum)</li><li>TAO (Bittensor) &#x3C;> USDC (Ethereum)</li><li>TAO (Bittensor) &#x3C;> USDT (Ethereum)</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 With this type of swap, you can choose to swap your tokens to another account.
+{% endhint %}
+
+### Cross-chain swap between Polkadot & Bitcoin ecosystems
+
+<table><thead><tr><th>Swap provider</th><th width="413">Supported swap pair</th></tr></thead><tbody><tr><td><ul><li>ChainFlip</li></ul></td><td><ul><li>DOT (Polkadot) &#x3C;> BTC (Bitcoin)</li><li>USDC (Polkadot Asset Hub) &#x3C;> BTC (Bitcoin)</li><li>USDT (Polkadot Asset Hub) &#x3C;> BTC (Bitcoin)</li></ul></td></tr></tbody></table>
+
+{% hint style="info" %}
+* With this type of swap, you can choose to swap your tokens to another account.
+* BTC swap is supported on all 3 Bitcoin address types (Native SegWit, Legacy & Taproot).
 {% endhint %}
 
 ## Swap tokens
