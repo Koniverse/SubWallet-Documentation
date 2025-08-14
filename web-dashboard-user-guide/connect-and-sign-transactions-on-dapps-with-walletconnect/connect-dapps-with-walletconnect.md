@@ -69,6 +69,28 @@ The WalletConnect screen in SubWallet will display as follows:
 
 <figure><img src="../../.gitbook/assets/image (2097).png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>I see the "Connection unsuccessful" popup after approving the request to connect to dApp</summary>
+
+In this case, please try reconnecting WalletConnect again using 1 of the 2 options below:
+
+### **Option 1: Get the latest connection on WalletConnect and reconnect**
+
+With this option, simply repeat the process from the first step.&#x20;
+
+If it doesn't work, move on to the option below :point\_down:
+
+### **Option 2: Check the VPN connection and repeat the process as in Option 1**
+
+{% hint style="info" %}
+WalletConnect connection access can be restricted/blocked in some countries, as stated in Section (C) of [WalletConnect's Terms of Service](https://walletconnect.com/terms). As a result, before connecting dApp via WalletConnect, please ensure the VPN connection is not connected to the servers of these countries.
+{% endhint %}
+
+Once done, you can repeat the process as in Option 1.
+
+</details>
+
 ### Disconnect dApp with WalletConnect
 
 **Step 1:** On the SubWallet homepage, click on the connection button at the top of the screen.
