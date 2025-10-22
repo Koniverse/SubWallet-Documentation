@@ -34,7 +34,7 @@ Depending on the method you choose, read the guide in the appropriate tab to sui
 {% tab title="Connect wallet" %}
 Select the wallet you want to connect.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Currently, SubWallet supports connecting extension accounts from 3 wallets:
@@ -50,7 +50,7 @@ After selecting your wallet, head over to **Step 4**.
 {% tab title="Attach an account" %}
 Select the option you want to attach your account:
 
-<figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 After selecting your wallet, head over to **Step 4**.
 {% endtab %}
@@ -58,7 +58,7 @@ After selecting your wallet, head over to **Step 4**.
 {% tab title="Add watch-only wallet" %}
 This option appears to be disabled at first, but once you enter the address & the account name, you can hit the "Add watch-only wallet" button to attach your account to SubWallet Web dashboard.
 
-<figure><img src="../../.gitbook/assets/image (10) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 After selecting your wallet, head over to **Step 4**.
 {% endtab %}

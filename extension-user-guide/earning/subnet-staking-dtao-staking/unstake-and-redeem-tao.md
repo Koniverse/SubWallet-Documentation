@@ -29,7 +29,7 @@ An unstaking fee of 0.00005 TAO will be deducted from your stake once the transa
 
 _For example, if you unstake 1 TAO, after the transaction is complete, you will redeem 1 - 0.00005, which equals 0.99995 TAO._
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 {% endhint %}
 
 **Step 5:** Your request has been submitted!

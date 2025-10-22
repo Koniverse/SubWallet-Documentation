@@ -1,43 +1,39 @@
 ---
 description: >-
-  This document will show you how to switch between accounts and change your
-  account name.
+  Effortlessly switch between your accounts and personalize them with unique
+  names for easy identification.
 ---
 
 # Switch between accounts and change account name
 
 ### Switch between accounts
 
-**Step 1**: Open SubWallet homepage and click on the account name to get to the account management screen.
+**Step 1**: On the SubWallet homepage, click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2327).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the account management screen, choose the account you want to use.&#x20;
+**Step 2**: Choose the account you want to use in the account selection tab.
+
+<figure><img src="../../.gitbook/assets/image (2329).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can also switch between the "All accounts" mode and single-account mode here.&#x20;
+You can also switch between the "**All accounts**" and single-account modes here.
 {% endhint %}
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (299).png" alt="" width="332"><figcaption></figcaption></figure>
-
-</div>
 
 ### Change your account name
 
-**Step 1**: Open [SubWallet's web dashboard](https://web.subwallet.app/welcome), and click on the account name to get to the account management screen.
+**Step 1**: On the SubWallet homepage, click on the account name to access the account selection tab.
 
-<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2328).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the account management screen, click the edit icon on the right-hand side of each account to get to account details.
+**Step 2**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_67 (2).png" alt="" data-size="line"> icon next to the account you want to change the name of.
 
-<div align="left">
+<figure><img src="../../.gitbook/assets/image (2330).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1739).png" alt="" width="328"><figcaption></figcaption></figure>
+**Step 3**: In the Account details screen, click on the Account name field and change it. We will automatically save the new name if it's not one of the used account names in your account list.&#x20;
 
-</div>
+<figure><img src="../../.gitbook/assets/image (2331).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3**: Click on the account name and change it. We would automatically save the new name.&#x20;
+<figure><img src="../../.gitbook/assets/image (2332).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+Once done, click the "**<**" icon at the top left corner to return to the homepage.
