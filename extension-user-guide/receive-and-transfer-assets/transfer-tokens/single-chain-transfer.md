@@ -72,7 +72,7 @@ With EVM networks, high traffic can result in slower transaction processing time
 
 From version 1.3.24, SubWallet allows you to customize the transaction fee for transactions performed on any EVM network. This means you can set the fee amount to whatever you desire rather than being limited to a fixed fee, as in previous versions.
 
-To customize the fee, once you input the needed information, click the <img src="../../../.gitbook/assets/Screenshot_67.png" alt="" data-size="line"> in the "**Estimated fee**" field. In the Edit fee popup, you can select between 3 fee options: "**Low**", "**Medium**", and "**High**". These options are dynamic and offer suggestions based on network congestion during transactions.
+To customize the fee, once you input the needed information, click the <img src="../../../.gitbook/assets/Screenshot_67 (1).png" alt="" data-size="line"> in the "**Estimated fee**" field. In the Edit fee popup, you can select between 3 fee options: "**Low**", "**Medium**", and "**High**". These options are dynamic and offer suggestions based on network congestion during transactions.
 
 Choose the option you prefer.
 
@@ -102,7 +102,7 @@ Currently, SubWallet supports customizing payment tokens for single-chain transa
 Instead of requiring native tokens to cover gas fees, you now have a variety of tokens to choose from for this fee.
 {% endhint %}
 
-To customize the payment token, once you input the required information, click the <img src="../../../.gitbook/assets/Screenshot_67.png" alt="" data-size="line"> in the "**Estimated fee**" field. Select any tokens you have balances to pay the gas fee.
+To customize the payment token, once you input the required information, click the <img src="../../../.gitbook/assets/Screenshot_67 (1).png" alt="" data-size="line"> in the "**Estimated fee**" field. Select any tokens you have balances to pay the gas fee.
 
 <img src="../../../.gitbook/assets/Screenshot_12.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_13.png" alt="" data-size="original">
 

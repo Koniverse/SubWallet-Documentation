@@ -735,7 +735,7 @@ This error occurs when your Polkadot Vault doesn't have the correct public key a
 
 In most cases, this happens when you're trying to use an account address created by your Root Key, but the Root Key itself hasn't been added to the Vault.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 #### To fix this error, please follow the instructions below:
 
@@ -745,23 +745,23 @@ All the steps must be taken using your Polkadot Vault app.
 
 **Step 1**: On the Polkadot Vault app, select the "+" button at the upper right corner of the screen to create a new derive key.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="268"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt="" width="268"><figcaption></figcaption></figure>
 
 **Step 2**: Select the network to which you want to add a derivation path.&#x20;
 
 _In this example, we will choose "**Paseo**"._
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 3**: After selecting the network, choose "**Add Custom Derivation Path**".
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 4**: Enter the correct derivation path for your account. Once done, click "**Done**".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 5**: Write down the name of your derivation path. You can choose whatever name you want, as long as it suits your needs.
 
@@ -769,7 +769,7 @@ _In this example, we will choose "**Paseo**"._
 
 After that, tick the checkbox "**I have written down my derivation path name**" and select "**Done**".
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 6**: Your derived key (derived account) has been successfully created! You will now be able to initiate the transaction without any problems. :wink:
 

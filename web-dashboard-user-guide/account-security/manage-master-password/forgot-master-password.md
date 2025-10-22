@@ -12,13 +12,13 @@ If you forgot your password, don't worry! You can quickly regain access to your 
 
 **Step 1**: On the Welcome screen, click "**Don't remember your password?**".
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** A pop-up message will appear with 2 options provided: "**Reset account**" and "**Erase all**".
 
 Choose the option you want to apply:
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **With the "Reset account" option**
 
@@ -47,6 +47,6 @@ Besides resetting the information listed like when you click "**Reset account**"
 
 **Step 3**: Once you click either of these options, all the accounts you have previously imported will be removed. You will be directed to the Welcome screen.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
 
 In this step, you will need to re-import your account using your backup information.

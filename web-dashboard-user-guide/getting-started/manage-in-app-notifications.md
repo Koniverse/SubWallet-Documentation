@@ -18,15 +18,15 @@ Currently, SubWallet supports these notification types:
 
 **Step 1:** On the SubWallet homepage, click the "**Settings**" tab on the sidebar to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** In the Settings section, click “**General settings**”.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 After that, choose the “**In-app notifications**” option.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** A popup screen will appear on the right side. You can choose to enable/disable the toggle.&#x20;
 
@@ -34,8 +34,8 @@ After that, choose the “**In-app notifications**” option.
 By default, SubWallet enables every notification type so you can keep track of and manage your assets more easily.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Save settings**".
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ We have not yet supported participating in crowdloans directly from SubWallet. T
 
 **Step 2**: In the Settings section, select "**Crownloans**".
 
-<figure><img src="../.gitbook/assets/Screenshot_67 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_67 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 The crowdloans list will appear. You can now view your crowdloans participation and the approximate time you will receive your tokens back.
 
