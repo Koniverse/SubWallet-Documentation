@@ -6,13 +6,11 @@ description: >-
 
 # Unstake
 
-**Step 1:** Open SubWallet web dashboard, then click on the Earning tab on the sidebar.\
-
+**Step 1:** Open SubWallet web dashboard, then click on the Earning tab on the sidebar.<br>
 
 <figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Click on the "Unstake" button in **Polkadot Nomination Pool** tab.\
-
+**Step 2:** Click on the "Unstake" button in **Polkadot Nomination Pool** tab.<br>
 
 <figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,8 +39,7 @@ Please ensure your account balance is sufficient to cover transaction fees and k
 ![](<../../../.gitbook/assets/image (185).png>)
 
 \
-**Step 5:** The result is in!\
-
+**Step 5:** The result is in!<br>
 
 <figure><img src="../../../.gitbook/assets/image (1825).png" alt=""><figcaption></figcaption></figure>
 

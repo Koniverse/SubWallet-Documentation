@@ -23,15 +23,15 @@ Choose your preferred tab to continue.
 {% tab title="Click the pen icon" %}
 **Step 3**: In the Account details tab, click the "**Derive**" button at the bottom of the screen to start deriving a new account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_53 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_53 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Enter a valid derivation path and a name for your derived account. Once done, click "**Create account**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_54 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_55 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_54 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_55 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 5**: You've successfully created a derived account! Head over to your account list to see it.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_56 (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_57 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_56 (2) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_57 (3) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can create solo derivative accounts from a unified account by customizing the derivation path to align with the ecosystem's formatted derivative path.
@@ -43,7 +43,7 @@ You can create solo derivative accounts from a unified account by customizing th
 {% tab title="Click the button" %}
 **Step 3**: Choose the "**Derive from an existing account**" button to derive a new account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_58 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_58 (3) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose the account you want to derive from.
 
@@ -60,7 +60,7 @@ You can create solo derivative accounts from a unified account by customizing th
 {% hint style="info" %}
 You can create solo derivative accounts from a unified account by customizing the derivation path to align with the ecosystem's formatted derivative path.
 
-<img src="../../../.gitbook/assets/Screenshot_62 (2).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_63 (4).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_64 (3).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_62 (2) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_63 (4) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_64 (3) (1).png" alt="" data-size="original">
 {% endhint %}
 {% endtab %}
 {% endtabs %}

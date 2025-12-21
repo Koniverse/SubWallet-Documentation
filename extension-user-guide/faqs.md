@@ -297,7 +297,7 @@ In this case, please try re-connecting WalletConnect again using 1 of the 2 opti
 
 _Here, we are using Galxe as an example._
 
-<img src="../.gitbook/assets/Screenshot_48 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_48 (1) (1).png" alt="" data-size="original">
 
 **Step 2**: Get the latest connection from the WalletConnect pop-up by selecting your preferred way to connect.
 
@@ -386,11 +386,11 @@ Please follow the instructions below if you are using Chrome/MS Edge/Brave brows
 
 Once done, choose "**Delete database**", then click "**OK**" to confirm the request and then close the window.
 
-<img src="../.gitbook/assets/Screenshot_16 (2) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_16 (2) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1) (1) (1).png" alt="" data-size="original">
 
 **Step 4**: Click on the 3-dot icon at the top right of the screen, then select "**Extension**" and click "**Manage extension**" to open the Extension panel.
 
-<img src="../.gitbook/assets/Screenshot_18 (2) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_19 (2) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_18 (2) (1) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_19 (2) (1).png" alt="" data-size="original">
 
 **Step 5**: Find the SubWallet extension in the extension list, then **turn off and on** the toggle.
 
@@ -500,13 +500,13 @@ _In this example, we want to transfer GLMR on Moonbeam out of the account._
 
 **Step 1**: On the homepage, click on the Moonbeam Key Set.
 
-<img src="../.gitbook/assets/Screenshot_33 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_33 (1) (1).png" alt="" data-size="original">
 
 **Step 2**: Click on the 3-dot icon at the top right of the screen and select the "**Share Private Key**" option.
 
-<img src="../.gitbook/assets/Screenshot_34 (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_34 (1) (1) (1).png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/Screenshot_41 (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_41 (1) (1).png" alt="" data-size="original">
 
 **Step 3**: Enter your passcode to authorize the action, then choose the "**Export Private Key**" button.
 
@@ -681,7 +681,7 @@ In the Metadata tab, choose "**Update metadata**" to update the Kusama metadata.
 
 :warning: If you are using the SubWallet extension on Firefox, you will need to export and import your accounts to another browser (Brave, Chrome recommended). The SubWallet extension on Firefox cannot be updated at the moment due to compatibility issues with Manifest V3, which means you won't be able to transfer/withdraw any tokens, including AVAIL.&#x20;
 
-In order to sign transactions on the Avail network using Ledger, follow this [guide](broken-reference). Please note that you need to **select and open the Avail app** in your Ledger (not the Polkadot app) and **choose the Avail option** in the dropdown list when connecting your Ledger to SubWallet.&#x20;
+In order to sign transactions on the Avail network using Ledger, follow this [guide](/broken/pages/AatpPW0OVQbd4vJFI0CF#connect-via-legacy-ledger-apps). Please note that you need to **select and open the Avail app** in your Ledger (not the Polkadot app) and **choose the Avail option** in the dropdown list when connecting your Ledger to SubWallet.&#x20;
 
 <img src="../.gitbook/assets/2.jpg" alt="" data-size="original">![](<../.gitbook/assets/1 (1).jpg>)
 
@@ -735,7 +735,7 @@ This error occurs when your Polkadot Vault doesn't have the correct public key a
 
 In most cases, this happens when you're trying to use an account address created by your Root Key, but the Root Key itself hasn't been added to the Vault.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 #### To fix this error, please follow the instructions below:
 
@@ -745,23 +745,23 @@ All the steps must be taken using your Polkadot Vault app.
 
 **Step 1**: On the Polkadot Vault app, select the "+" button at the upper right corner of the screen to create a new derive key.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="268"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="268"><figcaption></figcaption></figure>
 
 **Step 2**: Select the network to which you want to add a derivation path.&#x20;
 
 _In this example, we will choose "**Paseo**"._
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 3**: After selecting the network, choose "**Add Custom Derivation Path**".
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 4**: Enter the correct derivation path for your account. Once done, click "**Done**".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 5**: Write down the name of your derivation path. You can choose whatever name you want, as long as it suits your needs.
 
@@ -769,7 +769,7 @@ _In this example, we will choose "**Paseo**"._
 
 After that, tick the checkbox "**I have written down my derivation path name**" and select "**Done**".
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="269"><figcaption></figcaption></figure>
 
 **Step 6**: Your derived key (derived account) has been successfully created! You will now be able to initiate the transaction without any problems. :wink:
 

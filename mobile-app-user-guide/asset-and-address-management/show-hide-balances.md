@@ -20,7 +20,7 @@ You can choose to either unveil your balances to get a clear view of your assets
 
 **Step 2**: Your balances will be displayed once you tap.
 
-<figure><img src="../../.gitbook/assets/Screenshot_57 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_57 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 ### To hide your balances <a href="#to-hide-your-balances" id="to-hide-your-balances"></a>
 

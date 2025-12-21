@@ -10,11 +10,11 @@ description: Add, edit or remove your address book for quick and seamless transa
 
 **Step 2**: In the Settings section, select "**Manage address book**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_60.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_60 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 You will be directed to the address list.
 
-<figure><img src="../../.gitbook/assets/Screenshot_61.png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_61 (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 Depending on what fits your needs, choose the appropriate tab below.
 

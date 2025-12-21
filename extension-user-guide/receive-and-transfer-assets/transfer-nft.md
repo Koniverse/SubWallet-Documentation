@@ -6,9 +6,9 @@ description: Send your NFT to another wallet with ease on SubWallet.
 
 **Step 1**: Open the SubWallet extension and select the "**NFTs**" tab at the bottom of the screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_42 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_42 (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
-**Step 2**: In the Your collections screen, scroll down to choose the collection you want to transfer.
+**Step 2**: On the Your collections screen, scroll down to select the collection you want to transfer.
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_51 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_52 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
@@ -16,7 +16,7 @@ description: Send your NFT to another wallet with ease on SubWallet.
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_53 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_54 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Not all NFTs are transferable.
 {% endhint %}
 

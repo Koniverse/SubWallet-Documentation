@@ -27,7 +27,7 @@ SubWallet has partnered with Transak, Banxa, and Coinbase Pay to provide users w
 {% hint style="info" %}
 In "**All accounts**" mode, most steps are identical to the "Single-account mode". The only additional step is to select the account for which you want to buy tokens.&#x20;
 
-<img src="../.gitbook/assets/Screenshot_38 (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_39 (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_38 (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_39 (1) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 

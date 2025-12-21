@@ -24,11 +24,11 @@ More languages will be supported in the future. Stay tuned!
 
 **Step 1**: On the SubWallet homepage, tap the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_11 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (1) (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select "**General settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_16 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_16 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 Next, choose "**Language**" to view supported languages.
 

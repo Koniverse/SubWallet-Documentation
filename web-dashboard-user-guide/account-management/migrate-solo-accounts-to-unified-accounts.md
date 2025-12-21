@@ -40,7 +40,7 @@ The migration process can only be done in Popup view mode (the view when you ope
 <figure><img src="../../.gitbook/assets/image (2254).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can also open the Settings screen by clicking on the account name to access the account selection tab. Then, click the <img src="../../.gitbook/assets/Screenshot_25.png" alt="" data-size="line"> icon to access the Settings section.
+You can also open the Settings screen by clicking on the account name to access the account selection tab. Then, click the <img src="../../.gitbook/assets/Screenshot_25 (1).png" alt="" data-size="line"> icon to access the Settings section.
 
 ![](<../../.gitbook/assets/image (2255).png>) ![](<../../.gitbook/assets/image (2256).png>)
 {% endhint %}

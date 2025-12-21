@@ -16,7 +16,7 @@ At the start of your journey with us, we always ask you to create a master passw
 
 Once done, click "**Continue**".
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_7 (2) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_8 (2).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_7 (2) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_8 (2).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 **Step 3:** Enter a strong password with at least 8 characters and tick "**I understand that SubWallet can't recover the password**".
 
@@ -24,7 +24,7 @@ Once done, click "**Continue**".
 Password should contain **at least** 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_9 (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_9 (1) (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 

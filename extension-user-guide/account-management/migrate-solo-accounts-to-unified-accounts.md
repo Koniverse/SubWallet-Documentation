@@ -39,17 +39,17 @@ This feature was introduced in [version 1.3.23](https://github.com/Koniverse/Sub
 
 **Step 2**: In the Settings screen, select "**Account settings**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_14.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14 (5).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can also open the Settings screen by clicking on the account name to access the account selection tab. Then, click the <img src="../../.gitbook/assets/Screenshot_25.png" alt="" data-size="line"> icon to access the Settings section.
+You can also open the Settings screen by clicking on the account name to access the account selection tab. Then, click the <img src="../../.gitbook/assets/Screenshot_25 (1).png" alt="" data-size="line"> icon to access the Settings section.
 
 <img src="../../.gitbook/assets/Screenshot_19 (22).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_26 (14).png" alt="" data-size="original">
 {% endhint %}
 
 **Step 3**: Click on the "**Migrate to unified account**" option.
 
-<figure><img src="../../.gitbook/assets/Screenshot_15.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_15 (5).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: The migration popup will appear, informing you of how the migration works. Read carefully, then select "**Migrate now**".
 
@@ -67,7 +67,7 @@ In this case, once you click "**Migrate now**", you will be directed to the Fini
 
 **Step 5**: Enter your SubWallet password to start the migration.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_17 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_18 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_17 (1) (2) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_18 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 **Step 6**: At the top of the screen, you will see the progress and number of unified accounts that will be created from the migration.
 
@@ -90,7 +90,7 @@ During the migration process, **DO NOT** close the extension. If you close it, t
 
 To continue the migration, open the extension, click "**Continue**", re-enter your password, and then select "**Continue**" to resume the process.
 
-<img src="../../.gitbook/assets/Screenshot_26.png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_25 (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_26 (4).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_25 (1) (2).png" alt="" data-size="original">
 {% endhint %}
 
 **Step 7**: Once all eligible accounts are successfully migrated, the migration will be completed. Hit "**Finish**" to return to the homepage.

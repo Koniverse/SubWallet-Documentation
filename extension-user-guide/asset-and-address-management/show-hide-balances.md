@@ -4,7 +4,7 @@ description: >-
   from unwanted attention.
 ---
 
-# Show/Hide balances
+# Show/hide balances
 
 {% hint style="info" %}
 SubWallet will hide your balances by default when you first use the extension.&#x20;
@@ -16,11 +16,11 @@ You can choose to either unveil your balances to get a clear view of your assets
 
 **Step 1**: Open the SubWallet extension and click the eye symbol to unveil your balance.
 
-<figure><img src="../../.gitbook/assets/Screenshot_60 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_60 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 2**: Your balances will be displayed once you click.
 
-<figure><img src="../../.gitbook/assets/Screenshot_61 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_61 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 ### To hide your balances
 

@@ -105,7 +105,7 @@ A completed swapping request would look like the following image. Click "**Swap*
 
 **Step 4**: Your swapping request has been submitted!
 
-<figure><img src="../../.gitbook/assets/Screenshot_14 (5).png" alt="" width="267"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14 (5) (1).png" alt="" width="267"><figcaption></figcaption></figure>
 
 You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
 

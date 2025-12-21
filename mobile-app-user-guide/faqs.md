@@ -25,13 +25,13 @@ In this example, we want to transfer GLMR on Moonbeam out of the account using a
 
 **Step 1**: On the homepage, click on the Moonbeam Key Set.
 
-<figure><img src="../.gitbook/assets/Screenshot_33 (1).png" alt="" width="376"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_33 (1) (1).png" alt="" width="376"><figcaption></figcaption></figure>
 
 **Step 2**: Click on the 3-dot icon at the top right of the screen and click the "**Share Private Key**" option.
 
-<figure><img src="../.gitbook/assets/Screenshot_34 (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_34 (1) (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_41 (1).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_41 (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
 **Step 3**: Enter your passcode to authorize the action, then choose the "**Export Private Key**" button.
 

@@ -65,7 +65,7 @@ This feature is enabled by default when you first use the wallet, but you can tu
 
 **Step 2**: Turn off the "**Show zero balance**" toggle to hide all the tokens with zero balances.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_56 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_57 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_56 (1) (1).png" alt="" width="363"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_57 (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 You can enable the toggle back at any time.

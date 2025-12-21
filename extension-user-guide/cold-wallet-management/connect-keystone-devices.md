@@ -50,11 +50,11 @@ Keystone 3 Pro does not support Polkadot; therefore, if you want to connect to P
 
 **Step 3**: In the account selection tab, click the <img src="../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../.gitbook/assets/Screenshot_55.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_55 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Ledger device**".
 
-<figure><img src="../../.gitbook/assets/Screenshot_58.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_58 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 5**: Click "Scan the QR code".
 

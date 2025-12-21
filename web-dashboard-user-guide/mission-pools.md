@@ -27,10 +27,10 @@ With each campaign, we provide all the information needed so you can decide whet
 * Total rewards
 * Timeline
 * Total winners
-* <img src="../.gitbook/assets/Screenshot_6 (1) (1) (1).png" alt="" data-size="line">: Project website
-* <img src="../.gitbook/assets/Screenshot_7 (1) (1) (1) (1).png" alt="" data-size="line">: Project Twitter (X) page.
+* <img src="../.gitbook/assets/Screenshot_6 (1) (1) (1) (1).png" alt="" data-size="line">: Project website
+* <img src="../.gitbook/assets/Screenshot_7 (1) (1) (1) (1) (1).png" alt="" data-size="line">: Project Twitter (X) page.
 
-<img src="../.gitbook/assets/Screenshot_32 (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_33 (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_32 (1) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_33 (2).png" alt="" data-size="original">
 {% endhint %}
 
 Once you have chosen a campaign, click "**Join now**".&#x20;

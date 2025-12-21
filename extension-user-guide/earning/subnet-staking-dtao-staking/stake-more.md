@@ -18,17 +18,17 @@ description: Accumulate your staked funds in a subnet by staking more.
 Like Direct nomination, with Subnet staking, you can choose another validator as you add more funds to your subnet.
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_34.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_35.png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_34 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_35 (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the slippage calculated by SubWallet for your transaction exceeds 0.5%, you will not be able to proceed with your stake. In this case, you will need to lower the stake amount to proceed.
 
-<img src="../../../.gitbook/assets/Screenshot_37.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_37 (2).png" alt="" data-size="original">
 {% endhint %}
 
 **Step 4**: Check the information and confirm your request by clicking "**Approve**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_36.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_36 (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 A staking fee of 0.00005 TAO will be deducted from your stake once the transaction is complete.&#x20;

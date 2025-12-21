@@ -28,11 +28,11 @@ SubWallet doesn't support importing JSON files created from Cardano-native walle
 
 **Step 4**: You'll be redirected to a new window. Click on the import field to choose a file from your device, or drag and drop your JSON backup file to import.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_50 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: Enter the file's password (created when you set up the wallet for the first time) and click "**Unlock file**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_51 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_51 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: Select the accounts you wish to import, then click "**Import {x} accounts**", where {x} represents the number of accounts selected for import.
 

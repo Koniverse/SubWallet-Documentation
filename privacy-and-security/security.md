@@ -22,7 +22,7 @@ SubWallet is an open-source project that tends to be more flexible because we re
 
 ## 5. Cold Wallet Support
 
-For now, SubWallet supports connecting [Polkadot Vault](broken-reference), [Ledger](broken-reference) and [Keystone](broken-reference) to SubWallet to better secure your asset. You can find the guidance in our User guide.&#x20;
+For now, SubWallet supports connecting [Polkadot Vault](/broken/pages/qZdODLnWAB8JnMSTOOa9), [Ledger](/broken/pages/AatpPW0OVQbd4vJFI0CF) and [Keystone](/broken/pages/j6wUcCLWekxSR6XreGCb) to SubWallet to better secure your asset. You can find the guidance in our User guide.&#x20;
 
 ## 6. Phishing Prevention
 

@@ -221,7 +221,7 @@ You only have to go through Step 3 if you are in "**All accounts**" mode. If you
 
 <figure><img src="../../.gitbook/assets/Screenshot_169 (3).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18 (2) (1).png" alt="" data-size="line"> icon to change wallet address.
+**Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18 (2) (1) (1).png" alt="" data-size="line"> icon to change wallet address.
 
 <figure><img src="../../.gitbook/assets/Screenshot_170 (2).png" alt="" width="362"><figcaption></figcaption></figure>
 

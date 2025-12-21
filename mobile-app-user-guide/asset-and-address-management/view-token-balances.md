@@ -21,16 +21,16 @@ In SubWallet, with each token, there are 2 types of balances depending on the ac
 
 _In this example, we want to view ACA's balance on the Acala network. Tap "ACA" to proceed._
 
-<figure><img src="../../.gitbook/assets/Screenshot_42 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_42 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2**: In the Token screen, click ACA on the Acala network to get to the Token details screen. You'll see detailed information about your token balances.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_44 (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_45 (1).png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_44 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_45 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you are in the "**All accounts**" mode, you can also click the "**Account details**" tab to see detailed token balance information on each account.
 
-<img src="../../.gitbook/assets/Screenshot_46 (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_46 (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ### Show/hide zero balances <a href="#show-hide-zero-balances" id="show-hide-zero-balances"></a>

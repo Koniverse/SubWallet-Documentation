@@ -26,7 +26,7 @@ With this type of swap, you can choose to swap your tokens to another account.
 
 **Step 1**: On the SubWallet app, hit the "**Swap**" button on the homepage.
 
-<figure><img src="../../.gitbook/assets/Screenshot_15 (5).png" alt="" width="267"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_15 (5) (1).png" alt="" width="267"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this is the first time you use this feature, the Terms of service popup will appear. Read carefully, then select "**I understand the associated risk and will act under caution**". After that, click "**Confirm and continue swapping**".
@@ -68,11 +68,11 @@ Enter the amount you want to swap. Once done, the swap quote (with the related i
 
 To do that, hit the "**View swap quote**" button, then continue clicking on the "**View quote**" button.
 
-<img src="../../.gitbook/assets/Screenshot_20 (8).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_21 (10).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_20 (8).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_21 (10) (1).png" alt="" data-size="original">
 
 In the Swap quotes popup, choose the provider you want for the swap.
 
-<img src="../../.gitbook/assets/Screenshot_22 (3).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_23 (6).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_22 (3) (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_23 (6).png" alt="" data-size="original">
 
 </details>
 

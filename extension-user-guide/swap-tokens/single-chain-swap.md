@@ -145,7 +145,7 @@ _In this example, we want to swap ARB for ETH on the Arbitrum One network._&#x20
 
 Select "ARB **(Arbitrum One)**" as the token you want to swap.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot_26 (4).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_27 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot_26 (4) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_27 (3) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 Select "**ETH (Arbitrum One)**" as the token you wish to receive.
 

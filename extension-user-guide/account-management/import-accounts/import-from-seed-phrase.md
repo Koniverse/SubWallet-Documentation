@@ -54,7 +54,7 @@ Besides the 12-word seed phrase, SubWallet also allows you to import the 15 and 
 
 To do that, click on the drop-down button next to "12 words" and then select the seed phrase type you want to import.
 
-<img src="../../../.gitbook/assets/Screenshot_49.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_49 (3).png" alt="" data-size="original">
 
 </details>
 

@@ -12,7 +12,7 @@ If you forgot your password, don't worry! You can quickly regain access to your 
 
 **Step 1**: Open the SubWallet app. On the Welcome screen, hit "**Forgot password**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_39 (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_39 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 **Step 2:** A pop-up message will appear with 2 options provided: "**Reset account**" and "**Erase all**".
 

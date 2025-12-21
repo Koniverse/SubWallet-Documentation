@@ -42,18 +42,18 @@ Click on the transaction you want to view the details.&#x20;
 <figure><img src="../../.gitbook/assets/Screenshot_75 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can also use the filter feature to see transactions in a particular category by clicking on the fader icon at the upper right corner. Choose the type(s) of the transaction you want to view and click the "**Apply filter**" button below.
+You can also use the filter feature to view transactions in a specific category by clicking on the <img src="../../.gitbook/assets/Screenshot_64.png" alt="" data-size="line"> icon in the upper-right corner. Choose the type(s) of the transaction you want to view and click the "**Apply filter**" button below.
 
-<img src="../../.gitbook/assets/Screenshot_76 (1) (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Screenshot_77 (1) (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (3).png>)  <img src="../../.gitbook/assets/Screenshot_77 (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 <details>
 
 <summary>View transaction history on Bitcoin</summary>
 
-Unlike other ecosystems, Bitcoin has multiple address types. This means that if you want to view the transaction history of your account on Bitcoin, you will also need to select the address type that goes along with it.
+Unlike other ecosystems, Bitcoin has multiple address types. This means that if you want to view the transaction history of your account on Bitcoin, you will also need to select the address type that corresponds to it.
 
-In the History screen, select Bitcoin/Bitcoin Testnet as the network you want to view your transaction history:
+In the History screen, select "**Bitcoin/Bitcoin Testnet**" as the network you want to view your transaction history:
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_111 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_111 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_112 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
@@ -65,7 +65,7 @@ You will now see all the transactions that happened at the address:
 
 <figure><img src="../../.gitbook/assets/image (2026).png" alt="" width="362"><figcaption></figcaption></figure>
 
-Click on the transaction you want to view the details.&#x20;
+Click on the transaction to view its details.&#x20;
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_115 (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_116 (2).png" alt="" width="362"><figcaption></figcaption></figure></div>
 

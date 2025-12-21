@@ -10,7 +10,7 @@ description: >-
 
 **Step 1**: Open the SubWallet extension and click on the <img src="../../.gitbook/assets/Screenshot_13 (3).png" alt="" data-size="line"> icon at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, scroll down to the end to see the "**Lock**" button and then click it to lock your wallet.
 
@@ -34,7 +34,7 @@ Auto-lock is a security feature that locks your wallet after a period of inactiv
 
 **Step 1**: Open the SubWallet extension and click on the list item at the top left corner to get to the Settings section.
 
-<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings section, select “**Security settings**”.
 
@@ -46,7 +46,7 @@ Auto-lock is a security feature that locks your wallet after a period of inactiv
 
 **Step 4**: Select the lock time you prefer.
 
-<figure><img src="../../.gitbook/assets/Screenshot_29 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_29 (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 By default, SubWallet locks your wallet after 15 minutes of not being used, but you can adjust the lock time to fit your needs.

@@ -45,7 +45,7 @@ With this type of transfer, you can select the same account for both the sender 
 {% hint style="warning" %}
 Note that transferring tokens cross-chain to a centralized exchange (CEX) address will result in loss of funds. This is because these CEXs may not recognize or properly credit deposits made to their wallet addresses.
 
-<img src="../../../.gitbook/assets/Screenshot_39 (1) (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_39 (1) (1) (1) (1).png" alt="" data-size="original">
 
 If you face this situation, it is recommended that you contact their support team as soon as possible.
 {% endhint %}
@@ -66,7 +66,7 @@ Once done, click "**Transfer**".
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_40 (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_40 (1) (1) (1) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in!
 
