@@ -23,7 +23,7 @@ _(\*\*): If you import the seed phrase created from a non-native TON wallet into
 {% hint style="warning" %}
 If you import a seed phrase incompatible with SubWallet, you may be unable to import the account, or the imported account may not be the one you intended to import.
 
-**Trust Wallet, Safepal, and TON-native wallets** are among the wallets that are not compatible with SubWallet.&#x20;
+**Safepal and TON-native wallets** are among the wallets that are not compatible with SubWallet.&#x20;
 {% endhint %}
 
 ### **Import your account via seed phrase**
