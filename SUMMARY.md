@@ -117,6 +117,7 @@
     * [Import from JSON file](extension-user-guide/account-management/import-accounts/import-from-json-file.md)
     * [Import from private key](extension-user-guide/account-management/import-accounts/import-from-private-key.md)
     * [Import by QR code](extension-user-guide/account-management/import-accounts/import-by-qr-code.md)
+    * [Import from Trust Wallet](extension-user-guide/account-management/import-accounts/import-from-trust-wallet.md)
   * [Migrate solo accounts to unified accounts](extension-user-guide/account-management/migrate-solo-accounts-to-unified-accounts.md)
   * [Attach a watch-only account](extension-user-guide/account-management/attach-a-watch-only-account.md)
   * [Export & backup accounts](extension-user-guide/account-management/export-and-backup-accounts.md)

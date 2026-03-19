@@ -8,7 +8,7 @@ description: This part will show you how to manage your accounts on SubWallet.
 How to create a new account with SubWallet
 {% endembed %}
 
-At the moment, there are 2 ways to create new accounts and 4 ways to import your Substrate (Polkadot), EVM (Ethereum), TON, Cardano and Bitcoin accounts on SubWallet.&#x20;
+At the moment, there are 2 ways to create new accounts and 5 ways to import your Substrate (Polkadot), EVM (Ethereum), TON, Cardano and Bitcoin accounts on SubWallet.&#x20;
 
 Your privacy and security are our top priorities as always!
 

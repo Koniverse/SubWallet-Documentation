@@ -26,10 +26,11 @@ Connecting and using blockchain-based applications in Polkadot, Ethereum, TON, C
 5. Swap tokens (both single-chain & cross-chain) in 1 click across Polkadot & Ethereum ecosystems with optimal routes and minimal fees
 6. Display & manage NFT
 7. Stake to earn in-app easily via direct nomination, nomination pools, collator staking, liquid staking & subnet staking (Polkadot, Kusama, Aleph Zero, Vara Network, Mythos, Bifrost, Moonbeam, Bittensor, etc.)
-8. Explore Web3 apps without friction
-9. Sync desktop & mobile wallets within seconds
-10. Boost security with hardware crypto wallets Ledger & Keystone, as well as Polkadot Vault (previously Parity QR-Signer)
-11. Buy crypto from fiat using your credit & debit card \
+8. Take part in OpenGov voting and make your voice heard in just a few clicks
+9. Explore Web3 apps without friction
+10. Sync desktop & mobile wallets within seconds
+11. Boost security with hardware crypto wallets Ledger & Keystone, as well as Polkadot Vault (previously Parity QR-Signer)
+12. Buy & sell crypto from fiat using your credit & debit card \
     And a lot more!
 
 ## Utmost Security & User Privacy
@@ -62,7 +63,6 @@ ERC-20, ERC-721, PSP-34, PSP-22, ERC-1155, VFT
 * Shiden (SDN)
 * Bifrost (BNC)
 * Ternoa (CAPS)
-* Polimec (PLMC)
 * Polygon (POL)
 * Story Protocol (IP)
 * Arbitrum One (ARB)
@@ -70,7 +70,8 @@ ERC-20, ERC-721, PSP-34, PSP-22, ERC-1155, VFT
 * Optimism (OP)
 * Phala (PHA)
 * Hydration (HDX)
-* Ajuna Network (BAJU)
+* Ajuna Network (AJUN)
+* Stable Mainnet (STABLE)
 * XX Network (xx) … and more.
 
 ## User Support
