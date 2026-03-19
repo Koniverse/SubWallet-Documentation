@@ -386,7 +386,7 @@ Please follow the instructions below if you are using Chrome/MS Edge/Brave brows
 
 Once done, choose "**Delete database**", then click "**OK**" to confirm the request and then close the window.
 
-<img src="../.gitbook/assets/Screenshot_16 (2) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot_16 (2) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot_17 (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 **Step 4**: Click on the 3-dot icon at the top right of the screen, then select "**Extension**" and click "**Manage extension**" to open the Extension panel.
 

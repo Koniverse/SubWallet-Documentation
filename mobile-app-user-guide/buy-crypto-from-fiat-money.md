@@ -18,10 +18,10 @@ SubWallet has partnered with Transak, Banxa, and Coinbase Pay to provide you wit
 
 **Step 3:** Read the disclaimer carefully, then tap "**Agree**" to proceed. SubWallet will redirect you to your chosen supplier's website so you can continue and complete the transaction.
 
-<figure><img src="../.gitbook/assets/Screenshot_9 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_9 (1) (1) (1).png" alt="" width="282"><figcaption></figcaption></figure>
 
 ### If you are in "All accounts" mode <a href="#if-you-are-in-all-accounts-mode" id="if-you-are-in-all-accounts-mode"></a>
 
 In "**All accounts**" mode, most steps are identical to the "Single-account mode". The only additional step is to select the account for which you want to buy tokens.
 
-<div><figure><img src="../.gitbook/assets/Screenshot_7 (2) (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_10 (1) (1).png" alt="" width="282"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot_7 (2) (1).png" alt="" width="282"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_10 (1) (1) (1).png" alt="" width="282"><figcaption></figcaption></figure></div>

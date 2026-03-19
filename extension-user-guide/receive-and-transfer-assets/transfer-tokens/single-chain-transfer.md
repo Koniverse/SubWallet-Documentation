@@ -38,7 +38,7 @@ This means that even if you are in the Single-account mode, you will still need 
 
 In the "**To**" field, you can select one account from the account list or paste a valid address.
 
-<div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Screenshot_6 (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_7 (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 <details>
 
@@ -46,7 +46,7 @@ In the "**To**" field, you can select one account from the account list or paste
 
 In this case, in addition to the above information, you will also need to choose the sender's address.
 
-<img src="../../../.gitbook/assets/Screenshot_10 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_11 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_10 (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_11 (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -76,14 +76,14 @@ To customize the fee, once you input the needed information, click the <img src=
 
 Choose the option you prefer.
 
-<img src="../../../.gitbook/assets/Screenshot_16 (2).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_17 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_16 (2).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_17 (1) (1).png" alt="" data-size="original">
 
 {% hint style="info" %}
 You can also set your custom fee by selecting the "**Custom**" tab, entering the Max & Priority fees you prefer, and then clicking "**Apply fee**".
 
 <mark style="color:red;">Please note that the Priority fee cannot be higher than the Max fee.</mark>
 
-<img src="../../../.gitbook/assets/Screenshot_18 (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_19 (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_18 (1) (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_19 (1) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 </details>
@@ -104,7 +104,7 @@ Instead of requiring native tokens to cover gas fees, you now have a variety of 
 
 To customize the payment token, once you input the required information, click the <img src="../../../.gitbook/assets/Screenshot_67.png" alt="" data-size="line"> in the "**Estimated fee**" field. Select any tokens you have balances to pay the gas fee.
 
-<img src="../../../.gitbook/assets/Screenshot_12 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_13 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_12 (1) (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_13 (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -112,7 +112,7 @@ Once done, click "**Transfer**".
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_8 (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_8 (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: Transaction result is in!
 
@@ -123,5 +123,5 @@ You can either click "**Back to home**" to return to the homepage or "**View tra
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.&#x20;
 
-<img src="../../../.gitbook/assets/Screenshot_9 (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot_9 (1) (1).png" alt="" data-size="original">
 {% endhint %}

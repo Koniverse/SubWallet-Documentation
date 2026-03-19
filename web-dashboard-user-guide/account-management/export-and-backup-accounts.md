@@ -70,7 +70,7 @@ This feature allows you to export backup information of multiple accounts (no ma
 
 <figure><img src="../../.gitbook/assets/image (2239).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
+**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
 
 <figure><img src="../../.gitbook/assets/image (2246).png" alt=""><figcaption></figcaption></figure>
 

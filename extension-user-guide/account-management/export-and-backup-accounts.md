@@ -70,7 +70,7 @@ _In this example, we will export multiple accounts on the SubWallet extension on
 
 <figure><img src="../../.gitbook/assets/Screenshot_19 (20).png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
+**Step 2**: In the account selection tab, click on the export icon <img src="../../.gitbook/assets/Screenshot_14 (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top right of the screen.
 
 <figure><img src="../../.gitbook/assets/Screenshot_27 (11).png" alt="" width="362"><figcaption></figcaption></figure>
 

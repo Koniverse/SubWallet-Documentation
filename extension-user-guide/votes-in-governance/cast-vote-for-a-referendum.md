@@ -50,7 +50,7 @@ You'll see the referenda list for the chosen network.
 
 <figure><img src="../../.gitbook/assets/Screenshot_47.png" alt="" width="362"><figcaption></figcaption></figure>
 
-**Step 3**: Select an ongoing referendum by clicking the "**Ongoing**" tab, scrolling down, or searching using the <img src="../../.gitbook/assets/Screenshot_18 (1).png" alt="" data-size="line"> icon. Once done, click on that referendum to view its details.
+**Step 3**: Select an ongoing referendum by clicking the "**Ongoing**" tab, scrolling down, or searching using the <img src="../../.gitbook/assets/Screenshot_18 (1) (1).png" alt="" data-size="line"> icon. Once done, click on that referendum to view its details.
 
 <div><figure><img src="../../.gitbook/assets/Screenshot_26.png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot_27.png" alt="" width="362"><figcaption></figcaption></figure></div>
 

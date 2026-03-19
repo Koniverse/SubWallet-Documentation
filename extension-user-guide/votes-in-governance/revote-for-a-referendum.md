@@ -26,7 +26,7 @@ _In this case, we'll select the Polkadot Asset Hub network_.
 
 You'll see the referenda list for the chosen network.
 
-**Step 3**: Select an ongoing referendum by clicking the "**Ongoing**" tab, scrolling down, or searching using the <img src="../../.gitbook/assets/Screenshot_18 (1).png" alt="" data-size="line"> icon. Once done, click on that referendum to view its details.
+**Step 3**: Select an ongoing referendum by clicking the "**Ongoing**" tab, scrolling down, or searching using the <img src="../../.gitbook/assets/Screenshot_18 (1) (1).png" alt="" data-size="line"> icon. Once done, click on that referendum to view its details.
 
 <figure><img src="../../.gitbook/assets/Screenshot_41.png" alt="" width="362"><figcaption></figcaption></figure>
 

@@ -24,7 +24,7 @@ _In this example, we will connect Ledger accounts to SubWallet by choosing the A
 
 **Step 5**: Select the app corresponding to the current App on your Ledger and click "**Connect**". Your extension will display the following pop-up:
 
-<figure><img src="../../../.gitbook/assets/Screenshot_17 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_17 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the device name (Nano S Plus in this case) and click "**Connect**".
 
