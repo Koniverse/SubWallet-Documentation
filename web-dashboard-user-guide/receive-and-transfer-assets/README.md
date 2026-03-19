@@ -1,34 +1,37 @@
 ---
-description: This part will show you how to receive and transfer assets.
+description: Sending and receiving tokens with SubWallet is as easy as a walk in the park!
 ---
 
 # Receive & transfer assets
 
-Receiving & transferring assets on Polkadot, Subtrate & Ethereum networks has never been easier with SubWallet. Whether you transfer tokens on single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
+Receiving & transferring assets on Substrate (Polkadot), EVM (Ethereum), TON & Cardano networks has never been easier with SubWallet. Whether you transfer tokens single-chain or cross-chain, the process has been streamlined for an intuitive user experience.&#x20;
 
-SubWallet now supports 150+ networks in the Polkadot, Subtrate & Ethereum ecosystems with 380+ tokens. Those include:&#x20;
+SubWallet now supports 200+ networks in the Polkadot, Ethereum, TON, Cardano & Bitcoin ecosystems with 450+ tokens. Those include:&#x20;
 
 * Polkadot (DOT)
 * Kusama (KSM)
 * Ethereum (ETH)
-* Binance Smart Chain (BNB)
+* TON Network (TON)
+* Cardano (ADA)
+* BNB Chain (BNB)
 * Moonbeam (GLMR)
 * Moonriver (MOVR)
-* Pioneer Network (NEER)
+* Avail (AVAIL)
 * Aleph Zero (AZERO)
+* Acala (ACA)
 * Astar (ASTR)
+* Bittensor (TAO)
 * Shiden (SDN)
 * Bifrost (BNC)
-* Polygon (MATIC)
-* Arbitrum (ARB)
+* Polygon (POL)
+* Arbitrum One (ARB)
 * Optimism (OP)
-* TomoChain (TOMO)
-* Composable Finance (LAYR)
 * Phala (PHA)
-* HydraDX (HDX)
-* Picasso (PICA)
-* Litentry (LIT)
+* Mythos (MYTH)
+* Polimec (PLMC)
+* Hydration (HDX)
 * Ajuna Network (BAJU)
 * XX Network (xx)&#x20;
+* Story Protocol (IP)
 
 … and more.

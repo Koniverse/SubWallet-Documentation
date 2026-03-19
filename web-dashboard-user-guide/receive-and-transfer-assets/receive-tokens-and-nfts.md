@@ -1,57 +1,158 @@
 ---
-description: This document will show you how to receive tokens and NFTs on SubWallet.
+description: Find your account's wallet address to receive tokens on SubWallet.
 ---
 
-# Receive tokens and NFTs
+# Receive tokens & NFTs
 
-## Receive tokens
+All you need is your wallet address to share with your sender. This will allow them to send their funds to your specified address.
 
-All you need would be your wallet address. You would need to show your wallet address to your counter-party, and they can send their assets to such address.&#x20;
+Choose your preferred method and follow the instructions below to get your wallet address.
 
-Please follow the instruction below to get your wallet address.
+### Get your address via the "Receive" button
 
-**Step 1**: Open SubWallet homepage, click "Receive" button on your homescreen.
+**Step 1**: On the SubWallet homepage, click the "**Receive**" button at the upper right corner of the screen.
 
-<figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2354).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: Choose your receiving account.
+**Step 2**: A popup screen will appear on the right side. Choose the token you want to receive by scrolling down the token list or typing the token symbol in the search bar.
 
-&#x20;![](<../../.gitbook/assets/image (394).png>)
+_In this example, we want to get the address of the DOT token on Polkadot._
+
+<figure><img src="../../.gitbook/assets/image (2355).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You would only have to go through Step 2 if you are in "All accounts" mode. If you are in Single-account mode, you would jump to Step 3 right after Step 1.
+Notice the network logo and the network name under the token name.&#x20;
 {% endhint %}
-
-**Step 3**: Choose the token you want to receive.
-
-Please note that we also support receiving cross-chain tokens, so be careful when choosing the token in this list.
 
 {% hint style="warning" %}
-For example, let's say you want to receive DOT.&#x20;
+Note that we also support receiving cross-chain tokens, so be careful when choosing the token in this list.
 
-SubWallet supports DOT on Polkadot, DOT on Astar, DOT on Moonbeam, etc... so please be careful when choosing the token. Otherwise, your sender might send assets to the wrong network and you would need to do extra steps with additional fees to have it on your desired network experience. &#x20;
+_For example, let's say you want to receive DOT._&#x20;
+
+SubWallet supports DOT on many networks, such as Polkadot, Acala, Astar, etc., so please be careful when choosing the token. Otherwise, your sender might send funds to the wrong network, and you will need to take extra steps with additional fees to have it on your desired network.
+
+![](<../../.gitbook/assets/image (2356).png>)
 {% endhint %}
+
+**Step 3**: Select the account you want to get an address.
+
+_In this example, we want to get the DOT address of the account named "Andy 2"._
+
+<figure><img src="../../.gitbook/assets/image (2357).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Please notice the network logo and the network name under the token name.&#x20;
-
-![](<../../.gitbook/assets/image (396).png>)
+You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.
 {% endhint %}
-
-![](<../../.gitbook/assets/image (398).png>)
-
-In this example, we want to receive DOT on Acala.
 
 **Step 4**: Get your address.
 
-You could share this QR code with your sender, or click the "copy" icon next to your address and send it to your sender.&#x20;
+You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
 
-As mentioned above, in this example we want to receive DOT on Acala, so the address should be an Acala address! You could double-check the address by viewing it on explorer.&#x20;
+<figure><img src="../../.gitbook/assets/image (2358).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (401).png>)
+As mentioned above, we want to receive DOT on Polkadot in this example, so the address should be a Polkadot address! You could double-check the address by clicking on "**View on explorer**".&#x20;
 
-## Receive NFT
+{% hint style="info" %}
+The "**View on explorer**" button will be greyed out if the network your token is on hasn't had its block explorer yet.
 
-You would need to know the network in which the NFT exists.&#x20;
+![](<../../.gitbook/assets/image (2359).png>)
+{% endhint %}
 
-The steps are identical to the above instruction for receiving tokens, yet in Step 3, you should pay more attention to the network instead of the token.
+{% hint style="warning" %}
+With Ledger accounts, when you want to get the address of tokens from a network that hasn't undergone runtime upgrade yet, you will receive the following popup:
+
+<img src="../../.gitbook/assets/Screenshot_165 (2).png" alt="" data-size="original">
+
+Read it carefully, then if you still want to get the token's address in this case, hit "**Get address**". It is advised that you don't perform this action, as once you transfer the funds to the unsupported address, it will get stuck, and you'll need to expose the seed phrase of your Ledger to retrieve the funds. Check out this [guide](../../extension-user-guide/faqs.md#what-if-i-mistakenly-transfer-an-unsupported-networks-token-into-my-ledger-account) if you find yourself in this situation.
+{% endhint %}
+
+### Get your address via the network address
+
+{% hint style="info" %}
+Since all tokens on the same network share the same address, you can get the address of your token just by retrieving the account address of the network it is on.
+{% endhint %}
+
+**Step 1**: On the SubWallet homepage, click on the account name at the top of the screen to access the account selection tab.
+
+<figure><img src="../../.gitbook/assets/image (2360).png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Click on the <img src="../../.gitbook/assets/Screenshot_275 (1).png" alt="" data-size="line"> icon or the <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> icon next to the account you want to get address.
+
+<figure><img src="../../.gitbook/assets/image (2361).png" alt=""><figcaption></figcaption></figure>
+
+* If you click the <img src="../../.gitbook/assets/Screenshot_275 (1).png" alt="" data-size="line"> icon, the address list will appear:
+
+<figure><img src="../../.gitbook/assets/image (2363).png" alt=""><figcaption></figcaption></figure>
+
+* If you click the <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> icon, you will be directed to the Account details screen:
+
+<figure><img src="../../.gitbook/assets/image (2362).png" alt=""><figcaption></figcaption></figure>
+
+_In this example, we will go with the_  <img src="../../.gitbook/assets/Screenshot_301.png" alt="" data-size="line"> _icon._
+
+**Step 3**: Search for your desired network by either of these methods:
+
+* Scrolling through the list&#x20;
+* Typing the network name in the search bar&#x20;
+* Type the address prefix (this method can only be used if you want to get address of a Substrate or TON network)
+
+_In this example, we want to get the TAO address_. As the TAO token is on the Bittensor network, type the network name in the search bar.
+
+Once you find the desired address, click the "**Copy**" button or the QR button to get address.
+
+<figure><img src="../../.gitbook/assets/image (2364).png" alt=""><figcaption></figcaption></figure>
+
+### Change wallet address for TON-supported account
+
+{% hint style="info" %}
+TON-support accounts are accounts that can be used to make transactions on the TON ecosystem. On SubWallet, TON-supported accounts are:
+
+* TON solo accounts
+* Unified accounts
+{% endhint %}
+
+Unlike other ecosystem platforms that offer a one-size-fits-all approach to wallets, the TON ecosystem has many wallet versions designed to meet users' different needs and preferences.
+
+_**In short**_, with each token on the TON ecosystem, you can have multiple balances on multiple wallet addresses, as it has many wallet versions. Each wallet version will have its own balance and address.
+
+Currently, SubWallet supports 4 wallet versions for each TON-supported account: **`v3r1`**, **`v3r2`**, **`v4`**& **`v5r1`**. To get the address of each version, please follow the instructions below:
+
+**Step 1**: On the SubWallet homepage, click the "**Receive**" button at the upper right corner of the screen.
+
+<figure><img src="../../.gitbook/assets/image (2365).png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Select the TON token by scrolling down the token list or typing the token symbol in the search bar.
+
+<figure><img src="../../.gitbook/assets/image (2366).png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: Select the account you want to get an address.
+
+_In this example, we want to get the TON address of the account named "Andy 2"._
+
+<figure><img src="../../.gitbook/assets/image (2367).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+You only have to go through Step 3 if you are in "**All accounts**" mode. If you are in Single-account mode, skip this step and jump to **Step 4**.
+{% endhint %}
+
+**Step 4**: A popup message will appear, showing that the seed phrase of the TON address you are about to get is incompatible with TON-native wallets. To continue getting the address, choose "**Get address**".
+
+<figure><img src="../../.gitbook/assets/image (2368).png" alt=""><figcaption></figcaption></figure>
+
+**Step 5**: The address will appear. Click on the <img src="../../.gitbook/assets/Screenshot_18 (2) (1) (1).png" alt="" data-size="line"> icon to change wallet address.
+
+<figure><img src="../../.gitbook/assets/image (2369).png" alt=""><figcaption></figcaption></figure>
+
+**Step 6**: Select a wallet version and then click "**Confirm**".
+
+<figure><img src="../../.gitbook/assets/image (2370).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+By default, SubWallet shows the **`v5r1`** address for each token on the TON ecosystem, as it's the widely used wallet version.
+{% endhint %}
+
+**Step 7**: Get your address.
+
+You can share this QR code with your sender or click the "**Copy**" icon next to your address and send it to your sender.
+
+<figure><img src="../../.gitbook/assets/image (2371).png" alt=""><figcaption></figcaption></figure>

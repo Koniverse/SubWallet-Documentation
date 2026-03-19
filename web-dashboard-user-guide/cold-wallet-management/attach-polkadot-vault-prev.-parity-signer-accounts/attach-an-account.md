@@ -34,36 +34,44 @@ If you want to disable this permission, you can switch the toggle back.
 
 **Step 1**: Open your Polkadot Vault app and have the QR code ready.
 
-**Step 2:** On the SubWallet homepage, click on the account name at the top of the screen to access the account selection tab.
+**Step 2:** On the SubWallet homepage, click on the account name in the upper-right corner to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_23 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2276).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom left corner of the screen.
+**Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_55 (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2277).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Polkadot Vault account**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_57 (3).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2404).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-If you are on the SubWallet welcome page, select the "**Attach an account**" option, then click  "**Connect a Polkadot Vault account**".
+<details>
 
-<img src="../../../.gitbook/assets/Screenshot_197.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Screenshot_200.png" alt="" data-size="original">
-{% endhint %}
+<summary>If you are on the Welcome page</summary>
+
+In this case, select the "**Attach an account**" option.
+
+<figure><img src="../../../.gitbook/assets/image (2279).png" alt=""><figcaption></figcaption></figure>
+
+A popup screen will appear on the right side. Click "**Connect a Polkadot Vault account**" to proceed.
+
+<figure><img src="../../../.gitbook/assets/image (2403).png" alt=""><figcaption></figcaption></figure>
+
+</details>
 
 **Step 5**: Click the "**Scan QR code**" button.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_203.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2405).png" alt=""><figcaption></figcaption></figure>
 
-**Step 6**: Put the Polkadot Vault app (with the QR code displayed) in front of your computer and scan it with the computer's camera, or upload an image containing this QR code using the "**Upload from photos**" option.
+**Step 6**: A popup will appear. Put the Polkadot Vault app (with the QR code displayed) in front of your computer and scan it with the computer's camera, or upload an image containing this QR code using the "**Upload from photos**" option.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_204.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2406).png" alt=""><figcaption></figcaption></figure>
 
-**Step 7**: Once your computer recognizes the QR code, a popup will appear, asking you to enter the name of your account. Once done, click "**Confirm**".
+**Step 7**: Once your computer recognizes the QR code, a popup screen will appear on the right side, asking you to enter the name of your account. Once done, click "**Confirm**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_205.png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2401).png" alt=""><figcaption></figcaption></figure>
 
 You've successfully attached a Polkadot Vault account! If you repeat the action in **Step 2**, you will see your Polkadot Vault account displayed in the "**QR signer account**" section.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_65.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2402).png" alt=""><figcaption></figcaption></figure>

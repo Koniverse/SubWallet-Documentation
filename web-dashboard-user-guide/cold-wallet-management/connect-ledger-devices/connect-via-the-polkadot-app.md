@@ -51,11 +51,17 @@ _(\*): Non-native token_
 
 <div><figure><img src="../../../.gitbook/assets/photo_2024-12-11_16-58-17.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/photo_2024-12-11_16-58-22.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-**Step 2**: Open the SubWallet extension and click on the account name to access the account selection tab.
+**Step 2:** On the SubWallet homepage, click on the account name in the upper-right corner to access the account selection tab.
+
+<figure><img src="../../../.gitbook/assets/image (2276).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
+<figure><img src="../../../.gitbook/assets/image (2277).png" alt=""><figcaption></figcaption></figure>
+
 **Step 4**: Choose "**Connect a Ledger device**".
+
+<figure><img src="../../../.gitbook/assets/image (2449).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: You will be directed to a new window. As the default app to connect is Polkadot, your extension will display the following pop-up:
 
@@ -63,13 +69,15 @@ _(\*): Non-native token_
 
 Click on the device name (Nano S Plus in this case) and click "**Connect**".
 
-**Step 6**: After connected, click on the "**Select account type**" field to choose the account type you want to connect.
+**Step 6**: After connecting, click on the "**Select account type**" field to choose the account type you want to connect.
 
-<figure><img src="../../../.gitbook/assets/Screenshot_24 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2456).png" alt=""><figcaption></figcaption></figure>
 
-Choose the account type you want to connect. _In this example, we will choose "Ethereum account", which will then later be called "Ledger Polkadot (EVM)"._
+A popup screen will appear on the right side. Choose the account type you want to connect.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot_26 (15).png" alt=""><figcaption></figcaption></figure>
+_In this example, we will choose "Ethereum account", which will then later be called "Ledger Polkadot (EVM)"._
+
+<figure><img src="../../../.gitbook/assets/image (2457).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**: After SubWallet has successfully found your Ledger with the chosen account type, click "**Connect Ledger device**".
 
@@ -77,12 +85,14 @@ Choose the account type you want to connect. _In this example, we will choose "E
 Don't forget to turn on the corresponding app on the Ledger device.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot_27 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2458).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8**: Choose the account(s) you want to use, then click "**Connect Ledger device**".
 
-<figure><img src="../../../.gitbook/assets/Screenshot_28 (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2459).png" alt=""><figcaption></figcaption></figure>
 
 **Step 9**: Your Ledger account is ready!
 
 If you repeat the action in **Step 2**, you will see your newly connected Ledger Polkadot accounts displayed in the "**Ledger Account**" section.
+
+<figure><img src="../../../.gitbook/assets/image (2460).png" alt=""><figcaption></figcaption></figure>
