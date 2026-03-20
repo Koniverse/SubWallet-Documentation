@@ -6,7 +6,7 @@ description: >-
 
 # Change validators
 
-Validator performance and nomination times can change, affecting how many staking rewards you earn. To get the most out of your staking, it's a good idea to check on your validators regularly and see how they perform.&#x20;
+Validator performance and nomination times can change, which may affect the number of staking rewards you earn. To get the most out of your staking, it's a good idea to check on your validators regularly and see how they perform.&#x20;
 
 {% hint style="success" %}
 We recommend reviewing them from time to time to help keep your rewards steady.
@@ -14,15 +14,11 @@ We recommend reviewing them from time to time to help keep your rewards steady.
 
 You don't need to unstake your tokens to nominate different validators. You can simply change your selected validators.
 
-{% hint style="info" %}
-SubWallet currently supports changing validators on **Polkadot & Kusama** only. We will soon support this feature on other networks.
-{% endhint %}
-
 **Step 1**: Open the SubWallet extension and choose the "**Earning**" tab at the bottom of the screen. In the Your earning positions screen, select the stake funds you want to view.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_61 (4).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_62 (3).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
-**Step 2**: Click the <img src="../../../.gitbook/assets/Screenshot_67 (6).png" alt="" data-size="line"> icon in the Account info field to view your selected validators.
+**Step 2**: Click the <img src="../../../.gitbook/assets/Screenshot_67 (6) (1).png" alt="" data-size="line"> icon in the Account info field to view your selected validators.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_51 (4).png" alt="" width="362"><figcaption></figcaption></figure>
 

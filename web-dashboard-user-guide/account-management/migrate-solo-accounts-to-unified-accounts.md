@@ -24,7 +24,7 @@ With the new support for the Cardano & Bitcoin ecosystem, your initial unified a
 The migration process can only be done in Popup view mode (the view when you open the extension). If you open the Expand view mode, you won't be able to perform this action.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2251) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * If you click "Migrate now", follow the instructions below from **Step 5** onwards to proceed with the migration.
@@ -33,25 +33,25 @@ The migration process can only be done in Popup view mode (the view when you ope
 
 **Step 1**: On the SubWallet homepage, click the "**Settings**" tab on the sidebar.
 
-<figure><img src="../../.gitbook/assets/image (2253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2253) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings screen, select "**Account settings**".
 
-<figure><img src="../../.gitbook/assets/image (2254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2254) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also open the Settings screen by clicking on the account name to access the account selection tab. Then, click the <img src="../../.gitbook/assets/Screenshot_25 (1).png" alt="" data-size="line"> icon to access the Settings section.
 
-![](<../../.gitbook/assets/image (2255).png>) ![](<../../.gitbook/assets/image (2256).png>)
+![](<../../.gitbook/assets/image (2255) (1).png>) ![](<../../.gitbook/assets/image (2256) (1).png>)
 {% endhint %}
 
 **Step 3**: Select "**Migrate to unified account**".
 
-<figure><img src="../../.gitbook/assets/image (2257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2257) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: The migration popup will appear, informing you of how the migration works. Read carefully, then select "**Migrate now**".
 
-<figure><img src="../../.gitbook/assets/image (2258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2258) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -59,21 +59,21 @@ You can also open the Settings screen by clicking on the account name to access 
 
 In this case, once you click "**Migrate now**", you will be directed to the Finish screen. Select "**Back to home**" to return to the homepage.
 
-<figure><img src="../../.gitbook/assets/image (2252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2252) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 **Step 5**: Enter your SubWallet password and then click "**Confirm**" to start the migration.
 
-<figure><img src="../../.gitbook/assets/image (2260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2260) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6**: At the top of the screen, you will see the progress and the number of unified accounts that will be created from the migration.
 
-<figure><img src="../../.gitbook/assets/image (2261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2261) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter a name for your account and then click "**Approve**" to proceed. Repeat the process until all accounts have been migrated.
 
-<figure><img src="../../.gitbook/assets/image (2262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2262) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -81,7 +81,7 @@ Enter a name for your account and then click "**Approve**" to proceed. Repeat th
 
 In this case, SubWallet will detect and then perform the migration by combining these 2 accounts into one single unified account with added support for TON, Cardano & Bitcoin ecosystems.
 
-<figure><img src="../../.gitbook/assets/image (2263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2263) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -101,16 +101,16 @@ If you close it, the migration will be temporarily stopped. In order to continue
 
 To continue the migration, re-open the Web dashboard, click "**Continue**", re-enter your password, and then select "**Continue**" to resume the process.
 
-<figure><img src="../../.gitbook/assets/image (2264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2264) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2265) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 **Step 7**: Once all eligible accounts are successfully migrated, the migration will be completed. Hit "**Finish**" to return to the homepage.
 
-<figure><img src="../../.gitbook/assets/image (2266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2266) (1).png" alt=""><figcaption></figcaption></figure>
 
 Your solo accounts have been successfully migrated to their corresponding unified accounts!
 
-<figure><img src="../../.gitbook/assets/image (2267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2267) (1).png" alt=""><figcaption></figcaption></figure>

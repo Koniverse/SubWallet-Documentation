@@ -24,19 +24,19 @@ If you were to perform transactions with these accounts, you would need to take 
 
 **Step 1**: Open [SubWallet Web dashboard](https://web.subwallet.app/). The welcome screen will appear.
 
-<figure><img src="../../.gitbook/assets/image (2268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2268) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the "**Connect wallet**" option.
 
-<figure><img src="../../.gitbook/assets/image (2269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2269) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Make sure you read all the Terms of Use by clicking on the scroll-down button and agree with them by ticking the box beside "**I understand and agree to the Terms of Use, which apply to my use of SubWallet and all of its feature**".
 
-<figure><img src="../../.gitbook/assets/image (2290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2290) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2291) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this isn't the first time you use the Web dashboard, skip this step.
@@ -44,7 +44,7 @@ If this isn't the first time you use the Web dashboard, skip this step.
 
 **Step 3:** A popup screen will appear on the right side. Select the extension you want to connect.
 
-<figure><img src="../../.gitbook/assets/image (2270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2270) (1).png" alt=""><figcaption></figcaption></figure>
 
 Depending on whether you have used any of these extensions, choose the appropriate tab to proceed:
 
@@ -54,7 +54,7 @@ Depending on whether you have used any of these extensions, choose the appropria
 
 _In this example, we will choose the "**SubWallet**" option._
 
-<figure><img src="../../.gitbook/assets/image (2271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2271) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot_119 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,11 +68,11 @@ Select the account(s) in which you want to connect to use on SubWallet Web dashb
 Password should contain at least 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2292) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 
-<figure><img src="../../.gitbook/assets/image (2293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2293) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this isn't the first time you use the Web dashboard, skip this step.
@@ -85,18 +85,18 @@ If this isn't the first time you use the Web dashboard, skip this step.
 {% hint style="info" %}
 If you connect via Talisman or Polkadot{.js}, you will see its corresponding icon in the account selection tab.
 
-![](<../../.gitbook/assets/image (2214).png>)
+![](<../../.gitbook/assets/image (2214) (1).png>)
 
 ***
 
-![](<../../.gitbook/assets/image (2215).png>)
+![](<../../.gitbook/assets/image (2215) (1).png>)
 {% endhint %}
 {% endtab %}
 
 {% tab title="If you haven't used any yet" %}
 **Step 4**: In this case, you will notice that all 3 options have the <img src="../../.gitbook/assets/Screenshot_123 (2).png" alt="" data-size="line"> icon.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2216) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose the option you want to connect.&#x20;
 
@@ -118,7 +118,7 @@ Choose the option you want to connect.&#x20;
 
 _In this example, we will choose the "**SubWallet**" option._
 
-<figure><img src="../../.gitbook/assets/image (2271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2271) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot_119 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,11 +132,11 @@ Select the account(s) in which you want to connect to use on SubWallet Web dashb
 Password should contain at least 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2292) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 
-<figure><img src="../../.gitbook/assets/image (2293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2293) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this isn't the first time you use the Web dashboard, skip this step.
@@ -149,11 +149,11 @@ If this isn't the first time you use the Web dashboard, skip this step.
 {% hint style="info" %}
 If you connect via Talisman or Polkadot{.js}, you will see its corresponding icon in the account selection tab.
 
-![](<../../.gitbook/assets/image (2214).png>)
+![](<../../.gitbook/assets/image (2214) (1).png>)
 
 ***
 
-![](<../../.gitbook/assets/image (2215).png>)
+![](<../../.gitbook/assets/image (2215) (1).png>)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -166,7 +166,7 @@ If you connect via Talisman or Polkadot{.js}, you will see its corresponding ico
 
 **Step 3**: Choose the extension you want to connect.
 
-<figure><img src="../../.gitbook/assets/image (2217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2217) (1).png" alt=""><figcaption></figcaption></figure>
 
 Depending on whether you have used any of these extensions, choose the appropriate tab to proceed:
 
@@ -176,13 +176,13 @@ Depending on whether you have used any of these extensions, choose the appropria
 
 _In this example, we will choose the "**SubWallet**" option._
 
-<figure><img src="../../.gitbook/assets/image (2218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2218) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2219) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the account(s) in which you want to connect to use on SubWallet Web dashboard.
 
-<figure><img src="../../.gitbook/assets/image (2220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2220) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5:** You've successfully connected your SubWallet extension accounts! Click on the account name at the top right to get to the account selection tab, where you will notice the SubWallet icon next to your linked account list (see the image below), as this is to differentiate them from accounts linked to other extensions and other account types.
 
@@ -191,18 +191,18 @@ Select the account(s) in which you want to connect to use on SubWallet Web dashb
 {% hint style="info" %}
 If you connect via Talisman or Polkadot{.js}, you will see its corresponding icon in the account selection tab.
 
-![](<../../.gitbook/assets/image (2214).png>)
+![](<../../.gitbook/assets/image (2214) (1).png>)
 
 ***
 
-![](<../../.gitbook/assets/image (2215).png>)
+![](<../../.gitbook/assets/image (2215) (1).png>)
 {% endhint %}
 {% endtab %}
 
 {% tab title="If you haven't used any yet" %}
 **Step 4**: In this case, you will notice that all 3 options have the <img src="../../.gitbook/assets/Screenshot_123 (2).png" alt="" data-size="line"> icon.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2222) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose the option you want to connect.&#x20;
 
@@ -224,13 +224,13 @@ Choose the option you want to connect.&#x20;
 
 _In this example, we will choose the "**SubWallet**" option._
 
-<figure><img src="../../.gitbook/assets/image (2218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2218) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2219) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the account(s) in which you want to connect to use on SubWallet Web dashboard.
 
-<figure><img src="../../.gitbook/assets/image (2220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2220) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 9:** You've successfully connected your SubWallet extension accounts! Click on the account name at the top right to get to the account selection tab, where you will notice the SubWallet icon next to your linked account list (see the image below), as this is to differentiate them from accounts linked to other extensions and other account types.
 
@@ -239,11 +239,11 @@ Select the account(s) in which you want to connect to use on SubWallet Web dashb
 {% hint style="info" %}
 If you connect via Talisman or Polkadot{.js}, you will see its corresponding icon in the account selection tab.
 
-![](<../../.gitbook/assets/image (2214).png>)
+![](<../../.gitbook/assets/image (2214) (1).png>)
 
 ***
 
-![](<../../.gitbook/assets/image (2215).png>)
+![](<../../.gitbook/assets/image (2215) (1).png>)
 {% endhint %}
 
 

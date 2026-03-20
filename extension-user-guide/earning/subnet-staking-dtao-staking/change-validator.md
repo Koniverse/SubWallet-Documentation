@@ -10,19 +10,19 @@ description: >-
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot_63 (5).png" alt="" width="362"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot_64 (4).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
-**Step 2**: Click the <img src="../../../.gitbook/assets/Screenshot_67 (6).png" alt="" data-size="line"> icon in the Account info field to view the validator you've staked on for a subnet.
+**Step 2**: Click the <img src="../../../.gitbook/assets/Screenshot_67 (6) (1).png" alt="" data-size="line"> icon in the Account info field to view the validator you've staked on for a subnet.
 
 <figure><img src="../../../.gitbook/assets/Screenshot_65 (4).png" alt="" width="363"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you are in "**All accounts**" mode, click the <img src="../../../.gitbook/assets/Screenshot_60 (4).png" alt="" data-size="line"> icon instead.
 
-![](<../../../.gitbook/assets/image (2029).png>)
+![](<../../../.gitbook/assets/image (2029) (1).png>)
 {% endhint %}
 
 **Step 3**: In the Your validators screen, select "**Change validators**".
 
-<figure><img src="../../../.gitbook/assets/image (2028).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2028) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 **Step 4**: In the Change validator screen, select the validator you want to move your stake by clicking the "**Change to**" field and then choose a validator. Once done, select "**Apply 1 validator**".
 

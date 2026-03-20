@@ -32,7 +32,7 @@ SubWallet doesn't support importing private keys created from Bitcoin-native wal
 
 **Step 4**: Enter the private key and the name of your account. Once done, click "**Continue**".
 
-<figure><img src="../../../.gitbook/assets/image (2284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2284) (1).png" alt=""><figcaption></figcaption></figure>
 
 You have successfully imported your account!
 
@@ -40,19 +40,19 @@ You have successfully imported your account!
 
 **Step 1**: Open [SubWallet Web dashboard](https://web.subwallet.app/). The welcome screen will appear.
 
-<figure><img src="../../../.gitbook/assets/image (2289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2289) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the "**Create a new account**" option.
 
-<figure><img src="../../../.gitbook/assets/image (2288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2288) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Make sure you read all the Terms of Use by clicking on the scroll-down button and agree with them by ticking the box beside "**I understand and agree to the Terms of Use, which apply to my use of SubWallet and all of its feature**".
 
-<figure><img src="../../../.gitbook/assets/image (2290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2290) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2291) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** A popup screen will appear on the right side. Choose "**Import from private key**".
 
@@ -64,10 +64,10 @@ Once done, click "**Continue**".&#x20;
 Password should contain at least 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2292) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 
-<figure><img src="../../../.gitbook/assets/image (2293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2293) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you create a master password, you can follow the importing procedure provided in[#if-youre-on-the-homepage](import-from-private-key.md#if-youre-on-the-homepage "mention"), starting from **Step 4.**

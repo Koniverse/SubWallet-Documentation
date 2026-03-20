@@ -12,17 +12,17 @@ To enable this permission, please follow these steps:
 
 **Step 1**: On the SubWallet homepage, select the **Settings** tab on the sidebar to get to the settings.
 
-<figure><img src="../../../.gitbook/assets/image (2272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2272) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: In the Settings screen, choose "**Security settings**".
 
-<figure><img src="../../../.gitbook/assets/image (2273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2273) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: In the Security settings, switch the toggle next to "**Camera access for QR**" and approve the browser's popup to enable camera access.
 
-<figure><img src="../../../.gitbook/assets/image (2274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2274) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2275).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2275) (1).png" alt="" width="296"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you use the Brave browser, there will be multiple options that allow you to access the camera for different durations. You can choose the time option that best fits your personal preferences.&#x20;
@@ -53,7 +53,7 @@ If you use the Brave browser, there will be multiple options that allow you to a
 {% hint style="info" %}
 If you haven't enabled the "Camera access for QR" toggle in Security settings, SubWallet will show the following message:
 
-![](<../../../.gitbook/assets/image (2282).png>)
+![](<../../../.gitbook/assets/image (2282) (1).png>)
 
 To enable access, click on "Go to Setting" and then follow the steps provided in [https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX\_Bs/\~/changes/742/web-dashboard-user-guide/cold-wallet-management/connect-keystone-devices#enable-disable-your-permission-for-camera-access](import-by-qr-code.md#enable-disable-your-permission-for-camera-access)
 
@@ -72,19 +72,19 @@ Once done, repeat the connecting procedure.
 
 **Step 1**: Open [SubWallet Web dashboard](https://web.subwallet.app/). The welcome screen will appear.
 
-<figure><img src="../../../.gitbook/assets/image (2289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2289) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the "**Import an account**" option.
 
-<figure><img src="../../../.gitbook/assets/image (2288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2288) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**: Make sure you read all the Terms of Use by clicking on the scroll-down button and agree with them by ticking the box beside "**I understand and agree to the Terms of Use, which apply to my use of SubWallet and all of its feature**".
 
-<figure><img src="../../../.gitbook/assets/image (2290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2290) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2291) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** A popup screen will appear on the right side. Choose "**Import by QR code**".
 
@@ -96,10 +96,10 @@ Once done, click "**Continue**".&#x20;
 Password should contain at least 1 uppercase letter, 1 number, and 1 special character.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2292) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once done, click "**Continue**".
 
-<figure><img src="../../../.gitbook/assets/image (2293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2293) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you create a master password, you can follow the importing procedure provided in[#if-youre-on-the-homepage](import-by-qr-code.md#if-youre-on-the-homepage "mention"), starting from **Step 4.**

@@ -39,7 +39,7 @@ Currently, SubWallet offers the most diverse earning options in Polkadot & Ether
 As SubWallet is a community-driven product, our team is always more than happy to receive feedback and support our users.
 
 1. Download the latest version from our official website: [https://www.subwallet.app/](https://www.subwallet.app/)
-2. Visit our Github: [https://github.com/Koniverse/Subwallet-Extension](https://github.com/Koniverse/Subwallet-Extension)
+2. Visit our Github: [https://github.com/Koniverse/SubWallet-Mobile](https://github.com/Koniverse/SubWallet-Mobile)
 3. Follow us on Twitter/X: [https://x.com/subwalletapp](https://x.com/subwalletapp)
 4. Join us on Telegram: [https://t.me/subwallet](https://t.me/subwallet)
 5. Join us in Discord: [https://discord.com/invite/EkFNgaBwpy](https://discord.com/invite/EkFNgaBwpy)

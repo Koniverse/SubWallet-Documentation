@@ -24,12 +24,12 @@ With single-chain swap, you can only swap tokens within the account you want to 
 
 **Step 1**: On the SubWallet homepage, select the "**Swap**" tab on the sidebar.
 
-<figure><img src="../../.gitbook/assets/image (2159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2159) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this is the first time you click the button, the Terms of service popup will appear. Read carefully, then select "**I understand the associated risk and will act under caution**". After that, click "**Confirm and continue swapping**".
 
-<p align="center"><img src="../../.gitbook/assets/image (2160).png" alt="">  <img src="../../.gitbook/assets/image (2163).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (2160) (1).png" alt="">  <img src="../../.gitbook/assets/image (2163) (1).png" alt=""></p>
 {% endhint %}
 
 **Step 2**: On the Swap screen, enter the required information. This includes:
@@ -38,7 +38,7 @@ If this is the first time you click the button, the Terms of service popup will 
 * The token you wish to receive
 * The amount of tokens to swap
 
-<figure><img src="../../.gitbook/assets/image (2189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2189) (1).png" alt=""><figcaption></figcaption></figure>
 
 _In this example, we want to swap HDX for MYTH on the Hydration network._&#x20;
 
@@ -48,9 +48,9 @@ _In this example, we want to swap HDX for MYTH on the Hydration network._&#x20;
 
 In this case, you will need to select the swapping account.
 
-<figure><img src="../../.gitbook/assets/image (2211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2211) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2212) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -60,7 +60,7 @@ In this case, you will need to select the swapping account.
 
 Select "**HDX (Hydration)**" in this example.
 
-<figure><img src="../../.gitbook/assets/image (2170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2170) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -72,7 +72,7 @@ Select "**MYTH (Hydration)**" in this example.
 Ensure the token you want to swap and the token you wish to receive are on the same network; otherwise, check out this [guide](https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX_Bs/~/changes/705/extension-user-guide/swap-tokens/cross-chain-swap#swap-tokens).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2171) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -80,7 +80,7 @@ Ensure the token you want to swap and the token you wish to receive are on the s
 
 Enter the amount of the token you want to swap. Once done, the swap quote (with the related information) will appear.
 
-<figure><img src="../../.gitbook/assets/image (2172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2172) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -90,13 +90,13 @@ Enter the amount of the token you want to swap. Once done, the swap quote (with 
 
 To change the slippage tolerance, hit the <img src="../../.gitbook/assets/Screenshot_67 (9).png" alt="" data-size="line"> button in the Slippage field.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2173) (1).png" alt=""><figcaption></figcaption></figure>
 
 A popup screen will appear on the right side. In the Slippage setting screen, select or enter your desired slippage tolerance and click "**Apply**".
 
-<figure><img src="../../.gitbook/assets/image (2174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2174) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2175) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 You cannot change the slippage tolerance if the swap provider is ChainFlip or SimpleSwap:
@@ -117,27 +117,27 @@ _This feature is available for swap pairs on the Ethereum network._
 
 To do that, hit the "**<**" button on the Quote rate field.
 
-<figure><img src="../../.gitbook/assets/image (2176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2176) (1).png" alt=""><figcaption></figcaption></figure>
 
 A popup screen will appear on the right side. Select the provider you want to perform the swap, then click "**Confirm**".
 
-<figure><img src="../../.gitbook/assets/image (2177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2177) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2178) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will see the newly updated quote.
 
-<figure><img src="../../.gitbook/assets/image (2179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2179) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 A completed swapping request would look like the following image. Click "**Swap**" to proceed.
 
-<figure><img src="../../.gitbook/assets/image (2180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2180) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Check your transaction details, then click "**Approve**" to proceed.
 
-<figure><img src="../../.gitbook/assets/image (2181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2181) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Swapping via SimpleSwap can take 5 to 60 minutes, depending on the market conditions.
@@ -145,14 +145,14 @@ Swapping via SimpleSwap can take 5 to 60 minutes, depending on the market condit
 
 **Step 4**: Your swapping request has been submitted!
 
-<figure><img src="../../.gitbook/assets/image (2182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2182) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can either click "**Back to home**" to return to the homepage or "**View transaction**" to see transaction details in the History tab.
 
 {% hint style="info" %}
 If you click "**View transaction**", SubWallet will show you the latest transaction record in your transaction history along with the extrinsic hash of the transfer.
 
-![](<../../.gitbook/assets/image (2183).png>)
+![](<../../.gitbook/assets/image (2183) (1).png>)
 {% endhint %}
 
 ## Swap tokens via Uniswap
@@ -165,12 +165,12 @@ If you want to swap from other tokens on these 2 networks via Uniswap, follow th
 
 **Step 1**: On the SubWallet homepage, select the "**Swap**" tab on the sidebar.
 
-<figure><img src="../../.gitbook/assets/image (2159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2159) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this is the first time you click the button, the Terms of service popup will appear. Read carefully, then select "**I understand the associated risk and will act under caution**". After that, click "**Confirm and continue swapping**".
 
-<p align="center"><img src="../../.gitbook/assets/image (2160).png" alt="">  <img src="../../.gitbook/assets/image (2163).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (2160) (1).png" alt="">  <img src="../../.gitbook/assets/image (2163) (1).png" alt=""></p>
 {% endhint %}
 
 **Step 2**: On the Swap screen, enter the required information. This includes:
@@ -179,16 +179,16 @@ If this is the first time you click the button, the Terms of service popup will 
 * The token you wish to receive
 * The amount of tokens to swap
 
-<figure><img src="../../.gitbook/assets/image (2213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2213) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1**: On the SubWallet homepage, select the "**Swap**" tab on the sidebar.
 
-<figure><img src="../../.gitbook/assets/image (2159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2159) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If this is the first time you click the button, the Terms of service popup will appear. Read carefully, then select "**I understand the associated risk and will act under caution**". After that, click "**Confirm and continue swapping**".
 
-<p align="center"><img src="../../.gitbook/assets/image (2160).png" alt="">  <img src="../../.gitbook/assets/image (2163).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (2160) (1).png" alt="">  <img src="../../.gitbook/assets/image (2163) (1).png" alt=""></p>
 {% endhint %}
 
 **Step 2**: On the Swap screen, enter the required information. This includes:
@@ -197,7 +197,7 @@ If this is the first time you click the button, the Terms of service popup will 
 * The token you wish to receive
 * The amount of tokens to swap
 
-<figure><img src="../../.gitbook/assets/image (2189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2189) (1).png" alt=""><figcaption></figcaption></figure>
 
 _In this example, we want to swap USDC for ETH on the Base Mainnet network via Uniswap._&#x20;
 
@@ -207,9 +207,9 @@ _In this example, we want to swap USDC for ETH on the Base Mainnet network via U
 
 In this case, you will need to select the swapping account.
 
-<figure><img src="../../.gitbook/assets/image (2187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2187) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2188) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -219,7 +219,7 @@ In this case, you will need to select the swapping account.
 
 Select "**USDC (Base Mainnet)**" in this example.
 
-<figure><img src="../../.gitbook/assets/image (2191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2191) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -231,7 +231,7 @@ Select "**ETH (Base Mainnet)**" in this example.
 Ensure the token you want to swap and the token you wish to receive are on the same network; otherwise, check out this [guide](https://app.gitbook.com/o/CyPU0v2iA12ILmupTKub/s/-Lh39Kwxa1xxZM9WX_Bs/~/changes/705/extension-user-guide/swap-tokens/cross-chain-swap#swap-tokens).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2192) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -247,13 +247,13 @@ Enter the amount of the token you want to swap. Once done, the swap quote (with 
 
 To change the slippage tolerance, hit the <img src="../../.gitbook/assets/Screenshot_67 (9).png" alt="" data-size="line"> button in the Slippage field.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2173) (1).png" alt=""><figcaption></figcaption></figure>
 
 A popup screen will appear on the right side. In the Slippage setting screen, select or enter your desired slippage tolerance and click "**Apply**".
 
-<figure><img src="../../.gitbook/assets/image (2174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2174) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2175) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 You cannot change the slippage tolerance if the swap provider is ChainFlip or SimpleSwap:
@@ -274,33 +274,33 @@ _This feature is available for swap pairs on the Ethereum network._
 
 To do that, hit the "**<**" button on the Quote rate field.
 
-<figure><img src="../../.gitbook/assets/image (2176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2176) (1).png" alt=""><figcaption></figcaption></figure>
 
 A popup screen will appear on the right side. Select the provider you want to perform the swap, then click "**Confirm**".
 
-<figure><img src="../../.gitbook/assets/image (2177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2177) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2178) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will see the newly updated quote.
 
-<figure><img src="../../.gitbook/assets/image (2179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2179) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 A completed swapping request would look like the following image. Click "**Swap**" to proceed.
 
-<figure><img src="../../.gitbook/assets/image (2194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2194) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: On the Confirmation screen, you will see that this transaction has the "Process" field. Click the button to view the details of the swapping process.
 
-<figure><img src="../../.gitbook/assets/image (2196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2196) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2197) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click the "**X**" button to get out, then check your transaction details, then click "**Approve**" to proceed.
 
-<figure><img src="../../.gitbook/assets/image (2198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2198) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Swapping via SimpleSwap can take 5 to 60 minutes, depending on the market conditions.
@@ -314,4 +314,4 @@ You'll be directed to the new screen. From there, either click "**View progress*
 
 If you select "**View progress**", you'll be directed to the Notifications screen. Click the swap-related notification to view progress.
 
-<figure><img src="../../.gitbook/assets/image (2200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2200) (1).png" alt=""><figcaption></figcaption></figure>

@@ -36,11 +36,11 @@ If you want to disable this permission, you can switch the toggle back.
 
 **Step 2:** On the SubWallet homepage, click on the account name in the upper-right corner to access the account selection tab.
 
-<figure><img src="../../../.gitbook/assets/image (2276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2276) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: In the account selection tab, click the <img src="../../../.gitbook/assets/Screenshot_191.png" alt="" data-size="line"> button at the bottom right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/image (2277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2277) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Choose "**Connect a Polkadot Vault account**".
 
@@ -52,7 +52,7 @@ If you want to disable this permission, you can switch the toggle back.
 
 In this case, select the "**Attach an account**" option.
 
-<figure><img src="../../../.gitbook/assets/image (2279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2279) (1).png" alt=""><figcaption></figcaption></figure>
 
 A popup screen will appear on the right side. Click "**Connect a Polkadot Vault account**" to proceed.
 
