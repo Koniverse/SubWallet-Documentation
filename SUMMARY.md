@@ -231,6 +231,7 @@
   * [Migrate solo accounts to unified accounts](web-dashboard-user-guide/account-management/migrate-solo-accounts-to-unified-accounts.md)
   * [Attach a watch-only account](web-dashboard-user-guide/account-management/attach-a-watch-only-account.md)
   * [Export & backup accounts](web-dashboard-user-guide/account-management/export-and-backup-accounts.md)
+  * [Config Subscan API key](web-dashboard-user-guide/account-management/config-subscan-api-key.md)
 * [Cold wallet management](web-dashboard-user-guide/cold-wallet-management/README.md)
   * [Connect Ledger devices](web-dashboard-user-guide/cold-wallet-management/connect-ledger-devices/README.md)
     * [Connect via network-specific apps](web-dashboard-user-guide/cold-wallet-management/connect-ledger-devices/connect-via-network-specific-apps.md)
